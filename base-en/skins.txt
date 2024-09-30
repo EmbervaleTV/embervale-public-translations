@@ -124,3 +124,6 @@ skin_scholar_description:Obtainable by ???
 
 skin_forest_mage:Forest Mage
 skin_forest_mage_description:Obtainable by ???
+
+skin_adventurer:Adventurer Armor
+skin_adventurer_description:Obtainable by ???

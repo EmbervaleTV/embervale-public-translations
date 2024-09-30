@@ -7,7 +7,7 @@ invalidToken:<h3>Falha de autenticação</h3> Por favor, certifique-se de que o 
 errTwitchAccessNotGranted:Por favor, conceda acesso ao seu ID Twitch clicando no ícone do humano pequeno no canto inferior direito!
 errNoInventoryItem:O inventário está vazio!
 errInventoryIsFull:Seu inventário está cheio! Por favor, venda alguns itens!
-errMaterialInventoryIsFull:Seu inventário de materiais está cheio! Você pode vendê-los ao Comerciante na loja ou criar algo!
+errMaterialInventoryIsFull:Seu inventário de materiais está cheio! Você pode criar algo ou gastar seus materiais no Mercador na loja!
 errConsumableInventoryIsFull:Seu inventário de consumíveis está cheio!
 errNotEnoughArcanites:Você não tem Arcanites suficientes.
 errNotEnoughMoney:Você não tem ouro suficiente para comprar isto!
@@ -66,4 +66,5 @@ errNoPermission:Você não tem permissão para fazer isso!
 errUnknownErrorChatbot:Ocorreu um erro desconhecido! Se o problema persistir, relate para nós no nosso Discord: https://discord.com/invite/Gum9bS2dyw
 twitchBotRemoved:O bot vai sair agora. Obrigado por jogar Embervale.
 errPleaseRenameYourCharacter:Você precisa renomear seu personagem!
-errConsumableInventoryWouldBeFull:Esta criação tornaria sua bolsa muito pesada!
+errConsumableInventoryWouldBeFull:Isso faria sua sacola de consumíveis ficar muito pesada!
+errChestInventoryIsFull:Seu inventário do baú está cheio!

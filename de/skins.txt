@@ -82,3 +82,5 @@ skin_scholar:Gelehrter
 skin_scholar_description:Erhältlich durch ???
 skin_forest_mage:Waldmagier
 skin_forest_mage_description:Erhältlich durch ???
+skin_adventurer:Abenteurer-Rüstung
+skin_adventurer_description:Erhältlich durch ???

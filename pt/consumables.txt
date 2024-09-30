@@ -128,3 +128,9 @@ legendary_bundle:Pacote Lendário
 legendary_bundle_description:Concede {arcanites} Arcanites ao ser consumido e ativa a assinatura por 30 dias.
 mythical_bundle:Pacote Mítico
 mythical_bundle_description:Concede {arcanites} Arcanites ao ser consumido e ativa a assinatura por 30 dias.
+royal_patreon:Patreon Real
+mythical_patreon:Patreon Mítico
+legendary_patreon:Patreon Lendário
+epic_patreon:Patreon Épico
+great_patreon:Patreon Excelente
+patreon:Patreon

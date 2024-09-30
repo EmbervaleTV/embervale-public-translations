@@ -302,7 +302,7 @@ loadingTip11:Sorte aumenta o dano dos golpes críticos.
 loadingTip12:Cavaleiros são fortemente armados e carregam um escudo, dando-lhes uma vantagem natural contra classes baseadas em destreza.
 loadingTip13:A habilidade de saque rápido do Ranger permite que ele ataque duas vezes de vez em quando.
 loadingTip14:Guerreiros usam uma pedra de vida para drenar o HP dos inimigos com cada golpe. No entanto, o poder da pedra se deteriora rapidamente.
-loadingTip15:O Ladino é um mestre em furtividade e evasão, tornando muito mais difícil para os atacantes à distância acertá-lo.
+loadingTip15:O Ladino é um mestre da furtividade e evasão, tornando muito mais difícil para os atacantes acertarem golpes.
 loadingTip16:Certifique-se de preencher seu glossário para ganhar XP mais rapidamente!
 loadingTip17:Você sabia que derrotar um oponente na arena adiciona toda a sua armadura, armas e skins ao seu Glossário?
 loadingTip18:Todas as classes têm diferentes escalas de HP e dano. Elas só podem usar um tipo designado de armadura: pesada, média ou leve.
@@ -521,3 +521,17 @@ anonymously:Anonimamente
 hideMyNameInChat:(Isto esconde seu nome no chat dos streamers ao usar o código do criador)
 alreadyClaimed:Você já reivindicou esta recompensa. (Isso pode ocorrer se o jogo estiver aberto em várias instâncias.)
 pleaseConfirmNameChange:Por favor, confirme que você quer renomear {current_name} para {new_name} por 25 Arcanites.
+upgradeInventory:Melhorar Inventário
+ayetStudioNoFillRetry:Desculpe, sem anúncios disponíveis no momento. Tentando novamente em:
+expeditionResourceDepleted:Este recurso acabou de ser esgotado! Por favor, tente um diferente!
+unequip_male:Desempare título
+unequip_female:Desempare título
+unequip:Desagarrar
+reputationShopKeeperExplainationSpeaker:Doar materiais e consumíveis aumentará sua reputação com o lojista, concedendo-lhe acesso temporário a itens melhores.
+reputationShopKeeperExplaination1:Saudações, viajante! Estou feliz em comprar qualquer equipamento que você queira vender.
+reputationShopKeeperExplaination2:Se você tiver materiais ou consumíveis extras, sinta-se à vontade para doá-los—farei bom uso deles.
+freeShopRefresh:Atualização Grátis da Loja
+upgrade:Upgrade
+yourMaximumInventorySize:Atualmente, você tem um tamanho máximo de inventário de {inventorySize}
+eachUpgradeCostsMore:Cada upgrade custa mais. Este upgrade custa
+fullyUpgradedInventory:Você atualizou completamente seu inventário!

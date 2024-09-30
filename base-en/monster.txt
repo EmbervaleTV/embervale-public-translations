@@ -490,7 +490,8 @@ fiery_cultist:Fiery Cultist
 cultist_caller:Cultist Caller
 novice_cultist: Novice Cultist
 nailguns:Nailguns
-
+loyal_wolf:Loyal Wolf
+consumed_hero:Consumed Hero
 
 abnormous_tick_bestiary:A tick of this size makes one think about the creatures it usually preys upon
 accursed_captain_hawk_bestiary:At least one part of his curse must concern his sense of style. Have you seen that famous outfit and lived to tell the tale?
@@ -983,6 +984,8 @@ haunting_ghost_bestiary: Restless and forgotten, they wander the realms between 
 bell_pepper_lizard_bestiary: A rare, elusive creature with scales resembling vibrant bell peppers, its presence is said to bring the most exquisite flavors to any dish. Many seek it, but few can catch the spice-laden trail it leaves behind.
 darkness_crawler_azrkoth_bestiary: A grotesque fusion of man and spider, Azr’koth roams the shadowy Dusk Wood. It is known to either guide lost adventurers to safety or ensnare them in its webs for a cruel feast. Its unpredictable nature makes it both feared and sought by those brave—or foolish—enough to enter its domain.
 book_mimic_bestiary: A deceptive predator posing as a book, ready to snap shut on anyone who opens it.
+loyal_wolf_bestiary:Once a noble companion, the Loyal Wolf followed its master into the heart of an ancient evil. Now, its once-bright eyes flicker with shadows, forever bound to a corrupted master.
+consumed_hero_bestiary:A hero who sacrificed his soul to save his wolf companion, the Consumed Hero now wanders as a twisted reflection of his former self. His noble heart corrupted, he serves the very darkness he once sought to destroy.
 
 abnormous_tick_bounty:An oversized parasite thet will draw more than a bit of blood
 accursed_captain_hawk_bounty:A pirate captain older than most ships he plunders
@@ -1476,3 +1479,5 @@ haunting_ghost_bounty: Confront the Haunting Ghost, a tormented soul lost betwee
 bell_pepper_lizard_bounty: Hunt the mythical Bell Pepper Lizard, key to crafting the ultimate culinary masterpiece.
 darkness_crawler_azrkoth_bounty: Seek out Darkness Crawler Azr’koth, the spider-human abomination of the Dusk Wood. Sometimes a guide, sometimes a predator, it chooses whether to save or devour those who cross its path.
 book_mimic_bounty: Hunt the elusive Book Mimic, lurking among the shelves, waiting to devour curious readers.
+loyal_wolf_bounty: A noble wolf turned dark by the corruption of its master. Still follows commands but has lost its former grace.
+consumed_hero_bounty: Once a hero, now a corrupted vessel of ancient evil. Seeks redemption but is bound by the darkness.

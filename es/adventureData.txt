@@ -205,7 +205,14 @@ alreadyReceivedDailyAdventureRewards:Este jugador ya ha recibido sus recompensas
 adventureNotLive:¡Necesitas estar en vivo en Twitch para comenzar la aventura!
 divine_staff:Báculo Divino
 effect_divine_staff:El jugador empuña un báculo antiguo diseñado para arrasar todas las abominaciones. // +500% de daño contra abominaciones
-check_min_morale:Tu moral necesita ser más alta para seleccionar esta opción.
+check_min_morale:Solo seleccionable si la moral de tu grupo es mayor que la cantidad mostrada.
 min_morale:Morale mínima requerida
-check_max_morale:Tu moral debe ser más baja para seleccionar esta opción.
+check_max_morale:Solo seleccionable si la moral de tu grupo es menor que la cantidad mostrada.
 max_morale:Máxima moral permitida
+check_accuracy:Se requiere alta precisión.
+accuracy:Precisión
+check_armor:Armadura poderosa necesaria.
+armor:Armadura
+check_evasion:Esquivas rápidas necesarias.
+evasion:Evasión
+manipulateVoting:Manipular votación

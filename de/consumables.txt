@@ -128,3 +128,9 @@ legendary_bundle:Legendäres Bündel
 legendary_bundle_description:Gewährt dir {arcanites} Arcanites bei Verbrauch und aktiviert das Abonnement für 30 Tage.
 mythical_bundle:Mythisches Bündel
 mythical_bundle_description:Gewährt dir {arcanites} Arcanites bei Verbrauch und aktiviert das Abonnement für 30 Tage.
+royal_patreon:Königlicher Patreon
+mythical_patreon:Mythischer Patreon
+legendary_patreon:Legendärer Patreon
+epic_patreon:Epischer Patreon
+great_patreon:Großer Patreon
+patreon:Patreon

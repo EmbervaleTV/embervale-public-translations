@@ -779,3 +779,223 @@ crystalline_blade:Kristallklinge
 abyss_dancers_boots:Stiefel der Abgrundtänzerin
 nightblade_boots:Nachtklingenstiefel
 undersea_crown:Unterwasserkrone
+necrotic_rune:Nekrotische Rune
+fae_fire_gem:Feuerjuwel der Feen
+dusk_pearl_amulet:Dämmerperlen-Amulett
+night_cloak_talisman:Nachtumhang-Talisman
+duchess_glamor:Herzogin Glamour
+white_pearl_necklace:Weißes Perlenhalsband
+chain_of_frozen_time:Kette der gefrorenen Zeit
+verdant_jewel:Smaragdene Juwel
+cerulean_band:Himmelblaues Band
+hunters_talisman:Jägertalisman
+regalstone_pendant:Regalstein-Anhänger
+featherdance_charm:Federtanz-Talisman
+faebound_amulet:Feengebundenes Amulett
+deathgaze_amulet:Todesblick-Amulett
+jade_tide:Jadeflut
+arcanite_grace:Arcanite-Anmut
+searing_eye:Brennendes Auge
+amethyst_ring:Amethyst-Ring
+brilliant_ruby_ring:Brillanter Rubinring
+ocean_drop:Ozeantropfen
+noble_ring:Edler Ring
+violet_blossom:Violette Blüte
+silver_band:Silbernes Band
+necrotic_ring:Nekrotischer Ring
+regal_ring:Majestätischer Ring
+ember_glow:Ember-Glühen
+astral_crown_band:Astral-Kronenband
+golden_serpent_ring:Goldener Schlangenring
+emeraldleaf_royal_circle:Emeraldleaf Königskreis
+trinity_ring:Trinitätsring
+royal_sigil:Königliches Siegel
+kingsguard_symbol:Symbol der Königswache
+crystalshroud_vestments:Kristallhüllengewänder
+runewoven_initiate_robes:Runengewebte Initiationsroben
+acolythes_robes:Roben des Akolythen
+wandering_witches_dress:Kleid der Wanderhexen
+exiled_scholars_garment:Gewand des verbannten Gelehrten
+wondrous_healers_robes:Roben des wunderbaren Heilers
+silent_jacket:Schweigende Jacke
+foreststalker_garb:Gewand des Waldbeschleichers
+shadow_vest:Schattenweste
+fletchers_tunic:Fletcher's Tunika
+pelt_armor:Fellrüstung
+whisper_vest:Flüsterweste
+ironwall_plate:Eisenwandplatte
+battleforged_plate:Kampfgemachte Platte
+seastone_bastion:Seestein Bastion
+silver_scale_mail:Silberschuppenpanzer
+bronze_mail:Bronzeschuppenpanzer
+winter_warden:Winterwächter
+elven_sage_garb:Elfenweisenkleidung
+royal_wizard_mantle:Königlicher Zaubermantel
+grand_sorcerers_robes:Großmagierroben
+sages_robes:Weisenroben
+arcane_sovereigns_robes:Arkaner Herrscherroben
+highwardens_armor:Hochwächterrüstung
+dragonhunter_armor:Drachenjägerrüstung
+trackers_vest:Pirscherweste
+praetors_war_harness:Prätors Kriegsgeschirr
+smugglers_vest:Schmugglerweste
+goldweave_warcoat:Goldweave Kriegsmantel
+oceanleaf_vestments:Oceanleaf Gewänder
+umbral_vanguard:Umbral Vorhut
+platinum_aegis:Platinum Aegis
+emerald_scale_armor:Smaragd Schuppenrüstung
+hellfire_plate:Höllenfeuer Platte
+mirageforge_aegis:Mirageforge Aegis
+crystalshroud_bracers:Kristallschleier Armschienen
+acolythes_gloves:Akolythen Handschuhe
+wandering_witches_bracers:Wandernde Hexen Armschienen
+exiled_scholars_gloves:Verstoßene Gelehrten Handschuhe
+wondrous_healers_gloves:Wundersame Heiler Handschuhe
+silent_bracers:Stille Armschienen
+foreststalker_hands:Waldjäger Hände
+shadow_guards:Schattenwachen
+fletchers_braceletes:Bogner Armreife
+pelt_handguards:Fell Handschützer
+whisper_gloves:Flüsterhandschuhe
+ironwall_gauntlets:Eisenwand Panzerhandschuhe
+battleforged_guards:Kampferprobte Wachen
+seastone_grip:Seesteingriff
+silver_scale_hands:Silberschuppenhände
+bronze_fists:Bronzefäuste
+steel_fists:Stahlfäuste
+elven_sage_guards:Elweisenwächter
+royal_wizard_catalysts:Königliche Zauberkatalysatoren
+grand_sorcerers_gloves:Großzaubererhandschuhe
+sages_gloves:Weisenhandschuhe
+arcane_sovereigns_hands:Arkaner Herrscher Hände
+highwardens_protectors:Highwarden-Schützer
+dragonhunter_gloves:Drachenjägerhandschuhe
+trackers_gloves:Fährtenleserhandschuhe
+smugglers_gloves:Schmugglerhandschuhe
+goldweave_armguards:Goldgewebe Armschützer
+oceanleaf_arms:Ozeanblatt Arme
+umbral_claws:Schattenschwingen Klauen
+platinum_protectors:Platinbeschützer
+blood_crown_gauntlets:Blut_Krone_Panzerhandschuhe
+hellfire_wrath:Höllenfeuer Zorn
+mirageforge_hands:Mirageschmiedehände
+crystalshroud_hat:Kristallschleier-Hut
+runewoven_initiate_shroud:Runengewebter Initiatenschleier
+acolythes_hat:Akolythen-Hut
+wandering_witches_hood:Wandernde Hexenhaube
+exiled_scholars_hood:Exilierter Gelehrtenhaube
+eastern_mage_hood:Östliche Magierhaube
+silent_hat:Stiller Hut
+foreststalker_helmet:Waldpirschhelm
+shadow_hat:Schattenhut
+fletchers_helmet:Fletcher-Helm
+hardened_leather_helmet:Gehärteter Lederhelm
+whisper_shroud:Flüsterschleier
+ironwall_helmet:Eisenmauerhelm
+battleforged_helmet:Kampfbeschmiedeter Helm
+seastone_helmet:Seestein-Helm
+silver_scale_helmet:Silberschuppenhelm
+bronze_helmet:Bronzehelm
+protectors_helmet:Beschützer-Helm
+elven_sage_hood:Elfenweisenhaube
+royal_wizards_hat:Königlicher Zaubererhut
+grand_sorcerers_shroud:Großmagierschleier
+sages_shroud:Weisenschleier
+greenseer_hood:Grünseherkapuze
+highwardens_hood:Hochwächterkapuze
+dragonhunter_helmet:Drachenjägerhelm
+trackers_hat:Spurensucherhut
+praetors_helmet:Prätorenhelm
+smugglers_turban:Schmugglersturban
+explorers_helmet:Erforscherhelm
+umbral_crown:Schattenkrone
+platinum_helmet:Platinhelm
+chain_mail_helmet:Kettenpanzerhelm
+crown_of_demise:Krone des Niedergangs
+legion_helmet:Legionshelm
+crystalshroud_shoes:Kristallschleierschuhe
+runewoven_initiate_boots:Runengewebte Initiatenstiefel
+acolythes_boots:Akolythenstiefel
+wandering_witches_shoes:Wanderhexenschuhe
+exiled_scholars_boots:Exilierten-Gelehrten-Stiefel
+wondrous_healers_boots:Wunderheilerstiefel
+silent_boots:Stille Stiefel
+foreststalker_boots:Waldpirscherstiefel
+shadow_boots:Schattenstiefel
+fletchers_shoes:Fletchers Schuhe
+pelt_boots:Fellstiefel
+whisper_boots:Flüsterstiefel
+ironwall_boots:Eisenwallstiefel
+battleforged_boots:Kampfgeschmiedete Stiefel
+seastone_boots:Seesteinstiefel
+silver_scale_shoes:Silberschuppenschuhe
+bronze_boots:Bronzestiefel
+winter_walkers:Winterläufer
+elven_sage_shoes:Elbenweisen Schuhe
+royal_wizard_shoes:Königliche Zaubererschuhe
+grand_sorcerers_boots:Große Zaubererstiefel
+sages_boots:Weisenstiefel
+arcane_sovereigns_shoes:Arkanen Herrschers Schuhe
+highwardens_shoes:Oberförsters Schuhe
+dragonhunter_boots:Drachenjägerstiefel
+trackers_boots:Fährtenleserstiefel
+praetors_sandals:Praetors Sandalen
+smugglers_boots:Schmugglerstiefel
+goldweave_boots:Goldgewebte Stiefel
+oceanleaf_shoes:Ozeanblatt-Schuhe
+umbral_boots:Umbralstiefel
+platinum_boots:Platinastiefel
+dragon_bone_boots:Drachenknochen-Stiefel
+royal_guard_boots:Gardestiefel
+blood_lord_boots:Blutfürst-Stiefel
+sharp_corkscrew:Scharfer Korkenzieher
+silent_edge:Stille Schneide
+nightstalker:Nachtpirscher
+quickfang:Schnellzahn
+starsteel_dagger:Sternstahl-Dolch
+skyfeather_talon:Himmelsfeder-Klaue
+gleamstrike:Schimmerstoß
+heartbreaker:Herzensbrecher
+rosefeather_song:Rosenfederlied
+verdant_glory:Grüne Pracht
+blood_magic_scepter:Blutmagie-Zepter
+fangspire_rod:Fangspire-Stab
+wildvine_scepter:Wildreben-Zepter
+goldenglow_staff:Goldglanz-Stab
+battlemage_staff:Kampfmagier-Stab
+diamondflare_staff:Diamantfeuer-Stab
+manaflow_staff:Manafluss-Stab
+harmonia:Harmonia
+lunarglow_staff:Mondglanz-Stab
+aetherions_eye:Aetherions Auge
+bloodbinder:Blutbinder
+necrotic_blade:Nekrotische Klinge
+leafsong_blade:Laublied-Klinge
+malefic_edge:Unheilvolle Klinge
+brilliant_blade:Strahlende Klinge
+obsidian_storm:Obsidiangewitter
+arctic_slash:Arktischer Schlag
+dragon_eye_blade:Drachenauge-Klinge
+first_song:Erstes Lied
+last_song:Letztes Lied
+glyphshard:Glyphensplitter
+duskveil_bow:Duskveil-Bogen
+storm_piercer:Sturmdurchbohrer
+darkblow:Dunkelschlag
+leafshot:Blattschuss
+sunsting:Sonnenstich
+dragonshot:Drachenschuss
+starlight_bow:Sternenlicht-Bogen
+doom_bringer:Unheilsbringer
+blood_wing:Blutflügel
+fae_binder:Feenbinder
+skullsplitter:Schädelsplitter
+grimaxe:Grimmaxt
+forgotten_axe:Vergessene Axt
+anchor_axe:Anker-Axt
+frozen_monarch:Gefrorener Monarch
+blood_reaver:Blutplünderer
+thunderstrike:Donnerschlag
+divine_smite:Göttlicher Streich
+golden_order:Goldene Ordnung
+blightreaver:Seuchenräuber

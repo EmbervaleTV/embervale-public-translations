@@ -286,7 +286,7 @@ loadingTip11:Glück erhöht den Schaden von kritischen Treffern.
 loadingTip12:Ritter sind schwer gepanzert und tragen ein Schild, was ihnen einen natürlichen Vorteil gegen Geschicklichkeitsklassen gibt.
 loadingTip13:Die Fähigkeit Schnellschuss des Waldläufers erlaubt ihnen gelegentlich, zweimal zuzuschlagen.
 loadingTip14:Krieger benutzen einen Lebensstein, um mit jedem Treffer die HP ihrer Feinde abzuziehen. Allerdings lässt die Kraft des Steins schnell nach.
-loadingTip15:Der Schurke ist ein Meister der Tarnung und Ausweichung, was es für Fernkämpfer viel schwieriger macht, Treffer zu landen.
+loadingTip15:Der Schurke ist ein Meister der Heimlichkeit und Ausweichmanöver, wodurch es Angreifern viel schwerer fällt, Treffer zu landen.
 loadingTip16:Stelle sicher, dass du dein Glossar füllst, um schneller XP zu verdienen!
 loadingTip17:Wusstest du, dass das Besiegen eines Gegners in der Arena all seine Rüstungen, Waffen und Skins zu deinem Glossar hinzufügt?
 loadingTip18:Alle Klassen haben unterschiedliche HP- und Schadensskalierungen. Sie können nur eine bestimmte Art von Rüstung tragen: schwer, mittel oder leicht.
@@ -521,3 +521,17 @@ anonymously:Anonym
 hideMyNameInChat:(Dies verbirgt deinen Namen im Chat des Streamers beim Benutzen des Creator-Codes)
 alreadyClaimed:Du hast diese Belohnung bereits eingelöst. (Dies kann passieren, wenn das Spiel in mehreren Instanzen geöffnet ist.)
 pleaseConfirmNameChange:Bitte bestätige, dass du {current_name} in {new_name} für 25 Arcanites umbenennen möchtest.
+upgradeInventory:Inventar aufrüsten
+ayetStudioNoFillRetry:Entschuldigung, momentan sind keine Anzeigen verfügbar. Erneuter Versuch in:
+expeditionResourceDepleted:Diese Ressource ist gerade erschöpft! Bitte versuche es mit einer anderen!
+unequip_male:Ablegen Titel
+unequip_female:Ablegen Titel
+unequip:Ablegen
+reputationShopKeeperExplainationSpeaker:Das Spenden von Materialien und Verbrauchsgütern wird dein Ansehen beim Ladenbesitzer erhöhen, was dir vorübergehenden Zugang zu besseren Gegenständen gewährt.
+reputationShopKeeperExplaination1:Grüße, Reisender! Ich kaufe gerne jegliche Ausrüstung, die du verkaufen möchtest.
+reputationShopKeeperExplaination2:Wenn du Ersatzmaterialien oder Verbrauchsmaterialien hast, kannst du sie gerne spenden—ich werde sie gut nutzen.
+freeShopRefresh:Kostenlose Shop-Aktualisierung
+upgrade:Upgrade
+yourMaximumInventorySize:Du hast momentan eine maximale Inventargröße von {inventorySize}
+eachUpgradeCostsMore:Jedes Upgrade kostet mehr. Dieses Upgrade kostet
+fullyUpgradedInventory:Du hast dein Inventar vollständig aufgerüstet!

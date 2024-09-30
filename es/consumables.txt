@@ -128,3 +128,9 @@ legendary_bundle:Paquete Legendario
 legendary_bundle_description:Te otorga {arcanites} Arcanites cuando se consume y activa la suscripción por 30 días.
 mythical_bundle:Paquete Mítico
 mythical_bundle_description:Te otorga {arcanites} Arcanites cuando se consume y activa la suscripción por 30 días.
+royal_patreon:Royal Patreon
+mythical_patreon:Mythical Patreon
+legendary_patreon:Legendary Patreon
+epic_patreon:Epic Patreon
+great_patreon:Great Patreon
+patreon:Patreon

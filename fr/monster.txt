@@ -1468,3 +1468,9 @@ book_mimic_bounty:Chassez le Mimique de Livre insaisissable, se cachant parmi le
 darkness_crawler_azrkoth:Rampe des Ténèbres Azr’koth
 darkness_crawler_azrkoth_bestiary:Une fusion grotesque d'homme et d'araignée, Azr’koth rôde dans le Bois Poussièreux. Il est connu pour guider les aventuriers perdus vers la sécurité ou pour les piéger dans ses toiles pour un cruel festin. Sa nature imprévisible le rend à la fois redouté et recherché par ceux qui sont assez courageux - ou insensés - pour entrer dans son domaine.
 darkness_crawler_azrkoth_bounty:Traquez Azr’koth le Rôdeur de l'Obscurité, l'abomination araignée-humaine des Bois du Crépuscule. Tantôt guide, tantôt prédateur, il choisit de sauver ou de dévorer ceux qui croisent son chemin.
+loyal_wolf:Loup Loyal
+consumed_hero:Héros Consumé
+loyal_wolf_bestiary:Autrefois un noble compagnon, le Loup Loyal a suivi son maître au cœur d'un mal ancien. Maintenant, ses yeux autrefois brillants scintillent de ténèbres, à jamais lié à un maître corrompu.
+consumed_hero_bestiary:Un héros qui a sacrifié son âme pour sauver son compagnon loup, le Héros Consumé erre maintenant comme une réflexion tordue de son ancien moi. Son cœur noble corrompu, il sert la même obscurité qu'il cherchait autrefois à détruire.
+loyal_wolf_bounty:Un noble loup devenu sombre par la corruption de son maître. Il suit encore les commandements mais a perdu sa grâce d'autrefois.
+consumed_hero_bounty:Autrefois un héros, maintenant un vaisseau corrompu d'un mal ancien. Cherche la rédemption mais est lié par les ténèbres.

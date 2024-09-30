@@ -302,7 +302,7 @@ loadingTip11:La chance augmente les dégâts des coups critiques.
 loadingTip12:Les chevaliers sont lourdement armurés et portent un bouclier, leur conférant un avantage naturel contre les classes basées sur la dextérité.
 loadingTip13:La capacité de tir rapide du Ranger leur permet de frapper deux fois de temps en temps.
 loadingTip14:Les guerriers utilisent une pierre de vie pour drainer les PV de leurs ennemis à chaque coup. Cependant, la puissance de la pierre se dégrade rapidement.
-loadingTip15:Le voleur est un maître de la furtivité et de l'évasion, rendant les attaquants à distance beaucoup moins précis.
+loadingTip15:Le Voleur est un maître de la furtivité et de l'évasion, rendant beaucoup plus difficile pour les attaquants de porter des coups.
 loadingTip16:Assurez-vous de remplir votre glossaire pour gagner de l'XP plus rapidement !
 loadingTip17:Savais-tu que vaincre un adversaire dans l'arène ajoutera toutes ses armures, armes et skins à ton Glossaire ?
 loadingTip18:Toutes les classes ont des échelles différentes de PV et de dégâts. Elles ne peuvent porter qu'un seul type d'armure désigné : lourd, moyen ou léger.
@@ -521,3 +521,17 @@ anonymously:Anonymement
 hideMyNameInChat:(Cela cache votre nom dans le chat du streamer lorsque vous utilisez un code créateur)
 alreadyClaimed:Vous avez déjà réclamé cette récompense. (Cela peut se produire si le jeu est ouvert dans plusieurs instances.)
 pleaseConfirmNameChange:Veuillez confirmer que vous voulez renommer {current_name} en {new_name} pour 25 Arcanites.
+upgradeInventory:Améliorer l'Inventaire
+ayetStudioNoFillRetry:Désolé, aucune annonce disponible pour le moment. Nouvelle tentative dans :
+expeditionResourceDepleted:Cette ressource vient d'être épuisée ! Veuillez essayer une autre !
+unequip_male:Retirer le titre
+unequip_female:Retirer le titre
+unequip:Déséquiper
+reputationShopKeeperExplainationSpeaker:Donner des matériaux et des consommables augmentera ta réputation auprès du commerçant, te donnant temporairement accès à de meilleurs articles.
+reputationShopKeeperExplaination1:Salutations, voyageur ! Je suis ravi d'acheter tout équipement que tu souhaites vendre.
+reputationShopKeeperExplaination2:Si tu as des matériaux ou consommables en trop, n'hésite pas à les donner—j'en ferai bon usage.
+freeShopRefresh:Recharge gratuite de la boutique
+upgrade:Amélioration
+yourMaximumInventorySize:Vous avez actuellement une taille d'inventaire maximale de {inventorySize}
+eachUpgradeCostsMore:Chaque amélioration coûte plus cher. Cette amélioration coûte
+fullyUpgradedInventory:Vous avez entièrement amélioré votre inventaire !

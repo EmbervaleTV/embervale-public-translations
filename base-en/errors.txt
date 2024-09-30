@@ -14,9 +14,10 @@ invalidToken:<h3>Authentication failed</h3> Please ensure that your system clock
 errTwitchAccessNotGranted:Please grant access to your Twitch ID by clicking the little human icon on the bottom right!
 errNoInventoryItem:Inventory is empty!
 errInventoryIsFull:Your inventory is full! Please sell some items!
-errMaterialInventoryIsFull:Your material inventory is full! You can sell them to the Merchant in the shop or craft something!
+errMaterialInventoryIsFull:Your material inventory is full! You can craft something or spend your materials at the Merchant in the shop!
 errConsumableInventoryIsFull:Your consumable inventory is full!
-errConsumableInventoryWouldBeFull:This craft would make your bag too heavy!
+errConsumableInventoryWouldBeFull:This would make your consumable bag too heavy!
+errChestInventoryIsFull:Your chest inventory is full!
 
 errNotEnoughArcanites:You don't have enough Arcanites.
 errNotEnoughMoney:You don't have enough gold to buy this!

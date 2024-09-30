@@ -205,7 +205,14 @@ alreadyReceivedDailyAdventureRewards:Ce joueur a déjà reçu ses récompenses q
 adventureNotLive:Vous devez être en direct sur Twitch pour commencer l'aventure !
 divine_staff:Bâton Divin
 effect_divine_staff:Le joueur brandit un ancien bâton conçu pour frapper toutes les abominations. // +500% de dégâts contre les abominations
-check_min_morale:Ton moral doit être plus élevé pour sélectionner cette option.
+check_min_morale:Sélectionnable uniquement si le moral de ton groupe est supérieur au montant affiché.
 min_morale:Morale Minimum Nécessaire
-check_max_morale:Votre morale doit être plus basse pour sélectionner cette option.
+check_max_morale:Sélectionnable uniquement si le moral de ton groupe est inférieur au montant affiché.
 max_morale:Morale Maximum Autorisée
+check_accuracy:Haute précision requise.
+accuracy:Précision
+check_armor:Armure puissante nécessaire.
+armor:Armure
+check_evasion:Esquives rapides nécessaires.
+evasion:Évasion
+manipulateVoting:Manipuler le vote

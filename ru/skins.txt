@@ -82,3 +82,5 @@ skin_scholar:Учёный
 skin_scholar_description:Доступен за ???
 skin_forest_mage:Лесной маг
 skin_forest_mage_description:Доступен за ???
+skin_adventurer:Броня Авантюриста
+skin_adventurer_description:Доступно через ???

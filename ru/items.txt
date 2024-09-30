@@ -779,3 +779,223 @@ crystalline_blade:Кристальный клинок
 abyss_dancers_boots:Ботинки Танцора Бездны
 nightblade_boots:Ботинки Ночной Клинок
 undersea_crown:Подводная Корона
+necrotic_rune:Некротическая Руническая
+fae_fire_gem:Камень Фейского Огня
+dusk_pearl_amulet:Амулет с Жемчужиной Сумерек
+night_cloak_talisman:Талисман Ночного Плаща
+duchess_glamor:Пленение Герцогини
+white_pearl_necklace:Ожерелье с Белой Жемчужиной
+chain_of_frozen_time:Цепь Замороженного Времени
+verdant_jewel:Изумрудный Самоцвет
+cerulean_band:Небесная Лента
+hunters_talisman:Талисман Охотника
+regalstone_pendant:Подвеска из Королевского Камня
+featherdance_charm:Амулет Танца Перьев
+faebound_amulet:Амулет Фейского Связующего
+deathgaze_amulet:Амулет Смертельного Взгляда
+jade_tide:Нефритовая Волна
+arcanite_grace:Arcanite Изящество
+searing_eye:Обжигающий Глаз
+amethyst_ring:Аметистовое Кольцо
+brilliant_ruby_ring:Яркое Рубиновое Кольцо
+ocean_drop:Океанская Капля
+noble_ring:Благородное Кольцо
+violet_blossom:Фиолетовый Цветок
+silver_band:Серебряная Полоса
+necrotic_ring:Некротическое Кольцо
+regal_ring:Королевское Кольцо
+ember_glow:Сияние Ember
+astral_crown_band:Полоса Астральной Короны
+golden_serpent_ring:Кольцо Золотого Змея
+emeraldleaf_royal_circle:Королевский Круг Изумрудного Листа
+trinity_ring:Кольцо Троицы
+royal_sigil:Королевский Символ
+kingsguard_symbol:Символ Королевской Гвардии
+crystalshroud_vestments:Одеяния Кристального Покрова
+runewoven_initiate_robes:Одеяния Посвященного Тканые Руной
+acolythes_robes:Одеяния Акколита
+wandering_witches_dress:Платье Бродячей Ведьмы
+exiled_scholars_garment:Одеяние Изгнанного Учёного
+wondrous_healers_robes:Чудесные Одеяния Целителя
+silent_jacket:Тихая Куртка
+foreststalker_garb:Одеяние Лесного Следопыта
+shadow_vest:Тіньовий Жилет
+fletchers_tunic:Туника Флетчера
+pelt_armor:Панцирь из Шкур
+whisper_vest:Жилет Шепота
+ironwall_plate:Латные Доспехи Железной Стены
+battleforged_plate:Кованые Боевыми Доспехи
+seastone_bastion:Бастион Морского Камня
+silver_scale_mail:Серебряная чешуйчатая броня
+bronze_mail:Бронзовая Поясница
+winter_warden:Страж Зимы
+elven_sage_garb:Одеяние Эльфийского Мудреца
+royal_wizard_mantle:Мантия Королевского Чародея
+grand_sorcerers_robes:Робы Великого Колдуна
+sages_robes:Роба Мудреца
+arcane_sovereigns_robes:Робы Магического Повелителя
+highwardens_armor:Доспехи Верховного Стража
+dragonhunter_armor:Доспехи Драконьего Охотника
+trackers_vest:Жилет Следопыта
+praetors_war_harness:Боевой Ремень Претора
+smugglers_vest:Жилет Контрабандиста
+goldweave_warcoat:Боевой плащ из золототкани
+oceanleaf_vestments:Облачение из океанического листа
+umbral_vanguard:Теневой авангард
+platinum_aegis:Платиновый эгида
+emerald_scale_armor:Изумрудная чешуйчатая броня
+hellfire_plate:Адский латный доспех
+mirageforge_aegis:Эгида из Миражкузницы
+crystalshroud_bracers:Наручи из кристаллической завесы
+acolythes_gloves:Перчатки Аколита
+wandering_witches_bracers:Наручи странствующей ведьмы
+exiled_scholars_gloves:Перчатки изгнанного учёного
+wondrous_healers_gloves:Перчатки чудесного целителя
+silent_bracers:Наручи безмолвия
+foreststalker_hands:Перчатки Лесного следопыта
+shadow_guards:Теневые стражи
+fletchers_braceletes:Браслеты лучника
+pelt_handguards:Рукавицы из шкур
+whisper_gloves:Перчатки шёпота
+ironwall_gauntlets:Рукавицы Железной стены
+battleforged_guards:Боевые стражи
+seastone_grip:Хватка Изморозного камня
+silver_scale_hands:Руки из серебряной чешуи
+bronze_fists:Бронзовые Кулаки
+steel_fists:Стальные Кулаки
+elven_sage_guards:Стражи Эльфийского Мудреца
+royal_wizard_catalysts:Катализаторы Королевского Чародея
+grand_sorcerers_gloves:Перчатки Великого Магистра
+sages_gloves:Перчатки Мудреца
+arcane_sovereigns_hands:Руки Тайного Повелителя
+highwardens_protectors:Защитники Высокого Хранителя
+dragonhunter_gloves:Перчатки Охотника на Драконов
+trackers_gloves:Перчатки Следопыта
+smugglers_gloves:Перчатки Контрабандиста
+goldweave_armguards:Золототканые Нарукавники
+oceanleaf_arms:Руки Морского Листа
+umbral_claws:Теневые Когти
+platinum_protectors:Платиновые Защитники
+blood_crown_gauntlets:Рукавицы Кровавой Короны
+hellfire_wrath:Гнев Адского Огня
+mirageforge_hands:Руки Кузницы Миражей
+crystalshroud_hat:Шапка Хрустальной Завесы
+runewoven_initiate_shroud:Мантия Рунотканого Посвященного
+acolythes_hat:Шляпа Послушника
+wandering_witches_hood:Капюшон Странствующей Ведьмы
+exiled_scholars_hood:Капюшон Изгнанного Ученого
+eastern_mage_hood:Капюшон Восточного Мага
+silent_hat:Шляпа Молчания
+foreststalker_helmet:Шлем Лесного Охотника
+shadow_hat:Шляпа Тени
+fletchers_helmet:Шлем Стрельника
+hardened_leather_helmet:Шлем из Закаленной Кожи
+whisper_shroud:Мантия Шепота
+ironwall_helmet:Шлем Железной Стены
+battleforged_helmet:Шлем Закаленный В Бою
+seastone_helmet:Шлем Морского Камня
+silver_scale_helmet:Шлем Серебряной Чешуи
+bronze_helmet:Бронзовый Шлем
+protectors_helmet:Шлем Защитника
+elven_sage_hood:Капюшон Эльфийского Мудреца
+royal_wizards_hat:Шляпа Королевского Волшебника
+grand_sorcerers_shroud:Мантия Великого Чародея
+sages_shroud:Мантия Мудреца
+greenseer_hood:Капюшон Зеленовидца
+highwardens_hood:Капюшон Верховного Стража
+dragonhunter_helmet:Шлем Охотника на Драконов
+trackers_hat:Шляпа Следопыта
+praetors_helmet:Шлем Претора
+smugglers_turban:Тюрбан Контрабандиста
+explorers_helmet:Шлем Исследователя
+umbral_crown:Теневая Корона
+platinum_helmet:Платиновый Шлем
+chain_mail_helmet:Шлем из Кольчужной Брони
+crown_of_demise:Корона Погибели
+legion_helmet:Шлем Легиона
+crystalshroud_shoes:Сапоги из Кристальной Мантии
+runewoven_initiate_boots:Сапоги Посвященного в Плетение Рун
+acolythes_boots:Сапоги Аколита
+wandering_witches_shoes:Башмаки Блуждающей Ведьмы
+exiled_scholars_boots:Сапоги Изгнанного Ученого
+wondrous_healers_boots:Сапоги Дивного Целителя
+silent_boots:Тихие Ботинки
+foreststalker_boots:Ботинки Лесного Следопыта
+shadow_boots:Ботинки Тени
+fletchers_shoes:Ботинки Лукодела
+pelt_boots:Ботинки из Шкур
+whisper_boots:Ботинки Шепота
+ironwall_boots:Ботинки Железной Стены
+battleforged_boots:Ботинки Боевой Ковки
+seastone_boots:Ботинки Морского Камня
+silver_scale_shoes:Ботинки Серебряной Чешуи
+bronze_boots:Бронзовые Ботинки
+winter_walkers:Зимние Ходоки
+elven_sage_shoes:Ботинки Эльфийского Мудреца
+royal_wizard_shoes:Ботинки Королевского Чародея
+grand_sorcerers_boots:Ботинки Великого Чародея
+sages_boots:Ботинки Мудреца
+arcane_sovereigns_shoes:Ботинки Магического Владыки
+highwardens_shoes:Ботинки Старшего Стража
+dragonhunter_boots:Ботинки Охотника на Драконов
+trackers_boots:Ботинки Следопыта
+praetors_sandals:Сандалии Претора
+smugglers_boots:Сапоги Контрабандиста
+goldweave_boots:Сапоги из Златоткани
+oceanleaf_shoes:Туфли Океанического Листа
+umbral_boots:Темные Сапоги
+platinum_boots:Платиновые Сапоги
+dragon_bone_boots:Сапоги из Костей Дракона
+royal_guard_boots:Сапоги Королевской Стражи
+blood_lord_boots:Сапоги Кровавого Лорда
+sharp_corkscrew:Острый Винтоверт
+silent_edge:Тихий Клинок
+nightstalker:Ночной Преследователь
+quickfang:Быстрый Клык
+starsteel_dagger:Кинжал из Звездной Стали
+skyfeather_talon:Коготь Небесного Пера
+gleamstrike:Сияющий Удар
+heartbreaker:Разбиватель Сердец
+rosefeather_song:Песня Розового Пера
+verdant_glory:Зеленеющая Слава
+blood_magic_scepter:Скипетр Кровавой Магии
+fangspire_rod:Жезл Фанспайра
+wildvine_scepter:Скипетр Дикой Лозы
+goldenglow_staff:Посох Золотистого Сияния
+battlemage_staff:Посох Боевого Мага
+diamondflare_staff:Посох Алмазного Всполоха
+manaflow_staff:Посох Течения Маны
+harmonia:Гармония
+lunarglow_staff:Посох Лунного Сияния
+aetherions_eye:Око Этериона
+bloodbinder:Связующий Кровь
+necrotic_blade:Некротический Клинок
+leafsong_blade:Клинок Песни Листьев
+malefic_edge:Злонамеренный Клинок
+brilliant_blade:Сияющий Клинок
+obsidian_storm:Обсидиановый Шторм
+arctic_slash:Арктический Разрез
+dragon_eye_blade:Клинок Драконьего Глаза
+first_song:Первая Песня
+last_song:Последняя Песня
+glyphshard:Осколок Глифа
+duskveil_bow:Лук Закатного Покрова
+storm_piercer:Штормовой Пронзатель
+darkblow:Темный Удар
+leafshot:Листовой Выстрел
+sunsting:Солнечный Жало
+dragonshot:Драконий Выстрел
+starlight_bow:Лук Звездного Света
+doom_bringer:Несущий Погибель
+blood_wing:Кровавое Крыло
+fae_binder:Связующий Фей
+skullsplitter:Раскалыватель Черепов
+grimaxe:Мрачная Секира
+forgotten_axe:Забытая Секира
+anchor_axe:Якорная Секира
+frozen_monarch:Ледяной Монарх
+blood_reaver:Кровавый Губитель
+thunderstrike:Громовой Удар
+divine_smite:Божественный Удар
+golden_order:Золотой Орден
+blightreaver:Опустошающий Губитель

@@ -797,3 +797,357 @@ starter_quiver:Starter Quiver
 starter_grimoire:Starter Grimoire
 starter_lifestone:Starter Lifestone
 starter_talisman:Starter Talisman
+
+// Necklace LVL 50
+
+necrotic_rune:Necrotic Rune
+fae_fire_gem:Fae Fire Gem
+dusk_pearl_amulet:Dusk Pearl Amulet
+night_cloak_talisman:Night Cloak Talisman
+duchess_glamor:Duchess Glamor
+white_pearl_necklace:White Pearl Necklace
+chain_of_frozen_time:Chain of Frozen Time
+verdant_jewel:Verdant Jewel
+cerulean_band:Cerulean Band
+hunters_talisman:Hunter's Talisman
+
+// Necklace LVL 100
+
+regalstone_pendant:Regalstone Pendant
+featherdance_charm: Featherdance Charm
+faebound_amulet: Faebound Amulet
+deathgaze_amulet:Deathgaze Amulet
+jade_tide:Jade Tide
+arcanite_grace:Arcanite Grace
+searing_eye:Searing Eye
+
+// Ring LVL 50
+
+amethyst_ring:Amethyst Ring
+brilliant_ruby_ring:Brilliant Ruby Ring
+ocean_drop:Ocean Drop
+noble_ring:Noble Ring
+violet_blossom:Violet Blossom
+silver_band:Silver Band
+brass_band:Brass Band
+necrotic_ring:Necrotic Ring
+regal_ring:Regal Ring
+ember_glow:Ember Glow
+
+// RING LVL 100
+
+astral_crown_band:Astral Crown Band
+golden_serpent_ring:Golden Serpent Ring
+emeraldleaf_royal_circle:Emeraldleaf Royal Circle
+trinity_ring:Trinity Ring
+royal_sigil:Royal Sigil
+kingsguard_symbol:Kingsguard Symbol
+
+// CHEST LVL 50
+
+// Light
+
+crystalshroud_vestments:Crystalshroud Vestments
+runewoven_initiate_robes:Runewoven Initiate Robes
+acolythes_robes:Acolythe's Robes
+wandering_witches_dress:Wandering Witche's Dress
+exiled_scholars_garment:Exiled Scholar's Garment
+wondrous_healers_robes:Wondrous Healer's Robes
+
+// Medium
+silent_jacket:Silent Jacket
+foreststalker_garb:Foreststalker Garb
+shadow_vest:Shadow Vest
+fletchers_tunic:Fletcher's Tunic
+pelt_armor:Pelt Armor
+whisper_vest:Whisper Vest
+
+// Heavy
+
+ironwall_plate:Ironwall Plate
+battleforged_plate:Battleforged Plate
+seastone_bastion:Seastone Bastion
+silver_scale_mail:Silver Scale Mail
+bronze_mail:Bronze Mail
+winter_warden:Winter Warden
+
+
+// CHEST LVL 100
+
+// Light
+
+elven_sage_garb:Elven Sage Garb
+royal_wizard_mantle:Royal Wizard Mantle
+grand_sorcerers_robes:Grand Sorcerer's Robes
+sages_robes:Sage's Robes
+arcane_sovereigns_robes:Arcane Sovereign's Robes
+
+// Medium
+
+highwardens_armor:Highwarden's Armor
+dragonhunter_armor:Dragonhunter Armor
+trackers_vest:Tracker's Vest
+praetors_war_harness:Praetor's War Harness
+smugglers_vest:Smuggler's Vest
+goldweave_warcoat:Goldweave Warcoat
+oceanleaf_vestments:Oceanleaf Vestments
+
+// Heavy
+
+umbral_vanguard:Umbral Vanguard
+platinum_aegis:Platinum Aegis
+emerald_scale_armor:Emerald Scale Armor
+hellfire_plate:Hellfire Plate
+mirageforge_aegis:Mirageforge Aegis
+
+
+// GLOVES LVL 50
+
+// Light
+
+crystalshroud_bracers:Crystalshroud Bracers
+acolythes_gloves:Acolythe's Gloves
+wandering_witches_bracers:Wandering Witche's Bracers
+exiled_scholars_gloves:Exiled Scholar's Gloves
+wondrous_healers_gloves:Wondroush Healer's Gloves
+
+// Medium
+
+silent_bracers:Silent Bracers
+foreststalker_hands:Foreststalker Hands
+shadow_guards:Shadow Guards
+fletchers_braceletes:Fletcher's Braceletes
+pelt_handguards:Pelt Handguards
+whisper_gloves:Whisper Gloves
+
+// Heavy
+
+ironwall_gauntlets:Ironwall Gauntlets
+battleforged_guards:Battleforged Guards
+seastone_grip:Seastone Grip
+silver_scale_hands:Silver Scale Hands
+bronze_fists:Bronze Fists
+steel_fists:Steel Fists
+
+// GLOVES LVL 100
+
+// Light
+
+elven_sage_guards:Elven Sage Guards
+royal_wizard_catalysts:Royal Wizard Catalysts
+grand_sorcerers_gloves:Grand Sorcerers Gloves
+sages_gloves:Sage's Gloves
+arcane_sovereigns_hands:Arcane Sovereign's Hands
+
+// Medium
+
+highwardens_protectors:Highwarden's Protectors
+dragonhunter_gloves:Dragonhunter Gloves
+trackers_gloves:Tracker's Gloves
+smugglers_gloves:Smuggler's Gloves
+goldweave_armguards:Goldweave Armguards
+oceanleaf_arms:Oceanleaf Arms
+
+// Heavy
+
+umbral_claws:Umbral Claws
+platinum_protectors:Platinum Protectors
+blood_crown_gauntlets:Blood_Crown_Gauntlets
+hellfire_wrath:Hellfire Wrath
+mirageforge_hands:Mirageforge Hands
+
+// HELMET LVL 50
+
+// Light
+
+crystalshroud_hat:Crystalshroud Hat
+runewoven_initiate_shroud:Runewoven Initiate Shroud
+acolythes_hat:Acolythe's Hat
+wandering_witches_hood:Wandering Witche's Hood
+exiled_scholars_hood:Exiled Scholar's Hood
+eastern_mage_hood:Eastern Mage Hood
+
+// Medium
+
+silent_hat:Silent Hat
+foreststalker_helmet:Foreststalker Helmet
+shadow_hat:Shadow Hat
+fletchers_helmet:Fletcher's Helmet
+hardened_leather_helmet:Hardened Leather Helmet
+whisper_shroud:Whisper Shroud
+
+// Heavy
+
+ironwall_helmet:Ironwall Helmet
+battleforged_helmet:Battleforged Helmet
+seastone_helmet:Seastone Helmet
+silver_scale_helmet:Silver Scale Helmet
+bronze_helmet:Bronze Helmet
+protectors_helmet:Protector's Helmet
+
+// HELMET LVL 100
+
+// Light
+
+elven_sage_hood:Elven Sage Hood
+royal_wizards_hat:Royal Wizard Hat
+grand_sorcerers_shroud:Grand Sorcerer's Shroud
+sages_shroud:Sage's Shroud
+greenseer_hood:Greenseer Hood
+
+// Medium
+
+highwardens_hood:Highwarden's Hood
+dragonhunter_helmet:Dragonhunter Helmet
+trackers_hat:Tracker's Hat
+praetors_helmet:Praetor's Helmet
+smugglers_turban:Smuggler's Turban
+explorers_helmet:Explorer's Helmet
+
+// Heavy
+
+umbral_crown:Umbral Crown
+platinum_helmet:Platinum Helmet
+chain_mail_helmet:Chain Mail Helmet
+crown_of_demise:Crown of Demise
+legion_helmet:Legion Helmet
+
+// BOOTS LVL 50
+
+// Light
+
+crystalshroud_shoes:Crystalshroud Shoes
+runewoven_initiate_boots:Runewoven Initiate Boots
+acolythes_boots:Acolythe's Boots
+wandering_witches_shoes:Wandering Witche's Shoes
+exiled_scholars_boots:Exiled Scholar's Boots
+wondrous_healers_boots:Wondrous Healer's Boots
+
+// Medium
+silent_boots:Silent Boots
+foreststalker_boots:Foreststalker Boots
+shadow_boots:Shadow Boots
+fletchers_shoes:Fletcher's Shoes
+pelt_boots:Pelt Boots
+whisper_boots:Whisper Boots
+
+// Heavy
+
+ironwall_boots:Ironwall Boots
+battleforged_boots:Battleforged Boots
+seastone_boots:Seastone Boots
+silver_scale_shoes:Silver Scale Shoes
+bronze_boots:Bronze Boots
+winter_walkers:Winter Walkers
+
+
+// BOOTS LVL 100
+
+// Light
+
+elven_sage_shoes:Elven Sage Shoes
+royal_wizard_shoes:Royal Wizard Shoes
+grand_sorcerers_boots:Grand Sorcerer's Boots
+sages_boots:Sage's Boots
+arcane_sovereigns_shoes:Arcane Sovereign's Shoes
+
+// Medium
+
+highwardens_shoes:Highwarden's Shoes
+dragonhunter_boots:Dragonhunter Boots
+trackers_boots:Tracker's Boots
+praetors_sandals:Praetor's Sandals
+smugglers_boots:Smuggler's Boots
+goldweave_boots:Goldweave Boots
+oceanleaf_shoes:Oceanleaf Shoes
+
+// Heavy
+
+umbral_boots:Umbral Boots
+platinum_boots:Platinum Boots
+dragon_bone_boots:Dragon Bone Boots
+royal_guard_boots:Royal Guard Boots
+blood_lord_boots:Blood Lord Boots
+
+// Weapons
+
+// Dagger LVL 50
+
+sharp_corkscrew:Sharp Corkscrew
+silent_edge:Silent Edge
+nightstalker:Nightstalker
+quickfang:Quickfang
+starsteel_dagger:Starsteel Dagger
+
+// Dagger LVL 100
+
+skyfeather_talon:Skyfeather Talon
+gleamstrike:Gleamstrike
+heartbreaker:Heartbreaker
+rosefeather_song:Rosefeather Song
+verdant_glory:Verdant Glory
+
+// Staff LVL 50
+
+blood_magic_scepter:Blood Magic Scepter
+fangspire_rod:Fangspire Rod
+wildvine_scepter:Wildvine Scepter
+goldenglow_staff:Goldenglow Staff
+battlemage_staff:Battlemage Staff
+
+// Staff LVL 100
+
+diamondflare_staff:Diamondflare Staff
+manaflow_staff:Manaflow Staff
+harmonia:Harmonia
+lunarglow_staff:Lunarglow Staff
+aetherions_eye:Aetherion's Eye
+
+// Sword Lvl 50
+
+bloodbinder:Bloodbinder
+necrotic_blade:Necrotic Blade
+leafsong_blade:Leafsong Blade
+malefic_edge:Malefic Edge
+brilliant_blade:Brilliant Blade
+
+// Sword LVL 100
+
+obsidian_storm:Obsidian Storm
+arctic_slash:Arctic Slash
+dragon_eye_blade:Dragon Eye Blade
+first_song:First Song
+last_song:Last Song
+glyphshard:Glyphshard
+
+// Bow lvl 50
+
+duskveil_bow:Duskveil Bow
+storm_piercer:Storm Piercer
+darkblow:Darkblow
+leafshot:Leafshot
+sunsting:Sunsting
+
+// Bow lvl 100
+
+dragonshot:Dragonshot
+starlight_bow:Starlight Bow
+doom_bringer:Doom Bringer
+blood_wing:Blood Wing
+fae_binder:Fae Binder
+
+// Two Handed Lvl 50
+
+skullsplitter:Skullsplitter
+grimaxe:Grimaxe
+forgotten_axe:Forgotten Axe
+anchor_axe:Anchor Axe
+frozen_monarch:Frozen Monarch
+
+// Two Handed lvl 100
+
+blood_reaver:Blood Reaver
+thunderstrike:Thunderstrike
+divine_smite:Divine Smite
+golden_order:Golden Order
+blightreaver:Blightreaver

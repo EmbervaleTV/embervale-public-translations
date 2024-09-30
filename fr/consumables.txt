@@ -128,3 +128,9 @@ legendary_bundle:Coffret Légendaire
 legendary_bundle_description:Vous donne {arcanites} Arcanites lorsqu'il est consommé et active l'abonnement pour 30 jours.
 mythical_bundle:Coffret Mythique
 mythical_bundle_description:Vous donne {arcanites} Arcanites lorsqu'il est consommé et active l'abonnement pour 30 jours.
+royal_patreon:Patreon Royal
+mythical_patreon:Patreon Mythique
+legendary_patreon:Patreon Légendaire
+epic_patreon:Patreon Épique
+great_patreon:Patreon Grand
+patreon:Patreon

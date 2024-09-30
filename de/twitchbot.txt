@@ -25,3 +25,7 @@ adventureJoined:beigetreten
 adventureCanStart:kann ein Abenteuer starten
 adventureInProgress:veranstaltet gerade ein Abenteuer
 adventureCanJoin:Du kannst an einem Abenteuer teilnehmen
+adventureLeaveForbidden:Du kannst nur Abenteuer verlassen, die noch nicht begonnen haben!
+adventureLeft:verlassen
+adventureVotingDisabled:Der Streamer hat die Abstimmungen für Spieler außerhalb ihres Abenteuers deaktiviert.
+adventureVoteManipulationDisabled:Der Streamer hat die Stimmmanipulationen deaktiviert.

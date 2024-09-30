@@ -20,6 +20,10 @@ adventureJoined:joined
 adventureCanStart:can start an Adventure
 adventureInProgress:is hosting an Adventure right now
 adventureCanJoin:You can join an Adventure
+adventureLeaveForbidden:You can only leave adventures that haven't started!
+adventureLeft:left
+adventureVotingDisabled:The streamer disabled votings for players outside of their adventure.
+adventureVoteManipulationDisabled:The streamer disabled vote manipulations.
 
 // Flex
 achievements:Achievements

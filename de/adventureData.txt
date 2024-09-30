@@ -205,7 +205,14 @@ alreadyReceivedDailyAdventureRewards:Dieser Spieler hat seine täglichen Abenteu
 adventureNotLive:Du musst live auf Twitch sein, um das Abenteuer zu starten!
 divine_staff:Göttlicher Stab
 effect_divine_staff:Der Spieler führt einen antiken Stab, der dazu entworfen ist, alle Abscheulichkeiten zu vernichten. // +500% Schaden gegen Abscheulichkeiten
-check_min_morale:Deine Moral muss höher sein, um diese Option zu wählen.
+check_min_morale:Wählbar nur, wenn die Moral deiner Gruppe höher als der angezeigte Betrag ist.
 min_morale:Erforderliche Mindestmoral
-check_max_morale:Deine Moral muss niedriger sein, um diese Option auszuwählen.
+check_max_morale:Wählbar nur, wenn die Moral deiner Gruppe niedriger als der angezeigte Betrag ist.
 max_morale:Maximal zulässige Moral
+check_accuracy:Hohe Präzision erforderlich.
+accuracy:Präzision
+check_armor:Starke Rüstung benötigt.
+armor:Rüstung
+check_evasion:Schnelle Ausweichmanöver notwendig.
+evasion:Ausweichen
+manipulateVoting:Wahl manipulieren

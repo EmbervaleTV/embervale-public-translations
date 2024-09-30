@@ -128,3 +128,9 @@ legendary_bundle:Легендарный набор
 legendary_bundle_description:Даёт вам {arcanites} Arcanites при использовании и активирует подписку на 30 дней.
 mythical_bundle:Мифический набор
 mythical_bundle_description:Даёт вам {arcanites} Arcanites при использовании и активирует подписку на 30 дней.
+royal_patreon:Королевский Patreon
+mythical_patreon:Мифический Patreon
+legendary_patreon:Легендарный Patreon
+epic_patreon:Эпический Patreon
+great_patreon:Великий Patreon
+patreon:Patreon

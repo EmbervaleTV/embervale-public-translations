@@ -779,3 +779,223 @@ crystalline_blade:Lâmina Cristalina
 abyss_dancers_boots:Botas da Dançarina do Abismo
 nightblade_boots:Botas da Lâmina Noturna
 undersea_crown:Coroa Submarina
+necrotic_rune:Runa Necrótica
+fae_fire_gem:Joia do Fogo das Fadas
+dusk_pearl_amulet:Amuleto de Pérola do Crepúsculo
+night_cloak_talisman:Talisman da Capa Noturna
+duchess_glamor:Glamour da Duquesa
+white_pearl_necklace:Colar de Pérola Branca
+chain_of_frozen_time:Cadeia do Tempo Congelado
+verdant_jewel:Joia Verdejante
+cerulean_band:Fita Cerúlea
+hunters_talisman:Talisman do Caçador
+regalstone_pendant:Pendente da Pedra Real
+featherdance_charm:Amuleto da Dança de Penas
+faebound_amulet:Amuleto Vínculo de Fadas
+deathgaze_amulet:Amuleto da Morte
+jade_tide:Maré de Jade
+arcanite_grace:Graça de Arcanite
+searing_eye:Olho Cauterizante
+amethyst_ring:Anel de Ametista
+brilliant_ruby_ring:Anel de Rubi Brilhante
+ocean_drop:Gota do Oceano
+noble_ring:Anel Nobre
+violet_blossom:Flor Violeta
+silver_band:Fita de Prata
+necrotic_ring:Anel Necrótico
+regal_ring:Anel Régio
+ember_glow:Luz de Ember
+astral_crown_band:Faixa da Coroa Astral
+golden_serpent_ring:Anel da Serpente Dourada
+emeraldleaf_royal_circle:Círculo Real de Folha Esmeralda
+trinity_ring:Anel da Trindade
+royal_sigil:Sigilo Real
+kingsguard_symbol:Símbolo da Guarda Real
+crystalshroud_vestments:Vestes do Véu de Cristal
+runewoven_initiate_robes:Vestes do Iniciado Tecidas com Runas
+acolythes_robes:Vestes do Acólito
+wandering_witches_dress:Vestido da Bruxa Errante
+exiled_scholars_garment:Traje do Erudito Exilado
+wondrous_healers_robes:Vestes do Curandeiro Maravilhoso
+silent_jacket:Jaqueta Silenciosa
+foreststalker_garb:Traje do Rastreador da Floresta
+shadow_vest:Colete da Sombra
+fletchers_tunic:Túnica do Flecheiro
+pelt_armor:Armadura de Pelagem
+whisper_vest:Coletinho do Sussurro
+ironwall_plate:Placa de Parede de Ferro
+battleforged_plate:Placa Forjada em Batalha
+seastone_bastion:Bastião de Pedra do Mar
+silver_scale_mail:Cota de Malha de Escamas de Prata
+bronze_mail:Malha de Bronze
+winter_warden:Guardião do Inverno
+elven_sage_garb:Traje do Sábio Élfico
+royal_wizard_mantle:Mantel do Mago Real
+grand_sorcerers_robes:Vestes do Grande Feiticeiro
+sages_robes:Vestes do Sábio
+arcane_sovereigns_robes:Vestes do Soberano Arcano
+highwardens_armor:Armadura do Alto Guardião
+dragonhunter_armor:Armadura do Caçador de Dragões
+trackers_vest:Colete do Rastreador
+praetors_war_harness:Arreios de Guerra do Prelado
+smugglers_vest:Colete do Contrabandista
+goldweave_warcoat:Casaco de Guerra Goldweave
+oceanleaf_vestments:Vestes Oceanleaf
+umbral_vanguard:Vanguarda Umbral
+platinum_aegis:Égide de Platina
+emerald_scale_armor:Armadura de Escamas de Esmeralda
+hellfire_plate:Placa de Fogo Infernal
+mirageforge_aegis:Égide Mirageforge
+crystalshroud_bracers:Braçadeiras Crystalshroud
+acolythes_gloves:Luvas do Acólito
+wandering_witches_bracers:Braçadeiras da Bruxa Errante
+exiled_scholars_gloves:Luvas do Erudito Exilado
+wondrous_healers_gloves:Luvas do Curandeiro Maravilhoso
+silent_bracers:Braçadeiras Silenciosas
+foreststalker_hands:Mãos do Perseguidor da Floresta
+shadow_guards:Guardas das Sombras
+fletchers_braceletes:Braceletes do Flecheiro
+pelt_handguards:Proteções de Mão de Peles
+whisper_gloves:Luvas do Sussurro
+ironwall_gauntlets:Manoplas de Muralha de Ferro
+battleforged_guards:Guardas Forjados em Batalha
+seastone_grip:Seastone Grip
+silver_scale_hands:Mãos de Escama Prateada
+bronze_fists:Punhos de Bronze
+steel_fists:Punhos de Aço
+elven_sage_guards:Guardas do Sábio Élfico
+royal_wizard_catalysts:Catalisadores do Mago Real
+grand_sorcerers_gloves:Luvas do Grande Feiticeiro
+sages_gloves:Luvas do Sábio
+arcane_sovereigns_hands:Mãos do Soberano Arcano
+highwardens_protectors:Protetores do Alto Guardião
+dragonhunter_gloves:Luvas do Caçador de Dragões
+trackers_gloves:Luvas do Rastreador
+smugglers_gloves:Luvas do Contrabandista
+goldweave_armguards:Braçadeiras de Tecido Dourado
+oceanleaf_arms:Braços de Folha do Oceano
+umbral_claws:Garras Umbráticas
+platinum_protectors:Protetores de Platina
+blood_crown_gauntlets:Manoplas da Coroa de Sangue
+hellfire_wrath:Ira do Fogo Infernal
+mirageforge_hands:Mãos da Forja de Miragens
+crystalshroud_hat:Chapéu Crystalshroud
+runewoven_initiate_shroud:Manto de Iniciado Runewoven
+acolythes_hat:Chapéu do Acólito
+wandering_witches_hood:Capuz da Bruxa Errante
+exiled_scholars_hood:Capuz do Erudito Exilado
+eastern_mage_hood:Capuz do Mago Oriental
+silent_hat:Chapéu Silencioso
+foreststalker_helmet:Elmo do Perseguidor da Floresta
+shadow_hat:Chapéu da Sombra
+fletchers_helmet:Elmo do Flecheiro
+hardened_leather_helmet:Elmo de Couro Endurecido
+whisper_shroud:Manto do Sussurro
+ironwall_helmet:Elmo Muralha de Ferro
+battleforged_helmet:Elmo Forjado em Batalha
+seastone_helmet:Elmo de Pedra do Mar
+silver_scale_helmet:Elmo de Escamas de Prata
+bronze_helmet:Elmo de Bronze
+protectors_helmet:Elmo do Protetor
+elven_sage_hood:Capuz do Sábio Élfico
+royal_wizards_hat:Chapéu do Mago Real
+grand_sorcerers_shroud:Manto do Grande Feiticeiro
+sages_shroud:Manto do Sábio
+greenseer_hood:Capuz do Vidente Verde
+highwardens_hood:Capuz do Alto Guardião
+dragonhunter_helmet:Elmo do Caçador de Dragões
+trackers_hat:Chapéu do Rastreador
+praetors_helmet:Elmo do Prelado
+smugglers_turban:Turbante do Contrabandista
+explorers_helmet:Elmo do Explorador
+umbral_crown:Coroa Umbral
+platinum_helmet:Elmo de Platina
+chain_mail_helmet:Elmo de Cota de Malha
+crown_of_demise:Coroa da Morte
+legion_helmet:Elmo da Legião
+crystalshroud_shoes:Sapatos do Véu Cristalino
+runewoven_initiate_boots:Botas do Iniciado Tecimurais
+acolythes_boots:Botas do Acólito
+wandering_witches_shoes:Sapatos das Bruxas Errantes
+exiled_scholars_boots:Botas do Erudito Exilado
+wondrous_healers_boots:Botas do Curandeiro Maravilhoso
+silent_boots:Botas Silenciosas
+foreststalker_boots:Botas do Rastreador da Floresta
+shadow_boots:Botas das Sombras
+fletchers_shoes:Calçados do Flecheiro
+pelt_boots:Botas de Peles
+whisper_boots:Botas do Sussurro
+ironwall_boots:Botas da Muralha de Ferro
+battleforged_boots:Botas Forjadas na Batalha
+seastone_boots:Botas de Pedra do Mar
+silver_scale_shoes:Calçados de Escamas de Prata
+bronze_boots:Botas de Bronze
+winter_walkers:Caminhadores do Inverno
+elven_sage_shoes:Calçados do Sábio Élfico
+royal_wizard_shoes:Calçados do Feiticeiro Real
+grand_sorcerers_boots:Botas do Grande Feiticeiro
+sages_boots:Botas do Sábio
+arcane_sovereigns_shoes:Calçados do Soberano Arcano
+highwardens_shoes:Calçados do Alto Guardião
+dragonhunter_boots:Botas do Caçador de Dragões
+trackers_boots:Botas do Rastreador
+praetors_sandals:Sandálias do Pretor
+smugglers_boots:Botas do Contrabandista
+goldweave_boots:Botas de Tecido de Ouro
+oceanleaf_shoes:Sapatos Folha do Oceano
+umbral_boots:Botas Umbriais
+platinum_boots:Botas de Platina
+dragon_bone_boots:Botas de Osso de Dragão
+royal_guard_boots:Botas da Guarda Real
+blood_lord_boots:Botas do Senhor do Sangue
+sharp_corkscrew:Saca-rolhas Afiado
+silent_edge:Lâmina Silenciosa
+nightstalker:Espreitador Noturno
+quickfang:Presa Rápida
+starsteel_dagger:Adaga de Aço-Estrela
+skyfeather_talon:Garra da Pena do Céu
+gleamstrike:Golpe Brilhante
+heartbreaker:Destruidor de Corações
+rosefeather_song:Canção da Pena de Rosa
+verdant_glory:Glória Verdejante
+blood_magic_scepter:Cetro de Magia Sangrenta
+fangspire_rod:Fangspire Vara
+wildvine_scepter:Wildvine Cetro
+goldenglow_staff:Goldenglow Cajado
+battlemage_staff:Battlemage Cajado
+diamondflare_staff:Diamondflare Cajado
+manaflow_staff:Manaflow Cajado
+harmonia:Harmonia
+lunarglow_staff:Lunarglow Cajado
+aetherions_eye:Olho de Aetherion
+bloodbinder:Ligador de Sangue
+necrotic_blade:Lâmina Necrótica
+leafsong_blade:Lâmina Folhacanção
+malefic_edge:Gume Maléfico
+brilliant_blade:Lâmina Brilhante
+obsidian_storm:Tempestade de Obsidiana
+arctic_slash:Corte Ártico
+dragon_eye_blade:Lâmina Olho de Dragão
+first_song:Primeira Canção
+last_song:Última Canção
+glyphshard:Fragmento de Glifo
+duskveil_bow:Arco Véu do Crepúsculo
+storm_piercer:Perfurador da Tempestade
+darkblow:Golpe Sombrio
+leafshot:Disparo de Folha
+sunsting:Picada Solar
+dragonshot:Disparo de Dragão
+starlight_bow:Arco Luz das Estrelas
+doom_bringer:Portador da Destruição
+blood_wing:Asa Sangrenta
+fae_binder:Ligador de Fadas
+skullsplitter:Divisor de Crânios
+grimaxe:Machado Sinistro
+forgotten_axe:Machado Esquecido
+anchor_axe:Machado Âncora
+frozen_monarch:Monarca Congelado
+blood_reaver:Ceifador de Sangue
+thunderstrike:Golpe de Trovão
+divine_smite:Golpe Divino
+golden_order:Ordem Dourada
+blightreaver:Ceifador da Praga

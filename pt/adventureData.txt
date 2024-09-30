@@ -205,7 +205,14 @@ alreadyReceivedDailyAdventureRewards:Este jogador já recebeu seus drops diário
 adventureNotLive:Você precisa estar ao vivo na Twitch para começar a aventura!
 divine_staff:Cajado Divino
 effect_divine_staff:O jogador empunha um cajado antigo projetado para destruir todas as abominações. // +500% de dano contra abominações
-check_min_morale:Sua moral precisa estar mais alta para selecionar esta opção.
+check_min_morale:Só pode ser selecionado se a moral do seu grupo for maior que o valor exibido.
 min_morale:Exigência Mínima de Moral
-check_max_morale:Sua moral precisa estar mais baixa para selecionar esta opção.
+check_max_morale:Só pode ser selecionado se a moral do seu grupo for menor que o valor exibido.
 max_morale:Moral Máxima Permitida
+check_accuracy:Alta precisão necessária.
+accuracy:Precisão
+check_armor:Armadura poderosa necessária.
+armor:Armadura
+check_evasion:Esquivas rápidas necessárias.
+evasion:Esquiva
+manipulateVoting:Manipular votação

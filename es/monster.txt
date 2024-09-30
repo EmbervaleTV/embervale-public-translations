@@ -1468,3 +1468,9 @@ book_mimic_bounty:Caza al escurridizo Mimetizador de Libros, que acecha entre la
 darkness_crawler_azrkoth:Reptador de la Oscuridad Azr’koth
 darkness_crawler_azrkoth_bestiary:Una grotesca fusión de hombre y araña, Azr’koth deambula por el Bosque Crepuscular. Se le conoce por guiar a los aventureros perdidos hacia la seguridad o atraparlos en sus redes para un cruel festín. Su naturaleza impredecible lo hace tanto temido como buscado por aquellos lo suficientemente valientes—o tontos—como para entrar en su dominio.
 darkness_crawler_azrkoth_bounty:Busca al Reptador Oscuro Azr’koth, la abominación humano-araña de los Bosques del Ocaso. A veces un guía, a veces un depredador, elige si salvar o devorar a los que cruzan su camino.
+loyal_wolf:Lobo Leal
+consumed_hero:Héroe Consumido
+loyal_wolf_bestiary:Una vez un compañero noble, el Lobo Leal siguió a su amo al corazón de un mal antiguo. Ahora, sus ojos, que antes eran brillantes, parpadean con sombras, atado para siempre a un amo corrupto.
+consumed_hero_bestiary:Un héroe que sacrificó su alma para salvar a su compañero lobo, el Héroe Consumido ahora vaga como una retorcida reflexión de su antiguo yo. Su noble corazón corrompido, sirve a la oscuridad que una vez buscó destruir.
+loyal_wolf_bounty:Un lobo noble transformado en oscuro por la corrupción de su amo. Aún sigue órdenes, pero ha perdido su antigua gracia.
+consumed_hero_bounty:Antiguamente un héroe, ahora un receptáculo corrupto de un mal antiguo. Busca la redención pero está atado a la oscuridad.

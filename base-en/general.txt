@@ -243,10 +243,14 @@ sell:Sell
 purchase:Purchase
 newItemSlot:A new item slot has been added to the shop!
 shopRefresh:Shop Refresh
+freeShopRefresh:Free Shop Refresh
 buyArcanites:Buy Arcanites
 emeraldShop:Buy Arcanites
 donate:Donate
 reputationExplaination:Donate unused materials to the merchant to increase your reputation and receive temporarily better items!
+reputationShopKeeperExplaination1:Greetings, traveler! I’m happy to buy any equipment you wish to sell.
+reputationShopKeeperExplaination2:If you have spare materials or consumables, feel free to donate them—I’ll make good use of them.
+reputationShopKeeperExplainationSpeaker:Donating materials and consumables will increase your reputation with the shopkeeper, granting you temporary access to better items.
 reputationDonate:How many do you want to donate?
 reputationDonateConfirmation:You are about to donate {materialAmountToSpend} out of your {materialAmount} {selectedMaterial}:
 useThatCodeToSupport:Use the code {refCode} when purchasing to support {streamerName}.
@@ -267,6 +271,7 @@ successGiftingBundle:Thank you for gifting the {bundleName} to {Playername}!
 ayetStudioConfirming:Thank you for watching the ad! Your Arcanites should be credited to your account within the next 60 seconds. You can go ahead and close this window—we'll notify you once the credits are added!
 ayetStudioDailyLimit:Please come back tomorrow for more Arcanites!
 ayetStudioNoFill:Sorry, no ads are available at the moment. Please check back in a few minutes.
+ayetStudioNoFillRetry:Sorry, no ads available at the moment. Retrying in:
 
 mythical_bundle:Mythical Bundle
 legendary_bundle:Legendary Bundle
@@ -379,7 +384,7 @@ loadingTip11:Luck increases the damage of critical strikes.
 loadingTip12:Knights are heavily armored and carry a shield, giving them a natural advantage against dexterity-based classes.
 loadingTip13:The Ranger's quickdraw ability allows them to strike twice once in a while.
 loadingTip14:Warriors use a lifestone to drain their enemies' HP with every hit. However, the power of the stone decays quickly.
-loadingTip15:The Rogue is a master of stealth and evasion, making it much harder for ranged attackers to land hits.
+loadingTip15:The Rogue is a master of stealth and evasion, making it much harder attackers to land hits.
 loadingTip16:Make sure to get your glossary filled to earn XP more quickly!
 loadingTip17:Did you know that defeating an opponent in the arena will add all their armor, weapons, and skins to your Glossary?
 loadingTip18:All classes have different HP and damage scalings. They can only wear one designated type of armor: heavy, medium, or light.
@@ -431,6 +436,11 @@ thisActionTakesSkillPoints:This action will use { pointsToSkillStat } skill poin
 remainingPoints:Remaining points: { points } skill points
 quick_sell:Quick sell
 inventory:Inventory
+upgrade:Upgrade
+upgradeInventory:Upgrade Inventory
+yourMaximumInventorySize:You currently have a maximum inventory size of {inventorySize}
+eachUpgradeCostsMore:Each upgrade costs more. This upgrade costs
+fullyUpgradedInventory:You fully upgraded your inventory!
 weight:Weight
 resetSkillPoints:Reset skill points
 report:Report
@@ -586,9 +596,13 @@ adventurer_female:Adventurer
 squire_male:Squire
 squire_female:Squire
 
+unequip_male:Unequip title
+unequip_female:Unequip title
+
 // expedition
 exitExpeditionConfirmationHeadline:Exit Expedition
 exitExpeditionConfirmationText:You will retain all items collected so far. Would you like to proceed?
+expeditionResourceDepleted:This resource has just been depleted! Please try a different one!
 possibleResources:Possible resources:
 howLongDoYouWantToExplore:How long do you want to explore?
 
@@ -632,3 +646,4 @@ rare_badges:Rare Badges
 alpha-badge:Alpha Badge
 patreon-badge:Patreon Badge
 beast-slayer-badge:Beast Slayer Badge
+unequip:Unequip

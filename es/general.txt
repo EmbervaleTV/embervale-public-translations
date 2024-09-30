@@ -302,7 +302,7 @@ loadingTip11:La suerte aumenta el daño de los golpes críticos.
 loadingTip12:Los caballeros están fuertemente armados y llevan un escudo, dándoles una ventaja natural contra las clases basadas en destreza.
 loadingTip13:La habilidad de desenfunde rápido del Guardabosques le permite atacar dos veces de vez en cuando.
 loadingTip14:Los guerreros utilizan una piedra vital para drenar la HP de sus enemigos con cada golpe. Sin embargo, el poder de la piedra se agota rápidamente.
-loadingTip15:El Pícaro es un maestro del sigilo y la evasión, haciéndolo mucho más difícil que los atacantes a distancia den en el blanco.
+loadingTip15:El Pícaro es un maestro del sigilo y la evasión, lo que dificulta mucho más a los atacantes acertar golpes.
 loadingTip16:¡Asegúrate de completar tu glosario para ganar XP más rápido!
 loadingTip17:¿Sabías que derrotar a un oponente en la arena añadirá toda su armadura, armas y aspectos a tu Glosario?
 loadingTip18:Todas las clases tienen diferentes escalas de HP y daño. Solo pueden usar un tipo designado de armadura: pesada, media o ligera.
@@ -521,3 +521,17 @@ anonymously:Anónimamente
 hideMyNameInChat:(Esto oculta tu nombre en el chat de los streamers cuando usas el código del creador)
 alreadyClaimed:Ya has reclamado esta recompensa. (Esto puede ocurrir si el juego está abierto en múltiples instancias.)
 pleaseConfirmNameChange:Por favor, confirma que deseas renombrar {current_name} a {new_name} por 25 Arcanites.
+upgradeInventory:Mejorar Inventario
+ayetStudioNoFillRetry:Lo siento, no hay anuncios disponibles en este momento. Reintentando en:
+expeditionResourceDepleted:¡Este recurso acaba de agotarse! ¡Por favor, intenta con otro!
+unequip_male:Desarmar título
+unequip_female:Desarmar título
+unequip:Desarmar
+reputationShopKeeperExplainationSpeaker:Donar materiales y consumibles aumentará tu reputación con el tendero, otorgándote acceso temporal a mejores objetos.
+reputationShopKeeperExplaination1:¡Saludos, viajero! Estoy feliz de comprar cualquier equipo que desees vender.
+reputationShopKeeperExplaination2:Si tienes materiales o consumibles de sobra, siéntete libre de donarlos—les daré buen uso.
+freeShopRefresh:Actualización de Tienda Gratis
+upgrade:Mejorar
+yourMaximumInventorySize:Actualmente tienes un tamaño máximo de inventario de {inventorySize}
+eachUpgradeCostsMore:Cada mejora cuesta más. Esta mejora cuesta
+fullyUpgradedInventory:¡Has mejorado completamente tu inventario!

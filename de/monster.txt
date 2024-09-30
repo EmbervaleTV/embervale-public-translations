@@ -1468,3 +1468,9 @@ book_mimic_bounty:Jage den schwer fassbaren Buch-Mimik, der zwischen den Regalen
 darkness_crawler_azrkoth:Dunkelheitskriecher Azr’koth
 darkness_crawler_azrkoth_bestiary:Eine groteske Kombination aus Mensch und Spinne, durchstreift Azr’koth den schattigen Dämmerwald. Es ist bekannt dafür, verloren gegangene Abenteurer entweder in Sicherheit zu führen oder sie in seine Netze zu verstricken und grausam zu verspeisen. Seine unvorhersehbare Natur macht es sowohl gefürchtet als auch gesucht von denen, die mutig – oder töricht – genug sind, sein Reich zu betreten.
 darkness_crawler_azrkoth_bounty:Suche den Dunkelkriecher Azr’koth, die spinnmenschliche Abscheulichkeit des Dämmerwaldes. Manchmal ein Führer, manchmal ein Raubtier, entscheidet er, ob er diejenigen rettet oder verschlingt, die seinen Weg kreuzen.
+loyal_wolf:Loyaler Wolf
+consumed_hero:Verschlungener Held
+loyal_wolf_bestiary:Einst ein edler Gefährte, folgte der Loyale Wolf seinem Meister ins Herz eines uralten Bösen. Jetzt flackern seine ehemals leuchtenden Augen mit Schatten, für immer an einen korrumpierten Meister gebunden.
+consumed_hero_bestiary:Ein Held, der seine Seele opferte, um seinen Wolfskameraden zu retten, wandelt der Verschlungene Held nun als verzerrte Reflexion seines früheren Selbst. Sein edles Herz verdorben, dient er der Dunkelheit, die er einst zu zerstören suchte.
+loyal_wolf_bounty:Ein edler Wolf, der durch die Korruption seines Meisters dunkler wurde. Befolgt immer noch Befehle, hat aber seine frühere Anmut verloren.
+consumed_hero_bounty:Einst ein Held, jetzt ein korrumpiertes Gefäß uralten Bösens. Sucht Erlösung, ist aber an die Dunkelheit gebunden.

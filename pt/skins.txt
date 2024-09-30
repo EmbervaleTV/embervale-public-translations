@@ -82,3 +82,5 @@ skin_scholar:Erudito
 skin_scholar_description:Obtido por ???
 skin_forest_mage:Mago da Floresta
 skin_forest_mage_description:Obtido por ???
+skin_adventurer:Armadura de Aventureiro
+skin_adventurer_description:Obtível por ???

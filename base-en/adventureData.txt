@@ -24,6 +24,7 @@ chooseRewardRecipient:Choose reward recipient
 voting:Voting
 alreadyReceivedDailyAdventureRewards:This player has already received their daily adventure drops. Please assign them to someone else.
 adventureNotLive:You need to be live on Twitch to start the adventure!
+manipulateVoting:Manipulate voting
 
 adventureEndMessageMoraleZero:The morale of the group is too low to continue the adventure. You decide to return home.
 adventureEndMessageAllDead:The group can no longer continue to fight. You decide to return home.
@@ -197,28 +198,37 @@ fainted:Fainted
 // Checks
 check_strength:A lot of physical strength is required.
 strength:Strength
+check_wisdom:The wise among us might have an answer to this problem.
+wisdom:Wisdom
+check_dexterity:Those possessing exceptional dexterity will excel.
+dexterity:Dexterity
+check_accuracy:High precision required.
+accuracy:Accuracy
+check_luck:Are you feeling lucky today?
+luck:Luck
+check_vitality:Those blessed with remarkable vitality will prosper.
+vitality:Vitality
+
 check_alchemist:Those skilled in alchemy will more likely succeed.
 alchemist:Alchemist
 check_smith:Those with a talent for smithing will thrive.
 smith:Smith
 check_cook:Those with a talent for cooking will flourish.
 cook:Cook
-check_wisdom:The wise among us might have an answer to this problem.
-wisdom:Wisdom
-check_luck:Are you feeling lucky today?
-luck:Luck
-check_vitality:Those blessed with remarkable vitality will prosper.
-vitality:Vitality
+
 check_mag_resistance:Those gifted with formidable magic resistance shall prevail.
 mag_resistance:Magic Resistance
-check_speech:Solving this problem will require some charisma.
-speech:Speech
-check_dexterity:Those possessing exceptional dexterity will excel.
-dexterity:Dexterity
+check_armor:Powerful armor needed.
+armor:Armor
+check_evasion:Swift dodges necessary.
+evasion:Evasion
+
 check_morale:Is the morale in the party high enough to overcome this hindrance?
 morale:Morale
 check_fame:The most experienced adventurers will know the solution.
 fame:Fame
+check_speech:Solving this problem will require some charisma.
+speech:Speech
 
 // Global Adventure Effects
 bright_hair:Everyone's hair is colored brightly.
@@ -227,9 +237,9 @@ effect_bright_hair:Bright Hair
 check_coin_stack:This option requires a coin stack.
 coin_stack:Coin
 
-check_min_morale:Your morale needs to be higher to select this option.
+check_min_morale:Only selectable if your party morale is higher than the displayed amount.
 min_morale:Minimum Required Morale
-check_max_morale:Your morale needs to be lower to select this option.
+check_max_morale:Only selectable if your party morale is lower than the displayed amount
 max_morale:Maximum Allowed Morale
 
 errNoCoinStack:Your group doesn't have enough coins!

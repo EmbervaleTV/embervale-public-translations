@@ -1350,7 +1350,6 @@ stone_knight_beta_bounty:Este cavaleiro de pedra está pronto para esmagar a com
 tree_magical_bounty:Uma árvore mística com uma casca pior do que sua mordida.
 melee_tree_bounty:Os galhos dessa árvore têm um soco sério.
 tree_skirmisher_bounty:Encontre e derrote este esquivo adversário arbóreo.
-```
 arcane_tree_bounty:Cace esta árvore mágica e dissipe a força arcana que ela possui.
 twin_snow_golem_bounty:Enfrente a ira gélida destes companheiros gelados e derreta sua resolução fria.
 fire_bull_bounty:Teste sua coragem contra este bovino flamejante e evite se queimar.
@@ -1469,4 +1468,9 @@ book_mimic_bounty:Cace o esquivo Book Mimic, escondido entre as prateleiras, esp
 darkness_crawler_azrkoth:Rastejante da Escuridão Azr'koth
 darkness_crawler_azrkoth_bestiary:Uma grotesca fusão de homem e aranha, Azr'koth vagueia pela sombria Mata do Crepúsculo. Sabe-se que ele guia aventureiros perdidos para a segurança ou os enreda em suas teias para um festim cruel. Sua natureza imprevisível faz com que seja temido e buscado por aqueles que são corajosos—ou tolos—o suficiente para entrar em seu domínio.
 darkness_crawler_azrkoth_bounty:Procure o Darkness Crawler Azr’koth, a abominação aranha-humana do Dusk Wood. Às vezes um guia, às vezes um predador, ela escolhe salvar ou devorar aqueles que cruzam seu caminho.
-```void_gargoyle_bounty:Traga a besta filosófica de volta da crise existencial.
+loyal_wolf:Lobo Leal
+consumed_hero:Herói Consumido
+loyal_wolf_bestiary:Outrora um nobre companheiro, o Lobo Leal seguiu seu mestre até o coração de um mal antigo. Agora, seus olhos outrora brilhantes tremeluzem com sombras, para sempre preso a um mestre corrompido.
+consumed_hero_bestiary:Um herói que sacrificou sua alma para salvar seu companheiro lobo, o Herói Consumido agora vagueia como um reflexo distorcido de seu antigo eu. Seu coração nobre corrompido, ele serve a própria escuridão que outrora buscou destruir.
+loyal_wolf_bounty:Um lobo nobre transformado pela corrupção de seu mestre. Ainda segue comandos, mas perdeu sua antiga graça.
+consumed_hero_bounty:Outrora um herói, agora um vaso corrompido de um mal antigo. Busca redenção, mas está preso pela escuridão.
