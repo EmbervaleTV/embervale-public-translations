@@ -3,7 +3,7 @@ notStarted:Твое путешествие еще не началось!
 cmdUnknownError:Произошла неизвестная ошибка!
 serverOverload:Сервер перегружен! Пожалуйста, повторите попытку позже.
 twitchbotNoAccount:Пожалуйста, создайте своего персонажа в расширении Embervale!
-twitchbotNoActiveChar:Выберите своего активного персонажа в расширении Embervale.
+twitchbotNoActiveChar:Пожалуйста, войдите с вашим персонажем через расширение Embervale или добавьте имя персонажа в конец любой команды.
 adventureNotActive:Активных приключений нет!
 adventureAlreadyIn:Вы уже в приключении!
 adventureNoActiveVoting:Активного голосования нет!
@@ -25,7 +25,10 @@ adventureJoined:присоединился
 adventureCanStart:может начать Приключение
 adventureInProgress:в настоящее время проводит Приключение
 adventureCanJoin:Вы можете присоединиться к Приключению
-adventureLeaveForbidden:Вы можете покинуть только те приключения, которые еще не начались!
+adventureLeaveForbidden:Вы можете покинуть приключение только если оно не началось или если стример был неактивен более 15 минут.
 adventureLeft:вышел
 adventureVotingDisabled:Стример отключил голосование для игроков вне их приключения.
 adventureVoteManipulationDisabled:Стример отключил манипуляции с голосованием.
+adventureYouAreNotInThis:Вы должны быть частью этого приключения, чтобы использовать эту команду!
+adventureLeaderLeaveForbidden:Лидер не может покинуть приключение. Если вы выбрали неправильного персонажа, вы можете сдаться без перезарядки, пока не нажали кнопку «создать».
+twitchbotCharNotFound:Персонаж не найден! Пожалуйста, проверьте правописание.

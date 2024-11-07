@@ -95,6 +95,11 @@ chicken_stew:Chicken Stew
 chicken_stew_craft_description:Replenishes {amount_min1} to {amount_max1} stamina.
 chicken_stew_description:Replenishes {amount_min1} stamina.
 
+roasted_chicken:Roasted Chicken
+roasted_chicken_craft_description:Replenishes {amount_min1} to {amount_max1} stamina.
+roasted_chicken_description:Replenishes {amount_min1} stamina.
+
+
 fruit_basket:Fruit Basket
 fruit_basket_craft_description:Replenishes {amount_min1} to {amount_max1} stamina.
 fruit_basket_description:Replenishes {amount_min1} stamina.
@@ -111,8 +116,29 @@ sea_platter:Sea Platter
 sea_platter_craft_description:Replenishes {amount_min1} to {amount_max1} stamina.
 sea_platter_description:Replenishes {amount_min1} stamina.
 
+pumpkin_treat:Pumpkin Treat
+pumpkin_treat_craft_description:Replenishes {amount_min1} to {amount_max1} stamina. The recipe will dissapear after the Halloween 2024 Event.
+pumpkin_treat_description:Replenishes {amount_min1} stamina.
+
+coins:Coins
+coins_description:Use this to gain copper. Level {level}
 coin_stack:Coin Stack
-coin_stack_description:Use it to gain copper. Level {level}
+coin_stack_description:Use this to gain copper. Level {level}
+coin_pile:Coin Pile
+coin_pile_description:Use this to gain copper. Level {level}
+coin_stash:Coin Stash
+coin_stash_description:Use this to gain copper. Level {level}
+coin_bag:Coin Bag
+coin_bag_description:Use this to gain copper. Level {level}
+
+material_sack:Material Stack
+material_sack_description:Use this to gain a handful of materials. Level {level}
+
+second_chance:Second Chance
+second_chance_description:Use this to reroll a dice.
+secondChanceDonateDescription:This allows the streamer to reroll a dice. After a total of 100 Arcanites are spent, the streamer gains a second chance. It can only be used during the current adventure and purchased once per adventure.
+secondChanceBuyConfirmation:Please confirm that you want to spend {amount} Arcanites to contribute toward the second chance.
+secondChanceLimitReached:The streamer already has a Second Chance. Please try again after they’ve used it.
 
 medium_xp_potion:Medium XP Potion
 medium_xp_potion_description:This potion boosts your XP by {percent}% for {amount} fights!
@@ -154,6 +180,8 @@ royal_chest:Royal Chest
 weapon_chest:Weapon Chest
 armor_chest:Armor Chest
 
+mysterious_pumpkin:Mysterious Pumpkin
+
 mythical_material_chest:Mythical Material Chest
 epic_material_chest:Epic Material Chest
 uncommon_material_chest:Uncommon Material Chest
@@ -163,13 +191,13 @@ chest:Chest
 food:Food
 
 epic_bundle:Epic Bundle
-epic_bundle_description:Gives you {arcanites} Arcanites when consumed and activates the subscription for 30 days.
+epic_bundle_description:Activates the epic subscription for {dayPlaceholder} days.
 
 legendary_bundle:Legendary Bundle
-legendary_bundle_description:Gives you {arcanites} Arcanites when consumed and activates the subscription for 30 days.
+legendary_bundle_description:Activates the legendary subscription for {dayPlaceholder} days.
 
 mythical_bundle:Mythical Bundle
-mythical_bundle_description:Gives you {arcanites} Arcanites when consumed and activates the subscription for 30 days.
+mythical_bundle_description:Activates the mythical subscription for {dayPlaceholder} days.
 
 royal_patreon:Royal Patreon
 mythical_patreon:Mythical Patreon

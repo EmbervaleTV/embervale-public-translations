@@ -387,7 +387,7 @@ straw_bracelet:Bracelet de Paille
 tormenters:Tourmenteurs
 elven_kings_gloves:Gants du Roi Elfe
 decorated_bracelet:Bracelet Décoré
-legendary_adventurers_gloves:Gants de l'Aventurier Légendaire
+legendary_adventurers_gloves:Gants Légendaires de l'Aventurier
 fist_of_midas:Poing de Midas
 reapers_bracelet:Bracelet des Faucheurs
 warlocks_hood:Capuche du Sorcier
@@ -813,8 +813,8 @@ royal_sigil:Sceau Royal
 kingsguard_symbol:Symbole de la Garde Royale
 crystalshroud_vestments:Vêtements de Cristalshroud
 runewoven_initiate_robes:Robes d'Initié Tissées de Runes
-acolythes_robes:Robes d'Acolythe
-wandering_witches_dress:Robe de la Sorcière Errante
+acolythes_robes:Robe d'Acolyte
+wandering_witches_dress:Robe de Sorcière Vagabonde
 exiled_scholars_garment:Habit du Savant Exilé
 wondrous_healers_robes:Robes du Guérisseur Merveilleux
 silent_jacket:Veste Silencieuse
@@ -847,8 +847,8 @@ emerald_scale_armor:Armure d'écailles d'émeraude
 hellfire_plate:Plastron de feu infernal
 mirageforge_aegis:Égide de forge mirage
 crystalshroud_bracers:Brassards de voile cristallin
-acolythes_gloves:Gants d'acolyte
-wandering_witches_bracers:Brassards de sorcières errantes
+acolythes_gloves:Gants d'Acolyte
+wandering_witches_bracers:Brassards de Sorcière Vagabonde
 exiled_scholars_gloves:Gants de savant exilé
 wondrous_healers_gloves:Gants de guérisseur merveilleux
 silent_bracers:Brassards silencieux
@@ -881,8 +881,8 @@ hellfire_wrath:Fureur de Feud'Enfer
 mirageforge_hands:Mains de Forge-Mirage
 crystalshroud_hat:Chapeau de Crystalshroud
 runewoven_initiate_shroud:Manteau d'Initié Runewoven
-acolythes_hat:Chapeau de l'Acolyte
-wandering_witches_hood:Capuche de la Sorcière Errante
+acolythes_hat:Chapeau d'Acolyte
+wandering_witches_hood:Capuche de Sorcière Vagabonde
 exiled_scholars_hood:Capuche du Savant Exilé
 eastern_mage_hood:Capuche du Mage Oriental
 silent_hat:Chapeau Silencieux
@@ -916,7 +916,7 @@ legion_helmet:Casque de Légion
 crystalshroud_shoes:Chaussures de Cristalvoile
 runewoven_initiate_boots:Bottes d'Initié Tissées de Runes
 acolythes_boots:Bottes d'Acolyte
-wandering_witches_shoes:Chaussures de Sorcières Errantes
+wandering_witches_shoes:Chaussures de Sorcière Vagabonde
 exiled_scholars_boots:Bottes d'Érudit Exilé
 wondrous_healers_boots:Bottes de Guérisseur Merveilleux
 silent_boots:Bottes Silencieuses

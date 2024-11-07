@@ -19,6 +19,8 @@ errConsumableInventoryIsFull:Your consumable inventory is full!
 errConsumableInventoryWouldBeFull:This would make your consumable bag too heavy!
 errChestInventoryIsFull:Your chest inventory is full!
 
+errDesyncedObjDoesNotExist: Unable to complete this action. This may happen if the item no longer exists, often caused by playing the game on multiple devices simultaneously.
+
 errNotEnoughArcanites:You don't have enough Arcanites.
 errNotEnoughMoney:You don't have enough gold to buy this!
 errNotEnoughGold:You don't have enough gold to buy this!
@@ -73,7 +75,7 @@ errCantUseThisName:You cannot use this name!
 errThatNameIsTooLong:Your name can be up to 16 characters long!
 errThatNameIsTooShort:Your name must have at least 4 characters!
 errThatNameIsAlreadyInUse:This name is no longer available!
-errPleaseRenameYourCharacter:You need to rename your character!
+errPleaseRenameYourCharacter:You need to rename your character! Since this is a request from us, we've credited you with 25 Arcanites, so you can rename your character for free.
 
 // Guild
 errAlreadyInvitedToGuild:This person is already invited to your guild!

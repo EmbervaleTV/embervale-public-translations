@@ -63,25 +63,25 @@ divine:Divino
 necrotic:Necrótico
 arcane:Arcano
 frost:Gélido
-affinityTooltip:Reduz o dano recebido de {elemental}. Aumenta o dano de {elemental} se a arma estiver infundida com uma runa.
+affinityTooltip:Reduz o dano {elemental} recebido. Converte uma porcentagem do dano da sua arma em dano {elemental} que ignora a armadura e mira na resistência elemental.
 vit:Vitalidade
 vitEffect:Pontos de Vida
 vitDescription:{stat} aumenta a sua saúde total.
 str:Força
 strEffect:Dano Físico
-strDescription:{stat} aumenta o seu dano físico como Cavaleiro & Guerreiro. Aumenta a armadura para todas as outras classes!
+strDescription:{stat} aumenta o dano físico para Cavaleiros e Guerreiros, e aumenta a armadura para todas as outras classes.
 wis:Sabedoria
 wisEffect:Dano Mágico
-wisDescription:{stat} aumenta o seu dano mágico como Mago. Aumenta a resistência mágica para todas as outras classes!
+wisDescription:{stat} melhora o dano mágico para Magos e aumenta a resistência mágica para todas as outras classes.
 dex:Destreza
 dexEffect:Dano de Precisão
-dexDescription:{stat} aumenta o seu dano de destreza. Use como Ranger & Rogue. Aumenta a evasão para todas as outras classes!
+dexDescription:{stat} aumenta o seu dano de destreza. Melhor usado por Patrulheiros & Ladinos. Aumenta a evasão para todas as outras classes e determina quem ataca primeiro.
 acc:Precisão
 accEffect:Precisão & Chance de Crítico
-accDescription:{stat} aumenta sua chance de atingir um golpe crítico no seu oponente e reduz a chance de ele desviar!
+accDescription:{stat} aumenta sua chance de realizar um golpe crítico em seu oponente!
 fame:Fama
-fameEffect:Preços & Negociação
-fameDescription:{stat} melhora suas habilidades de negociação, melhores preços de reabastecimento e melhores resultados em aventuras!
+fameEffect:Negociação
+fameDescription:{stat} melhora suas habilidades de negociação, levando a resultados melhores em aventuras!
 luck:Sorte
 luckEffect:Dano Crítico
 luckDescription:{stat} aumenta o dano dos golpes críticos.
@@ -198,7 +198,6 @@ purchase:Comprar
 newItemSlot:Um novo slot de item foi adicionado à loja!
 shopRefresh:Atualizar Loja
 buyArcanites:Comprar Arcanites
-emeraldShop:Comprar Arcanites
 donate:Doar
 reputationExplaination:Doe materiais não usados para o mercador para aumentar sua reputação e receber temporariamente melhores itens!
 reputationDonate:Quantos você quer doar?
@@ -215,7 +214,6 @@ watchVideo:Assistir vídeo
 completeOffers:Complete ofertas para ganhar Arcanites
 creatorCode:Código do Criador
 allPricesIncVat:Todos os preços incluem IVA.
-confirmGiftingBundle:Tem certeza de que deseja presentear o {bundleName} para {Playername}? (Se eles já tiverem uma assinatura ativa, isso estenderá a assinatura deles.)
 successGiftingBundle:Obrigado por presentear o {bundleName} para {Playername}!
 ayetStudioConfirming:Obrigado por assistir ao anúncio! Seus Arcanites serão creditados em sua conta dentro dos próximos 60 segundos. Você pode fechar esta janela agora - nós o notificaremos assim que os créditos forem adicionados!
 ayetStudioDailyLimit:Por favor, volte amanhã para mais Arcanites!
@@ -348,9 +346,8 @@ maximumFood:Você pode comer no máximo 3 refeições por dia.
 todayYouAte:Hoje você comeu {amount} refeições.
 tradeable:Negociável
 youCanGiftBundle:Você pode presentear esta pessoa com um Pacote.
-hasAlreadySubscriptions:{ username } já possui uma assinatura ativa(s).
-grantsBenefits:Concede a { currentUser.username } 30 dias dos seguintes benefícios.
-receivesOnce:{ username } recebe isso uma vez.
+grantsBenefits:Concede a { currentUser.username } 30 dias dos seguintes benefícios:
+receivesOnce:{ username } recebe isto uma vez:
 giftAnonymously:Presentear Anonimamente
 giftBundle:Presentear Pacote
 items:Itens
@@ -383,7 +380,7 @@ replaySaved:Replay Salvo
 deleteReplay:Excluir Replay
 spectate:Assistir
 errCantSpectate:Esta batalha não existe.
-arenaFightCooldown:Esta barra enche a cada hora!
+arenaFightCooldown:A arena restaura 5 pontos por hora, mas nas expedições, apenas 2, pois a jornada desacelera a recuperação.
 yourSavedBattles:Suas batalhas salvas
 battleEnded:Batalha encerrada
 overwhelming:Avassalador
@@ -398,7 +395,7 @@ block:Bloqueio
 youWon:Você venceu!
 youLost:Você perdeu!
 confirmDeleteReplay:Tem certeza de que deseja excluir este replay?
-replaySavedMsg:Seu replay foi salvo. Você pode assisti-lo na arena. Código:
+replaySavedMsg:Sua repetição foi salva por 7 dias. Você pode assisti-la na arena. Código:
 errTooManyReplays:Você tem muitos replays salvos. Exclua alguns para salvar mais.
 errReplayAlreadySaved:O replay já foi salvo.
 warningTooManyReplays:Você está se aproximando do limite de 10 replays salvos. Por favor, exclua alguns para poder salvar novos.
@@ -420,9 +417,6 @@ talisman:Talismã
 guildBattleEffectPlus:O {effect} de todas as suas unidades será aumentado em {perc}%.
 guildBattleEffectMinus:O {effect} de todas as unidades do oponente será reduzido em {perc}%.
 profession:Profissão
-pleaseChooseJob:Escolha sua profissão principal! (+50% de experiência na profissão)
-pleaseChooseJobConfirmation:Tem certeza de que deseja que {job} seja sua profissão principal? (+50% de experiência na profissão)
-pleaseChooseJobWarning:Você não pode mudar sua profissão principal depois de escolher uma!
 dontOwnRecipe:Você ainda não possui nenhuma receita nesta categoria! Você pode encontrar receitas nas Recompensas!
 craft:Criação
 cook:Cozinhar
@@ -535,3 +529,31 @@ upgrade:Upgrade
 yourMaximumInventorySize:Atualmente, você tem um tamanho máximo de inventário de {inventorySize}
 eachUpgradeCostsMore:Cada upgrade custa mais. Este upgrade custa
 fullyUpgradedInventory:Você atualizou completamente seu inventário!
+info:Informações
+eventShop:Loja de Eventos
+shopRerollInfo1:Uma vez que sua reputação atinge 100%, o lojista não oferecerá mais itens comuns.
+shopRerollInfo2:As chances listadas abaixo representam a probabilidade de cada item em uma única rolagem. Se você desbloqueou 8 espaços na loja, as chances se aplicam 8 vezes, uma para cada espaço.
+shopRerollInfo3:As chances são arredondadas para três casas decimais
+shopRerollBaseChance:Chance base com 0% de reputação por item
+create:Criar
+youReceivedFollowingBenefits:Você ativou {bundle_name} pelos próximos 30 dias!
+shopRefreshTooltip:Você pode atualizar a loja gratuitamente uma vez por dia. Usar cobre ou Arcanites para atualizar a loja não irá reiniciar o temporizador de atualização gratuita diária.
+copperExplaination:100 Cobre é igual a 1 Prata, e 100 Prata é igual a 1 Ouro
+eyebrows:Sobrancelhas
+hoarders-badge:Insígnia do Acumulador
+hoarders-badge_desc:Ouro Ouro Ouro!
+councilor_male:Conselheiro
+councilor_female:Conselheira
+endpointDisabled:Esta função está temporariamente desativada para manutenção e estará de volta em breve!
+arcaniteShop:Loja de Arcanite
+buyBundle:Comprar Pacote
+confirmGiftingBundleConsumable:Tem certeza que deseja presentear o {bundleName} para {Playername}? Eles receberão um consumível para ativar o pacote por conta própria. Arcanites serão adicionados imediatamente.
+grantsYouBenefits:Concede a todos os personagens desta conta os seguintes benefícios por 30 dias:
+youReceiveOnce:Você recebe isso uma vez:
+confirmPurchaseBundleConsumable:Tem certeza de que deseja comprar {bundleName}?
+successPurchaseBundle:Obrigado por adquirir {bundleName}!
+potionAlreadyActive:Você já tem uma poção ativa. Isso substituirá sua poção ativa atual!
+cookebotNoConsent:Você não aceitou todos os cookies necessários, incluindo marketing e análises. Isso pode impedir o recebimento de anúncios recompensados.
+emeraldShop:Loja Arcanite
+halloween-2024-badge:Distintivo de Halloween 2024
+halloween-2024-badge_desc:Obtido ao completar todas as Missões do Evento de Halloween

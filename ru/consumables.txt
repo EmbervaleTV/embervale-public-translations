@@ -83,7 +83,7 @@ sea_platter:Морское блюдо
 sea_platter_craft_description:Восстанавливает от {amount_min1} до {amount_max1} выносливости.
 sea_platter_description:Восстанавливает {amount_min1} выносливости.
 coin_stack:Куча монет
-coin_stack_description:Используйте, чтобы получить медь. Уровень {level}
+coin_stack_description:Используйте это, чтобы получить медь. Уровень {level}
 medium_xp_potion:Среднее зелье опыта
 medium_xp_potion_description:Это зелье увеличивает ваш опыт на {percent}% на {amount} боёв!
 recipe:Рецепт
@@ -123,14 +123,36 @@ chest:Сундук
 food:Еда
 royal_chest:Королевский Сундук
 epic_bundle:Эпический набор
-epic_bundle_description:Даёт вам {arcanites} Arcanites при использовании и активирует подписку на 30 дней.
+epic_bundle_description:Активирует эпическую подписку на {dayPlaceholder} дней.
 legendary_bundle:Легендарный набор
-legendary_bundle_description:Даёт вам {arcanites} Arcanites при использовании и активирует подписку на 30 дней.
+legendary_bundle_description:Активирует легендарную подписку на {dayPlaceholder} дней.
 mythical_bundle:Мифический набор
-mythical_bundle_description:Даёт вам {arcanites} Arcanites при использовании и активирует подписку на 30 дней.
+mythical_bundle_description:Активирует мифическую подписку на {dayPlaceholder} дней.
 royal_patreon:Королевский Patreon
 mythical_patreon:Мифический Patreon
 legendary_patreon:Легендарный Patreon
 epic_patreon:Эпический Patreon
 great_patreon:Великий Patreon
 patreon:Patreon
+material_sack:Материальный мешок
+material_sack_description:Используйте это, чтобы получить горсть материалов. Уровень {level}
+second_chance:Второй Шанс
+second_chance_description:Используйте это, чтобы перебросить кубик.
+secondChanceBuyConfirmation:Пожалуйста, подтвердите, что хотите потратить {amount} Arcanites, чтобы внести вклад во второй шанс.
+secondChanceDonateDescription:Это позволяет стримеру перебросить кубик. После того, как будет потрачено в общей сложности 100 Arcanite, стример получает второй шанс. Его можно использовать только во время текущего приключения и приобрести только один раз за приключение.
+pumpkin_treat:Тыквенное угощение
+pumpkin_treat_craft_description:Восстанавливает от {amount_min1} до {amount_max1} выносливости. Рецепт исчезнет после события Хэллоуин 2024.
+pumpkin_treat_description:Восстанавливает {amount_min1} выносливости.
+mysterious_pumpkin:Загадочная тыква
+secondChanceLimitReached:У стримера уже есть Второй Шанс. Пожалуйста, попробуйте снова после его использования.
+coin_bag:Мешок с монетами
+coin_bag_description:Используйте это, чтобы получить медь. Уровень {level}
+coin_stash:Тайник с монетами
+coin_stash_description:Используйте это, чтобы получить медь. Уровень {level}
+coins:Монеты
+coins_description:Используйте это, чтобы получить медь. Уровень {level}
+coin_pile:Куча монет
+coin_pile_description:Используйте это, чтобы получить медь. Уровень {level}
+roasted_chicken:Жареная курица
+roasted_chicken_craft_description:Восстанавливает от {amount_min1} до {amount_max1} выносливости.
+roasted_chicken_description:Восстанавливает {amount_min1} выносливости.

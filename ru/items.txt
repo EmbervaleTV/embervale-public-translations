@@ -387,7 +387,7 @@ straw_bracelet:Соломенный Браслет
 tormenters:Мучители
 elven_kings_gloves:Перчатки Эльфийского Короля
 decorated_bracelet:Украшенный Браслет
-legendary_adventurers_gloves:Перчатки Легендарного Авантюриста
+legendary_adventurers_gloves:Легендарные перчатки авантюриста
 fist_of_midas:Кулак Мидаса
 reapers_bracelet:Браслет Жнеца
 warlocks_hood:Капюшон Колдуна
@@ -813,8 +813,8 @@ royal_sigil:Королевский Символ
 kingsguard_symbol:Символ Королевской Гвардии
 crystalshroud_vestments:Одеяния Кристального Покрова
 runewoven_initiate_robes:Одеяния Посвященного Тканые Руной
-acolythes_robes:Одеяния Акколита
-wandering_witches_dress:Платье Бродячей Ведьмы
+acolythes_robes:Одеяние Аколита
+wandering_witches_dress:Платье странствующей ведьмы
 exiled_scholars_garment:Одеяние Изгнанного Учёного
 wondrous_healers_robes:Чудесные Одеяния Целителя
 silent_jacket:Тихая Куртка
@@ -881,8 +881,8 @@ hellfire_wrath:Гнев Адского Огня
 mirageforge_hands:Руки Кузницы Миражей
 crystalshroud_hat:Шапка Хрустальной Завесы
 runewoven_initiate_shroud:Мантия Рунотканого Посвященного
-acolythes_hat:Шляпа Послушника
-wandering_witches_hood:Капюшон Странствующей Ведьмы
+acolythes_hat:Шляпа Аколита
+wandering_witches_hood:Капюшон странствующей ведьмы
 exiled_scholars_hood:Капюшон Изгнанного Ученого
 eastern_mage_hood:Капюшон Восточного Мага
 silent_hat:Шляпа Молчания
@@ -916,7 +916,7 @@ legion_helmet:Шлем Легиона
 crystalshroud_shoes:Сапоги из Кристальной Мантии
 runewoven_initiate_boots:Сапоги Посвященного в Плетение Рун
 acolythes_boots:Сапоги Аколита
-wandering_witches_shoes:Башмаки Блуждающей Ведьмы
+wandering_witches_shoes:Туфли странствующей ведьмы
 exiled_scholars_boots:Сапоги Изгнанного Ученого
 wondrous_healers_boots:Сапоги Дивного Целителя
 silent_boots:Тихие Ботинки

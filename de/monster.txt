@@ -148,7 +148,7 @@ goblin_rider:Goblin Reiter
 goblin_sorcerer:Goblin Zauberer
 flying_leech:Fliegender Blutegel
 behemoth:Koloss
-ice_snake:Eisschlange
+ice_snake:Eisnatter
 gnoll_shaman:Gnoll Schamane
 undead_gnoll:Untoter Gnoll
 skeleton_commander:Skelettkommandant
@@ -1474,3 +1474,50 @@ loyal_wolf_bestiary:Einst ein edler Gefährte, folgte der Loyale Wolf seinem Mei
 consumed_hero_bestiary:Ein Held, der seine Seele opferte, um seinen Wolfskameraden zu retten, wandelt der Verschlungene Held nun als verzerrte Reflexion seines früheren Selbst. Sein edles Herz verdorben, dient er der Dunkelheit, die er einst zu zerstören suchte.
 loyal_wolf_bounty:Ein edler Wolf, der durch die Korruption seines Meisters dunkler wurde. Befolgt immer noch Befehle, hat aber seine frühere Anmut verloren.
 consumed_hero_bounty:Einst ein Held, jetzt ein korrumpiertes Gefäß uralten Bösens. Sucht Erlösung, ist aber an die Dunkelheit gebunden.
+dark_elf_healer:Dunkelelfen-Heiler
+nightmare_stalker:Albtraum-Stalker
+headless_horseman:Kopfloser Reiter
+shadow_creature:Schattenkreatur
+dark_elf_healer_bestiary:Ein geschickter Heiler mit undurchsichtigen Absichten.
+nightmare_stalker_bestiary:Eine Monstrosität, die durch einen Albtraum in die physische Welt geboren wurde.
+headless_horseman_bestiary:Ein unheimlicher Reiter, der durch die Nacht streift. Ihn zu sehen, gilt als schlechtes Omen.
+shadow_creature_bestiary:Eine schattenhafte Kreatur aus unbekannten Tiefen.
+nightmare_stalker_bounty:Eine Monstrosität, die durch einen Albtraum in die physische Welt geboren wurde.
+headless_horseman_bounty:Ein unheimlicher Reiter, der durch die Nacht streift. Ihn zu sehen, gilt als schlechtes Omen.
+shadow_creature_bounty:Ein schattenhaftes Wesen aus unbekannten Tiefen.
+infernal_spirit:Infernalischer Geist
+bloodstone_minotaur:Blutstein-Minutaurus
+sacred_vale_guardian:Heiliger Talwächter
+vale_drake:Taldrachen
+infernal_duelist:Infernalischer Duellant
+blazing_spider:Brennende Spinne
+flaming_slime:Brennender Schleim
+lady_of_the_vale:Dame des Tales
+volcanic_maiden:Vulkanische Jungfrau
+gemstone_fire_dragon:Edelstein-Feuerdrache
+ignithor_the_charred_sovereign:Ignithor, der Versengte Souverän
+blightflame_first_of_dragons:Brandflamme, der Erste der Drachen
+infernal_spirit_bestiary:Ein in Flammen geschmiedeter Geist, er flüstert Machtversprechen—wenn du die Hitze ertragen könntest.
+bloodstone_minotaur_bestiary:Jede Narbe auf seinem Fell erzählt von Schlachten, seine Hörner geschmückt mit Blutsteinen und seine Wut unnachgiebig.
+sacred_vale_guardian_bestiary:Dieser ernste Wächter verkörpert die uralte Macht des Tales, seine bloße Anwesenheit beruhigend oder vernichtend.
+vale_drake_bestiary:Geschmiedet in der infernalischen Hitze von Embervale, streift dieser Drache durch glühendes Gestein und Asche, mit Schuppen, die nahtlos in seine feurige Umgebung übergehen.
+infernal_duelist_bestiary:Bewaffnet mit brennenden Klingen tanzt er durch den Kampf, als wäre er dafür geboren, und hinterlässt verbrannte Erde.
+blazing_spider_bestiary:Ihr Netz ist aus Glut und Asche gewoben; sei vorsichtig, denn ein Schritt zu nah und du fühlst ihre feurigen Zähne.
+flaming_slime_bestiary:Mehr als nur ein Tropfen glühender Gefahr, hinterlässt sie Flammenspuren, eine Gefahr selbst nach ihrem Verschwinden.
+volcanic_maiden_bestiary:In geschmolzenem Gestein und Lava gehüllt steigt sie wie ein Vulkan empor, ihre Wut vermag Stein zu Asche werden zu lassen.
+gemstone_fire_dragon_bestiary:Ein seltener Anblick, die Schuppen dieses Drachens schimmern wie Juwelen und strahlen eine Hitze aus, die alle schmilzt, die es wagen, sich zu nähern.
+lady_of_the_vale_bestiary:Im Gegensatz zu ihrer ruhigen Schwester, der Herrin des Passes, ist sie so wild wie die vulkanischen Ländereien, die sie beherrscht. Ihr feuriger Geist macht sie sowohl faszinierend als auch gefährlich und verkörpert Embervales ungezähmten Zorn.
+ignithor_the_charred_sovereign_bestiary:Einst ein Wächtergott, verfiel Ignithor den Flammen von Embervale und wurde zu einem glühenden Herrscher des Zorns. Sein Zorn erschüttert das Land, und jedes höllische Geschöpf beugt sich seiner sengenden Herrschaft.
+blightflame_first_of_dragons_bestiary:Einst der Vater der Drachen, ist Blightflame nun ein skelettierter Diener des Verkohlten Herrschers. Sein ursprünglicher Name, wie auch seine frühere Macht, ist für alle Zeiten verloren.
+infernal_spirit_bounty:Ein in Flammen geschmiedeter Geist, er flüstert Versprechungen von Macht—wenn du nur der Hitze standhalten könntest.
+bloodstone_minotaur_bounty:Jede Narbe, die in seine Haut geätzt ist, erzählt eine Kampferzählung, seine Hörner geschmückt mit Blutsteinen und sein Zorn unnachgiebig.
+sacred_vale_guardian_bounty:Dieser ernste Wächter verkörpert die uralte Macht des Tales, seine bloße Anwesenheit kann beruhigen oder verheerend wirken.
+vale_drake_bounty:Geschmiedet in der höllischen Hitze von Embervale, streift dieser Drache durch geschmolzenes Gestein und Asche, mit Schuppen, die sich nahtlos in seine feurige Umgebung einfügen.
+infernal_duelist_bounty:Bewaffnet mit brennenden Klingen tanzt er durch den Kampf, als wäre er dafür geboren, und hinterlässt verbrannte Erde in seinem Kielwasser.
+blazing_spider_bounty:Ihr Netz ist aus Glut und Asche gewebt; sei vorsichtig, denn ein Schritt zu nah und du spürst ihre feurigen Fänge.
+flaming_slime_bounty:Mehr als nur ein Klumpen aus geschmolzener Bedrohung, hinterlässt es Flammenspuren auf seinem Weg, eine Gefahr, selbst nachdem es verschwunden ist.
+volcanic_maiden_bounty:In geschmolzenes Gestein und Lava gehüllt, erhebt sie sich wie ein Vulkan, ihre Wut kann Stein zu Asche verwandeln.
+gemstone_fire_dragon_bounty:Ein seltener Anblick, die Schuppen dieses Drachens schimmern wie Juwelen und strahlen eine Hitze aus, die alle schmilzt, die es wagen, sich zu nähern.
+lady_of_the_vale_bounty:Im Gegensatz zu ihrer ruhigen Schwester, der Herrin des Passes, ist sie so wild wie die vulkanischen Ländereien, die sie beherrscht. Ihr feuriger Geist macht sie sowohl faszinierend als auch gefährlich und verkörpert Embervales ungezähmten Zorn.
+ignithor_the_charred_sovereign_bounty:Einst ein Wächtergott, verfiel Ignithor den Flammen von Embervale und wurde zu einem glühenden Herrscher des Zorns. Sein Zorn erschüttert das Land, und jedes höllische Geschöpf beugt sich seiner sengenden Herrschaft.
+blightflame_first_of_dragons_bounty:Einst der Vater der Drachen, ist Blightflame nun ein skelettierter Diener des Verkohlten Herrschers. Sein ursprünglicher Name, wie auch seine frühere Macht, ist für alle Zeiten verloren.

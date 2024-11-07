@@ -65,6 +65,7 @@ isSteamRunning:Ocorreu um erro. O Steam está em execução?
 errNoPermission:Você não tem permissão para fazer isso!
 errUnknownErrorChatbot:Ocorreu um erro desconhecido! Se o problema persistir, relate para nós no nosso Discord: https://discord.com/invite/Gum9bS2dyw
 twitchBotRemoved:O bot vai sair agora. Obrigado por jogar Embervale.
-errPleaseRenameYourCharacter:Você precisa renomear seu personagem!
+errPleaseRenameYourCharacter:Você precisa renomear seu personagem! Já que isso é um pedido nosso, creditamos 25 Arcanites para você, assim pode renomear seu personagem gratuitamente.
 errConsumableInventoryWouldBeFull:Isso faria sua sacola de consumíveis ficar muito pesada!
 errChestInventoryIsFull:Seu inventário do baú está cheio!
+errDesyncedObjDoesNotExist:Incapaz de completar esta ação. Isso pode acontecer se o item não existir mais, muitas vezes causado por jogar o jogo em vários dispositivos simultaneamente.

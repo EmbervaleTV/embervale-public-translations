@@ -83,7 +83,7 @@ sea_platter:Meeresplatte
 sea_platter_craft_description:Stellt {amount_min1} bis {amount_max1} Ausdauer wieder her.
 sea_platter_description:Stellt {amount_min1} Ausdauer wieder her.
 coin_stack:Münzstapel
-coin_stack_description:Verwende es, um Kupfer zu erhalten. Stufe {level}
+coin_stack_description:Benutze dies, um Kupfer zu erhalten. Stufe {level}
 medium_xp_potion:Mittlere XP-Trank
 medium_xp_potion_description:Dieser Trank erhöht deine XP um {percent}% für {amount} Kämpfe!
 recipe:Rezept
@@ -123,14 +123,36 @@ chest:Truhe
 food:Essen
 royal_chest:Königliche Truhe
 epic_bundle:Episches Bündel
-epic_bundle_description:Gewährt dir {arcanites} Arcanites bei Verbrauch und aktiviert das Abonnement für 30 Tage.
+epic_bundle_description:Aktiviert das epische Abonnement für {dayPlaceholder} Tage.
 legendary_bundle:Legendäres Bündel
-legendary_bundle_description:Gewährt dir {arcanites} Arcanites bei Verbrauch und aktiviert das Abonnement für 30 Tage.
+legendary_bundle_description:Aktiviert das legendäre Abonnement für {dayPlaceholder} Tage.
 mythical_bundle:Mythisches Bündel
-mythical_bundle_description:Gewährt dir {arcanites} Arcanites bei Verbrauch und aktiviert das Abonnement für 30 Tage.
+mythical_bundle_description:Aktiviert das mythische Abonnement für {dayPlaceholder} Tage.
 royal_patreon:Königlicher Patreon
 mythical_patreon:Mythischer Patreon
 legendary_patreon:Legendärer Patreon
 epic_patreon:Epischer Patreon
 great_patreon:Großer Patreon
 patreon:Patreon
+material_sack:Materialstapel
+material_sack_description:Benutze dies, um eine Handvoll Materialien zu erhalten. Stufe {level}
+second_chance:Zweite Chance
+second_chance_description:Verwende dies, um einen Würfel neu zu werfen.
+secondChanceBuyConfirmation:Bitte bestätige, dass du {amount} Arcanites ausgeben möchtest, um zur zweiten Chance beizutragen.
+secondChanceDonateDescription:Dies ermöglicht dem Streamer, einen Würfel neu zu werfen. Nachdem insgesamt 100 Arcanites ausgegeben wurden, erhält der Streamer eine zweite Chance. Sie kann nur während des aktuellen Abenteuers genutzt und pro Abenteuer einmal erworben werden.
+pumpkin_treat:Kürbis-Leckerbissen
+pumpkin_treat_craft_description:Stellt {amount_min1} bis {amount_max1} Ausdauer wieder her. Das Rezept verschwindet nach dem Halloween 2024 Event.
+pumpkin_treat_description:Stellt {amount_min1} Ausdauer wieder her.
+mysterious_pumpkin:Mysteriöser Kürbis
+secondChanceLimitReached:Der Streamer hat bereits eine Zweite Chance. Bitte versuche es erneut, nachdem sie diese genutzt haben.
+coin_bag:Münzbeutel
+coin_bag_description:Benutze dies, um Kupfer zu erhalten. Stufe {level}
+coin_stash:Münzversteck
+coin_stash_description:Benutze dies, um Kupfer zu erhalten. Stufe {level}
+coins:Münzen
+coins_description:Verwende dies, um Kupfer zu erhalten. Stufe {level}
+coin_pile:Münzhaufen
+coin_pile_description:Verwende dies, um Kupfer zu erhalten. Stufe {level}
+roasted_chicken:Geröstetes Huhn
+roasted_chicken_craft_description:Füllt {amount_min1} bis {amount_max1} Ausdauer auf.
+roasted_chicken_description:Füllt {amount_min1} Ausdauer auf.

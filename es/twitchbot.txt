@@ -3,7 +3,7 @@ notStarted:¡Tu viaje aún no ha empezado!
 cmdUnknownError:¡Se ha producido un error desconocido!
 serverOverload:¡El servidor está sobrecargado! Vuelva a intentarlo más tarde.
 twitchbotNoAccount:¡Crea tu personaje en la extensión de Embervale!
-twitchbotNoActiveChar:Selecciona tu personaje activo en la extensión Embervale.
+twitchbotNoActiveChar:Por favor, inicia sesión con tu personaje a través de la extensión de Embervale o añade el nombre del personaje al final de cualquier comando.
 adventureNotActive:¡No hay aventura activa!
 adventureAlreadyIn:¡Ya estás en una aventura!
 adventureNoActiveVoting:¡No hay votación activa!
@@ -25,7 +25,10 @@ adventureJoined:unido
 adventureCanStart:puede iniciar una Aventura
 adventureInProgress:está organizando una Aventura ahora mismo
 adventureCanJoin:Puedes unirte a una Aventura
-adventureLeaveForbidden:¡Solo puedes abandonar aventuras que no han comenzado!
+adventureLeaveForbidden:Solo puedes salir de aventuras que no han comenzado o si el streamer ha estado inactivo durante más de 15 minutos.
 adventureLeft:abandonado
 adventureVotingDisabled:El streamer deshabilitó las votaciones para los jugadores fuera de su aventura.
 adventureVoteManipulationDisabled:El streamer desactivó las manipulaciones de votos.
+adventureYouAreNotInThis:¡Debes ser parte de esta aventura para usar este comando!
+adventureLeaderLeaveForbidden:El líder no puede abandonar la aventura. Si seleccionaste el personaje equivocado, puedes rendirte sin tiempo de espera, siempre y cuando no hayas presionado el botón 'crear'.
+twitchbotCharNotFound:¡Personaje no encontrado! Por favor, revisa tu ortografía.

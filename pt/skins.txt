@@ -1,86 +1,50 @@
 skin_starter:Traje Inicial
-skin_starter_description:Obtido ao criar seu personagem.
-skin_dragon_warrior:Pele de Deemons
-skin_dragon_warrior_description:Pele personalizada de DeemonRider
 skin_royal_scout:Escoteiro Real
-skin_royal_scout_description:Obtido por ???
 skin_island_scout:Escoteiro da Ilha
-skin_island_scout_description:Obtido por ???
 skin_swamp_scout:Escoteiro do Pântano
-skin_swamp_scout_description:Obtido por ???
 skin_eastern_scout:Escoteiro Oriental
-skin_eastern_scout_description:Obtido por ???
 skin_dune_scout:Escoteiro da Duna
-skin_dune_scout_description:Obtido por ???
 skin_vale_scout:Escoteiro do Vale
-skin_vale_scout_description:Obtido por ???
 skin_wanderer:Viajante
-skin_wanderer_description:Obtido por ???
 skin_fall_ranger:Guardião do Outono
-skin_fall_ranger_description:Obtido por ???
 skin_royal_general:General Real
-skin_royal_general_description:Obtido por ???
 skin_wise_general:General Sábio
-skin_wise_general_description:Obtido por ???
 skin_jade_general:General de Jade
-skin_jade_general_description:Obtido por ???
 skin_adamant_general:General de Adamantina
-skin_adamant_general_description:Obtido por ???
 skin_heroic_general:General Heróico
-skin_heroic_general_description:Obtido por ???
 skin_courageous_general:General Corajoso
-skin_courageous_general_description:Obtido por ???
 skin_commander:Comandante
-skin_commander_description:Obtido por ???
 skin_red_warrior:Guerreiro Vermelho
-skin_red_warrior_description:Obtido por ???
 skin_royal_assassin:Assassino Real
-skin_royal_assassin_description:Obtido por ???
 skin_brilliant_assassin:Assassino Brilhante
-skin_brilliant_assassin_description:Obtido por ???
 skin_unseen_assassin:Assassino Invisível
-skin_unseen_assassin_description:Obtido por ???
 skin_elegant_assassin:Assassino Elegante
-skin_elegant_assassin_description:Obtido por ???
 skin_wealthy_assassin:Assassino Rico
-skin_wealthy_assassin_description:Obtido por ???
 skin_bloody_assassin:Assassino Sangrento
-skin_bloody_assassin_description:Obtido por ???
 skin_blackguard:Guarda Negra
-skin_blackguard_description:Obtido por ???
 skin_blue_rogue:Pícaro Azul
-skin_blue_rogue_description:Obtido por ???
 skin_royal_paladin:Paladino Real
-skin_royal_paladin_description:Obtido por ???
 skin_glowing_paladin:Paladino Brilhante
-skin_glowing_paladin_description:Obtido por ???
 skin_emerald_paladin:Paladino Esmeralda
-skin_emerald_paladin_description:Obtido por ???
 skin_mystic_paladin:Paladino Místico
-skin_mystic_paladin_description:Obtido por ???
 skin_golden_paladin:Paladino Dourado
-skin_golden_paladin_description:Obtido por ???
 skin_crimson_paladin:Paladino Carmesim
-skin_crimson_paladin_description:Obtido por ???
 skin_noble_knight:Cavaleiro Nobre
-skin_noble_knight_description:Obtido por ???
 skin_red_knight:Cavaleiro Vermelho
-skin_red_knight_description:Obtido por ???
 skin_royal_grandmaster:Grão-Mestre Real
-skin_royal_grandmaster_description:Obtido por ???
 skin_academic_grandmaster:Grão-Mestre Acadêmico
-skin_academic_grandmaster_description:Obtido por ???
 skin_herbalistic_grandmaster:Grão-Mestre Herbalista
-skin_herbalistic_grandmaster_description:Obtido por ???
 skin_abyssal_grandmaster:Grão-Mestre Abissal
-skin_abyssal_grandmaster_description:Obtido por ???
 skin_shining_grandmaster:Grão-Mestre Brilhante
-skin_shining_grandmaster_description:Obtido por ???
 skin_fiery_grandmaster:Grão-Mestre Flamejante
-skin_fiery_grandmaster_description:Obtido por ???
 skin_scholar:Erudito
-skin_scholar_description:Obtido por ???
 skin_forest_mage:Mago da Floresta
-skin_forest_mage_description:Obtido por ???
 skin_adventurer:Armadura de Aventureiro
-skin_adventurer_description:Obtível por ???
+skin_undead:Mortos-vivos
+skin_phantom:Fantasma
+skin_batwing:Asa de Morcego
+skin_vampire_hunter:Caçador de Vampiros
+skin_profaned:Profanado
+alreadyOwnsSkin:O jogador já possui este traje.
+eventShopClosesIn:Loja do Evento Fecha em
+eventEndsIn:O evento termina em

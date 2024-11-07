@@ -492,6 +492,22 @@ novice_cultist: Novice Cultist
 nailguns:Nailguns
 loyal_wolf:Loyal Wolf
 consumed_hero:Consumed Hero
+dark_elf_healer:Dark Elf Healer
+nightmare_stalker:Nightmare Stalker
+headless_horseman:Headless Horseman
+shadow_creature:Shadow Creature
+infernal_spirit:Infernal Spirit
+bloodstone_minotaur:Bloodstone Minotaur
+sacred_vale_guardian:Sacred Vale Guardian
+vale_drake:Vale Drake
+infernal_duelist:Infernal Duelist
+blazing_spider:Blazing Spider
+flaming_slime:Flaming Slime
+lady_of_the_vale:Lady of the Vale
+volcanic_maiden:Volcanic Maiden
+gemstone_fire_dragon:Gemstone Fire Dragon
+ignithor_the_charred_sovereign:Ignithor, the charred Sovereign
+blightflame_first_of_dragons:Blightflame, first of Dragons
 
 abnormous_tick_bestiary:A tick of this size makes one think about the creatures it usually preys upon
 accursed_captain_hawk_bestiary:At least one part of his curse must concern his sense of style. Have you seen that famous outfit and lived to tell the tale?
@@ -986,6 +1002,22 @@ darkness_crawler_azrkoth_bestiary: A grotesque fusion of man and spider, Azr’k
 book_mimic_bestiary: A deceptive predator posing as a book, ready to snap shut on anyone who opens it.
 loyal_wolf_bestiary:Once a noble companion, the Loyal Wolf followed its master into the heart of an ancient evil. Now, its once-bright eyes flicker with shadows, forever bound to a corrupted master.
 consumed_hero_bestiary:A hero who sacrificed his soul to save his wolf companion, the Consumed Hero now wanders as a twisted reflection of his former self. His noble heart corrupted, he serves the very darkness he once sought to destroy.
+dark_elf_healer_bestiary: A skilled healer with unclear intentions.
+nightmare_stalker_bestiary: A monstrosity born into the physical world by a nightmare.
+headless_horseman_bestiary:A sinister rider roaming through the night. Seeing him is considered a bad omen.
+shadow_creature_bestiary: A shadowy creature from unknown depths.
+infernal_spirit_bestiary: A spirit forged in flames, it whispers promises of power—if only you could bear the heat.
+bloodstone_minotaur_bestiary: Each scar etched into its hide is a tale of battle, its horns adorned with bloodstones and its rage unyielding.
+sacred_vale_guardian_bestiary: This solemn guardian embodies the vale’s ancient power, its presence alone enough to calm or devastate.
+vale_drake_bestiary: Forged in the infernal heat of Embervale, this drake prowls through molten rock and ash, with scales that blend seamlessly into its fiery surroundings.
+infernal_duelist_bestiary: Armed with burning blades, it dances through combat as though born for battle, leaving scorched earth in its wake.
+blazing_spider_bestiary: Its web is woven of embers and ash; be cautious, for one step too close and you’ll feel its fiery fangs.
+flaming_slime_bestiary: More than just a blob of molten menace, it leaves trails of flame in its path, a hazard even after it’s gone.
+volcanic_maiden_bestiary: Cloaked in molten rock and lava, she rises like a volcano, her fury capable of turning stone to ash.
+gemstone_fire_dragon_bestiary: A rare sight, this dragon’s scales shimmer like jewels, radiating heat that melts all who dare approach.
+lady_of_the_vale_bestiary: Unlike her serene sister, the Lady of the Passage, she is as fierce as the volcanic lands she rules. Her fiery spirit makes her both captivating and perilous, embodying Embervale’s untamed wrath.
+ignithor_the_charred_sovereign_bestiary: Once a guardian god, Ignithor succumbed to Embervale’s flames, becoming a molten sovereign of rage. His wrath shakes the land, and every infernal creature bows to his searing dominion.
+blightflame_first_of_dragons_bestiary: Once the father of dragonkind, Blightflame is now a skeletal servant of the Charred Sovereign. His original name, like his former power, is lost to time.
 
 abnormous_tick_bounty:An oversized parasite thet will draw more than a bit of blood
 accursed_captain_hawk_bounty:A pirate captain older than most ships he plunders
@@ -1481,3 +1513,19 @@ darkness_crawler_azrkoth_bounty: Seek out Darkness Crawler Azr’koth, the spide
 book_mimic_bounty: Hunt the elusive Book Mimic, lurking among the shelves, waiting to devour curious readers.
 loyal_wolf_bounty: A noble wolf turned dark by the corruption of its master. Still follows commands but has lost its former grace.
 consumed_hero_bounty: Once a hero, now a corrupted vessel of ancient evil. Seeks redemption but is bound by the darkness.
+dark_elf_healer_bounty. A skilled healer with malicious intent.
+nightmare_stalker_bounty: A monstrosity born into the physical world by a nightmare.
+headless_horseman_bounty:A sinister rider roaming through the night. Seeing him is considered a bad omen.
+shadow_creature_bounty: A shadowy creature from unknown depths.
+infernal_spirit_bounty: A spirit forged in flames, it whispers promises of power—if only you could bear the heat.
+bloodstone_minotaur_bounty: Each scar etched into its hide is a tale of battle, its horns adorned with bloodstones and its rage unyielding.
+sacred_vale_guardian_bounty: This solemn guardian embodies the vale’s ancient power, its presence alone enough to calm or devastate.
+vale_drake_bounty: Forged in the infernal heat of Embervale, this drake prowls through molten rock and ash, with scales that blend seamlessly into its fiery surroundings.
+infernal_duelist_bounty: Armed with burning blades, it dances through combat as though born for battle, leaving scorched earth in its wake.
+blazing_spider_bounty: Its web is woven of embers and ash; be cautious, for one step too close and you’ll feel its fiery fangs.
+flaming_slime_bounty: More than just a blob of molten menace, it leaves trails of flame in its path, a hazard even after it’s gone.
+volcanic_maiden_bounty: Cloaked in molten rock and lava, she rises like a volcano, her fury capable of turning stone to ash.
+gemstone_fire_dragon_bounty: A rare sight, this dragon’s scales shimmer like jewels, radiating heat that melts all who dare approach.
+lady_of_the_vale_bounty: Unlike her serene sister, the Lady of the Passage, she is as fierce as the volcanic lands she rules. Her fiery spirit makes her both captivating and perilous, embodying Embervale’s untamed wrath.
+ignithor_the_charred_sovereign_bounty: Once a guardian god, Ignithor succumbed to Embervale’s flames, becoming a molten sovereign of rage. His wrath shakes the land, and every infernal creature bows to his searing dominion.
+blightflame_first_of_dragons_bounty: Once the father of dragonkind, Blightflame is now a skeletal servant of the Charred Sovereign. His original name, like his former power, is lost to time.

@@ -12,7 +12,8 @@ confirmGuildInvite:Are you sure you want to invite {username} to your guild?
 confirmGuildKick:Are you sure you want to kick {username}?
 lastActivity:Last activity
 leave:Leave
-
+inviteTextarea:You can write here why a player should join your guild
+thisPlayerAlreadyJoinedOtherGuild:This player already joined a different Guild.
 addNewRole:Please enter the name of the role you want to add!
 renameRole:If you want to change the name of the role {role} change the name and press save!
 deleteRole:Delete role

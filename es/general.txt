@@ -63,25 +63,25 @@ divine:Divino
 necrotic:Necrotico
 arcane:Arcano
 frost:Hielo
-affinityTooltip:Reduce el daño entrante de {elemental}. Aumenta el daño de {elemental} si el arma está imbuida con una runa.
+affinityTooltip:Reduce el daño entrante {elemental}. Convierte un porcentaje del daño de tu arma en daño {elemental} que ignora la armadura y afecta la resistencia elemental.
 vit:Vitalidad
 vitEffect:Puntos de Vida
 vitDescription:{stat} incrementa tu salud total.
 str:Fuerza
 strEffect:Daño Físico
-strDescription:{stat} incrementa tu daño físico como Caballero & Guerrero. ¡Aumenta la armadura para todas las demás clases!
+strDescription:{stat} aumenta el daño físico para Caballeros y Guerreros, y incrementa la armadura para todas las demás clases.
 wis:Sabiduría
 wisEffect:Daño Mágico
-wisDescription:{stat} incrementa tu daño mágico como Mago. ¡Aumenta la resistencia mágica para todas las demás clases!
+wisDescription:{stat} mejora el daño mágico para Magos y aumenta la resistencia mágica para todas las demás clases.
 dex:Destreza
 dexEffect:Daño de Precisión
-dexDescription:{stat} aumenta tu daño de destreza. Úsalo como Guardabosques y Pícaro. ¡Aumenta la evasión para todas las demás clases!
+dexDescription:{stat} incrementa tu daño de destreza. Mejor utilizado por Expl. y Pícaros. Aumenta la evasión para todas las demás clases y determina quién va primero.
 acc:Precisión
 accEffect:Precisión y Probabilidad de Crítico
-accDescription:{stat} aumenta tu probabilidad de realizar un golpe crítico contra tu oponente y reduce la probabilidad de que ellos esquiven!
+accDescription:¡{stat} aumenta tu oportunidad de realizar un golpe crítico en tu oponente!
 fame:Fama
-fameEffect:Precios y Negociación
-fameDescription:{stat} mejora tus habilidades de negociación, mejores precios de reabastecimiento y mejores resultados en las aventuras!
+fameEffect:Negociación
+fameDescription:{stat} mejora tus habilidades de negociación, ¡llevando a mejores resultados en aventuras!
 luck:Suerte
 luckEffect:Daño Crítico
 luckDescription:{stat} aumenta el daño de los golpes críticos.
@@ -198,7 +198,6 @@ purchase:Comprar
 newItemSlot:¡Se ha añadido un nuevo espacio para objetos en la tienda!
 shopRefresh:Actualizar Tienda
 buyArcanites:Comprar Arcanites
-emeraldShop:Comprar Arcanites
 donate:Donar
 reputationExplaination:¡Dona materiales no utilizados al mercader para aumentar tu reputación y recibir temporalmente mejores objetos!
 reputationDonate:¿Cuántos quieres donar?
@@ -215,7 +214,6 @@ watchVideo:Ver video
 completeOffers:Completa ofertas para ganar Arcanites
 creatorCode:Código del Creador
 allPricesIncVat:Todos los precios incluyen el IVA.
-confirmGiftingBundle:¿Estás seguro de que quieres regalar el {bundleName} a {Playername}? (Si ya tienen una suscripción activa, esta se extenderá).
 successGiftingBundle:¡Gracias por regalar el {bundleName} a {Playername}!
 ayetStudioConfirming:¡Gracias por ver el anuncio! Tus Arcanites deberían acreditarse en tu cuenta dentro de los próximos 60 segundos. Puedes cerrar esta ventana: te notificaremos una vez que se añadan los créditos.
 ayetStudioDailyLimit:¡Por favor, vuelve mañana para más Arcanites!
@@ -302,7 +300,7 @@ loadingTip11:La suerte aumenta el daño de los golpes críticos.
 loadingTip12:Los caballeros están fuertemente armados y llevan un escudo, dándoles una ventaja natural contra las clases basadas en destreza.
 loadingTip13:La habilidad de desenfunde rápido del Guardabosques le permite atacar dos veces de vez en cuando.
 loadingTip14:Los guerreros utilizan una piedra vital para drenar la HP de sus enemigos con cada golpe. Sin embargo, el poder de la piedra se agota rápidamente.
-loadingTip15:El Pícaro es un maestro del sigilo y la evasión, lo que dificulta mucho más a los atacantes acertar golpes.
+loadingTip15:El Pícaro es un maestro del sigilo y la evasión, lo que dificulta mucho que los atacantes acierten golpes.
 loadingTip16:¡Asegúrate de completar tu glosario para ganar XP más rápido!
 loadingTip17:¿Sabías que derrotar a un oponente en la arena añadirá toda su armadura, armas y aspectos a tu Glosario?
 loadingTip18:Todas las clases tienen diferentes escalas de HP y daño. Solo pueden usar un tipo designado de armadura: pesada, media o ligera.
@@ -348,9 +346,8 @@ maximumFood:Puedes comer un máximo de 3 comidas por día.
 todayYouAte:Hoy comiste {amount} comidas.
 tradeable:Intercambiable
 youCanGiftBundle:Puedes regalarle a esta persona un Paquete.
-hasAlreadySubscriptions:{ username } ya tiene una suscripción activa.
-grantsBenefits:Otorga a { currentUser.username } 30 días de los siguientes beneficios.
-receivesOnce:{ username } recibe esto una vez.
+grantsBenefits:Concede a { currentUser.username } 30 días de los siguientes beneficios:
+receivesOnce:{ username } recibe esto una vez:
 giftAnonymously:Regalar Anónimamente
 giftBundle:Regalar Paquete
 items:Ítems
@@ -383,7 +380,7 @@ replaySaved:Repetición guardada
 deleteReplay:Eliminar repetición
 spectate:Observar
 errCantSpectate:Esta batalla no existe.
-arenaFightCooldown:¡Esta barra se llena cada hora!
+arenaFightCooldown:La arena restaura 5 puntos por hora, pero en las expediciones, solo 2 ya que el viaje ralentiza la recuperación.
 yourSavedBattles:Tus batallas guardadas
 battleEnded:Batalla terminada
 overwhelming:Aplastante
@@ -398,7 +395,7 @@ block:Bloqueo
 youWon:¡Has ganado!
 youLost:¡Has perdido!
 confirmDeleteReplay:¿Estás seguro de que quieres eliminar esta repetición?
-replaySavedMsg:Tu repetición ha sido guardada. Puedes verla en la arena. Código:
+replaySavedMsg:Tu repetición ha sido guardada por 7 días. Puedes verla en la arena. Código:
 errTooManyReplays:Tienes demasiadas repeticiones guardadas. Elimina algunas para guardar más.
 errReplayAlreadySaved:La repetición ya ha sido guardada.
 warningTooManyReplays:Estás cerca del límite de 10 repeticiones guardadas. Por favor, elimina algunas para poder guardar nuevas.
@@ -420,9 +417,6 @@ talisman:Talismán
 guildBattleEffectPlus:El {effect} de todas tus unidades será aumentado en {perc}%.
 guildBattleEffectMinus:El {effect} de todas las unidades del oponente será disminuido en {perc}%.
 profession:Profesión
-pleaseChooseJob:¡Elige tu profesión principal! (+50% de experiencia laboral)
-pleaseChooseJobConfirmation:¿Estás seguro de que quieres que {job} sea tu profesión principal? (+50% de experiencia laboral)
-pleaseChooseJobWarning:¡No puedes cambiar tu profesión principal después de elegir una!
 dontOwnRecipe:¡Aún no posees recetas en esta categoría! ¡Puedes encontrar recetas en Recompensas!
 craft:Fabricar
 cook:Cocinero
@@ -535,3 +529,31 @@ upgrade:Mejorar
 yourMaximumInventorySize:Actualmente tienes un tamaño máximo de inventario de {inventorySize}
 eachUpgradeCostsMore:Cada mejora cuesta más. Esta mejora cuesta
 fullyUpgradedInventory:¡Has mejorado completamente tu inventario!
+info:Información
+eventShop:Tienda de Eventos
+shopRerollInfo1:Una vez que tu reputación alcance el 100%, el comerciante ya no ofrecerá artículos comunes.
+shopRerollInfo2:Las probabilidades enumeradas a continuación representan la probabilidad de cada artículo en una sola tirada. Si has desbloqueado 8 espacios en la tienda, las probabilidades se aplican 8 veces, una por cada espacio.
+shopRerollInfo3:Las probabilidades se redondean a tres decimales
+shopRerollBaseChance:Probabilidad base con 0% de reputación por artículo
+create:Crear
+youReceivedFollowingBenefits:¡Has habilitado {bundle_name} por los próximos 30 días!
+shopRefreshTooltip:Puede refrescar la tienda gratis una vez por día. Usar cobre o arcanites para refrescar la tienda no reiniciará el temporizador diario de refresco gratis.
+copperExplaination:100 Cobres equivalen a 1 Plata, y 100 Platas equivalen a 1 Oro.
+eyebrows:Cejas
+hoarders-badge:Insignia del Acumulador
+hoarders-badge_desc:¡Oro Oro Oro!
+councilor_male:Consejero
+councilor_female:Consejera
+endpointDisabled:¡Esta función está temporalmente deshabilitada por mantenimiento y volverá pronto!
+arcaniteShop:Tienda de Arcanite
+buyBundle:Comprar paquete
+confirmGiftingBundleConsumable:¿Estás seguro de que quieres regalar el {bundleName} a {Playername}? Recibirán un consumible para activar el paquete ellos mismos. Arcanites se añadirán inmediatamente.
+grantsYouBenefits:Otorga a todos los personajes de esta cuenta los siguientes beneficios por 30 días:
+youReceiveOnce:Recibes esto una vez:
+confirmPurchaseBundleConsumable:¿Estás seguro de que deseas comprar {bundleName}?
+successPurchaseBundle:¡Gracias por comprar {bundleName}!
+potionAlreadyActive:Ya tienes una poción activa. ¡Esto sobrescribirá tu poción activa actual!
+cookebotNoConsent:No has aceptado todas las cookies requeridas, incluidas las de marketing y análisis. Esto puede impedir que recibas anuncios recompensados.
+emeraldShop:Tienda de Arcanite
+halloween-2024-badge:Insignia de Halloween 2024
+halloween-2024-badge_desc:Obtenible al completar todas las Misiones del Evento de Halloween

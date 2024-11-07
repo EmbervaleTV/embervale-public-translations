@@ -387,7 +387,7 @@ straw_bracelet:Brazalete de Paja
 tormenters:Torturadores
 elven_kings_gloves:Guantes del Rey Élfico
 decorated_bracelet:Brazalete Decorado
-legendary_adventurers_gloves:Guantes del Aventurero Legendario
+legendary_adventurers_gloves:Guantes Legendarios del Aventurero
 fist_of_midas:Puño de Midas
 reapers_bracelet:Brazalete del Segador
 warlocks_hood:Capucha del Hechicero
@@ -848,7 +848,7 @@ hellfire_plate:Placas de Fuego Infernal
 mirageforge_aegis:Égida de Forja de Espejismos
 crystalshroud_bracers:Braciles de Manto de Cristal
 acolythes_gloves:Guantes del Acólito
-wandering_witches_bracers:Braciles de la Bruja Errante
+wandering_witches_bracers:Brazaletes de la Bruja Errante
 exiled_scholars_gloves:Guantes del Erudito Exiliado
 wondrous_healers_gloves:Guantes del Sanador Maravilloso
 silent_bracers:Braciles Silenciosos
@@ -916,7 +916,7 @@ legion_helmet:Casco de la Legión
 crystalshroud_shoes:Zapatos de Mantocristal
 runewoven_initiate_boots:Botas de Iniciado Tejidas con Runas
 acolythes_boots:Botas del Acólito
-wandering_witches_shoes:Zapatos de las Brujas Errantes
+wandering_witches_shoes:Zapatos de la Bruja Errante
 exiled_scholars_boots:Botas del Erudito Exiliado
 wondrous_healers_boots:Botas del Sanador Maravilloso
 silent_boots:Botas Silenciosas

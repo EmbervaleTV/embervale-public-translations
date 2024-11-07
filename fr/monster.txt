@@ -1474,3 +1474,50 @@ loyal_wolf_bestiary:Autrefois un noble compagnon, le Loup Loyal a suivi son maî
 consumed_hero_bestiary:Un héros qui a sacrifié son âme pour sauver son compagnon loup, le Héros Consumé erre maintenant comme une réflexion tordue de son ancien moi. Son cœur noble corrompu, il sert la même obscurité qu'il cherchait autrefois à détruire.
 loyal_wolf_bounty:Un noble loup devenu sombre par la corruption de son maître. Il suit encore les commandements mais a perdu sa grâce d'autrefois.
 consumed_hero_bounty:Autrefois un héros, maintenant un vaisseau corrompu d'un mal ancien. Cherche la rédemption mais est lié par les ténèbres.
+dark_elf_healer:Guérisseur Elfe Noir
+nightmare_stalker:Traqueur de Cauchemars
+headless_horseman:Cavalier Sans Tête
+shadow_creature:Créature de l'Ombre
+dark_elf_healer_bestiary:Un guérisseur habile aux intentions obscures.
+nightmare_stalker_bestiary:Une monstruosité née dans le monde physique par un cauchemar.
+headless_horseman_bestiary:Un cavalier sinistre errant dans la nuit. Le voir est considéré comme un mauvais présage.
+shadow_creature_bestiary:Une créature ombragée venue des profondeurs inconnues.
+nightmare_stalker_bounty:Une monstruosité née dans le monde physique par un cauchemar.
+headless_horseman_bounty:Un cavalier sinistre errant dans la nuit. Le voir est considéré comme un mauvais présage.
+shadow_creature_bounty:Une créature ombragée des profondeurs inconnues.
+infernal_spirit:Esprit Infernal
+bloodstone_minotaur:Minotaure en Pierre de Sang
+sacred_vale_guardian:Gardien Sacré du Val
+vale_drake:Drake du Val
+infernal_duelist:Dueliste Infernal
+blazing_spider:Araignée Enflammée
+flaming_slime:Bave Enflammée
+lady_of_the_vale:Dame du Val
+volcanic_maiden:Jouvencelle Volcanique
+gemstone_fire_dragon:Dragon de Feu en Gemmes
+ignithor_the_charred_sovereign:Ignithor, le Souverain Calciné
+blightflame_first_of_dragons:Blâmelame, premier des Dragons
+infernal_spirit_bestiary:Un esprit forgé dans les flammes, il murmure des promesses de pouvoir—si seulement tu pouvais supporter la chaleur.
+bloodstone_minotaur_bestiary:Chaque cicatrice gravée sur sa peau est une histoire de bataille, ses cornes ornées de pierres de sang et sa rage inflexible.
+sacred_vale_guardian_bestiary:Ce gardien solennel incarne l'ancien pouvoir du val, sa présence seule suffit à apaiser ou ravager.
+vale_drake_bestiary:Forgé dans la chaleur infernale d'Embervale, ce drake rôde à travers la roche en fusion et les cendres, ses écailles se fondant parfaitement dans son environnement ardent.
+infernal_duelist_bestiary:Armé de lames en feu, il danse à travers le combat comme s'il était né pour la bataille, laissant une terre brûlée dans son sillage.
+blazing_spider_bestiary:Sa toile est tissée de braises et de cendres; sois prudent, car un pas trop proche et tu sentiras ses crocs enflammés.
+flaming_slime_bestiary:Plus qu'une simple masse de menace en fusion, elle laisse des traînées de flammes dans son sillage, un danger même après son passage.
+volcanic_maiden_bestiary:Drapée de roche en fusion et de lave, elle s'élève comme un volcan, sa fureur capable de transformer la pierre en cendres.
+gemstone_fire_dragon_bestiary:Un spectacle rare, les écailles de ce dragon scintillent comme des joyaux, irradiant une chaleur qui fait fondre tous ceux qui osent s'approcher.
+lady_of_the_vale_bestiary:Contrairement à sa sœur sereine, la Dame du Passage, elle est aussi farouche que les terres volcaniques qu'elle règne. Son esprit ardent la rend à la fois captivante et périlleuse, incarnant la colère indomptée d'Embervale.
+ignithor_the_charred_sovereign_bestiary:Autrefois un dieu gardien, Ignithor a succombé aux flammes d'Embervale, devenant un souverain de rage en fusion. Sa colère fait trembler la terre, et chaque créature infernale s'incline devant sa domination brûlante.
+blightflame_first_of_dragons_bestiary:Autrefois le père de la lignée des dragons, Blightflame est maintenant un serviteur squelettique du Souverain Calciné. Son nom d'origine, comme son ancien pouvoir, est perdu dans le temps.
+infernal_spirit_bounty:Un esprit forgé dans les flammes, il murmure des promesses de pouvoir—si seulement vous pouviez supporter la chaleur.
+bloodstone_minotaur_bounty:Chaque cicatrice gravée sur sa peau est un récit de bataille, ses cornes ornées de pierres de sang et sa rage inflexible.
+sacred_vale_guardian_bounty:Ce gardien solennel incarne l'ancien pouvoir de la vallée, sa simple présence suffit à apaiser ou dévaster.
+vale_drake_bounty:Forgé dans la chaleur infernale d'Embervale, ce drake rôde à travers la roche en fusion et les cendres, avec des écailles qui se fondent parfaitement dans son cadre ardent.
+infernal_duelist_bounty:Armé de lames brûlantes, il danse à travers le combat comme s'il était né pour se battre, laissant la terre brûlée dans son sillage.
+blazing_spider_bounty:Sa toile est tissée de braises et de cendres; soyez prudent, car un pas de trop et vous sentirez ses crocs enflammés.
+flaming_slime_bounty:Plus qu'une simple masse de menace fondante, il laisse des traînées de flammes sur son passage, un danger même après son départ.
+volcanic_maiden_bounty:Drapée de roche en fusion et de lave, elle s'élève comme un volcan, sa fureur capable de réduire la pierre en cendres.
+gemstone_fire_dragon_bounty:Un spectacle rare, les écailles de ce dragon scintillent comme des joyaux, irradiant une chaleur qui fait fondre tous ceux qui osent s'approcher.
+lady_of_the_vale_bounty:Contrairement à sa sœur sereine, la Dame du Passage, elle est aussi farouche que les terres volcaniques qu'elle règne. Son esprit ardent la rend à la fois captivante et périlleuse, incarnant la colère indomptée d'Embervale.
+ignithor_the_charred_sovereign_bounty:Autrefois un dieu gardien, Ignithor a succombé aux flammes d'Embervale, devenant un souverain de rage en fusion. Sa colère fait trembler la terre, et chaque créature infernale s'incline devant sa domination brûlante.
+blightflame_first_of_dragons_bounty:Autrefois le père de la lignée des dragons, Blightflame est maintenant un serviteur squelettique du Souverain Calciné. Son nom d'origine, comme son ancien pouvoir, est perdu dans le temps.

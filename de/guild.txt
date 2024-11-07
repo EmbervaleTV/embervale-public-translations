@@ -35,3 +35,5 @@ more_slots_lvl3:Du erhältst 2 zusätzliche Gildenplätze
 defense_lvl0:-
 defense_lvl1:Dieser Artikel ist noch nutzlos
 defense_lvl2:Dieser Artikel ist noch nutzlos
+inviteTextarea:Du kannst hier schreiben, warum ein Spieler deiner Gilde beitreten sollte.
+thisPlayerAlreadyJoinedOtherGuild:Dieser Spieler ist bereits einer anderen Gilde beigetreten.

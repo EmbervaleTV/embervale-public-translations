@@ -391,7 +391,7 @@ straw_bracelet:Straw Bracelet
 tormenters:Tormenters
 elven_kings_gloves:Elven King's Gloves
 decorated_bracelet:Decorated Bracelet
-legendary_adventurers_gloves:lLegendary Adventurer's Gloves
+legendary_adventurers_gloves:Legendary Adventurer's Gloves
 fist_of_midas:Fist of Midas
 reapers_bracelet:Reapers Bracelet
 
@@ -849,8 +849,8 @@ kingsguard_symbol:Kingsguard Symbol
 
 crystalshroud_vestments:Crystalshroud Vestments
 runewoven_initiate_robes:Runewoven Initiate Robes
-acolythes_robes:Acolythe's Robes
-wandering_witches_dress:Wandering Witche's Dress
+acolythes_robes:Acolyte's Robes
+wandering_witches_dress:Wandering Witch's Dress
 exiled_scholars_garment:Exiled Scholar's Garment
 wondrous_healers_robes:Wondrous Healer's Robes
 
@@ -906,8 +906,8 @@ mirageforge_aegis:Mirageforge Aegis
 // Light
 
 crystalshroud_bracers:Crystalshroud Bracers
-acolythes_gloves:Acolythe's Gloves
-wandering_witches_bracers:Wandering Witche's Bracers
+acolythes_gloves:Acolyte's Gloves
+wandering_witches_bracers:Wandering Witch's Bracers
 exiled_scholars_gloves:Exiled Scholar's Gloves
 wondrous_healers_gloves:Wondroush Healer's Gloves
 
@@ -962,8 +962,8 @@ mirageforge_hands:Mirageforge Hands
 
 crystalshroud_hat:Crystalshroud Hat
 runewoven_initiate_shroud:Runewoven Initiate Shroud
-acolythes_hat:Acolythe's Hat
-wandering_witches_hood:Wandering Witche's Hood
+acolythes_hat:Acolyte's Hat
+wandering_witches_hood:Wandering Witch's Hood
 exiled_scholars_hood:Exiled Scholar's Hood
 eastern_mage_hood:Eastern Mage Hood
 
@@ -1018,8 +1018,8 @@ legion_helmet:Legion Helmet
 
 crystalshroud_shoes:Crystalshroud Shoes
 runewoven_initiate_boots:Runewoven Initiate Boots
-acolythes_boots:Acolythe's Boots
-wandering_witches_shoes:Wandering Witche's Shoes
+acolythes_boots:Acolyte's Boots
+wandering_witches_shoes:Wandering Witch's Shoes
 exiled_scholars_boots:Exiled Scholar's Boots
 wondrous_healers_boots:Wondrous Healer's Boots
 

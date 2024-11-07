@@ -1,13 +1,13 @@
 statDMG-mage:Der Bereich des magischen Schadens, den du verursachen kannst.
-statDMG-F-mage:Schaden = Waffenschaden * (Weisheit / 60 + 1)
+statDMG-F-mage:Schaden = Waffenschaden * ((Weisheit / 60) + 1)
 statDMG-knight:Der Bereich des physischen Schadens, den du verursachen kannst.
-statDMG-F-knight:Schaden = Waffenschaden * (Stärke / 60 + 1)
+statDMG-F-knight:Schaden = Waffenschaden * ((Stärke / 60) + 1)
 statDMG-ranger:Der Bereich des physischen Schadens, den du verursachen kannst.
-statDMG-F-ranger:Schaden = Waffenschaden * (Geschicklichkeit / 60 + 1)
+statDMG-F-ranger:Schaden = Waffenschaden * ((Geschicklichkeit / 60) + 1)
 statDMG-warrior:Der Bereich des physischen Schadens, den du verursachen kannst.
-statDMG-F-warrior:Schaden = Waffenschaden * (Stärke / 60 + 1)
+statDMG-F-warrior:Schaden = Waffenschaden * ((Stärke / 60) + 1)
 statDMG-rogue:Der Bereich des physischen Schadens, den du verursachen kannst.
-statDMG-F-rogue:Schaden = Waffenschaden * (Geschicklichkeit / 60 + 1)
+statDMG-F-rogue:Schaden = Waffenschaden * ((Geschicklichkeit / 60) + 1)
 statVIT-mage:Die Menge an Schaden, die du einstecken kannst.
 statVIT-F-mage:(1 + Vit * 0.1) * (1 + 0.01 * lvl) * 11.5 + 10
 statVIT-knight:Die Menge an Schaden, die du einstecken kannst.
@@ -20,62 +20,62 @@ statVIT-rogue:Die Menge an Schaden, die du einstecken kannst.
 statVIT-F-rogue:(1 + Vit * 0.1) * (1 + 0.01 * lvl) * 15 + 10
 statArmor-mage:Reduziert allen physischen Schaden.
 statArmor-M-mage:Maximalwert 50%.
-statArmor-F-mage:(Rüstung + Stärke/4) / lvl * 0.08
+statArmor-F-mage:(Rüstung + Stärke/3) / lvl * 0,08
 statArmor-knight:Reduziert allen physischen Schaden.
-statArmor-F-knight:Rüstung / lvl * 0.08
+statArmor-F-knight:(Rüstung / lvl) * 0.08
 statArmor-M-knight:Maximalwert 50%.
 statArmor-ranger:Reduziert allen physischen Schaden.
-statArmor-F-ranger:(Rüstung + Stärke/4) / lvl * 0.08
+statArmor-F-ranger:(Rüstung + Stärke/3) / lvl * 0,08
 statArmor-M-ranger:Maximalwert 50%.
 statArmor-warrior:Reduziert allen physischen Schaden.
 statArmor-M-warrior:Maximalwert 50%.
 statArmor-rogue:Reduziert allen physischen Schaden.
-statArmor-F-rogue:(Rüstung + Stärke/4) / lvl * 0.08
+statArmor-F-rogue:(Rüstung + Stärke/3) / lvl * 0,08
 statArmor-M-rogue:Maximalwert 50%.
 statMagRes-mage:Reduziert allen magischen Schaden.
-statMagRes-F-mage:Mag. Res / lvl * 0.08
+statMagRes-F-mage:(Mag. Res / lvl) * 0.08
 statMagRes-M-mage:Maximalwert 50%.
 statMagRes-knight:Reduziert allen magischen Schaden.
-statMagRes-F-knight:(Mag. Res + Weisheit/4) / lvl * 0.08
+statMagRes-F-knight:(Mag. Widerst. + Weisheit/3) / lvl * 0,08
 statMagRes-M-knight:Maximalwert 50 %.
 statMagRes-ranger:Reduziert allen magischen Schaden.
-statMagRes-F-ranger:(Mag. Res + Weisheit/4) / lvl * 0.08
+statMagRes-F-ranger:(Mag. Widerst. + Weisheit/3) / lvl * 0,08
 statMagRes-M-ranger:Maximalwert 50 %.
 statMagRes-warrior:Reduziert allen magischen Schaden.
-statMagRes-F-warrior:(Mag. Res + Weisheit/4) / lvl * 0.08
+statMagRes-F-warrior:(Mag. Widerst. + Weisheit/3) / lvl * 0,08
 statMagRes-M-warrior:Maximalwert 50 %.
 statMagRes-rogue:Reduziert allen magischen Schaden.
-statMagRes-F-rogue:(Mag. Res + Weisheit/4) / lvl * 0.08
+statMagRes-F-rogue:(Mag. Widerst. + Weisheit/3) / lvl * 0,08
 statMagRes-M-rogue:Maximalwert 50 %.
-statCritMod-mage:Bestimmt die Stärke kritischer Treffer.
-statCritMod-F-mage:Glück / ((lvl + 1) * 2) + 1.2
+statCritMod-mage:Bestimmt die Stärke von kritischen Treffern.
+statCritMod-F-mage:(Glück / ((lvl + 1) * 2)) + 1.2
 statCritMod-M-mage:Maximalwert x3,0.
-statCritMod-knight:Bestimmt die Stärke kritischer Treffer.
-statCritMod-F-knight:Glück / ((lvl + 1) * 2) + 1.1
+statCritMod-knight:Bestimmt die Stärke von kritischen Treffern.
+statCritMod-F-knight:(Glück / ((lvl + 1) * 2)) + 1.1
 statCritMod-M-knight:Maximalwert x1,8.
-statCritMod-ranger:Bestimmt die Stärke kritischer Treffer.
-statCritMod-F-ranger:Glück / ((lvl + 1) * 2) + 1.1
+statCritMod-ranger:Bestimmt die Stärke von kritischen Treffern.
+statCritMod-F-ranger:(Glück / ((lvl + 1) * 2)) + 1.1
 statCritMod-M-ranger:Maximalwert x1,8.
-statCritMod-warrior:Bestimmt die Stärke kritischer Treffer.
-statCritMod-F-warrior:Glück / ((Lvl + 1) * 2) + 1.1
+statCritMod-warrior:Bestimmt die Stärke von kritischen Treffern.
+statCritMod-F-warrior:(Glück / ((lvl + 1) * 2)) + 1.1
 statCritMod-M-warrior:Maximaler Wert x1.8.
-statCritMod-rogue:Bestimmt die Stärke der kritischen Treffer.
-statCritMod-F-rogue:Glück / ((Lvl + 1) * 2) + 1.1
+statCritMod-rogue:Bestimmt die Stärke von kritischen Treffern.
+statCritMod-F-rogue:(Glück / ((lvl + 1) * 2)) + 1.1
 statCritMod-M-rogue:Maximaler Wert x1.8.
-statCritPerc-mage:Bestimmt die Chance, einen kritischen Treffer zu landen.
-statCritPerc-F-mage:Genauigkeit / Lvl * 0.25
+statCritPerc-mage:Bestimmt die Chance auf einen kritischen Treffer.
+statCritPerc-F-mage:(Genauigkeit / lvl) * 0.25
 statCritPerc-M-mage:Maximaler Wert 50%
 statCritPerc-knight:Bestimmt die Chance, einen kritischen Treffer zu landen.
-statCritPerc-F-knight:Genauigkeit / Lvl * 0.25
+statCritPerc-F-knight:(Genauigkeit / lvl) * 0.25
 statCritPerc-M-knight:Maximaler Wert 50%
 statCritPerc-ranger:Bestimmt die Chance, einen kritischen Treffer zu landen.
-statCritPerc-F-ranger:Genauigkeit / Lvl * 0.25
+statCritPerc-F-ranger:(Genauigkeit / lvl) * 0.25
 statCritPerc-M-ranger:Maximaler Wert 80%
 statCritPerc-warrior:Bestimmt die Chance, einen kritischen Treffer zu landen.
-statCritPerc-F-warrior:Genauigkeit / Lvl * 0.25
+statCritPerc-F-warrior:(Genauigkeit / lvl) * 0.25
 statCritPerc-M-warrior:Maximaler Wert 50%
 statCritPerc-rogue:Bestimmt die Chance, einen kritischen Treffer zu landen.
-statCritPerc-F-rogue:Genauigkeit / Lvl * 0.25
+statCritPerc-F-rogue:(Genauigkeit / lvl) * 0.25
 statCritPerc-M-rogue:Maximaler Wert 50%
 statEvasion-mage:Chance einen physischen Schlag zu vermeiden.
 statEvasion-F-mage:(Ausweichen + Geschicklichkeit/3) / Stufe * 0.075
@@ -84,12 +84,12 @@ statEvasion-knight:Chance einen physischen Schlag zu vermeiden.
 statEvasion-F-knight:(Ausweichen + Geschicklichkeit/3) / Stufe * 0.025
 statEvasion-M-knight:Maximalwert 10%.
 statEvasion-ranger:Chance einen physischen Schlag zu vermeiden.
-statEvasion-F-ranger:Ausweichen / Stufe * 0.1
+statEvasion-F-ranger:(Ausweichen / lvl) * 0.1
 statEvasion-M-ranger:Maximalwert 30%.
 statEvasion-warrior:Chance einen physischen Schlag zu vermeiden.
 statEvasion-F-warrior:(Ausweichen + Geschicklichkeit/3) / Stufe * 0.05
 statEvasion-M-warrior:Maximalwert 15%.
 statEvasion-rogue:Chance einen physischen Schlag zu vermeiden.
-statEvasion-F-rogue:Ausweichen / lvl * 0,1
+statEvasion-F-rogue:(Ausweichen / lvl) * 0.1
 statEvasion-M-rogue:Maximalwert 30%.
-statArmor-F-warrior:Rüstung / lvl * 0.08
+statArmor-F-warrior:(Rüstung / lvl) * 0.08

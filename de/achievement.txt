@@ -1,4 +1,4 @@
-main_mission:Hauptmission
+main_mission:Tutorial
 bestiary:Bestiarium
 collector:Sammler
 adventurer:Abenteurer
@@ -39,11 +39,11 @@ complete_items_glossary:Entdecke {count}% der Gegenstände
 reach_level:Erreiche Stufe {lvl}
 participate_in_adventures:Nimm an {amount} Abenteuern teil
 clear_bounties:Schließe {amount} Kopfgelder ab
-clear_bounties_difficulty_1:Schließe {amount} Kopfgelder auf Schwierigkeitsgrad 1 ab
-clear_bounties_difficulty_2:Schließe {amount} Kopfgelder auf Schwierigkeitsgrad 2 ab
-clear_bounties_difficulty_3:Schließe {amount} Kopfgelder auf Schwierigkeitsgrad 3 ab
-clear_bounties_difficulty_4:Schließe {amount} Kopfgelder auf Schwierigkeitsgrad 4 ab
-clear_bounties_difficulty_5:Schließe {amount} Kopfgelder auf Schwierigkeitsgrad 5 ab
+clear_bounties_difficulty_1:Gewinne {amount}x 1-Stern-Kopfgelder
+clear_bounties_difficulty_2:Gewinne {amount}x 2-Stern-Kopfgelder
+clear_bounties_difficulty_3:Gewinne {amount}x 3-Stern-Kopfgelder
+clear_bounties_difficulty_4:Gewinne {amount}x 4-Stern-Kopfgelder
+clear_bounties_difficulty_5:Gewinne {amount}x 5-Stern-Kopfgelder
 defeat_monster_in_dungeon:Besiege {amount} Monster in Dungeons
 win_pvp_battle:Gewinne {amount} PvP-Kämpfe
 find_a_mythical_item:Finde {amount} mythische Gegenstände
@@ -51,7 +51,7 @@ distribute_skill_points:Verteile {amount} Fertigkeitspunkte
 use_stamina:Verwende {amount} Ausdauer in Kopfgeldern
 complete_an_expedition:Schließe {amount} Expeditionen ab
 battle_in_the_arena:Kämpfe {amount} Mal in der Arena
-join_or_create_a_guild:Tritt einer Gilde bei oder gründe eine
+join_or_create_a_guild:Tritt einer Gilde bei oder gründe eine (kommt bald...)
 clear_the_first_dungeon:Schließe den ersten Dungeon ab
 wear_full_set_of_uncommon:Trage ein vollständiges Set ungewöhnlicher Gegenstände
 wear_full_set_of_common:Trage ein vollständiges Set gewöhnlicher Gegenstände
@@ -61,7 +61,59 @@ wear_full_set_of_legendary:Trage ein vollständiges Set legendärer Gegenstände
 wear_full_set_of_mythical:Trage ein vollständiges Set mythischer Gegenstände
 reach_fame:Erreiche {amount} Ruhm
 shop_reroll_5:Das Neuwürfeln des Shops kostet 5% weniger Kupfer
-claim_daily_bonus:Fordere {amount} tägliche Boni in unserem Discord ein
-claim_daily_bonus_row:Fordere {amount} tägliche Boni hintereinander in unserem Discord ein
+claim_daily_bonus:Hole {amount} tägliche Boni in unserem Discord ab
+claim_daily_bonus_row:Hole {amount} tägliche Boni in Folge in unserem Discord ab
 levelUp:Stufe aufgestiegen!
 lose_fights:Verliere {amount} Kämpfe
+complete_3hour_expedition:Schließe {amount} Expeditionen ab, die 3 Stunden oder länger dauern
+complete_6hour_expedition:Schließe {amount} Expeditionen ab, die 6 Stunden oder länger dauern
+sell_items_in_shop:Verkaufe {amount} Gegenstände im Laden
+purchase_items_in_shop:Kaufe {amount} Gegenstände im Laden
+donate_materials:Spende {amount} Materialien an den Händler
+attempt_dungeon:Versuche {amount} Dungeons
+craft_alchemist:Stelle {amount} alchemistische Gegenstände her
+craft_smith:Schmiede {amount} Schmiedegegenstände
+craft_cook:Bereite {amount} Mahlzeiten zu
+use_potion:Trinke {amount} Tränke
+use_food:Iss {amount} Mahlzeiten
+collect_smith_materials:Sammle {amount} Schmiedematerialien
+collect_alchemist_materials:Sammle {amount} Alchemiematerialien
+collect_cook_materials:Sammle {amount} Kochmaterialien
+strike_critical_hits:Erlange {amount} kritische Treffer
+hoard_gold:Halte mindestens {amount} Gold in deinem Inventar
+hoard_platinum:Halten Sie mindestens {amount} Platin in Ihrem Inventar.
+defeat_rogue_class_in_arena:Besiege {amount} Schurken in Arenakämpfen
+defeat_mage_class_in_arena:Besiege {amount} Magier in Arenakämpfen
+defeat_knight_class_in_arena:Besiege {amount} Ritter in Arenakämpfen
+defeat_ranger_class_in_arena:Besiege {amount} Waldläufer in Arenakämpfen
+defeat_warrior_class_in_arena:Besiege {amount} Krieger in Arenakämpfen
+repeatable__participate_in_adventures:[Wiederholbar] Nimm an {amount} Abenteuern teil
+vote_in_adventures:Gib {amount} Stimmen in Abenteuer ab
+complete_elemental_butterflies_glossary:Füge alle {amount} elementaren Schmetterlinge deinem Glossar hinzu
+event:Ereignis
+complete_all_event_missions:Schließe alle {amount} Ereignismissionen ab und beanspruche Belohnungen.
+one_additional_inventory_space:Fügt deinem Ausrüstungsinventar 1 zusätzlichen Platz hinzu
+complete_dungeon_1:Schließe 'Verseuchte Gärten' ab
+complete_dungeon_2:Schließe 'Ausgetrocknete Flusslande' ab
+complete_dungeon_3:Schließe 'Besetzter Flussübergang' ab
+complete_dungeon_4:Schließe 'Strandfeuer' ab
+complete_dungeon_6:Schließe 'Verborgenes Königreich' ab
+complete_dungeon_7:Schließe 'Insel der Bestien' ab
+complete_dungeon_8:Schließe 'Ewiges Eis' ab
+complete_dungeon_9:Schließe 'Silberberge' ab
+complete_dungeon_10:Schließe 'Verlassene Ödlande' ab
+complete_dungeon_11:Schließe 'Dämmerwald' ab
+complete_dungeon_12:Schließe 'Friedhof der Namenlosen' ab
+complete_dungeon_13:Schließe 'Bastion des Lichts' ab
+complete_dungeon_14:Schließe 'Embervale' ab
+complete_dungeon_5:Schließe 'Tiefwasserpassage' ab
+repeatable__refer_a_streamer:[Wiederholbar] Empfehle neue Streamer für Embervale.TV
+referStreamer:Empfiehl einen Streamer
+referStreamerReq1:Der Streamer muss deinen Twitch-Namen eingeben, wenn er seinen ersten Charakter erstellt.
+referStreamerReq2:Der Streamer muss ein Twitch-Affiliate oder -Partner sein.
+referStreamerReq3:Der Streamer muss Level 10 in Embervale erreichen.
+referStreamerReq4:Der Streamer muss mindestens 3 Abenteuer veranstalten.
+referStreamerWhenDone:Sobald alle Schritte abgeschlossen sind, erhältst du innerhalb von 24 Stunden deine Belohnung:
+daily:Täglich
+tutorial:Tutorial
+complete_daily_mission:Schließe {amount} tägliche Missionen ab

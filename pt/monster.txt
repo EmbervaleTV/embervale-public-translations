@@ -1474,3 +1474,50 @@ loyal_wolf_bestiary:Outrora um nobre companheiro, o Lobo Leal seguiu seu mestre 
 consumed_hero_bestiary:Um herói que sacrificou sua alma para salvar seu companheiro lobo, o Herói Consumido agora vagueia como um reflexo distorcido de seu antigo eu. Seu coração nobre corrompido, ele serve a própria escuridão que outrora buscou destruir.
 loyal_wolf_bounty:Um lobo nobre transformado pela corrupção de seu mestre. Ainda segue comandos, mas perdeu sua antiga graça.
 consumed_hero_bounty:Outrora um herói, agora um vaso corrompido de um mal antigo. Busca redenção, mas está preso pela escuridão.
+dark_elf_healer:Curandeiro Elfo Negro
+nightmare_stalker:Perseguidor de Pesadelos
+headless_horseman:Cavaleiro Sem Cabeça
+shadow_creature:Criatura Sombria
+dark_elf_healer_bestiary:Um curandeiro habilidoso com intenções obscuras.
+nightmare_stalker_bestiary:Uma monstruosidade nascida no mundo físico por um pesadelo.
+headless_horseman_bestiary:Um cavaleiro sinistro que percorre a noite. Vê-lo é considerado um mau presságio.
+shadow_creature_bestiary:Uma criatura sombria de profundezas desconhecidas.
+nightmare_stalker_bounty:Uma monstruosidade nascida no mundo físico por um pesadelo.
+headless_horseman_bounty:Um cavaleiro sinistro que percorre a noite. Vê-lo é considerado um mau presságio.
+shadow_creature_bounty:Uma criatura sombria das profundezas desconhecidas.
+infernal_spirit:Espírito Infernal
+bloodstone_minotaur:Minotauro Sanguepiedra
+sacred_vale_guardian:Guardião Sagrado do Vale
+vale_drake:Draco do Vale
+infernal_duelist:Duelista Infernal
+blazing_spider:Aranha Ardente
+flaming_slime:Lodo Flamejante
+lady_of_the_vale:Senhora do Vale
+volcanic_maiden:Dama Vulcânica
+gemstone_fire_dragon:Dragão de Fogo Gemado
+ignithor_the_charred_sovereign:Ignithor, o Soberano Carbonizado
+blightflame_first_of_dragons:Chama Parda, o Primeiro dos Dragões
+infernal_spirit_bestiary:Um espírito forjado em chamas, sussurra promessas de poder — se ao menos você pudesse suportar o calor.
+bloodstone_minotaur_bestiary:Cada cicatriz em seu couro é um conto de batalha, seus chifres adornados com pedras de sangue e sua fúria inabalável.
+sacred_vale_guardian_bestiary:Este guardião solene encarna o poder antigo do vale, sua presença por si só é suficiente para acalmar ou devastar.
+vale_drake_bestiary:Forjado no calor infernal de Embervale, este draco se move por rochas derretidas e cinzas, com escamas que se misturam perfeitamente ao seu entorno ardente.
+infernal_duelist_bestiary:Armado com lâminas em chamas, dança pelo combate como se tivesse nascido para a batalha, deixando terra queimada em seu rastro.
+blazing_spider_bestiary:Sua teia é tecida de brasas e cinzas; cuidado, pois um passo muito perto e você sentirá suas presas flamejantes.
+flaming_slime_bestiary:Mais que apenas um bloco de ameaça derretida, deixa rastros de chamas por onde passa, um perigo mesmo após sua partida.
+volcanic_maiden_bestiary:Envolta em rocha derretida e lava, ela surge como um vulcão, sua fúria capaz de transformar pedra em cinzas.
+gemstone_fire_dragon_bestiary:Uma visão rara, as escamas deste dragão brilham como joias, irradiando um calor que derrete todos os que ousam se aproximar.
+lady_of_the_vale_bestiary:Diferente de sua irmã serena, a Senhora da Passagem, ela é tão feroz quanto as terras vulcânicas que governa. Seu espírito flamejante a torna tanto cativante quanto perigosa, personificando a fúria indomada de Embervale.
+ignithor_the_charred_sovereign_bestiary:Antes um deus guardião, Ignithor sucumbiu às chamas de Embervale, tornando-se um soberano jorrante de raiva. Sua ira faz a terra tremer, e toda criatura infernal se curva a seu domínio escaldante.
+blightflame_first_of_dragons_bestiary:Uma vez o pai dos dragões, Blightflame é agora um servo esquelético do Soberano Carbonizado. Seu nome original, assim como seu antigo poder, está perdido no tempo.
+infernal_spirit_bounty:Um espírito forjado em chamas, sussurra promessas de poder—se ao menos você suportar o calor.
+bloodstone_minotaur_bounty:A cada cicatriz gravada em sua pele é uma história de batalha, seus chifres adornados com pedras de sangue e sua raiva inabalável.
+sacred_vale_guardian_bounty:Este guardião solene incorpora o poder antigo do vale, sua presença por si só suficiente para acalmar ou devastar.
+vale_drake_bounty:Forjado no calor infernal de Embervale, este draco vagueia por rocha fundida e cinzas, com escamas que se misturam perfeitamente ao seu ambiente flamejante.
+infernal_duelist_bounty:Armado com lâminas ardentes, dança pelo combate como se tivesse nascido para a batalha, deixando terra queimada em seu rastro.
+blazing_spider_bounty:Sua teia é tecida de brasas e cinzas; cuidado, pois um passo muito perto e você sentirá suas presas flamejantes.
+flaming_slime_bounty:Mais do que apenas uma bolha de ameaça derretida, deixa trilhas de chamas em seu caminho, um perigo mesmo depois de se afastar.
+volcanic_maiden_bounty:Envolta em rocha fundida e lava, ela surge como um vulcão, sua fúria capaz de transformar pedra em cinzas.
+gemstone_fire_dragon_bounty:Uma visão rara, as escamas deste dragão brilham como joias, irradiando um calor que derrete todos os que ousam se aproximar.
+lady_of_the_vale_bounty:Diferente de sua irmã serena, a Senhora da Passagem, ela é tão feroz quanto as terras vulcânicas que governa. Seu espírito flamejante a torna tanto cativante quanto perigosa, personificando a fúria indomada de Embervale.
+ignithor_the_charred_sovereign_bounty:Antes um deus guardião, Ignithor sucumbiu às chamas de Embervale, tornando-se um soberano jorrante de raiva. Sua ira faz a terra tremer, e toda criatura infernal se curva a seu domínio escaldante.
+blightflame_first_of_dragons_bounty:Uma vez o pai dos dragões, Blightflame é agora um servo esquelético do Soberano Carbonizado. Seu nome original, assim como seu antigo poder, está perdido no tempo.

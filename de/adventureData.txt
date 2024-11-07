@@ -89,9 +89,9 @@ effect_enhanced_magic:Der Spieler hat ein verbessertes Verständnis von Magie. /
 enhanced_magic:Verbesserte Magie
 effect_empathic:Der Spieler hat erhöhte Empathie und Verständnis. // +1 Moral pro Runde, +15% Weisheit
 empathic:Empathisch
-effect_uncomfortable:Der Spieler fühlt sich unbehaglich oder fehl am Platz. // -50% Redekunst
+effect_uncomfortable:Der Spieler fühlt sich unwohl oder fehl am Platz. // -50% Ruhm
 uncomfortable:Unwohl
-effect_diplomatic:Der Spieler glänzt in Verhandlung und Konfliktlösung. // +30% Redekunst, +5 auf alle Redekunstproben
+effect_diplomatic:Der Spieler glänzt in Verhandlung und Konfliktlösung. // +30% Ruhm, +5 auf alle Ruhm-Würfe
 diplomatic:Diplomatisch
 unavailable:Nicht verfügbar
 effect_unavailable:Der Spieler ist derzeit anderweitig beschäftigt und kann vorübergehend nicht an Kämpfen teilnehmen. // # TODO
@@ -121,7 +121,7 @@ effect_overloaded:Der Spieler ist von den gesammelten Schätzen beschwert. // -2
 overloaded:Überladen
 effect_damaged_weapon:Die Waffe des Spielers hat bessere Tage gesehen und muss repariert werden. // -25% Schaden
 damaged_weapon:Beschädigte Waffe
-effect_improved_weapon:Die Waffe des Spielers wurde kürzlich verbessert. // +10% Schaden
+effect_improved_weapon:Die Waffe des Spielers wurde kürzlich verbessert. // +25% Schaden
 improved_weapon:Verbesserte Waffe
 effect_disarmed:Die Waffe des Spielers ist in einem schrecklichen Zustand. // -75% Schaden
 disarmed:Entwaffnet
@@ -132,7 +132,7 @@ banished:Verbannt
 strong_leader:Starker Anführer
 effect_strong_leader:Der Anführer hat außergewöhnliche Stärke bewiesen. // +25% alle Werte
 usurper:Usurpator
-effect_usurper:Der Spieler hat seinen Anführer gestürzt und führt die Gruppe jetzt an. // TODO: 3x Stimmrecht
+effect_usurper:Der Spieler hat seinen Anführer gestürzt und führt nun die Gruppe. // 3x Stimmkraft
 bonded_friendship:Verbunden durch Freundschaft
 effect_bonded_friendship:Der Spieler hat eine enge Freundschaft mit einem anderen Gruppenmitglied geschlossen, was ihre Teamarbeit und Moral stärkt. // +50% auf alle Werte und +1 Moral, wenn sie im selben Kampf mit ihrem verbundenen Freund kämpfen
 effect_transformed:Der Spieler wird in eine Kreatur verwandelt. // ???
@@ -185,7 +185,7 @@ treasureOf:Schatz von
 banishConfirmation:Bist du sicher, dass du {{ playerToBanish.char.username }} aus diesem Abenteuer verbannen willst?
 areYouSure:Bist du sicher?
 banish:Verbannen
-youCanStartNewAdventureIn:Du kannst ein neues in {time} starten:
+youCanStartNewAdventureIn:Du kannst ein neues Abenteuer beginnen in:
 partyInventory:Gruppeninventar
 noLootObtained:Deine Gruppe hat noch keine Beute erhalten.
 chooseRewardRecipient:Wähle den Belohnungsempfänger
@@ -216,3 +216,19 @@ armor:Rüstung
 check_evasion:Schnelle Ausweichmanöver notwendig.
 evasion:Ausweichen
 manipulateVoting:Wahl manipulieren
+exitAdventure:Abenteuer verlassen
+youReceivedFromManipulation:Du erhältst 1 Arcanite für jede 10, die für Stimmen ausgegeben werden, wenn beide Optionen oben aktiviert sind.
+recommended:Empfohlen
+adventureSettingAllowArcaniteVotes:Ermöglichen, dass Spieler mit Arcanite abstimmen
+adventureSettingAllowEveryoneToVote:Ermöglichen, dass Spieler außerhalb deines Abenteuers abstimmen
+destined_death:Vorbestimmter Tod
+effect_destined_death:Eine Klinge, durchdrungen von verbotener Magie. // Tod
+confirmUseMaterial:Bist du sicher, dass du {name} verwenden möchtest?
+default:Standard
+sortByHPLow:Level: Niedrigste zuerst
+sortByHPHigh:Level: Höchste zuerst
+sortByLvlLow:Gesundheit: Niedrigste zuerst
+sortByLvlHigh:Gesundheit: Höchste zuerst
+youReceivedFromManipulationEnd:Du hast durch das Manipulieren von Stimmen verdient:
+alreadyBanished:{{ playerToBanish.char.username }} ist bereits verbannt.
+invalidChoice:Ungültige Wahl.

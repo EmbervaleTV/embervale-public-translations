@@ -59,25 +59,25 @@ divine:Göttlich
 necrotic:Nekrotisch
 arcane:Arkan
 frost:Frost
-affinityTooltip:Reduziert eingehenden {elemental} Schaden. Erhöht {elemental} Schaden, wenn die Waffe mit einer Rune infundiert ist.
+affinityTooltip:Reduziert eingehenden {elemental}-Schaden. Wandelt einen Prozentsatz des Waffenschadens in {elemental}-Schaden um, der die Rüstung umgeht und die Elementarresistenz angreift.
 vit:Vitalität
 vitEffect:Lebenspunkte
 vitDescription:{stat} erhöht deine gesamte Gesundheit.
 str:Stärke
 strEffect:Physischer Schaden
-strDescription:{stat} erhöht deinen physischen Schaden als Ritter & Krieger. Erhöht die Rüstung für alle anderen Klassen!
+strDescription:{stat} erhöht den physischen Schaden für Ritter und Krieger und erhöht die Rüstung für alle anderen Klassen.
 wis:Weisheit
 wisEffect:Magischer Schaden
-wisDescription:{stat} erhöht deinen magischen Schaden als Magier. Erhöht die magische Resistenz für alle anderen Klassen!
+wisDescription:{stat} verbessert den magischen Schaden für Magier und erhöht den magischen Widerstand für alle anderen Klassen.
 dex:Geschicklichkeit
 dexEffect:Präzisionsschaden
-dexDescription:{stat} erhöht deinen Geschicklichkeitsschaden. Verwende als Waldläufer & Schurke. Erhöht die Ausweichrate für alle anderen Klassen!
+dexDescription:{stat} erhöht deinen Geschicklichkeitsschaden. Am besten geeignet für Waldläufer & Schurken. Erhöht die Ausweichrate für alle anderen Klassen und bestimmt, wer zuerst dran ist.
 acc:Genauigkeit
 accEffect:Genauigkeit & Kritische Trefferchance
-accDescription:{stat} erhöht deine Chance, einen kritischen Treffer gegen deinen Gegner zu landen, und verringert die Chance, dass sie ausweichen!
+accDescription:{stat} erhöht deine Chance, einen kritischen Treffer gegen deinen Gegner zu landen!
 fame:Ruhm
-fameEffect:Preise & Verhandlung
-fameDescription:{stat} verbessert deine Verhandlungsfähigkeiten, bessere Preise beim Auffüllen und bessere Ergebnisse bei Abenteuern!
+fameEffect:Verhandlung
+fameDescription:{stat} verbessert deine Verhandlungsfähigkeiten, was zu besseren Ergebnissen in Abenteuern führt!
 luck:Glück
 luckEffect:Kritischer Schaden
 luckDescription:{stat} erhöht den Schaden von kritischen Treffern.
@@ -194,7 +194,6 @@ purchase:Kaufen
 newItemSlot:Ein neuer Gegenstandsslots wurde dem Laden hinzugefügt!
 shopRefresh:Laden Auffrischen
 buyArcanites:Kaufe Arcanites
-emeraldShop:Kaufe Arcanites
 donate:Spenden
 reputationExplaination:Spende unbenutzte Materialien an den Händler, um deinen Ruf zu steigern und vorübergehend bessere Gegenstände zu erhalten!
 reputationDonate:Wie viele möchtest du spenden?
@@ -203,7 +202,6 @@ useThatCodeToSupport:Verwende den Code {refCode} beim Kauf, um {streamerName} zu
 theStreamerHasntSetupTheRefCode:{streamerName} hat seinen Empfehlungscode noch nicht eingerichtet.
 pressButtonToOpen:Drücke den unten stehenden Knopf, um Arcanites auf unserem Twitch-Kanal EmbervaleTV zu kaufen.
 confirmingTransaction:Transaktion wird bestätigt
-confirmGiftingBundle:Bist du sicher, dass du das {bundleName} an {Playername} verschenken möchtest? (Wenn {Playername} bereits ein aktives Abonnement hat, wird dieses verlängert.)
 successGiftingBundle:Vielen Dank, dass du das {bundleName} an {Playername} verschenkt hast!
 ayetStudioConfirming:Vielen Dank, dass du die Werbung angesehen hast! Deine Arcanites sollten innerhalb der nächsten 60 Sekunden deinem Konto gutgeschrieben werden. Du kannst dieses Fenster schließen – wir benachrichtigen dich, sobald die Gutschrift erfolgt ist!
 ayetStudioDailyLimit:Bitte komme morgen wieder zurück für mehr Arcanites!
@@ -248,7 +246,7 @@ hour:Stunde
 days:Tage
 day:Tag
 stamina:Ausdauer
-newStaminaIn:Du wirst in {time} 1000 Ausdauer erhalten
+newStaminaIn:Du erhältst 1000 Ausdauer in
 staminaFull:Deine Ausdauer ist bereits voll
 editRoles:Rollen bearbeiten
 guildFee:Gildenbeitrag
@@ -286,7 +284,7 @@ loadingTip11:Glück erhöht den Schaden von kritischen Treffern.
 loadingTip12:Ritter sind schwer gepanzert und tragen ein Schild, was ihnen einen natürlichen Vorteil gegen Geschicklichkeitsklassen gibt.
 loadingTip13:Die Fähigkeit Schnellschuss des Waldläufers erlaubt ihnen gelegentlich, zweimal zuzuschlagen.
 loadingTip14:Krieger benutzen einen Lebensstein, um mit jedem Treffer die HP ihrer Feinde abzuziehen. Allerdings lässt die Kraft des Steins schnell nach.
-loadingTip15:Der Schurke ist ein Meister der Heimlichkeit und Ausweichmanöver, wodurch es Angreifern viel schwerer fällt, Treffer zu landen.
+loadingTip15:Der Schurke ist ein Meister der Heimlichkeit und Ausweichmanöver, was es Angreifern erheblich erschwert, Treffer zu landen.
 loadingTip16:Stelle sicher, dass du dein Glossar füllst, um schneller XP zu verdienen!
 loadingTip17:Wusstest du, dass das Besiegen eines Gegners in der Arena all seine Rüstungen, Waffen und Skins zu deinem Glossar hinzufügt?
 loadingTip18:Alle Klassen haben unterschiedliche HP- und Schadensskalierungen. Sie können nur eine bestimmte Art von Rüstung tragen: schwer, mittel oder leicht.
@@ -323,9 +321,8 @@ maximumFood:Du kannst maximal 3 Mahlzeiten pro Tag essen.
 todayYouAte:Heute hast du {amount} Mahlzeiten gegessen.
 tradeable:Handelbar
 youCanGiftBundle:Du kannst dieser Person ein Paket schenken.
-hasAlreadySubscriptions:{ username } hat bereits ein aktives Abonnement(e).
-grantsBenefits:Gewährt { currentUser.username } 30 Tage der folgenden Vorteile.
-receivesOnce:{ username } erhält dies einmalig.
+grantsBenefits:Gewährt { currentUser.username } 30 Tage der folgenden Vorteile:
+receivesOnce:{ username } erhält dies einmalig:
 giftAnonymously:Anonym schenken
 items:Gegenstände
 materials:Materialien
@@ -356,7 +353,7 @@ saveReplay:Wiederholung speichern
 replaySaved:Wiederholung gespeichert
 spectate:Zuschauen
 errCantSpectate:Dieser Kampf existiert nicht.
-arenaFightCooldown:Dieser Balken füllt sich jede Stunde auf!
+arenaFightCooldown:Die Arena stellt 5 Punkte pro Stunde wieder her, aber auf Expeditionen nur 2, da die Reise die Erholung verlangsamt.
 yourSavedBattles:Deine gespeicherten Kämpfe
 overwhelming:Überwältigend
 superior:Überlegen
@@ -370,7 +367,7 @@ block:Block
 youWon:Du hast gewonnen!
 youLost:Du hast verloren!
 confirmDeleteReplay:Bist du sicher, dass du diese Wiederholung löschen möchtest?
-replaySavedMsg:Deine Wiederholung wurde gespeichert. Du kannst sie in der Arena anschauen. Code:
+replaySavedMsg:Dein Replay wurde für 7 Tage gespeichert. Du kannst es in der Arena ansehen. Code:
 errTooManyReplays:Du hast zu viele gespeicherte Wiederholungen. Lösche einige, um mehr zu speichern.
 errReplayAlreadySaved:Die Wiederholung wurde bereits gespeichert.
 warningTooManyReplays:Du kommst der Grenze von 10 gespeicherten Wiederholungen nahe. Bitte lösche einige, um neue speichern zu können.
@@ -392,9 +389,6 @@ talisman:Talisman
 guildBattleEffectPlus:Der {effect} aller deiner Einheiten wird um {perc}% erhöht.
 guildBattleEffectMinus:Der {effect} aller gegnerischen Einheiten wird um {perc}% verringert.
 profession:Beruf
-pleaseChooseJob:Wähle deinen Hauptberuf! (+50% Berufserfahrung)
-pleaseChooseJobConfirmation:Bist du sicher, dass {job} dein Hauptberuf sein soll? (+50% Berufserfahrung)
-pleaseChooseJobWarning:Du kannst deinen Hauptberuf nach der Wahl nicht mehr ändern!
 dontOwnRecipe:Du besitzt noch keine Rezepte in dieser Kategorie! Du kannst Rezepte in Kopfgeldern finden!
 craft:Herstellen
 cook:Kochen
@@ -422,7 +416,7 @@ baron_female:Baronin
 sir_male:Sir
 sir_female:Madam
 chief_male:Häuptling
-chief_female:Häuptlingin
+chief_female:Häuptling
 hero_male:Held
 hero_female:Heldin
 adventurer_male:Abenteurer
@@ -535,3 +529,31 @@ upgrade:Upgrade
 yourMaximumInventorySize:Du hast momentan eine maximale Inventargröße von {inventorySize}
 eachUpgradeCostsMore:Jedes Upgrade kostet mehr. Dieses Upgrade kostet
 fullyUpgradedInventory:Du hast dein Inventar vollständig aufgerüstet!
+info:Infos
+eventShop:Event-Laden
+shopRerollInfo1:Sobald dein Ruf 100% erreicht, wird der Händler keine gewöhnlichen Gegenstände mehr anbieten.
+shopRerollInfo2:Die unten aufgeführten Chancen stellen die Wahrscheinlichkeit für jeden Gegenstand bei einem einzelnen Wurf dar. Wenn du 8 Ladenplätze freigeschaltet hast, gelten die Chancen 8 Mal, je einmal für jeden Platz.
+shopRerollInfo3:Die Chancen werden auf drei Dezimalstellen gerundet.
+shopRerollBaseChance:Basis-Chance mit 0% Ruf pro Gegenstand.
+create:Erstellen
+youReceivedFollowingBenefits:Du hast {bundle_name} für die nächsten 30 Tage aktiviert!
+shopRefreshTooltip:Du kannst den Laden einmal pro Tag kostenlos aktualisieren. Die Verwendung von Kupfer oder Arcanite zum Aktualisieren des Ladens setzt den täglichen kostenlosen Aktualisierungs-Timer nicht zurück.
+copperExplaination:100 Kupfer sind gleich 1 Silber, und 100 Silber sind gleich 1 Gold.
+eyebrows:Augenbrauen
+hoarders-badge:Horterauszeichnung
+hoarders-badge_desc:Gold Gold Gold!
+councilor_male:Ratsmitglied
+councilor_female:Ratsmitglied
+endpointDisabled:Diese Funktion ist vorübergehend wegen Wartungsarbeiten deaktiviert und wird bald zurück sein!
+arcaniteShop:Arcanite-Laden
+buyBundle:Bundle kaufen
+confirmGiftingBundleConsumable:Bist du sicher, dass du das {bundleName} an {Playername} verschenken möchtest? Sie erhalten einen Verbrauchsgegenstand, um das Bündel selbst zu aktivieren. Arcanites werden sofort hinzugefügt.
+grantsYouBenefits:Gewährt allen Charakteren auf diesem Konto die folgenden Vorteile für 30 Tage:
+youReceiveOnce:Du erhältst dies einmal:
+confirmPurchaseBundleConsumable:Möchtest du wirklich {bundleName} kaufen?
+successPurchaseBundle:Vielen Dank für den Kauf von {bundleName}!
+potionAlreadyActive:Du hast bereits einen aktiven Trank. Dies wird deinen derzeit aktiven Trank überschreiben!
+cookebotNoConsent:Du hast nicht alle erforderlichen Cookies akzeptiert, einschließlich Marketing und Analytik. Dies kann verhindern, dass du belohnte Anzeigen erhältst.
+emeraldShop:Arcanite-Laden
+halloween-2024-badge:Halloween 2024 Abzeichen
+halloween-2024-badge_desc:Erhaltbar durch das Abschließen aller Halloween-Event-Missionen

@@ -83,7 +83,7 @@ sea_platter:Plateau de la mer
 sea_platter_craft_description:Restitue de {amount_min1} à {amount_max1} d'endurance.
 sea_platter_description:Restitue {amount_min1} d'endurance.
 coin_stack:Pile de pièces
-coin_stack_description:Utilisez-la pour obtenir du cuivre. Niveau {level}
+coin_stack_description:Utilisez ceci pour gagner du cuivre. Niveau {level}
 medium_xp_potion:Potion d'XP moyenne
 medium_xp_potion_description:Cette potion augmente votre XP de {percent}% pour {amount} combats!
 recipe:Recette
@@ -123,14 +123,36 @@ chest:Coffre
 food:Nourriture
 royal_chest:Coffre Royal
 epic_bundle:Coffret Épique
-epic_bundle_description:Vous donne {arcanites} Arcanites lorsqu'il est consommé et active l'abonnement pour 30 jours.
+epic_bundle_description:Active l'abonnement épique pour {dayPlaceholder} jours.
 legendary_bundle:Coffret Légendaire
-legendary_bundle_description:Vous donne {arcanites} Arcanites lorsqu'il est consommé et active l'abonnement pour 30 jours.
+legendary_bundle_description:Active l'abonnement légendaire pour {dayPlaceholder} jours.
 mythical_bundle:Coffret Mythique
-mythical_bundle_description:Vous donne {arcanites} Arcanites lorsqu'il est consommé et active l'abonnement pour 30 jours.
+mythical_bundle_description:Active l'abonnement mythique pour {dayPlaceholder} jours.
 royal_patreon:Patreon Royal
 mythical_patreon:Patreon Mythique
 legendary_patreon:Patreon Légendaire
 epic_patreon:Patreon Épique
 great_patreon:Patreon Grand
 patreon:Patreon
+material_sack:Sachet de Matériaux
+material_sack_description:Utilisez ceci pour gagner une poignée de matériaux. Niveau {level}
+second_chance:Seconde Chance
+second_chance_description:Utilisez ceci pour relancer un dé.
+secondChanceBuyConfirmation:Veuillez confirmer que vous souhaitez dépenser {amount} Arcanites pour contribuer à la seconde chance.
+secondChanceDonateDescription:Ceci permet au streamer de relancer un dé. Après un total de 100 Arcanites dépensés, le streamer obtient une seconde chance. Elle ne peut être utilisée que pendant l'aventure en cours et achetée une seule fois par aventure.
+pumpkin_treat:Friandise à la citrouille
+pumpkin_treat_craft_description:Réapprovisionne de {amount_min1} à {amount_max1} endurance. La recette disparaîtra après l'Événement Halloween 2024.
+pumpkin_treat_description:Réapprovisionne {amount_min1} endurance.
+mysterious_pumpkin:Citrouille Mystérieuse
+secondChanceLimitReached:Le streamer a déjà une Seconde Chance. Veuillez réessayer après qu'il l'ait utilisée.
+coin_bag:Sac de pièces
+coin_bag_description:Utilisez ceci pour gagner du cuivre. Niveau {level}
+coin_stash:Cache de pièces
+coin_stash_description:Utilisez ceci pour gagner du cuivre. Niveau {level}
+coins:Pièces
+coins_description:Utilisez ceci pour gagner du cuivre. Niveau {level}
+coin_pile:Tas de pièces
+coin_pile_description:Utilisez ceci pour obtenir du cuivre. Niveau {level}
+roasted_chicken:Poulet rôti
+roasted_chicken_craft_description:Réapprovisionne de {amount_min1} à {amount_max1} endurance.
+roasted_chicken_description:Réapprovisionne {amount_min1} endurance.

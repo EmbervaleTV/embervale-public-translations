@@ -1,129 +1,59 @@
 // skins
 skin_starter:Starter Outfit
-skin_starter_description:Obtained by creating your character.
 
-skin_dragon_warrior:Deemons Skin
-skin_dragon_warrior_description:Custom Skin from DeemonRider
-
-skin_royal_scout:Royal Scout
-skin_royal_scout_description:Obtainable by ???
-
-skin_island_scout:Island Scout
-skin_island_scout_description:Obtainable by ???
-
-skin_swamp_scout:Swamp Scout
-skin_swamp_scout_description:Obtainable by ???
-
-skin_eastern_scout:Eastern Scout
-skin_eastern_scout_description:Obtainable by ???
-
-skin_dune_scout:Dune Scout
-skin_dune_scout_description:Obtainable by ???
-
-skin_vale_scout:Vale Scout
-skin_vale_scout_description:Obtainable by ???
-
-skin_wanderer:Wanderer
-skin_wanderer_description:Obtainable by ???
-
-skin_fall_ranger:Fall Ranger
-skin_fall_ranger_description:Obtainable by ???
-
-skin_royal_general:Royal General
-skin_royal_general_description:Obtainable by ???
-
-skin_wise_general:Wise General
-skin_wise_general_description:Obtainable by ???
-
-skin_jade_general:Jade General
-skin_jade_general_description:Obtainable by ???
-
-skin_adamant_general:Adamant General
-skin_adamant_general_description:Obtainable by ???
-
-skin_heroic_general:Heroic General
-skin_heroic_general_description:Obtainable by ???
-
-skin_courageous_general:Courageous General
-skin_courageous_general_description:Obtainable by ???
-
-skin_commander:Commander
-skin_commander_description:Obtainable by ???
-
-skin_red_warrior:Red Warrior
-skin_red_warrior_description:Obtainable by ???
-
-skin_royal_assassin:Royal Assassin
-skin_royal_assassin_description:Obtainable by ???
-
-skin_brilliant_assassin:Brilliant Assassin
-skin_brilliant_assassin_description:Obtainable by ???
-
-skin_unseen_assassin:Unseen Assassin
-skin_unseen_assassin_description:Obtainable by ???
-
-skin_elegant_assassin:Elegant Assassin
-skin_elegant_assassin_description:Obtainable by ???
-
-skin_wealthy_assassin:Wealthy Assassin
-skin_wealthy_assassin_description:Obtainable by ???
-
-skin_bloody_assassin:Bloody Assassin
-skin_bloody_assassin_description:Obtainable by ???
-
-skin_blackguard:Blackguard
-skin_blackguard_description:Obtainable by ???
-
-skin_blue_rogue:Blue Rogue
-skin_blue_rogue_description:Obtainable by ???
-
-skin_royal_paladin:Royal Paladin
-skin_royal_paladin_description:Obtainable by ???
-
-skin_glowing_paladin:Glowing Paladin
-skin_glowing_paladin_description:Obtainable by ???
-
-skin_emerald_paladin:Emerald Paladin
-skin_emerald_paladin_description:Obtainable by ???
-
-skin_mystic_paladin:Mystic Paladin
-skin_mystic_paladin_description:Obtainable by ???
-
-skin_golden_paladin:Golden Paladin
-skin_golden_paladin_description:Obtainable by ???
-
-skin_crimson_paladin:Crimson Paladin
-skin_crimson_paladin_description:Obtainable by ???
-
-skin_noble_knight:Noble Knight
-skin_noble_knight_description:Obtainable by ???
-
-skin_red_knight:Red Knight
-skin_red_knight_description:Obtainable by ???
-
-skin_royal_grandmaster:Royal Grandmaster
-skin_royal_grandmaster_description:Obtainable by ???
-
-skin_academic_grandmaster:Academic Grandmaster
-skin_academic_grandmaster_description:Obtainable by ???
-
-skin_herbalistic_grandmaster:Herbalistic Grandmaster
-skin_herbalistic_grandmaster_description:Obtainable by ???
-
-skin_abyssal_grandmaster:Abyssal Grandmaster
-skin_abyssal_grandmaster_description:Obtainable by ???
-
-skin_shining_grandmaster:Shining Grandmaster
-skin_shining_grandmaster_description:Obtainable by ???
-
-skin_fiery_grandmaster:Fiery Grandmaster
-skin_fiery_grandmaster_description:Obtainable by ???
-
-skin_scholar:Scholar
-skin_scholar_description:Obtainable by ???
-
-skin_forest_mage:Forest Mage
-skin_forest_mage_description:Obtainable by ???
-
+// free skins
 skin_adventurer:Adventurer Armor
-skin_adventurer_description:Obtainable by ???
+
+// Patreon skins
+skin_royal_scout:Royal Scout
+skin_island_scout:Island Scout
+skin_swamp_scout:Swamp Scout
+skin_eastern_scout:Eastern Scout
+skin_dune_scout:Dune Scout
+skin_vale_scout:Vale Scout
+skin_wanderer:Wanderer
+skin_fall_ranger:Fall Ranger
+skin_royal_general:Royal General
+skin_wise_general:Wise General
+skin_jade_general:Jade General
+skin_adamant_general:Adamant General
+skin_heroic_general:Heroic General
+skin_courageous_general:Courageous General
+skin_commander:Commander
+skin_red_warrior:Red Warrior
+skin_royal_assassin:Royal Assassin
+skin_brilliant_assassin:Brilliant Assassin
+skin_unseen_assassin:Unseen Assassin
+skin_elegant_assassin:Elegant Assassin
+skin_wealthy_assassin:Wealthy Assassin
+skin_bloody_assassin:Bloody Assassin
+skin_blackguard:Blackguard
+skin_blue_rogue:Blue Rogue
+skin_royal_paladin:Royal Paladin
+skin_glowing_paladin:Glowing Paladin
+skin_emerald_paladin:Emerald Paladin
+skin_mystic_paladin:Mystic Paladin
+skin_golden_paladin:Golden Paladin
+skin_crimson_paladin:Crimson Paladin
+skin_noble_knight:Noble Knight
+skin_red_knight:Red Knight
+skin_royal_grandmaster:Royal Grandmaster
+skin_academic_grandmaster:Academic Grandmaster
+skin_herbalistic_grandmaster:Herbalistic Grandmaster
+skin_abyssal_grandmaster:Abyssal Grandmaster
+skin_shining_grandmaster:Shining Grandmaster
+skin_fiery_grandmaster:Fiery Grandmaster
+skin_scholar:Scholar
+skin_forest_mage:Forest Mage
+
+// Halloween 2024
+skin_undead:Undead
+skin_phantom:Phantom
+skin_batwing:Batwing
+skin_vampire_hunter:Vampire Hunter
+skin_profaned:Profaned
+
+// extra
+alreadyOwnsSkin:The player already owns this skin.
+eventShopClosesIn:Event Shop Closes in
+eventEndsIn:Event ends in

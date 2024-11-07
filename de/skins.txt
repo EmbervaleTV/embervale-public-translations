@@ -1,86 +1,50 @@
 skin_starter:Anfänger Ausrüstung
-skin_starter_description:Erhalten durch die Erstellung deines Charakters.
-skin_dragon_warrior:Deemons Skin
-skin_dragon_warrior_description:Benutzerdefinierte Haut von DeemonRider
 skin_royal_scout:Königlicher Späher
-skin_royal_scout_description:Erhältlich durch ???
 skin_island_scout:Insel-Späher
-skin_island_scout_description:Erhältlich durch ???
 skin_swamp_scout:Sumpf-Späher
-skin_swamp_scout_description:Erhältlich durch ???
 skin_eastern_scout:Östlicher Späher
-skin_eastern_scout_description:Erhältlich durch ???
 skin_dune_scout:Dünen-Späher
-skin_dune_scout_description:Erhältlich durch ???
 skin_vale_scout:Tal-Späher
-skin_vale_scout_description:Erhältlich durch ???
 skin_wanderer:Wanderer
-skin_wanderer_description:Erhältlich durch ???
 skin_fall_ranger:Herbst-Ranger
-skin_fall_ranger_description:Erhältlich durch ???
 skin_royal_general:Königlicher General
-skin_royal_general_description:Erhältlich durch ???
 skin_wise_general:Weiser General
-skin_wise_general_description:Erhältlich durch ???
 skin_jade_general:Jade General
-skin_jade_general_description:Erhältlich durch ???
 skin_adamant_general:Hartnäckiger General
-skin_adamant_general_description:Erhältlich durch ???
 skin_heroic_general:Heroischer General
-skin_heroic_general_description:Erhältlich durch ???
 skin_courageous_general:Mutiger General
-skin_courageous_general_description:Erhältlich durch ???
 skin_commander:Kommandant
-skin_commander_description:Erhältlich durch ???
 skin_red_warrior:Roter Krieger
-skin_red_warrior_description:Erhältlich durch ???
 skin_royal_assassin:Königlicher Assassine
-skin_royal_assassin_description:Erhältlich durch ???
 skin_brilliant_assassin:Brillanter Assassine
-skin_brilliant_assassin_description:Erhältlich durch ???
 skin_unseen_assassin:Ungesehener Assassin
-skin_unseen_assassin_description:Erhältlich durch ???
 skin_elegant_assassin:Eleganter Assassin
-skin_elegant_assassin_description:Erhältlich durch ???
 skin_wealthy_assassin:Reicher Assassin
-skin_wealthy_assassin_description:Erhältlich durch ???
 skin_bloody_assassin:Blutiger Assassin
-skin_bloody_assassin_description:Erhältlich durch ???
 skin_blackguard:Schwarze Garde
-skin_blackguard_description:Erhältlich durch ???
 skin_blue_rogue:Blaue Schurke
-skin_blue_rogue_description:Erhältlich durch ???
 skin_royal_paladin:Königlicher Paladin
-skin_royal_paladin_description:Erhältlich durch ???
 skin_glowing_paladin:Leuchtender Paladin
-skin_glowing_paladin_description:Erhältlich durch ???
 skin_emerald_paladin:Smaragdener Paladin
-skin_emerald_paladin_description:Erhältlich durch ???
 skin_mystic_paladin:Mystischer Paladin
-skin_mystic_paladin_description:Erhältlich durch ???
 skin_golden_paladin:Goldener Paladin
-skin_golden_paladin_description:Erhältlich durch ???
 skin_crimson_paladin:Purpurroter Paladin
-skin_crimson_paladin_description:Erhältlich durch ???
 skin_noble_knight:Edler Ritter
-skin_noble_knight_description:Erhältlich durch ???
 skin_red_knight:Roter Ritter
-skin_red_knight_description:Erhältlich durch ???
 skin_royal_grandmaster:Königlicher Großmeister
-skin_royal_grandmaster_description:Erhältlich durch ???
 skin_academic_grandmaster:Akademischer Großmeister
-skin_academic_grandmaster_description:Erhältlich durch ???
 skin_herbalistic_grandmaster:Kräuterkundiger Großmeister
-skin_herbalistic_grandmaster_description:Erhältlich durch ???
 skin_abyssal_grandmaster:Abyssischer Großmeister
-skin_abyssal_grandmaster_description:Erhältlich durch ???
 skin_shining_grandmaster:Leuchtender Großmeister
-skin_shining_grandmaster_description:Erhältlich durch ???
 skin_fiery_grandmaster:Feuriger Großmeister
-skin_fiery_grandmaster_description:Erhältlich durch ???
 skin_scholar:Gelehrter
-skin_scholar_description:Erhältlich durch ???
 skin_forest_mage:Waldmagier
-skin_forest_mage_description:Erhältlich durch ???
 skin_adventurer:Abenteurer-Rüstung
-skin_adventurer_description:Erhältlich durch ???
+skin_undead:Untoter
+skin_phantom:Phantom
+skin_batwing:Fledermausflügel
+skin_vampire_hunter:Vampirjäger
+skin_profaned:Entweiht
+alreadyOwnsSkin:Der Spieler besitzt diesen Skin bereits.
+eventShopClosesIn:Eventladen schließt in
+eventEndsIn:Event endet in

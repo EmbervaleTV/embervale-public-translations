@@ -1,4 +1,4 @@
-main_mission:Principal
+main_mission:Tutorial
 bestiary:Bestiario
 collector:Coleccionista
 adventurer:Aventurero
@@ -40,11 +40,11 @@ complete_items_glossary:Descubre {count}% de objetos
 reach_level:Llega a nivel {lvl}
 participate_in_adventures:Participa en {amount} aventuras
 clear_bounties:Elimina {amount} recompensas
-clear_bounties_difficulty_1:Elimina {amount} recompensas en el nivel de dificultad 1
-clear_bounties_difficulty_2:Elimina {amount} recompensas en el nivel de dificultad 2
-clear_bounties_difficulty_3:Elimina {amount} recompensas en el nivel de dificultad 3
-clear_bounties_difficulty_4:Elimina {amount} recompensas en el nivel de dificultad 4
-clear_bounties_difficulty_5:Elimina {amount} recompensas en el nivel de dificultad 5
+clear_bounties_difficulty_1:Gana {amount}x recompensas de 1 estrella
+clear_bounties_difficulty_2:Gana {amount}x recompensas de 2 estrellas
+clear_bounties_difficulty_3:Gana {amount}x recompensas de 3 estrellas
+clear_bounties_difficulty_4:Gana {amount}x recompensas de 4 estrellas
+clear_bounties_difficulty_5:Gana {amount}x recompensas de 5 estrellas
 defeat_monster_in_dungeon:Derrota {amount} monstruos en mazmorras
 win_pvp_battle:Gana {amount} batallas PvP
 find_a_mythical_item:Encuentra {amount} ítems míticos
@@ -52,7 +52,7 @@ distribute_skill_points:Distribuye {amount} puntos de habilidad
 use_stamina:Usa {amount} resistencia en recompensas
 complete_an_expedition:Completa {amount} expediciones
 battle_in_the_arena:Lucha en la arena {amount} veces
-join_or_create_a_guild:Únete o crea un gremio
+join_or_create_a_guild:Únete o crea un gremio (próximamente...)
 clear_the_first_dungeon:Limpia la primera mazmorra
 wear_full_set_of_uncommon:Usa un conjunto completo de ítems poco comunes
 wear_full_set_of_common:Usa un conjunto completo de ítems comunes
@@ -62,6 +62,58 @@ wear_full_set_of_legendary:Usa un conjunto completo de objetos legendarios
 wear_full_set_of_mythical:Usa un conjunto completo de objetos míticos
 reach_fame:Alcanza {amount} fama
 shop_reroll_5:Repetir la tienda cuesta un 5% menos de cobre
-claim_daily_bonus:Reclama {amount} bonificaciones diarias en nuestro Discord
-claim_daily_bonus_row:Reclama {amount} bonificaciones diarias seguidas en nuestro Discord
+claim_daily_bonus:Reclama {amount} bonos diarios en nuestro Discord
+claim_daily_bonus_row:Reclama {amount} bonos diarios consecutivos en nuestro Discord
 lose_fights:Pierde {amount} peleas
+complete_3hour_expedition:Completa {amount} expediciones de 3 horas o más
+complete_6hour_expedition:Completa {amount} expediciones de 6 horas o más
+sell_items_in_shop:Vende {amount} artículos en la tienda
+purchase_items_in_shop:Compra {amount} artículos en la tienda
+donate_materials:Dona {amount} materiales al comerciante
+attempt_dungeon:Intenta {amount} mazmorras
+craft_alchemist:Elabora {amount} objetos alquímicos
+craft_smith:Forja {amount} artículos de herrería
+craft_cook:Prepara {amount} comidas
+use_potion:Bebe {amount} pociones
+use_food:Come {amount} comidas
+collect_smith_materials:Recoge {amount} materiales de herrería
+collect_alchemist_materials:Recoge {amount} materiales de alquimia
+collect_cook_materials:Recoge {amount} materiales de cocina
+strike_critical_hits:Asesta {amount} golpes críticos
+hoard_gold:Ten al menos {amount} de Oro en tu inventario
+hoard_platinum:Tén al menos {amount} de Platino en tu inventario
+defeat_rogue_class_in_arena:Derrota a {amount} pícaros en batallas de arena
+defeat_mage_class_in_arena:Derrota a {amount} magos en batallas de arena
+defeat_knight_class_in_arena:Derrota a {amount} caballeros en batallas de arena
+defeat_ranger_class_in_arena:Derrota a {amount} exploradores en batallas de arena
+defeat_warrior_class_in_arena:Derrota a {amount} guerreros en batallas de arena
+repeatable__participate_in_adventures:[Repetible] Participa en {amount} aventuras
+vote_in_adventures:Emitir {amount} votos en aventuras
+complete_elemental_butterflies_glossary:Añade todos los {amount} Elemental Butterflies a tu Glosario
+event:Evento
+complete_all_event_missions:Completa y reclama recompensas por todas las {amount} misiones del evento
+one_additional_inventory_space:Añade 1 espacio adicional a tu inventario de equipo
+complete_dungeon_1:Limpia 'Jardines Infestados'
+complete_dungeon_2:Limpia 'Tierras Fluviales Secas'
+complete_dungeon_3:Limpia 'Cruce de Río Ocupado'
+complete_dungeon_4:Limpia 'Seafire Varada'
+complete_dungeon_6:Despejar 'Reino Oculto'
+complete_dungeon_7:Despejar 'Isla de Bestias'
+complete_dungeon_8:Despejar 'Hielo Eterno'
+complete_dungeon_9:Limpia 'Montañas Plateadas'
+complete_dungeon_10:Limpia 'Páramos Abandonados'
+complete_dungeon_11:Limpia 'Bosque Crepuscular'
+complete_dungeon_12:Limpia 'Cementerio de los Sin Nombre'
+complete_dungeon_13:Limpia 'Bastión de Luz'
+complete_dungeon_14:Limpia 'Embervale'
+complete_dungeon_5:Despejar 'Paso de Aguas Profundas'
+repeatable__refer_a_streamer:[Repetible] Recomienda nuevos streamers a Embervale.TV
+referStreamer:Recomienda un streamer
+referStreamerReq1:El streamer debe introducir tu nombre de Twitch al crear su primer personaje.
+referStreamerReq2:El streamer debe ser Afiliado o Partner de Twitch.
+referStreamerReq3:El streamer debe alcanzar el nivel 10 en Embervale.
+referStreamerReq4:El streamer debe organizar al menos 3 aventuras.
+referStreamerWhenDone:Una vez que todos los pasos estén completados, recibirás tu recompensa en 24 horas:
+daily:Diario
+tutorial:Tutorial
+complete_daily_mission:Completa {amount} misiones diarias

@@ -65,6 +65,7 @@ isSteamRunning:Произошла ошибка. Запущен ли Steam?
 errNoPermission:У вас нет разрешения на это!
 errUnknownErrorChatbot:Произошла неизвестная ошибка! Если проблема сохраняется, сообщите об этом на нашем Discord: https://discord.com/invite/Gum9bS2dyw
 twitchBotRemoved:Бот покидает игру. Спасибо за игру в Embervale.
-errPleaseRenameYourCharacter:Вам нужно переименовать вашего персонажа!
+errPleaseRenameYourCharacter:Вам нужно переименовать своего персонажа! Поскольку это наша просьба, мы начислили вам 25 Arcanite, чтобы вы могли бесплатно переименовать своего персонажа.
 errConsumableInventoryWouldBeFull:Это сделает вашу сумку с расходными материалами слишком тяжелой!
 errChestInventoryIsFull:Ваш сундук полон!
+errDesyncedObjDoesNotExist:Невозможно завершить это действие. Это может произойти, если предмет больше не существует, что часто вызвано игрой на нескольких устройствах одновременно.

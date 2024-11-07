@@ -83,7 +83,7 @@ sea_platter:Prato do Mar
 sea_platter_craft_description:Reabastece de {amount_min1} a {amount_max1} de vigor.
 sea_platter_description:Reabastece {amount_min1} de vigor.
 coin_stack:Pilha de Moedas
-coin_stack_description:Use-o para ganhar cobre. Nível {level}
+coin_stack_description:Use isto para ganhar cobre. Nível {level}
 medium_xp_potion:Poção Média de XP
 medium_xp_potion_description:Esta poção aumenta seu XP em {percent}% por {amount} lutas!
 recipe:Receita
@@ -123,14 +123,36 @@ chest:Baú
 food:Comida
 royal_chest:Bau Real
 epic_bundle:Pacote Épico
-epic_bundle_description:Concede {arcanites} Arcanites ao ser consumido e ativa a assinatura por 30 dias.
+epic_bundle_description:Ativa a assinatura épica por {dayPlaceholder} dias.
 legendary_bundle:Pacote Lendário
-legendary_bundle_description:Concede {arcanites} Arcanites ao ser consumido e ativa a assinatura por 30 dias.
+legendary_bundle_description:Ativa a assinatura lendária por {dayPlaceholder} dias.
 mythical_bundle:Pacote Mítico
-mythical_bundle_description:Concede {arcanites} Arcanites ao ser consumido e ativa a assinatura por 30 dias.
+mythical_bundle_description:Ativa a assinatura mítica por {dayPlaceholder} dias.
 royal_patreon:Patreon Real
 mythical_patreon:Patreon Mítico
 legendary_patreon:Patreon Lendário
 epic_patreon:Patreon Épico
 great_patreon:Patreon Excelente
 patreon:Patreon
+material_sack:Pilha de Materiais
+material_sack_description:Use isto para ganhar um punhado de materiais. Nível {level}
+second_chance:Segunda Chance
+second_chance_description:Use isto para rolar um dado novamente.
+secondChanceBuyConfirmation:Por favor, confirme que deseja gastar {amount} Arcanites para contribuir para a segunda chance.
+secondChanceDonateDescription:Permite que o streamer role novamente um dado. Após um total de 100 Arcanites ser gasto, o streamer ganha uma segunda chance. Só pode ser usada durante a aventura atual e adquirida uma vez por aventura.
+pumpkin_treat:Doce de Abóbora
+pumpkin_treat_craft_description:Reabastece de {amount_min1} a {amount_max1} resistência. A receita desaparecerá após o Evento de Halloween 2024.
+pumpkin_treat_description:Reabastece {amount_min1} resistência.
+mysterious_pumpkin:Abóbora Misteriosa
+secondChanceLimitReached:O streamer já possui uma Segunda Chance. Por favor, tente novamente após eles a utilizarem.
+coin_bag:Bolsa de Moedas
+coin_bag_description:Use isto para ganhar cobre. Nível {level}
+coin_stash:Monte de Moedas
+coin_stash_description:Use isto para ganhar cobre. Nível {level}
+coins:Moedas
+coins_description:Use isso para ganhar cobre. Nível {level}
+coin_pile:Pilha de Moedas
+coin_pile_description:Use isto para ganhar cobre. Nível {level}
+roasted_chicken:Frango Assado
+roasted_chicken_craft_description:Reabastece de {amount_min1} a {amount_max1} de resistência.
+roasted_chicken_description:Reabastece {amount_min1} de resistência.

@@ -243,7 +243,7 @@ magic_mercenarys_robe:Roben des magischen Söldners
 elven_tunic:Elbentunika
 cloak_of_aspiration:Umhang der Erhebung
 robe_of_deceit:Roben des Betrugs
-elven_kings_armor:Armschienen des Elbenkönigs
+elven_kings_armor:Rüstung des Elfenkönigs
 crimson_knights_plate:Brustpanzer des purpurnen Ritters
 dragon_scale_cuirass:Drachenschuppenpanzer
 generals_chestplate:Brustplatte des Generals
@@ -814,7 +814,7 @@ kingsguard_symbol:Symbol der Königswache
 crystalshroud_vestments:Kristallhüllengewänder
 runewoven_initiate_robes:Runengewebte Initiationsroben
 acolythes_robes:Roben des Akolythen
-wandering_witches_dress:Kleid der Wanderhexen
+wandering_witches_dress:Kleid der umherwandernden Hexe
 exiled_scholars_garment:Gewand des verbannten Gelehrten
 wondrous_healers_robes:Roben des wunderbaren Heilers
 silent_jacket:Schweigende Jacke
@@ -847,8 +847,8 @@ emerald_scale_armor:Smaragd Schuppenrüstung
 hellfire_plate:Höllenfeuer Platte
 mirageforge_aegis:Mirageforge Aegis
 crystalshroud_bracers:Kristallschleier Armschienen
-acolythes_gloves:Akolythen Handschuhe
-wandering_witches_bracers:Wandernde Hexen Armschienen
+acolythes_gloves:Handschuhe des Akolythen
+wandering_witches_bracers:Armschienen der umherwandernden Hexe
 exiled_scholars_gloves:Verstoßene Gelehrten Handschuhe
 wondrous_healers_gloves:Wundersame Heiler Handschuhe
 silent_bracers:Stille Armschienen
@@ -881,8 +881,8 @@ hellfire_wrath:Höllenfeuer Zorn
 mirageforge_hands:Mirageschmiedehände
 crystalshroud_hat:Kristallschleier-Hut
 runewoven_initiate_shroud:Runengewebter Initiatenschleier
-acolythes_hat:Akolythen-Hut
-wandering_witches_hood:Wandernde Hexenhaube
+acolythes_hat:Hut des Akolythen
+wandering_witches_hood:Kapuze der umherwandernden Hexe
 exiled_scholars_hood:Exilierter Gelehrtenhaube
 eastern_mage_hood:Östliche Magierhaube
 silent_hat:Stiller Hut
@@ -915,8 +915,8 @@ crown_of_demise:Krone des Niedergangs
 legion_helmet:Legionshelm
 crystalshroud_shoes:Kristallschleierschuhe
 runewoven_initiate_boots:Runengewebte Initiatenstiefel
-acolythes_boots:Akolythenstiefel
-wandering_witches_shoes:Wanderhexenschuhe
+acolythes_boots:Stiefel des Akolythen
+wandering_witches_shoes:Schuhe der umherwandernden Hexe
 exiled_scholars_boots:Exilierten-Gelehrten-Stiefel
 wondrous_healers_boots:Wunderheilerstiefel
 silent_boots:Stille Stiefel

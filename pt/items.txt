@@ -387,7 +387,7 @@ straw_bracelet:Bracelete de Palha
 tormenters:Atormentadores
 elven_kings_gloves:Luvas do Rei Élfico
 decorated_bracelet:Bracelete Decorado
-legendary_adventurers_gloves:Luvas do Aventureiro Lendário
+legendary_adventurers_gloves:Luvas Lendárias do Aventureiro
 fist_of_midas:Punho de Midas
 reapers_bracelet:Bracelete do Ceifador
 warlocks_hood:Capuz do Feiticeiro
@@ -916,7 +916,7 @@ legion_helmet:Elmo da Legião
 crystalshroud_shoes:Sapatos do Véu Cristalino
 runewoven_initiate_boots:Botas do Iniciado Tecimurais
 acolythes_boots:Botas do Acólito
-wandering_witches_shoes:Sapatos das Bruxas Errantes
+wandering_witches_shoes:Sapatos da Bruxa Errante
 exiled_scholars_boots:Botas do Erudito Exilado
 wondrous_healers_boots:Botas do Curandeiro Maravilhoso
 silent_boots:Botas Silenciosas

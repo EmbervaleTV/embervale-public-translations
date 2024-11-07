@@ -1,86 +1,50 @@
 skin_starter:Tenue de Débutant
-skin_starter_description:Obtenue en créant votre personnage.
-skin_dragon_warrior:Peau de Déemon
-skin_dragon_warrior_description:Peau personnalisée du DeemonRider.
 skin_royal_scout:Éclaireur Royal
-skin_royal_scout_description:Obtenable par ???
 skin_island_scout:Éclaireur des Îles
-skin_island_scout_description:Obtenable par ???
 skin_swamp_scout:Éclaireur des Marais
-skin_swamp_scout_description:Obtenable par ???
 skin_eastern_scout:Éclaireur de l'Est
-skin_eastern_scout_description:Obtenable par ???
 skin_dune_scout:Éclaireur des Dunes
-skin_dune_scout_description:Obtenable par ???
 skin_vale_scout:Éclaireur de la Vallée
-skin_vale_scout_description:Obtenable par ???
 skin_wanderer:Vagabond
-skin_wanderer_description:Obtenable par ???
 skin_fall_ranger:Ranger d'Automne
-skin_fall_ranger_description:Obtenable par ???
 skin_royal_general:Général Royal
-skin_royal_general_description:Obtenu par ???
 skin_wise_general:Général Sage
-skin_wise_general_description:Obtenu par ???
 skin_jade_general:Général de Jade
-skin_jade_general_description:Obtenu par ???
 skin_adamant_general:Général Inflexible
-skin_adamant_general_description:Obtenu par ???
 skin_heroic_general:Général Héroïque
-skin_heroic_general_description:Obtenu par ???
 skin_courageous_general:Général Courageux
-skin_courageous_general_description:Obtenu par ???
 skin_commander:Commandant
-skin_commander_description:Obtenu par ???
 skin_red_warrior:Guerrier Rouge
-skin_red_warrior_description:Obtenu par ???
 skin_royal_assassin:Assassin Royal
-skin_royal_assassin_description:Obtenu par ???
 skin_brilliant_assassin:Assassin Brillant
-skin_brilliant_assassin_description:Obtenu par ???
 skin_unseen_assassin:Assassin Invisible
-skin_unseen_assassin_description:Obtenable par ???
 skin_elegant_assassin:Assassin Élégant
-skin_elegant_assassin_description:Obtenable par ???
 skin_wealthy_assassin:Assassin Riche
-skin_wealthy_assassin_description:Obtenable par ???
 skin_bloody_assassin:Assassin Sanguinaire
-skin_bloody_assassin_description:Obtenable par ???
 skin_blackguard:Mercenaire
-skin_blackguard_description:Obtenable par ???
 skin_blue_rogue:Rogue Bleu
-skin_blue_rogue_description:Obtenable par ???
 skin_royal_paladin:Paladin Royal
-skin_royal_paladin_description:Obtenable par ???
 skin_glowing_paladin:Paladin Lumineux
-skin_glowing_paladin_description:Obtenable par ???
 skin_emerald_paladin:Paladin Émeraude
-skin_emerald_paladin_description:Obtenable par ???
 skin_mystic_paladin:Paladin Mystique
-skin_mystic_paladin_description:Obtenable par ???
 skin_golden_paladin:Paladin Doré
-skin_golden_paladin_description:Obtenable par ???
 skin_crimson_paladin:Paladin Écarlate
-skin_crimson_paladin_description:Obtenable par ???
 skin_noble_knight:Noble Chevalier
-skin_noble_knight_description:Obtenable par ???
 skin_red_knight:Chevalier Rouge
-skin_red_knight_description:Obtenable par ???
 skin_royal_grandmaster:Grand Maître Royal
-skin_royal_grandmaster_description:Obtenable par ???
 skin_academic_grandmaster:Grand Maître Académique
-skin_academic_grandmaster_description:Obtenable par ???
 skin_herbalistic_grandmaster:Grand Maître Herboriste
-skin_herbalistic_grandmaster_description:Obtenable par ???
 skin_abyssal_grandmaster:Grand Maître Abyssal
-skin_abyssal_grandmaster_description:Obtenable par ???
 skin_shining_grandmaster:Grand Maître Éclatant
-skin_shining_grandmaster_description:Obtenable par ???
 skin_fiery_grandmaster:Grand Maître Enflammé
-skin_fiery_grandmaster_description:Obtenable par ???
 skin_scholar:Érudit
-skin_scholar_description:Obtenu par ???
 skin_forest_mage:Mage Forestier
-skin_forest_mage_description:Obtenu par ???
 skin_adventurer:Armure d'Aventurier
-skin_adventurer_description:Obtenable par ???
+skin_undead:Mort-vivant
+skin_phantom:Fantôme
+skin_batwing:Aile de chauve-souris
+skin_vampire_hunter:Chasseur de vampires
+skin_profaned:Profané
+alreadyOwnsSkin:Le joueur possède déjà ce skin.
+eventShopClosesIn:Le Marché de l'Événement ferme dans
+eventEndsIn:L'événement se termine dans

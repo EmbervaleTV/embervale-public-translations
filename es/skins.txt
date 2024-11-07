@@ -1,86 +1,50 @@
 skin_starter:Atuendo de Principiante
-skin_starter_description:Obtenido al crear tu personaje.
-skin_dragon_warrior:Piel de Deemons
-skin_dragon_warrior_description:Piel personalizada de DeemonRider
 skin_royal_scout:Explorador Real
-skin_royal_scout_description:Obtenible por ???
 skin_island_scout:Explorador de Isla
-skin_island_scout_description:Obtenible por ???
 skin_swamp_scout:Explorador de Pantano
-skin_swamp_scout_description:Obtenible por ???
 skin_eastern_scout:Explorador del Este
-skin_eastern_scout_description:Obtenible por ???
 skin_dune_scout:Explorador de Dunas
-skin_dune_scout_description:Obtenible por ???
 skin_vale_scout:Explorador del Valle
-skin_vale_scout_description:Obtenible por ???
 skin_wanderer:Vagabundo
-skin_wanderer_description:Obtenible por ???
 skin_fall_ranger:Guardián del Otoño
-skin_fall_ranger_description:Obtenible por ???
 skin_royal_general:General Real
-skin_royal_general_description:Obtenible por ???
 skin_wise_general:General Sabio
-skin_wise_general_description:Obtenible por ???
 skin_jade_general:General de Jade
-skin_jade_general_description:Obtenible por ???
 skin_adamant_general:General Adamantino
-skin_adamant_general_description:Obtenible por ???
 skin_heroic_general:General Heroico
-skin_heroic_general_description:Obtenible por ???
 skin_courageous_general:General Valiente
-skin_courageous_general_description:Obtenible por ???
 skin_commander:Comandante
-skin_commander_description:Obtenible por ???
 skin_red_warrior:Guerrero Rojo
-skin_red_warrior_description:Obtenible por ???
 skin_royal_assassin:Asesino Real
-skin_royal_assassin_description:Obtenible por ???
 skin_brilliant_assassin:Asesino Brillante
-skin_brilliant_assassin_description:Obtenible por ???
 skin_unseen_assassin:Asesino Invisible
-skin_unseen_assassin_description:Obtenible por ???
 skin_elegant_assassin:Asesino Elegante
-skin_elegant_assassin_description:Obtenible por ???
 skin_wealthy_assassin:Asesino Adinerado
-skin_wealthy_assassin_description:Obtenible por ???
 skin_bloody_assassin:Asesino Sangriento
-skin_bloody_assassin_description:Obtenible por ???
 skin_blackguard:Bribón
-skin_blackguard_description:Obtenible por ???
 skin_blue_rogue:Pícaro Azul
-skin_blue_rogue_description:Obtenible por ???
 skin_royal_paladin:Paladín Real
-skin_royal_paladin_description:Obtenible por ???
 skin_glowing_paladin:Paladín Brillante
-skin_glowing_paladin_description:Obtenible por ???
 skin_emerald_paladin:Paladín Esmeralda
-skin_emerald_paladin_description:Obtenible por ???
 skin_mystic_paladin:Paladín Místico
-skin_mystic_paladin_description:Obtenible por ???
 skin_golden_paladin:Paladín Dorado
-skin_golden_paladin_description:Obtenible por ???
 skin_crimson_paladin:Paladín Carmesí
-skin_crimson_paladin_description:Obtenible por ???
 skin_noble_knight:Caballero Noble
-skin_noble_knight_description:Obtenible por ???
 skin_red_knight:Caballero Rojo
-skin_red_knight_description:Obtenible por ???
 skin_royal_grandmaster:Gran Maestro Real
-skin_royal_grandmaster_description:Obtenible por ???
 skin_academic_grandmaster:Gran Maestro Académico
-skin_academic_grandmaster_description:Obtenible por ???
 skin_herbalistic_grandmaster:Gran Maestro Herbalista
-skin_herbalistic_grandmaster_description:Obtenible por ???
 skin_abyssal_grandmaster:Gran Maestro Abismal
-skin_abyssal_grandmaster_description:Obtenible por ???
 skin_shining_grandmaster:Gran Maestro Brillante
-skin_shining_grandmaster_description:Obtenible por ???
 skin_fiery_grandmaster:Gran Maestro Ardiente
-skin_fiery_grandmaster_description:Obtenible por ???
 skin_scholar:Erudito
-skin_scholar_description:Obtenible por ???
 skin_forest_mage:Mago del Bosque
-skin_forest_mage_description:Obtenible por ???
 skin_adventurer:Armadura de Aventurero
-skin_adventurer_description:Obtenible por ???
+skin_undead:No-muerto
+skin_phantom:Fantasma
+skin_batwing:Ala de murciélago
+skin_vampire_hunter:Cazador de vampiros
+skin_profaned:Profanado
+alreadyOwnsSkin:El jugador ya posee este aspecto.
+eventShopClosesIn:Tienda del Evento cierra en
+eventEndsIn:El evento termina en

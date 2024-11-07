@@ -1,13 +1,13 @@
 statDMG-mage:La plage de dégâts magiques que tu peux infliger.
-statDMG-F-mage:Dégâts = Dégâts de l'arme * (sagesse / 60 + 1)
+statDMG-F-mage:Dommages = Dommages de l'arme * ((sagesse / 60) + 1)
 statDMG-knight:La plage de dégâts physiques que tu peux infliger.
-statDMG-F-knight:Dégâts = Dégâts de l'arme * (force / 60 + 1)
+statDMG-F-knight:Dommages = Dommages de l'arme * ((force / 60) + 1)
 statDMG-ranger:La plage de dégâts physiques que tu peux infliger.
-statDMG-F-ranger:Dégâts = Dégâts de l'arme * (dextérité / 60 + 1)
+statDMG-F-ranger:Dommages = Dommages de l'arme * ((dextérité / 60) + 1)
 statDMG-warrior:La plage de dégâts physiques que tu peux infliger.
-statDMG-F-warrior:Dégâts = Dégâts de l'arme * (force / 60 + 1)
+statDMG-F-warrior:Dommages = Dommages de l'arme * ((force / 60) + 1)
 statDMG-rogue:La plage de dégâts physiques que tu peux infliger.
-statDMG-F-rogue:Dégâts = Dégâts de l'arme * (dextérité / 60 + 1)
+statDMG-F-rogue:Dommages = Dommages de l'arme * ((dextérité / 60) + 1)
 statVIT-mage:La quantité de dégâts que tu peux encaisser.
 statVIT-F-mage:(1 + vit * 0.1) * (1 + 0.01 * lvl) * 11.5 + 10
 statVIT-knight:La quantité de dégâts que tu peux encaisser.
@@ -20,62 +20,62 @@ statVIT-rogue:La quantité de dégâts que tu peux encaisser.
 statVIT-F-rogue:(1 + vit * 0.1) * (1 + 0.01 * lvl) * 15 + 10
 statArmor-mage:Réduit tous les dégâts physiques.
 statArmor-M-mage:Valeur maximale 50%.
-statArmor-F-mage:(Armure + Force/4) / niv * 0.08
+statArmor-F-mage:(Armure + Force/3) / niveau * 0.08
 statArmor-knight:Réduit tous les dégâts physiques.
-statArmor-F-knight:Armure / niv * 0.08
+statArmor-F-knight:(Armure / niveau) * 0,08
 statArmor-M-knight:Valeur maximale 50%.
 statArmor-ranger:Réduit tous les dégâts physiques.
-statArmor-F-ranger:(Armure + Force/4) / niv * 0.08
+statArmor-F-ranger:(Armure + Force/3) / niveau * 0.08
 statArmor-M-ranger:Valeur maximale 50%.
 statArmor-warrior:Réduit tous les dégâts physiques.
 statArmor-M-warrior:Valeur maximale 50%.
 statArmor-rogue:Réduit tous les dégâts physiques.
-statArmor-F-rogue:(Armure + Force/4) / niv * 0.08
+statArmor-F-rogue:(Armure + Force/3) / niveau * 0.08
 statArmor-M-rogue:Valeur maximale 50%.
 statMagRes-mage:Réduit tous les dégâts magiques.
-statMagRes-F-mage:Rés. Mag / niv * 0.08
+statMagRes-F-mage:(Rés. Mag. / niveau) * 0,08
 statMagRes-M-mage:Valeur maximale 50%.
 statMagRes-knight:Réduit tous les dégâts magiques.
-statMagRes-F-knight:(Rés. Mag + Sagesse/4) / niv * 0.08
+statMagRes-F-knight:(Résist. Mag. + Sagesse/3) / niveau * 0.08
 statMagRes-M-knight:Valeur maximale 50%.
 statMagRes-ranger:Réduit tous les dégâts magiques.
-statMagRes-F-ranger:(Rés. Mag. + Sagesse/4) / niv * 0.08
+statMagRes-F-ranger:(Résist. Mag. + Sagesse/3) / niveau * 0.08
 statMagRes-M-ranger:Valeur maximale 50%.
 statMagRes-warrior:Réduit tous les dégâts magiques.
-statMagRes-F-warrior:(Rés. Mag. + Sagesse/4) / niv * 0.08
+statMagRes-F-warrior:(Résist. Mag. + Sagesse/3) / niveau * 0.08
 statMagRes-M-warrior:Valeur maximale 50%.
 statMagRes-rogue:Réduit tous les dégâts magiques.
-statMagRes-F-rogue:(Rés. Mag. + Sagesse/4) / niv * 0.08
+statMagRes-F-rogue:(Résist. Mag. + Sagesse/3) / niveau * 0.08
 statMagRes-M-rogue:Valeur maximale 50%.
 statCritMod-mage:Détermine la puissance des coups critiques.
-statCritMod-F-mage:Chance / ((niv + 1) * 2) + 1.2
+statCritMod-F-mage:(Chance / ((niveau + 1) * 2)) + 1,2
 statCritMod-M-mage:Valeur maximale x3.0.
 statCritMod-knight:Détermine la puissance des coups critiques.
-statCritMod-F-knight:Chance / ((niv + 1) * 2) + 1.1
+statCritMod-F-knight:(Chance / ((niveau + 1) * 2)) + 1,1
 statCritMod-M-knight:Valeur maximale x1.8.
 statCritMod-ranger:Détermine la puissance des coups critiques.
-statCritMod-F-ranger:Chance / ((niv + 1) * 2) + 1.1
+statCritMod-F-ranger:(Chance / ((niveau + 1) * 2)) + 1,1
 statCritMod-M-ranger:Valeur maximale x1.8.
 statCritMod-warrior:Détermine la puissance des coups critiques.
-statCritMod-F-warrior:Chance / ((niveau + 1) * 2) + 1.1
+statCritMod-F-warrior:(Chance / ((niveau + 1) * 2)) + 1,1
 statCritMod-M-warrior:Valeur maximale x1.8.
 statCritMod-rogue:Détermine la puissance des coups critiques.
-statCritMod-F-rogue:Chance / ((niveau + 1) * 2) + 1.1
+statCritMod-F-rogue:(Chance / ((niveau + 1) * 2)) + 1,1
 statCritMod-M-rogue:Valeur maximale x1.8.
-statCritPerc-mage:Détermine la chance d'effectuer un coup critique.
-statCritPerc-F-mage:Précision / niveau * 0.25
+statCritPerc-mage:Détermine la chance de porter un coup critique.
+statCritPerc-F-mage:(Précision / niveau) * 0,25
 statCritPerc-M-mage:Valeur maximale 50%
-statCritPerc-knight:Détermine la chance d'effectuer un coup critique.
-statCritPerc-F-knight:Précision / niveau * 0.25
+statCritPerc-knight:Détermine la chance de réussir un coup critique.
+statCritPerc-F-knight:(Précision / niveau) * 0,25
 statCritPerc-M-knight:Valeur maximale 50%
-statCritPerc-ranger:Détermine la chance d'effectuer un coup critique.
-statCritPerc-F-ranger:Précision / niveau * 0.25
+statCritPerc-ranger:Détermine la chance de réussir un coup critique.
+statCritPerc-F-ranger:(Précision / niveau) * 0,25
 statCritPerc-M-ranger:Valeur maximale 80%
-statCritPerc-warrior:Détermine la chance d'effectuer un coup critique.
-statCritPerc-F-warrior:Précision / niveau * 0.25
+statCritPerc-warrior:Détermine la chance de réussir un coup critique.
+statCritPerc-F-warrior:(Précision / niveau) * 0,25
 statCritPerc-M-warrior:Valeur maximale 50%
-statCritPerc-rogue:Détermine la chance d'effectuer un coup critique.
-statCritPerc-F-rogue:Précision / niveau * 0.25
+statCritPerc-rogue:Détermine la chance de réussir un coup critique.
+statCritPerc-F-rogue:(Précision / niveau) * 0,25
 statCritPerc-M-rogue:Valeur maximale 50%
 statEvasion-mage:Chance de parer une attaque physique.
 statEvasion-F-mage:(Esquive + dextérité/3) / lvl * 0.075
@@ -84,12 +84,12 @@ statEvasion-knight:Chance de parer une attaque physique.
 statEvasion-F-knight:(Esquive + dextérité/3) / lvl * 0.025
 statEvasion-M-knight:Valeur maximale 10%.
 statEvasion-ranger:Chance de parer une attaque physique.
-statEvasion-F-ranger:Esquive / lvl * 0.1
+statEvasion-F-ranger:(Évasion / niveau) * 0,1
 statEvasion-M-ranger:Valeur maximale 30%.
 statEvasion-warrior:Chance de parer une attaque physique.
 statEvasion-F-warrior:(Esquive + dextérité/3) / lvl * 0.05
 statEvasion-M-warrior:Valeur maximale 15%.
 statEvasion-rogue:Chance de parer une attaque physique.
-statEvasion-F-rogue:Évasion / niv * 0,1
+statEvasion-F-rogue:(Évasion / niveau) * 0,1
 statEvasion-M-rogue:Valeur maximale 30%.
-statArmor-F-warrior:Armure / niv * 0.08
+statArmor-F-warrior:(Armure / niveau) * 0,08

@@ -1,4 +1,4 @@
-main_mission:Главная
+main_mission:Туториал
 bestiary:Бестиарий
 collector:Коллекционер
 adventurer:Авантюрист
@@ -40,11 +40,11 @@ complete_items_glossary:Откройте {count}% предметов
 reach_level:Достигните уровня {lvl}
 participate_in_adventures:Участвуй в {amount} приключениях
 clear_bounties:Заверши {amount} награды
-clear_bounties_difficulty_1:Заверши {amount} награды на уровне сложности 1
-clear_bounties_difficulty_2:Заверши {amount} награды на уровне сложности 2
-clear_bounties_difficulty_3:Заверши {amount} награды на уровне сложности 3
-clear_bounties_difficulty_4:Заверши {amount} награды на уровне сложности 4
-clear_bounties_difficulty_5:Заверши {amount} награды на уровне сложности 5
+clear_bounties_difficulty_1:Победите {amount}x награды 1-й звезды
+clear_bounties_difficulty_2:Победите {amount}x награды 2-й звезды
+clear_bounties_difficulty_3:Победите {amount}x награды 3-й звезды
+clear_bounties_difficulty_4:Победите {amount}x награды 4-й звезды
+clear_bounties_difficulty_5:Победите {amount}x награды 5-й звезды
 defeat_monster_in_dungeon:Победи {amount} монстров в подземельях
 win_pvp_battle:Выиграй {amount} PvP сражений
 find_a_mythical_item:Найди {amount} мифических предметов
@@ -52,7 +52,7 @@ distribute_skill_points:Распредели {amount} очков навыков
 use_stamina:Используй {amount} выносливости на награды
 complete_an_expedition:Заверши {amount} экспедиций
 battle_in_the_arena:Сразись на арене {amount} раз
-join_or_create_a_guild:Вступи или создай гильдию
+join_or_create_a_guild:Присоединяйся или создавай гильдию (скоро...)
 clear_the_first_dungeon:Очистви первое подземелье
 wear_full_set_of_uncommon:Надень полный комплект необычных предметов
 wear_full_set_of_common:Надень полный комплект обычных предметов
@@ -62,6 +62,58 @@ wear_full_set_of_legendary:Надень полный комплект леген
 wear_full_set_of_mythical:Надень полный комплект мифических предметов
 reach_fame:Достигни {amount} славы
 shop_reroll_5:Переброс магазина стоит на 5% меньше меди
-claim_daily_bonus:Забери {amount} ежедневных бонусов в нашем Discord
-claim_daily_bonus_row:Забери {amount} ежедневных бонусов подряд в нашем Discord
+claim_daily_bonus:Получите {amount} ежедневных бонусов на нашем Discord
+claim_daily_bonus_row:Получите {amount} ежедневных бонусов подряд на нашем Discord
 lose_fights:Проиграй {amount} сражений
+complete_3hour_expedition:Заверши {amount} экспедиций длительностью 3 часа или дольше
+complete_6hour_expedition:Заверши {amount} экспедиций длительностью 6 часов или дольше
+sell_items_in_shop:Продайте {amount} предметов в магазине
+purchase_items_in_shop:Купите {amount} предметов в магазине
+donate_materials:Пожертвуйте {amount} материалов торговцу
+attempt_dungeon:Пройдите {amount} подземелий
+craft_alchemist:Создайте {amount} алхимических предметов
+craft_smith:Куйте {amount} кузнечных изделий
+craft_cook:Приготовьте {amount} блюд
+use_potion:Выпейте {amount} зелий
+use_food:Съешьте {amount} блюд
+collect_smith_materials:Соберите {amount} кузнечных материалов
+collect_alchemist_materials:Соберите {amount} алхимических материалов
+collect_cook_materials:Соберите {amount} кулинарных материалов
+strike_critical_hits:Нанесите {amount} критических ударов
+hoard_gold:Держите как минимум {amount} золота в вашем инвентаре
+hoard_platinum:Держите в своем инвентаре не менее {amount} платины
+defeat_rogue_class_in_arena:Победите {amount} разбойников в боях на арене
+defeat_mage_class_in_arena:Победите {amount} магов в боях на арене
+defeat_knight_class_in_arena:Победите {amount} рыцарей в боях на арене
+defeat_ranger_class_in_arena:Победите {amount} рейнджеров в боях на арене
+defeat_warrior_class_in_arena:Победите {amount} воинов в боях на арене
+repeatable__participate_in_adventures:[Повторяемое] Участвуйте в {amount} приключениях
+vote_in_adventures:Отдать {amount} голосов в приключениях
+complete_elemental_butterflies_glossary:Добавьте все {amount} Элементальных Бабочек в ваш Глоссарий
+event:Событие
+complete_all_event_missions:Завершите все {amount} миссий события и получите награды
+one_additional_inventory_space:Добавляет 1 дополнительный слот в ваш инвентарь снаряжения
+complete_dungeon_1:Очистите 'Зараженные Сады'
+complete_dungeon_2:Очистите 'Высохшие Речные Земли'
+complete_dungeon_3:Очистите 'Занятый Речной Переправ'
+complete_dungeon_4:Очистите 'Затонувший Морской Огонь'
+complete_dungeon_6:Пройти 'Скрытое Королевство'
+complete_dungeon_7:Пройти 'Остров Зверей'
+complete_dungeon_8:Пройти 'Вечный Лед'
+complete_dungeon_9:Очистите 'Серебряные Горы'
+complete_dungeon_10:Очистите 'Заброшенные Пустоши'
+complete_dungeon_11:Очистите 'Сумрачный Лес'
+complete_dungeon_12:Очистите 'Кладбище Безымянных'
+complete_dungeon_13:Очистите 'Бастион Света'
+complete_dungeon_14:Очистите 'Embervale'
+complete_dungeon_5:Пройти 'Подводный Путь'
+repeatable__refer_a_streamer:[Повторяемое] Приглашайте новых стримеров на Embervale.TV
+referStreamer:Пригласите стримера
+referStreamerReq1:Стример должен ввести ваше имя Twitch при создании своего первого персонажа.
+referStreamerReq2:Стример должен быть аффилиатом или партнером Twitch.
+referStreamerReq3:Стример должен достичь 10 уровня в Embervale.
+referStreamerReq4:Стример должен провести минимум 3 приключения.
+referStreamerWhenDone:Как только все шаги выполнены, вы получите вашу награду в течение 24 часов:
+daily:Ежедневно
+tutorial:Туториал
+complete_daily_mission:Выполните {amount} ежедневных миссий

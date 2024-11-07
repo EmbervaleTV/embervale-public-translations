@@ -16,7 +16,7 @@ treasureOf:Tesoros de
 banishConfirmation:¿Estás seguro de que quieres desterrar a {{ playerToBanish.char.username }} de esta aventura?
 areYouSure:¿Estás seguro?
 banish:Desterrar
-youCanStartNewAdventureIn:Puedes empezar una nueva en:
+youCanStartNewAdventureIn:Puedes comenzar una nueva Aventura en:
 partyInventory:Inventario de la partida
 noLootObtained:Tu grupo aún no ha obtenido botín.
 chooseRewardRecipient:Elije al destinatario de la recompensa
@@ -100,9 +100,9 @@ effect_enhanced_magic:El jugador tiene una comprensión mejorada de la magia. //
 enhanced_magic:Magia Mejorada
 effect_empathic:El jugador tiene una empatía y comprensión aumentadas. // +1 de moral por ronda, +15% sabiduría
 empathic:Empático
-effect_uncomfortable:El jugador se siente incómodo o fuera de lugar. // -50% discurso
+effect_uncomfortable:El jugador se siente incómodo o fuera de lugar. // -50% fama
 uncomfortable:Incómodo
-effect_diplomatic:El jugador sobresale en negociación y resolución de conflictos. // +30% discurso, +5 en todas las tiradas de discurso
+effect_diplomatic:El jugador destaca en negociación y resolución de conflictos. // +30% fama, +5 en todas las tiradas de fama
 diplomatic:Diplomático
 unavailable:No Disponible
 effect_unavailable:El jugador está ocupado en otro lugar y temporalmente no puede participar en batallas. // # TODO
@@ -132,7 +132,7 @@ effect_overloaded:El jugador está abrumado por el tesoro recolectado. // -25% d
 overloaded:Abrumado
 effect_damaged_weapon:El arma del jugador ha visto mejores días y necesita ser reparada. // -25% daño
 damaged_weapon:Arma Dañada
-effect_improved_weapon:El arma del jugador fue mejorada recientemente. // +10% de daño
+effect_improved_weapon:El arma del jugador fue mejorada recientemente. // +25% daño
 improved_weapon:Arma Mejorada
 effect_disarmed:El arma del jugador está en terrible estado. // -75% de daño
 disarmed:Desarmado
@@ -143,7 +143,7 @@ banished:Desterrado
 strong_leader:Líder Fuerte
 effect_strong_leader:El líder ha demostrado una fuerza excepcional. // +25% a todas las estadísticas
 usurper:Usurpador
-effect_usurper:El jugador derrocó a su líder y ahora comanda el grupo. // TODO: 3x Poder de Votación
+effect_usurper:El jugador derrocó a su líder y ahora comanda el grupo. // 3x Poder de Votación
 bonded_friendship:Amistad Vinculada
 effect_bonded_friendship:El jugador ha formado una amistad cercana con otro miembro del grupo, mejorando su trabajo en equipo y moral. // +50% a todas las estadísticas y +1 §morale§ cuando está en la misma batalla con su amigo vinculado
 effect_transformed:El jugador se transforma en una criatura. // ???
@@ -216,3 +216,19 @@ armor:Armadura
 check_evasion:Esquivas rápidas necesarias.
 evasion:Evasión
 manipulateVoting:Manipular votación
+exitAdventure:Salir de la Aventura
+youReceivedFromManipulation:Ganas 1 Arcanite por cada 10 gastados en votos cuando la manipulación de votos está habilitada para todos los jugadores.
+recommended:Recomendado
+adventureSettingAllowArcaniteVotes:Habilitar a los jugadores para votar usando Arcanites
+adventureSettingAllowEveryoneToVote:Habilitar votación de jugadores fuera de tu aventura
+destined_death:Muerte Destinada
+effect_destined_death:Una hoja imbuida con magia prohibida. // Muerte
+confirmUseMaterial:¿Estás seguro de que quieres usar {name}?
+default:Por defecto
+sortByHPLow:Nivel: Menor primero
+sortByHPHigh:Nivel: Mayor primero
+sortByLvlLow:Salud: Menor primero
+sortByLvlHigh:Salud: Mayor primero
+youReceivedFromManipulationEnd:Ganaste por manipulación de votos:
+alreadyBanished:{{ playerToBanish.char.username }} ya está desterrado.
+invalidChoice:Elección no válida.

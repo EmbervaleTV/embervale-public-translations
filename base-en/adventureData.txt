@@ -15,9 +15,10 @@ youCanSelectRecipient:You can select the recipient of rare or higher loot!
 selectRandomPlayer:Select random player
 treasureOf:Treasure of
 banishConfirmation:Are you sure you want to banish {{ playerToBanish.char.username }} from this adventure?
+alreadyBanished:{{ playerToBanish.char.username }} is already banished.
 areYouSure:Are you sure?
 banish:Banish
-youCanStartNewAdventureIn:You can start a new one in:
+youCanStartNewAdventureIn:You can start a new Adventure in:
 partyInventory:Party Inventory
 noLootObtained:Your group hasn't obtained loot yet.
 chooseRewardRecipient:Choose reward recipient
@@ -25,12 +26,17 @@ voting:Voting
 alreadyReceivedDailyAdventureRewards:This player has already received their daily adventure drops. Please assign them to someone else.
 adventureNotLive:You need to be live on Twitch to start the adventure!
 manipulateVoting:Manipulate voting
-
+exitAdventure:Exit Adventure
+recommended:Recommended
+youReceivedFromManipulation:You earn 1 Arcanite for every 10 spent on votes when vote manipulation is enabled for all players.
+youReceivedFromManipulationEnd:You earned from vote manipulation:
+adventureSettingAllowArcaniteVotes:Enable players to vote using Arcanites
+adventureSettingAllowEveryoneToVote:Enable voting from players outside your adventure
 adventureEndMessageMoraleZero:The morale of the group is too low to continue the adventure. You decide to return home.
 adventureEndMessageAllDead:The group can no longer continue to fight. You decide to return home.
 adventureEndMessageSurrender:You decided to return home with your group.
 adventureEndMessageTimeout:The adventurers got tired of sitting around idle and the party has disbanded. (Timeout)
-
+confirmUseMaterial:Are you sure you want to use {name}?
 youWonTheAdventureFight:You won the adventure fight!
 youLoseTheAdventureFight:Your group lost the fight!
 yourGroupObtained:Your group obtained:
@@ -39,8 +45,16 @@ ThePlayerWillReceiveReward:Are you sure you want to give §player0§ the reward?
 noAdventureStarted:The streamer isn't hosting an adventure right now.
 waitingForVoting:Waiting for the next voting in {leaderName}'s adventure...
 alreadyVoted:You already voted.
+invalidChoice:Invalid Choice.
 vote:Vote
 choose:Choose
+
+// sorting
+default:Default
+sortByHPLow:Level: Lowest first
+sortByHPHigh:Level: Highest first
+sortByLvlLow:Health: Lowest first
+sortByLvlHigh:Health: Highest first
 
 check:Check
 required:Required
@@ -123,9 +137,9 @@ effect_enhanced_magic:The player has an enhanced understanding of magic. // +20%
 enhanced_magic:Enhanced Magic
 effect_empathic:The player has heightened empathy and understanding. // +1 morale per round, +15% wisdom
 empathic:Empathic
-effect_uncomfortable:The player feels uneasy or out of place. // -50% speech
+effect_uncomfortable:The player feels uneasy or out of place. // -50% fame
 uncomfortable:Uncomfortable
-effect_diplomatic:The player excels in negotiation and conflict resolution. // +30% speech, +5 on all speech rolls
+effect_diplomatic:The player excels in negotiation and conflict resolution. // +30% fame, +5 on all fame rolls
 diplomatic:Diplomatic
 unavailable:Unavailable
 effect_unavailable:The player is currently busy elsewhere and temporarily can't participate in battles. // # TODO
@@ -159,7 +173,7 @@ effect_overloaded:The player is weighed down by the collected treasure. // -25% 
 overloaded:Overloaded
 effect_damaged_weapon:The player's weapon has seen better days and needs to be repaired. // -25% damage
 damaged_weapon:Damaged Weapon
-effect_improved_weapon:The player's weapon was recently improved. // +10% damage
+effect_improved_weapon:The player's weapon was recently improved. // +25% damage
 improved_weapon:Improved Weapon
 effect_disarmed:The player's weapon is in terrible shape. // -75% damage
 disarmed:Disarmed
@@ -170,7 +184,7 @@ banished:Banished
 strong_leader:Strong Leader
 effect_strong_leader:The leader has proven exceptional strength. // +25% all stats
 usurper:Usurper
-effect_usurper:The player overthrew their leader and commands the group now. // TODO: 3x Voting Power
+effect_usurper:The player overthrew their leader and commands the group now. // 3x Voting Power
 bonded_friendship:Bonded Friendship
 effect_bonded_friendship:The player has formed a close friendship with another party member, enhancing their teamwork and morale. // +50% to all stats and +1 morale when in the same battle with their bonded friend
 major_blessing:Major Blessing
@@ -181,6 +195,8 @@ denounced:Denounced
 effect_denounced:The player is branded as an enemy of the crown. // -10 on all fame rolls
 divine_staff:Divine Staff
 effect_divine_staff:The player wields an ancient staff designed to smite all abominations. // +500% damage vs abominations
+destined_death:Destined Death
+effect_destined_death: A blade imbued with forbidden magic. // Death
 
 effect_transformed:The player is transformed into a creature. // ???
 transformed:Transformed

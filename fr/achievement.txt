@@ -1,4 +1,4 @@
-main_mission:Mission principale
+main_mission:Didacticiel
 bestiary:Bestiaire
 collector:Collecteur
 adventurer:Aventurier
@@ -40,11 +40,11 @@ complete_items_glossary:Découvrir {count}% des objets
 reach_level:Atteindre le niveau {lvl}
 participate_in_adventures:Participer à {amount} aventures
 clear_bounties:Effacer {amount} primes
-clear_bounties_difficulty_1:Effacer {amount} primes au niveau de difficulté 1
-clear_bounties_difficulty_2:Effacer {amount} primes au niveau de difficulté 2
-clear_bounties_difficulty_3:Effacer {amount} primes au niveau de difficulté 3
-clear_bounties_difficulty_4:Effacer {amount} primes au niveau de difficulté 4
-clear_bounties_difficulty_5:Effacer {amount} primes au niveau de difficulté 5
+clear_bounties_difficulty_1:Gagne {amount}x primes à 1 étoile
+clear_bounties_difficulty_2:Gagne {amount}x primes à 2 étoiles
+clear_bounties_difficulty_3:Gagne {amount}x primes à 3 étoiles
+clear_bounties_difficulty_4:Gagne {amount}x primes à 4 étoiles
+clear_bounties_difficulty_5:Gagne {amount}x primes à 5 étoiles
 defeat_monster_in_dungeon:Vaincre {amount} monstres dans les donjons
 win_pvp_battle:Gagner {amount} batailles PvP
 find_a_mythical_item:Trouver {amount} objets mythiques
@@ -52,7 +52,7 @@ distribute_skill_points:Distribuer {amount} points de compétence
 use_stamina:Utiliser {amount} endurance dans les primes
 complete_an_expedition:Compléter {amount} expéditions
 battle_in_the_arena:Combattre dans l'arène {amount} fois
-join_or_create_a_guild:Rejoindre ou créer une guilde
+join_or_create_a_guild:Rejoindre ou créer une guilde (bientôt disponible...)
 clear_the_first_dungeon:Effacer le premier donjon
 wear_full_set_of_uncommon:Porter un ensemble complet d'objets peu communs
 wear_full_set_of_common:Porter un ensemble complet d'objets communs
@@ -62,6 +62,58 @@ wear_full_set_of_legendary:Porte un ensemble complet d'items légendaires
 wear_full_set_of_mythical:Porte un ensemble complet d'items mythiques
 reach_fame:Atteins {amount} de renommée
 shop_reroll_5:Relancer le magasin coûte 5% de cuivre en moins
-claim_daily_bonus:Réclame {amount} bonus quotidiens sur notre Discord
-claim_daily_bonus_row:Réclame {amount} bonus quotidiens consécutifs sur notre Discord
+claim_daily_bonus:Récupérer {amount} bonus quotidiens sur notre Discord
+claim_daily_bonus_row:Récupérer {amount} bonus quotidiens d'affilée sur notre Discord
 lose_fights:Perdre {amount} combats
+complete_3hour_expedition:Termine {amount} expéditions durant 3 heures ou plus
+complete_6hour_expedition:Termine {amount} expéditions durant 6 heures ou plus
+sell_items_in_shop:Vendre {amount} objets dans la boutique
+purchase_items_in_shop:Acheter {amount} objets dans la boutique
+donate_materials:Donner {amount} matériaux au marchand
+attempt_dungeon:Tenter {amount} donjons
+craft_alchemist:Fabriquer {amount} objets alchimiques
+craft_smith:Forger {amount} objets de forge
+craft_cook:Préparer {amount} repas
+use_potion:Boire {amount} potions
+use_food:Manger {amount} repas
+collect_smith_materials:Collecte {amount} Matériaux de forge
+collect_alchemist_materials:Collecte {amount} Matériaux d'alchimie
+collect_cook_materials:Collecte {amount} Matériaux de cuisine
+strike_critical_hits:Frappe {amount} Coups critiques
+hoard_gold:Garde au moins {amount} Or dans ton inventaire
+hoard_platinum:Garde au moins {amount} Platine dans ton inventaire
+defeat_rogue_class_in_arena:Vaincre {amount} voleurs dans des batailles d'arène
+defeat_mage_class_in_arena:Vaincre {amount} mages dans des batailles d'arène
+defeat_knight_class_in_arena:Vaincre {amount} chevaliers dans des batailles d'arène
+defeat_ranger_class_in_arena:Vaincre {amount} rangers dans des batailles d'arène
+defeat_warrior_class_in_arena:Vaincre {amount} guerriers dans des batailles d'arène
+repeatable__participate_in_adventures:[Répétable] Participer à {amount} aventures
+vote_in_adventures:Exprimez {amount} votes dans les aventures
+complete_elemental_butterflies_glossary:Ajoutez tous les {amount} Papillons Élémentaires à votre Glossaire
+event:Événement
+complete_all_event_missions:Compléter et réclamer les récompenses pour {amount} missions d'événement  
+one_additional_inventory_space:Ajoute 1 emplacement supplémentaire à votre inventaire d'équipement
+complete_dungeon_1:Nettoyez 'Jardins Infestés'
+complete_dungeon_2:Nettoyez 'Terres Asséchées'
+complete_dungeon_3:Nettoyez 'Passage de Rivière Occupé'
+complete_dungeon_4:Nettoyez 'Feu Marin Échoué'
+complete_dungeon_6:Nettoyer 'Royaume caché'
+complete_dungeon_7:Nettoyer 'Île des bêtes'
+complete_dungeon_8:Nettoyer 'Glace éternelle'
+complete_dungeon_9:Nettoyez 'Montagnes d'Argent'
+complete_dungeon_10:Nettoyez 'Terres Désolées Abandonnées'
+complete_dungeon_11:Nettoyez 'Bois du Crépuscule'
+complete_dungeon_12:Nettoyez 'Cimetière des Sans-Nom'
+complete_dungeon_13:Nettoyez 'Bastion de Lumière'
+complete_dungeon_14:Nettoyez 'Embervale'
+complete_dungeon_5:Nettoyer 'Passage des eaux profondes'
+repeatable__refer_a_streamer:[Répétable] Référez de nouveaux streamers à Embervale.TV
+referStreamer:Référez un streamer
+referStreamerReq1:Le streamer doit entrer votre nom Twitch lors de la création de leur premier personnage.
+referStreamerReq2:Le streamer doit être un Affiliate ou Partner sur Twitch.
+referStreamerReq3:Le streamer doit atteindre le niveau 10 dans Embervale.
+referStreamerReq4:Le streamer doit organiser au moins 3 aventures.
+referStreamerWhenDone:Une fois toutes les étapes terminées, vous recevrez votre récompense dans les 24 heures :
+daily:Quotidien
+tutorial:Didacticiel
+complete_daily_mission:Accomplis {amount} missions quotidiennes

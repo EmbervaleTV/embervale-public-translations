@@ -1,5 +1,6 @@
 // Groups
-main_mission:Main
+main_mission:Tutorial
+tutorial:Tutorial
 bestiary:Bestiary
 collector:Collector
 adventurer:Adventurer
@@ -9,12 +10,15 @@ guild:Guild
 achievement:Achievement
 todo:To-do
 weekly:Weekly
+daily:Daily
+event:Event
 newMissionsIn:New missions in
 levelUp:Level up!
 
 // Achievements
 complete_achievement:Complete {amount} achievements
 complete_weekly_mission:Complete {amount} weekly missions
+complete_daily_mission:Complete {amount} daily missions
 
 // Monsters
 kill_monster:Kill {amount} monsters
@@ -39,42 +43,56 @@ defeat_knight_class:Defeat {amount} knights
 defeat_ranger_class:Defeat {amount} rangers
 defeat_warrior_class:Defeat {amount} warriors
 
+defeat_rogue_class_in_arena:Defeat {amount} rogues in arena battles
+defeat_mage_class_in_arena:Defeat {amount} mages in arena battles
+defeat_knight_class_in_arena:Defeat {amount} knights in arena battles
+defeat_ranger_class_in_arena:Defeat {amount} rangers in arena battles
+defeat_warrior_class_in_arena:Defeat {amount} warriors in arena battles
+
 // Collecting
 collect_items_bounties:Collect {amount} items in bounties
 collect_items_shop:Purchase {amount} items from the shop
 collect_mythical_item:Obtain {amount} mythical items
+find_a_mythical_item:Find {amount} mythical items
 
-// Completion
+collect_smith_materials:Collect {amount} Smithing Materials
+collect_alchemist_materials:Collect {amount} Alchemy Materials
+collect_cook_materials:Collect {amount} Cooking Materials
+
+hoard_gold:Hold at least {amount} Gold in your inventory
+hoard_platinum:Hold at least {amount} Platinum in your inventory
+
+// Glsosary
 complete_bestiary:Complete {count}% of your Bestiary
 complete_materials_glossary:Discover {count}% of materials
 complete_items_glossary:Discover {count}% of items
+complete_elemental_butterflies_glossary:Add all {amount} Elemental Butterflies to your Glossary
 
-// Main
-reach_level:Reach level {lvl}
-participate_in_adventures:Participate in {amount} adventures
 
 // Combat
 clear_bounties:Clear {amount} bounties
-clear_bounties_difficulty_1:Clear {amount} bounties at difficulty level 1
-clear_bounties_difficulty_2:Clear {amount} bounties at difficulty level 2
-clear_bounties_difficulty_3:Clear {amount} bounties at difficulty level 3
-clear_bounties_difficulty_4:Clear {amount} bounties at difficulty level 4
-clear_bounties_difficulty_5:Clear {amount} bounties at difficulty level 5
+clear_bounties_difficulty_1:Win {amount}x 1-star bounties
+clear_bounties_difficulty_2:Win {amount}x 2-star bounties
+clear_bounties_difficulty_3:Win {amount}x 3-star bounties
+clear_bounties_difficulty_4:Win {amount}x 4-star bounties
+clear_bounties_difficulty_5:Win {amount}x 5-star bounties
 
 lose_fights:Lose {amount} fights
 defeat_monster_in_dungeon:Defeat {amount} monsters in dungeons
 win_pvp_battle:Win {amount} PvP battles
-
-// Collect
-find_a_mythical_item:Find {amount} mythical items
+strike_critical_hits:Strike {amount} Critical hits
 
 // Main Mission
+reach_level:Reach level {lvl}
+
 distribute_skill_points:Distribute {amount} skill points
 use_stamina:Use {amount} stamina in bounties
-complete_an_expedition:Complete {amount} expeditions
 battle_in_the_arena:Battle in the arena {amount} times
-join_or_create_a_guild:Join or create a guild
+join_or_create_a_guild:Join or create a guild (coming soon...)
 clear_the_first_dungeon:Clear the first dungeon
+complete_an_expedition:Complete {amount} expeditions
+complete_3hour_expedition:Complete {amount} expeditions lasting 3 hours or longer
+complete_6hour_expedition:Complete {amount} expeditions lasting 6 hours or longer
 
 wear_full_set_of_uncommon:Wear a full set of uncommon items
 wear_full_set_of_common:Wear a full set of common items
@@ -83,11 +101,60 @@ wear_full_set_of_epic:Wear a full set of epic items
 wear_full_set_of_legendary:Wear a full set of legendary items
 wear_full_set_of_mythical:Wear a full set of mythical items
 
+// Adventurer
+participate_in_adventures:Participate in {amount} adventures
+repeatable__participate_in_adventures:[Repeatable] Participate in {amount} adventures
 reach_fame:Reach {amount} fame
+vote_in_adventures:Cast {amount} votes in adventures
 
 // Shop
 shop_reroll_5:Rerolling the shop costs 5% less copper
+one_additional_inventory_space:Adds 1 additional slot to your equipment inventory
+sell_items_in_shop:Sell {amount} items in the shop
+purchase_items_in_shop:Purchase {amount} items from the shop
+donate_materials:Donate {amount} materials to the merchant
 
 // Extra
-claim_daily_bonus:Claim {amount} daily bonuses in our Discord
-claim_daily_bonus_row:Claim {amount} daily bonuses in a row in our Discord
+claim_daily_bonus:Claim {amount} daily bonuses on our Discord
+claim_daily_bonus_row:Claim {amount} daily bonuses in a row on our Discord
+
+// Dungeon
+attempt_dungeon:Attempt {amount} dungeons
+
+complete_dungeon_1:Clear 'Infested Gardens'
+complete_dungeon_2:Clear 'Dried Out Riverlands'
+complete_dungeon_3:Clear 'Occupied River Crossing'
+complete_dungeon_4:Clear 'Stranded Seafire'
+complete_dungeon_5:Clear 'Deepwater Passage'
+complete_dungeon_6:Clear 'Hidden Kingdom'
+complete_dungeon_7:Clear 'Island Of Beasts'
+complete_dungeon_8:Clear 'Eternal Ice'
+complete_dungeon_9:Clear 'Silver Mountains'
+complete_dungeon_10:Clear 'Abandoned Wastelands'
+complete_dungeon_11:Clear 'Duskwood'
+complete_dungeon_12:Clear 'Graveyard Of The Nameless'
+complete_dungeon_13:Clear 'Bastion Of Light'
+complete_dungeon_14:Clear 'Embervale'
+
+
+
+// Crafting
+craft_alchemist:Craft {amount} alchemical items
+craft_smith:Forge {amount} smithing items
+craft_cook:Prepare {amount} meals
+
+use_potion:Drink {amount} potions
+use_food:Eat {amount} meals
+
+
+// event
+complete_all_event_missions:Complete and claim rewards for all {amount} event missions
+
+// other
+referStreamer:Refer a streamer
+repeatable__refer_a_streamer:[Repeatable] Refer new streamers to Embervale.TV
+referStreamerReq1:The streamer must enter your Twitch name when creating their first character.
+referStreamerReq2:The streamer must be a Twitch Affiliate or Partner.
+referStreamerReq3:The streamer must reach level 10 in Embervale.
+referStreamerReq4:The streamer must host at least 3 adventures.
+referStreamerWhenDone:Once all steps are completed, you'll receive your reward within 24 hours:

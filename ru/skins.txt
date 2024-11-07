@@ -1,86 +1,50 @@
 skin_starter:Начальный костюм
-skin_starter_description:Получен при создании персонажа.
-skin_dragon_warrior:Кожа Деймона
-skin_dragon_warrior_description:Особая кожа от DeemonRider
 skin_royal_scout:Королевский разведчик
-skin_royal_scout_description:Доступно при ???
 skin_island_scout:Островной разведчик
-skin_island_scout_description:Доступно при ???
 skin_swamp_scout:Болотный разведчик
-skin_swamp_scout_description:Доступно при ???
 skin_eastern_scout:Восточный разведчик
-skin_eastern_scout_description:Доступно при ???
 skin_dune_scout:Песчаный разведчик
-skin_dune_scout_description:Доступно при ???
 skin_vale_scout:Разведчик долины
-skin_vale_scout_description:Доступно при ???
 skin_wanderer:Странник
-skin_wanderer_description:Доступно при ???
 skin_fall_ranger:Осенний следопыт
-skin_fall_ranger_description:Доступно при ???
 skin_royal_general:Королевский генерал
-skin_royal_general_description:Доступно за ???
 skin_wise_general:Мудрый генерал
-skin_wise_general_description:Доступно за ???
 skin_jade_general:Нефритовый генерал
-skin_jade_general_description:Доступно за ???
 skin_adamant_general:Несокрушимый генерал
-skin_adamant_general_description:Доступно за ???
 skin_heroic_general:Героический генерал
-skin_heroic_general_description:Доступно за ???
 skin_courageous_general:Храбрый генерал
-skin_courageous_general_description:Доступно за ???
 skin_commander:Командир
-skin_commander_description:Доступно за ???
 skin_red_warrior:Красный воин
-skin_red_warrior_description:Доступно за ???
 skin_royal_assassin:Королевский убийца
-skin_royal_assassin_description:Доступно за ???
 skin_brilliant_assassin:Блестящий убийца
-skin_brilliant_assassin_description:Доступно за ???
 skin_unseen_assassin:Незримый убийца
-skin_unseen_assassin_description:Можно получить за ???
 skin_elegant_assassin:Изящный убийца
-skin_elegant_assassin_description:Можно получить за ???
 skin_wealthy_assassin:Богатый убийца
-skin_wealthy_assassin_description:Можно получить за ???
 skin_bloody_assassin:Кровавый убийца
-skin_bloody_assassin_description:Можно получить за ???
 skin_blackguard:Мошенник
-skin_blackguard_description:Можно получить за ???
 skin_blue_rogue:Синий разбойник
-skin_blue_rogue_description:Можно получить за ???
 skin_royal_paladin:Королевский паладин
-skin_royal_paladin_description:Можно получить за ???
 skin_glowing_paladin:Светящийся паладин
-skin_glowing_paladin_description:Можно получить за ???
 skin_emerald_paladin:Изумрудный паладин
-skin_emerald_paladin_description:Можно получить за ???
 skin_mystic_paladin:Мистический паладин
-skin_mystic_paladin_description:Можно получить за ???
 skin_golden_paladin:Золотой Паладин
-skin_golden_paladin_description:Доступен через ???
 skin_crimson_paladin:Багровый Паладин
-skin_crimson_paladin_description:Доступен через ???
 skin_noble_knight:Благородный Рыцарь
-skin_noble_knight_description:Доступен через ???
 skin_red_knight:Красный Рыцарь
-skin_red_knight_description:Доступен через ???
 skin_royal_grandmaster:Королевский Грандмастер
-skin_royal_grandmaster_description:Доступен через ???
 skin_academic_grandmaster:Академический Грандмастер
-skin_academic_grandmaster_description:Доступен через ???
 skin_herbalistic_grandmaster:Травяной Грандмастер
-skin_herbalistic_grandmaster_description:Доступен через ???
 skin_abyssal_grandmaster:Бездонный Грандмастер
-skin_abyssal_grandmaster_description:Доступен через ???
 skin_shining_grandmaster:Сияющий Грандмастер
-skin_shining_grandmaster_description:Доступен через ???
 skin_fiery_grandmaster:Пламенный Грандмастер
-skin_fiery_grandmaster_description:Доступен через ???
 skin_scholar:Учёный
-skin_scholar_description:Доступен за ???
 skin_forest_mage:Лесной маг
-skin_forest_mage_description:Доступен за ???
 skin_adventurer:Броня Авантюриста
-skin_adventurer_description:Доступно через ???
+skin_undead:Нежить
+skin_phantom:Фантом
+skin_batwing:Крыло летучей мыши
+skin_vampire_hunter:Охотник на вампиров
+skin_profaned:Осквернённый
+alreadyOwnsSkin:У игрока уже есть этот облик.
+eventShopClosesIn:Магазин событий закроется через
+eventEndsIn:Событие заканчивается через

@@ -35,3 +35,5 @@ more_slots_lvl3:Você ganha 2 vagas adicionais na guilda
 defense_lvl0:-
 defense_lvl1:Este item ainda é inútil
 defense_lvl2:Este item ainda é inútil
+inviteTextarea:Você pode escrever aqui por que um jogador deve se juntar à sua guilda
+thisPlayerAlreadyJoinedOtherGuild:Este jogador já se juntou a uma Guilda diferente.

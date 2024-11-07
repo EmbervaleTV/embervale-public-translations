@@ -63,25 +63,25 @@ divine:Divin
 necrotic:Nécrotique
 arcane:Arcanique
 frost:Givre
-affinityTooltip:Réduit les dégâts {elemental} entrants. Augmente les dégâts {elemental} si l'arme est infusée d'une rune.
+affinityTooltip:Réduit les dégâts {elemental} entrants. Convertit un pourcentage des dégâts de votre arme en dégâts {elemental} qui ignorent l'armure et ciblent la résistance élémentaire.
 vit:Vitalité
 vitEffect:Points de Vie
 vitDescription:{stat} augmente votre santé totale.
 str:Force
 strEffect:Dégâts Physiques
-strDescription:{stat} augmente vos dégâts physiques en tant que Chevalier & Guerrier. Augmente l'armure pour toutes les autres classes !
+strDescription:{stat} augmente les dégâts physiques pour les Chevaliers et Guerriers, et augmente l'armure pour toutes les autres classes.
 wis:Sagesse
 wisEffect:Dégâts Magiques
-wisDescription:{stat} augmente vos dégâts magiques en tant que Mage. Augmente la résistance magique pour toutes les autres classes !
+wisDescription:{stat} améliore les dégâts magiques pour les Mages et augmente la résistance magique pour toutes les autres classes.
 dex:Dextérité
 dexEffect:Dégâts de Précision
-dexDescription:{stat} augmente vos dégâts de dextérité. À utiliser en tant que Ranger et Rogue. Augmente l'évasion pour toutes les autres classes !
+dexDescription:{stat} augmente vos dégâts de dextérité. Mieux utilisé par les Rangers & Voleurs. Augmente l'évasion pour toutes les autres classes et détermine qui agit en premier.
 acc:Précision
 accEffect:Précision & Chance de Critique
-accDescription:{stat} augmente vos chances de réaliser un coup critique sur votre adversaire et réduit ses chances d'esquiver !
+accDescription:{stat} augmente ta chance d'infliger un coup critique à ton adversaire !
 fame:Gloire
-fameEffect:Prix & Négociation
-fameDescription:{stat} améliore vos compétences de négociation, de meilleurs prix de réapprovisionnement et de meilleurs résultats dans les aventures !
+fameEffect:Négociation
+fameDescription:{stat} améliore tes compétences de négociation, menant à de meilleurs résultats dans les aventures !
 luck:Chance
 luckEffect:Dégâts Critiques
 luckDescription:{stat} augmente les dégâts des coups critiques.
@@ -198,7 +198,6 @@ purchase:Acheter
 newItemSlot:Un nouvel emplacement d'objet a été ajouté à la boutique !
 shopRefresh:Remise à jour de la boutique
 buyArcanites:Acheter des Arcanites
-emeraldShop:Acheter des Arcanites
 donate:Donner
 reputationExplaination:Donnez des matériaux inutilisés au marchand pour augmenter votre réputation et recevoir temporairement de meilleurs objets !
 reputationDonate:Combien voulez-vous donner ?
@@ -215,7 +214,6 @@ watchVideo:Regarder une vidéo
 completeOffers:Complétez des offres pour gagner des Arcanites
 creatorCode:Code Créateur
 allPricesIncVat:Tous les prix incluent la TVA.
-confirmGiftingBundle:Es-tu sûr de vouloir offrir le {bundleName} à {Playername} ? (S'il a déjà un abonnement actif, cela prolongera son abonnement.)
 successGiftingBundle:Merci d'avoir offert le {bundleName} à {Playername} !
 ayetStudioConfirming:Merci d'avoir regardé la publicité ! Tes Arcanites devraient être crédités sur ton compte dans les 60 secondes. Tu peux fermer cette fenêtre maintenant—nous te préviendrons une fois les crédits ajoutés !
 ayetStudioDailyLimit:Reviens demain pour obtenir plus d'Arcanites !
@@ -302,7 +300,7 @@ loadingTip11:La chance augmente les dégâts des coups critiques.
 loadingTip12:Les chevaliers sont lourdement armurés et portent un bouclier, leur conférant un avantage naturel contre les classes basées sur la dextérité.
 loadingTip13:La capacité de tir rapide du Ranger leur permet de frapper deux fois de temps en temps.
 loadingTip14:Les guerriers utilisent une pierre de vie pour drainer les PV de leurs ennemis à chaque coup. Cependant, la puissance de la pierre se dégrade rapidement.
-loadingTip15:Le Voleur est un maître de la furtivité et de l'évasion, rendant beaucoup plus difficile pour les attaquants de porter des coups.
+loadingTip15:Le Voleur est un maître de la furtivité et de l'esquive, rendant beaucoup plus difficile pour les attaquants de porter des coups.
 loadingTip16:Assurez-vous de remplir votre glossaire pour gagner de l'XP plus rapidement !
 loadingTip17:Savais-tu que vaincre un adversaire dans l'arène ajoutera toutes ses armures, armes et skins à ton Glossaire ?
 loadingTip18:Toutes les classes ont des échelles différentes de PV et de dégâts. Elles ne peuvent porter qu'un seul type d'armure désigné : lourd, moyen ou léger.
@@ -348,9 +346,8 @@ maximumFood:Vous pouvez manger un maximum de 3 repas par jour.
 todayYouAte:Aujourd'hui vous avez mangé {amount} repas.
 tradeable:Échangeable
 youCanGiftBundle:Vous pouvez offrir un Bundle à cette personne.
-hasAlreadySubscriptions:{ username } a déjà un ou plusieurs abonnements actifs.
-grantsBenefits:Accorde à { currentUser.username } 30 jours des avantages suivants.
-receivesOnce:{ username } reçoit ceci une fois.
+grantsBenefits:Accorde à { currentUser.username } 30 jours des avantages suivants :
+receivesOnce:{ username } reçoit ceci une seule fois :
 giftAnonymously:Offrir anonymement
 giftBundle:Offrir un Bundle
 items:Objets
@@ -383,7 +380,7 @@ replaySaved:Rediffusion sauvegardée
 deleteReplay:Supprimer la rediffusion
 spectate:Observer
 errCantSpectate:Cette bataille n'existe pas.
-arenaFightCooldown:Cette barre se remplit toutes les heures !
+arenaFightCooldown:L'arène restaure 5 points par heure, mais lors des expéditions, seulement 2 car le voyage ralentit la récupération.
 yourSavedBattles:Vos batailles sauvegardées
 battleEnded:Bataille terminée
 overwhelming:Écrasant
@@ -398,7 +395,7 @@ block:Blocage
 youWon:Tu as gagné !
 youLost:Tu as perdu !
 confirmDeleteReplay:Es-tu sûr de vouloir supprimer cette rediffusion ?
-replaySavedMsg:Ta rediffusion a été sauvegardée. Tu peux la regarder dans l'arène. Code :
+replaySavedMsg:Votre rediffusion a été sauvegardée pendant 7 jours. Vous pouvez la regarder dans l'arène. Code :
 errTooManyReplays:Tu as trop de rediffusions sauvegardées. Supprime-en quelques-unes pour en sauvegarder davantage.
 errReplayAlreadySaved:La rediffusion a déjà été sauvegardée.
 warningTooManyReplays:Tu approches de la limite de 10 rediffusions sauvegardées. Veuillez en supprimer pour pouvoir en sauvegarder de nouvelles.
@@ -420,9 +417,6 @@ talisman:Talisman
 guildBattleEffectPlus:L'{effect} de toutes vos unités sera augmenté de {perc}%.
 guildBattleEffectMinus:L'{effect} de toutes les unités adverses sera réduite de {perc}%.
 profession:Profession
-pleaseChooseJob:Choisis ta profession principale ! (+50% d'expérience de travail)
-pleaseChooseJobConfirmation:Es-tu sûr de vouloir que {job} soit ta profession principale ? (+50% d'expérience de travail)
-pleaseChooseJobWarning:Tu ne peux pas changer ta profession principale après en avoir choisi une !
 dontOwnRecipe:Tu ne possèdes encore aucune recette dans cette catégorie ! Tu peux trouver des recettes dans les primes !
 craft:Artisanat
 cook:Cuisinier
@@ -535,3 +529,31 @@ upgrade:Amélioration
 yourMaximumInventorySize:Vous avez actuellement une taille d'inventaire maximale de {inventorySize}
 eachUpgradeCostsMore:Chaque amélioration coûte plus cher. Cette amélioration coûte
 fullyUpgradedInventory:Vous avez entièrement amélioré votre inventaire !
+info:Infos
+eventShop:Boutique d'Événements
+shopRerollInfo1:Une fois que votre réputation atteint 100 %, le marchand n'offrira plus d'objets communs.
+shopRerollInfo2:Les chances listées ci-dessous représentent la probabilité pour chaque objet dans un seul tirage. Si vous avez débloqué 8 emplacements de boutique, les chances s'appliquent 8 fois, une fois pour chaque emplacement.
+shopRerollInfo3:Les chances sont arrondies à trois décimales
+shopRerollBaseChance:Chance de base avec 0 % de réputation par objet
+create:Créer
+youReceivedFollowingBenefits:Vous avez activé {bundle_name} pour les 30 prochains jours !
+shopRefreshTooltip:Vous pouvez rafraîchir la boutique gratuitement une fois par jour. Utiliser du cuivre ou des Arcanites pour rafraîchir la boutique ne réinitialisera pas le minuteur de rafraîchissement gratuit quotidien.
+copperExplaination:100 Cuivre équivaut à 1 Argent, et 100 Argent équivaut à 1 Or
+eyebrows:Sourcils
+hoarders-badge:Insigne de l'accumulateur
+hoarders-badge_desc:Or Or Or !
+councilor_male:Conseiller
+councilor_female:Conseillère
+endpointDisabled:Cette fonction est temporairement désactivée pour maintenance et sera de retour sous peu !
+arcaniteShop:Boutique Arcanite
+buyBundle:Acheter le lot
+confirmGiftingBundleConsumable:Es-tu sûr de vouloir offrir le {bundleName} à {Playername} ? Ils recevront un consommable pour activer le bundle eux-mêmes. Les Arcanites seront ajoutés immédiatement.
+grantsYouBenefits:Octroie à tous les personnages de ce compte les avantages suivants pendant 30 jours :
+youReceiveOnce:Vous recevez ceci une fois :
+confirmPurchaseBundleConsumable:Es-tu sûr de vouloir acheter {bundleName} ?
+successPurchaseBundle:Merci d'avoir acheté {bundleName} !
+potionAlreadyActive:Tu as déjà une potion active. Cela va écraser ta potion active actuelle !
+cookebotNoConsent:Vous n'avez pas accepté tous les cookies requis, y compris ceux de marketing et d'analyse. Cela pourrait vous empêcher de recevoir des publicités récompensées.
+emeraldShop:Boutique Arcanite
+halloween-2024-badge:Badge Halloween 2024
+halloween-2024-badge_desc:Obtenable en complétant toutes les missions de l'événement Halloween
