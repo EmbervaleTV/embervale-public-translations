@@ -143,6 +143,9 @@ secondChanceLimitReached:The streamer already has a Second Chance. Please try ag
 medium_xp_potion:Medium XP Potion
 medium_xp_potion_description:This potion boosts your XP by {percent}% for {amount} fights!
 
+xp_elixir:XP Elixir
+xp_elixir_description:This potion gives you {amount}XP!
+
 recipe:Recipe
 
 small_heal_potion_recipe:Small Heal Potion Recipe

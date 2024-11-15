@@ -156,3 +156,5 @@ coin_pile_description:Úsalo para obtener cobre. Nivel {level}
 roasted_chicken:Pollo Asado
 roasted_chicken_craft_description:Repone de {amount_min1} a {amount_max1} de aguante.
 roasted_chicken_description:Repone {amount_min1} de aguante.
+xp_elixir:Elixir de XP
+xp_elixir_description:¡Esta poción te da {amount}XP!

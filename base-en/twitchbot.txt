@@ -1,12 +1,13 @@
 // General
-evhelp:You can find all commands here.
+evhelp:You can find all commands here:
 notStarted:Your journey hasn't started yet!
 cmdUnknownError:An unknown error occurred!
 serverOverload:The server is overloaded! Please try again later.
 
 twitchbotNoAccount:Please create your character in the Embervale extension!
-twitchbotCharNotFound:Character not found! Please check your spelling.
+twitchbotCharNotFound:Your character was not found! Please check your spelling.
 twitchbotNoActiveChar:Please log in with your character through the Embervale extension or add the character's name at the end of any command.
+twitchbotTargetNoAccount:The selected player has not created their first Embervale Character yet!
 
 // Adventure
 adventureNotActive:There is no active adventure!

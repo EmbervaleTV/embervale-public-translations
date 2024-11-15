@@ -18,7 +18,7 @@ dungeonName14:Embervale
 dungeon:Dungeon
 startDungeon:Start Dungeon
 dungeonAutoSell:There are still some items in your dungeon inventory! If you leave the dungeon now, they will be lost!
-selectConsumablesForDungeon:Select the potions that you want to take with you into the dungeon. This can't be reversed! All items you bring to dungeons will be lost.
+selectConsumablesForDungeon:Select the potions you wish to take into the dungeon. Please note that all items brought into the dungeon will be lost if you are defeated.
 youDontHaveHealPotions:You don't have any health potions.
 
 // Dungeon Effects

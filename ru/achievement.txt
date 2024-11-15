@@ -117,3 +117,5 @@ referStreamerWhenDone:Как только все шаги выполнены, в
 daily:Ежедневно
 tutorial:Туториал
 complete_daily_mission:Выполните {amount} ежедневных миссий
+defeat_a_player_in_chat:Победите другого игрока, используя команду !evbattle.
+cantDonateBundles:Извините, но я не могу принять наборы в качестве пожертвований.

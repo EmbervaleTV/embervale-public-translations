@@ -232,3 +232,8 @@ sortByLvlHigh:Gesundheit: Höchste zuerst
 youReceivedFromManipulationEnd:Du hast durch das Manipulieren von Stimmen verdient:
 alreadyBanished:{{ playerToBanish.char.username }} ist bereits verbannt.
 invalidChoice:Ungültige Wahl.
+inAdventureFrom:Du befindest dich derzeit im Abenteuer von {inAdName}.
+effect_shadow_remains:Die Gestalt des Spielers ist nun ein Schatten. // Erleidet doppelten Magieschaden, 50 % weniger physischen Schaden.
+shadow_remains:Schatten bleibt
+effect_petrified:Der Spieler wird in Stein verwandelt. // Unfähig, sich zu bewegen oder Aktionen auszuführen
+petrified:Versteinert

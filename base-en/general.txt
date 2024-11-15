@@ -72,6 +72,8 @@ doYouWantToResetStats:Do you want to reset your stats?
 resetStatsLevelTep:You can reset your stats for free until you reach level 10!
 noStatsFoundToReset:No stats found to reset.
 thisCosts:This costs:
+skillPoints:Skill Points
+current_hp:Current HP
 
 affinity:Affinity
 weakness:Weakness
@@ -92,7 +94,7 @@ str:Strength
 strEffect:Physical Damage
 strDescription:{stat} boosts physical damage for Knights and Warriors, and increases armor for all other classes.
 wis:Wisdom
-wisEffect:Magic Damage
+wisEffect:Magical Damage
 wisDescription:{stat} enhances magical damage for Mages and boosts magical resistance for all other classes.
 dex:Dexterity
 dexEffect:Precision Damage
@@ -106,18 +108,38 @@ fameDescription: {stat} enhances your negotiation skills, leading to better outc
 luck:Luck
 luckEffect:Crit Damage
 luckDescription:{stat} increases the damage of critical strikes.
+
+// stats from armor
+agility:Agility
+agilityEffect:Evasion
+agilityDescription:{stat} increases your evasion
 armor:Armor
-outfit:Outfit
-outfits:Outfits
-damage_reduction:DMG Reduct.
-mag_res:Mag. res.
-mag_absorption:Mag. Absorp.
+armorEffect:Physical Defense
+armorDescription:{stat} increases your Physical Defense
+magicalResistance:Magical Resistance
+magicalResistanceEffect:Magical Defense
+magicalResistanceDescription:{stat} increases your Magical Defense
+
+// battle stats
+physDefense:Phys. Defense
+magDefense:Mag. Defense
+critChance:Crit Chance
+critMultiplier:Crit Multiplier
 eva:Evasion
-skillPoints:Skill Points
-current_hp:Current HP
+damage:Damage
+
+// kann weg
+mag_absorption:Mag. Absorp.
+damage_reduction:DMG Reduct.
 crit_chance:Crit perc
 crit_multiplier:Crit mod
-damage:Damage
+
+// gucken wo genutzt
+mag_res:Mag. res.
+
+
+outfit:Outfit
+outfits:Outfits
 shield_ability_chance:Block Chance
 shield_ability_rate:Block Rate
 shield_scaling_bonus:Max HP
@@ -312,6 +334,11 @@ referrer:Referrer (Twitch name)
 barberRewardRefferer:I want to reward a referrer
 referalNameInvalid:The referal name is invalid. Please correct or delete it.
 pleaseConfirmNameChange:Please confirm that you want to rename {current_name} to {new_name} for 25 Arcanites.
+deleteCharacter:Delete Character
+confirmCharDeletion:Are you sure you want to delete {username}?
+confirmCharNotReversible:I understand this action cannot be undone. All progress and items for this character will be lost.
+confirmCharUsername:Please confirm the name of the character to delete.
+
 
 // badges
 badge:Badge
@@ -320,9 +347,9 @@ beast-slayer-badge_desc:Obtainable from bestiary achievements
 patreon-badge:Patreon Badge
 patreon-badge_desc:Badge for being a Patreon member. Thank you for your support!
 alpha-badge:Alpha Badge
-alpha-badge_desc:Participation reward for the Embervale Alpha!
+alpha-badge_desc:Participation reward for the Embervale Alpha
 chrono-badge:Chrono Badge
-chrono-badge_desc:Exceedingly rare badge for collecting 365 daily rewards in a row.
+chrono-badge_desc:Exceedingly rare badge for collecting 365 daily rewards in a row
 hoarders-badge:Hoarder's Badge
 hoarders-badge_desc:Gold Gold Gold!
 halloween-2024-badge:Halloween 2024 Badge
@@ -344,6 +371,7 @@ rank:Rank
 name:Name
 class:Class
 glory:Glory
+streamer:Streamer
 
 // bounty
 skip:Skip
@@ -526,6 +554,7 @@ deleteReplay:Delete Replay
 spectate:Spectate
 errCantSpectate:This battle does not exist.
 arenaFightCooldown:The arena restores 5 points per hour, but on expeditions, only 2 as the journey slows recovery.
+challengePlayerFightCooldown:You have used your 5 hourly attacks. ou may continue your attacks, but no further entries will be added to the glossary.
 yourSavedBattles:Your saved battles
 
 // battle

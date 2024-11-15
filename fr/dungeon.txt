@@ -15,7 +15,7 @@ dungeonName14:Embervale
 dungeon:Donjon
 startDungeon:Commencer le Donjon
 dungeonAutoSell:Il reste encore des objets dans votre inventaire de donjon ! Si vous quittez le donjon maintenant, ils seront perdus !
-selectConsumablesForDungeon:Sélectionnez les potions que vous souhaitez emmener dans le donjon. Cela ne peut pas être annulé ! Tous les objets que vous apportez aux donjons seront perdus.
+selectConsumablesForDungeon:Sélectionne les potions que tu souhaites emporter dans le donjon. Note que tous les objets amenés dans le donjon seront perdus si tu es vaincu.
 youDontHaveHealPotions:Tu n'as pas de potions de santé.
 effect_gem_blessing:Le joueur est béni pour {rounds} tours.  // +25% à toutes les statistiques
 gem_blessing:Bénédiction de Gemme

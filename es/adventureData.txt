@@ -232,3 +232,8 @@ sortByLvlHigh:Salud: Mayor primero
 youReceivedFromManipulationEnd:Ganaste por manipulación de votos:
 alreadyBanished:{{ playerToBanish.char.username }} ya está desterrado.
 invalidChoice:Elección no válida.
+inAdventureFrom:Actualmente estás en la aventura de {inAdName}.
+effect_shadow_remains:La forma del jugador ahora es una sombra. // Recibe el doble de daño mágico, 50% menos de daño físico.
+shadow_remains:Permanecen Sombras
+effect_petrified:El jugador se transforma en piedra. // No puede moverse ni realizar acciones
+petrified:Petrificado

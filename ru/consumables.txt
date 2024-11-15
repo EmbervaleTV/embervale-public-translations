@@ -156,3 +156,5 @@ coin_pile_description:Используйте это, чтобы получить
 roasted_chicken:Жареная курица
 roasted_chicken_craft_description:Восстанавливает от {amount_min1} до {amount_max1} выносливости.
 roasted_chicken_description:Восстанавливает {amount_min1} выносливости.
+xp_elixir:Эликсир опыта
+xp_elixir_description:Это зелье дает вам {amount} опыта!

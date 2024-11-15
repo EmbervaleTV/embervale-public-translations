@@ -1,4 +1,4 @@
-evhelp:Vous trouverez toutes les commandes ici.
+evhelp:Vous pouvez trouver toutes les commandes ici :
 notStarted:Votre voyage n'a pas encore commencé!
 cmdUnknownError:Une erreur inconnue s'est produite!
 serverOverload:Le serveur est surchargé! Veuillez réessayer ultérieurement.
@@ -31,4 +31,5 @@ adventureVotingDisabled:Le streamer a désactivé les votes pour les joueurs en 
 adventureVoteManipulationDisabled:Le streamer a désactivé les manipulations de vote.
 adventureYouAreNotInThis:Vous devez faire partie de cette aventure pour utiliser cette commande !
 adventureLeaderLeaveForbidden:Le leader ne peut pas quitter l'aventure. Si tu as sélectionné le mauvais personnage, tu peux te rendre sans temps de recharge, tant que tu n'as pas appuyé sur le bouton 'créer'.
-twitchbotCharNotFound:Personnage non trouvé ! Veuillez vérifier votre orthographe.
+twitchbotCharNotFound:Votre personnage n'a pas été trouvé ! Veuillez vérifier votre orthographe.
+twitchbotTargetNoAccount:Le joueur sélectionné n'a pas encore créé son premier personnage Embervale !

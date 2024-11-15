@@ -84,14 +84,14 @@ luckDescription:{stat} erhöht den Schaden von kritischen Treffern.
 armor:Rüstung
 outfit:Kleidung
 outfits:Kleidungen
-damage_reduction:DMG Redu.
+damage_reduction:Schadensreduk.
 mag_res:Mag. res.
-mag_absorption:Mag. Absorp.
+mag_absorption:Mag. Absorb.
 eva:Ausweichen
 skillPoints:Fertigkeit Punkte
-current_hp:Aktuelle HP
-crit_chance:Krit. Chance
-crit_multiplier:Krit. Mod
+current_hp:Aktuelle LP
+crit_chance:Krit-Wahrsch.
+crit_multiplier:Krit-Mod.
 damage:Schaden
 shield_ability_chance:Blockchance
 shield_ability_rate:Blockrate
@@ -169,8 +169,8 @@ guild:Gilde
 brewery:Brauerei
 adventure:Abenteuer
 crafting:Herstellung
-dungeon:Verlies
-achievement:Leistung
+dungeon:Dungeon
+achievement:Achievement
 startYourJourney:Beginne deine Reise!
 chooseYourClass:Wähle deine Klasse!
 pickYourRace:Wähle deine Rasse!
@@ -226,7 +226,7 @@ beast-slayer-badge_desc:Erhältlich durch Bestiarien-Erfolge
 patreon-badge:Patreon-Abzeichen
 patreon-badge_desc:Abzeichen für das Patreon-Mitglied. Vielen Dank für deine Unterstützung!
 alpha-badge:Alpha-Abzeichen
-alpha-badge_desc:Teilnahmebelohnung für die Embervale-Alpha!
+alpha-badge_desc:Teilnahmebelohnung für den Embervale Alpha
 obtainedBy:Erhalten von {obtained_by}% der Spieler
 noBadge:Kein Abzeichen
 emptyBadge:Ein leerer Abzeichenplatz
@@ -497,7 +497,7 @@ loadingTip34:Der Shop erhält eine neue Ladung von Gegenständen kostenlos 24 St
 loadingTip35:Das Räumen eines Dungeons zum ersten Mal garantiert dir eine mythische Truhe!
 loadingTip36:Dungeons haben einzigartige Pools von Monstern; sammle sie alle, um dein Bestiarium zu füllen!
 chrono-badge:Chrono-Abzeichen
-chrono-badge_desc:Äußerst seltenes Abzeichen für das Sammeln von 365 aufeinanderfolgenden täglichen Belohnungen.
+chrono-badge_desc:Äußerst seltener Abzeichen für das Sammeln von 365 täglichen Belohnungen in Folge
 founder_male:Gründer
 founder_female:Gründerin
 harbinger_male:Herold
@@ -557,3 +557,21 @@ cookebotNoConsent:Du hast nicht alle erforderlichen Cookies akzeptiert, einschli
 emeraldShop:Arcanite-Laden
 halloween-2024-badge:Halloween 2024 Abzeichen
 halloween-2024-badge_desc:Erhaltbar durch das Abschließen aller Halloween-Event-Missionen
+critChance:Krit-Chance
+critMultiplier:Krit-Multiplikator
+physDefense:Phys. Abwehr
+armorEffect:Physische Verteidigung
+armorDescription:{stat} erhöht deine physische Verteidigung
+magDefense:Mag. Verteidigung
+magicalResistance:Magische Resistenz
+magicalResistanceEffect:Magische Verteidigung
+magicalResistanceDescription:{stat} erhöht deine Magische Verteidigung
+challengePlayerFightCooldown:Du hast deine 5 stündlichen Angriffe verbraucht. Du kannst deine Angriffe fortsetzen, aber es werden keine weiteren Einträge im Glossar hinzugefügt.
+agility:Beweglichkeit
+agilityEffect:Ausweichen
+agilityDescription:{stat} erhöht dein Ausweichen
+streamer:Streamer
+confirmCharDeletion:Willst du {username} wirklich löschen?
+confirmCharNotReversible:Ich verstehe, dass diese Aktion nicht rückgängig gemacht werden kann. Alle Fortschritte und Gegenstände für diesen Charakter gehen verloren.
+confirmCharUsername:Bitte bestätige den Namen des Charakters, der gelöscht werden soll.
+deleteCharacter:Charakter löschen

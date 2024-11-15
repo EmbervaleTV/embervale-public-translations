@@ -15,7 +15,7 @@ dungeonName14:Embervale
 dungeon:Masmorra
 startDungeon:Começar Masmorra
 dungeonAutoSell:Ainda há alguns itens em seu inventário de masmorra! Se você sair da masmorra agora, eles serão perdidos!
-selectConsumablesForDungeon:Selecione as poções que você quer levar para a masmorra. Isso não pode ser desfeito! Todos os itens que você levar para as masmorras serão perdidos.
+selectConsumablesForDungeon:Selecione as poções que deseja levar para a masmorra. Observe que todos os itens levados para a masmorra serão perdidos se você for derrotado.
 youDontHaveHealPotions:Você não tem nenhuma poção de cura.
 effect_gem_blessing:O jogador está abençoado por {rounds} rodadas.
 gem_blessing:Bênção da Gema

@@ -117,3 +117,5 @@ referStreamerWhenDone:Une fois toutes les étapes terminées, vous recevrez votr
 daily:Quotidien
 tutorial:Didacticiel
 complete_daily_mission:Accomplis {amount} missions quotidiennes
+defeat_a_player_in_chat:Vaincre un autre joueur en utilisant la commande !evbattle.
+cantDonateBundles:Je suis désolé, mais je ne peux pas accepter des lots en tant que dons.

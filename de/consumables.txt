@@ -156,3 +156,5 @@ coin_pile_description:Verwende dies, um Kupfer zu erhalten. Stufe {level}
 roasted_chicken:Geröstetes Huhn
 roasted_chicken_craft_description:Füllt {amount_min1} bis {amount_max1} Ausdauer auf.
 roasted_chicken_description:Füllt {amount_min1} Ausdauer auf.
+xp_elixir:XP-Elixier
+xp_elixir_description:Dieser Trank gibt dir {amount} XP!

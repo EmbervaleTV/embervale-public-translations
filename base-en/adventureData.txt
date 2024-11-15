@@ -44,6 +44,7 @@ yourGroupLost:Your group lost:
 ThePlayerWillReceiveReward:Are you sure you want to give §player0§ the reward?
 noAdventureStarted:The streamer isn't hosting an adventure right now.
 waitingForVoting:Waiting for the next voting in {leaderName}'s adventure...
+inAdventureFrom:You are currently in {inAdName}'s adventure.
 alreadyVoted:You already voted.
 invalidChoice:Invalid Choice.
 vote:Vote
@@ -200,6 +201,11 @@ effect_destined_death: A blade imbued with forbidden magic. // Death
 
 effect_transformed:The player is transformed into a creature. // ???
 transformed:Transformed
+
+effect_shadow_remains:The player's form is now a shadow. // Takes double magic damage, 50% less physical damage.
+shadow_remains:Shadow Remains
+effect_petrified:The player is transformed into stone. // Unable to move or take actions
+petrified:Petrified
 
 // Health
 effect_wounded:The player is wounded. // -25% max health

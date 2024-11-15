@@ -81,6 +81,7 @@ lose_fights:Lose {amount} fights
 defeat_monster_in_dungeon:Defeat {amount} monsters in dungeons
 win_pvp_battle:Win {amount} PvP battles
 strike_critical_hits:Strike {amount} Critical hits
+defeat_a_player_in_chat:Defeat another player using the !evbattle command.
 
 // Main Mission
 reach_level:Reach level {lvl}
@@ -113,6 +114,7 @@ one_additional_inventory_space:Adds 1 additional slot to your equipment inventor
 sell_items_in_shop:Sell {amount} items in the shop
 purchase_items_in_shop:Purchase {amount} items from the shop
 donate_materials:Donate {amount} materials to the merchant
+cantDonateBundles:I'm sorry, but I cannot accept bundles as donations.
 
 // Extra
 claim_daily_bonus:Claim {amount} daily bonuses on our Discord

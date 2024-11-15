@@ -89,13 +89,13 @@ armor:Armadura
 outfit:Traje
 outfits:Trajes
 damage_reduction:Redução de DMG
-mag_res:Res. de mag.
-mag_absorption:Absorp. de mag.
+mag_res:Res. Mag.
+mag_absorption:Absorp. de Mag.
 eva:Evasão
 skillPoints:Pontos de Habilidade
 current_hp:HP Atual
-crit_chance:Perc de crit
-crit_multiplier:Mod de crit
+crit_chance:Perc. Crit
+crit_multiplier:Mod. Crit
 damage:Dano
 shield_ability_chance:Chance de Bloqueio
 shield_ability_rate:Taxa de Bloqueio
@@ -240,7 +240,7 @@ beast-slayer-badge_desc:Obtido por conquistas no bestiário
 patreon-badge:Emblema Patreon
 patreon-badge_desc:Emblema por ser um membro Patreon. Obrigado pelo seu apoio!
 alpha-badge:Emblema Alpha
-alpha-badge_desc:Recompensa por participar do Alpha de Embervale!
+alpha-badge_desc:Recompensa de participação para o Alpha de Embervale
 obtainedBy:Obtido por {obtained_by}% dos jogadores
 noBadge:Sem emblema
 emptyBadge:Um espaço vazio para emblema
@@ -497,7 +497,7 @@ loadingTip34:A loja recebe um novo lote de itens gratuitamente 24 horas após su
 loadingTip35:Limpar uma Masmorra pela primeira vez garante um Baú Mítico!
 loadingTip36:As Masmorras têm pools únicos de monstros; colete todos para preencher seu Bestiário!
 chrono-badge:Emblema Crono
-chrono-badge_desc:Emblema extremamente raro por coletar 365 recompensas diárias consecutivas.
+chrono-badge_desc:Distintivo extremamente raro por coletar 365 recompensas diárias consecutivas
 founder_male:Fundador
 founder_female:Fundadora
 harbinger_male:Araldo
@@ -557,3 +557,21 @@ cookebotNoConsent:Você não aceitou todos os cookies necessários, incluindo ma
 emeraldShop:Loja Arcanite
 halloween-2024-badge:Distintivo de Halloween 2024
 halloween-2024-badge_desc:Obtido ao completar todas as Missões do Evento de Halloween
+critChance:Chance de Crítico
+critMultiplier:Multiplicador de Crítico
+physDefense:Def. Fís.
+armorEffect:Defesa Física
+armorDescription:{stat} aumenta sua Defesa Física
+magDefense:Def. Mag.
+magicalResistance:Resistência Mágica
+magicalResistanceEffect:Defesa Mágica
+magicalResistanceDescription:{stat} aumenta sua Defesa Mágica
+challengePlayerFightCooldown:Você usou seus 5 ataques por hora. Você pode continuar atacando, mas nenhuma entrada adicional será adicionada ao glossário.
+agility:Agilidade
+agilityEffect:Evasão
+agilityDescription:{stat} aumenta sua evasão
+streamer:Streamer
+confirmCharDeletion:Tem certeza de que deseja excluir {username}?
+confirmCharNotReversible:Entendo que esta ação não pode ser desfeita. Todo o progresso e itens deste personagem serão perdidos.
+confirmCharUsername:Por favor, confirme o nome do personagem a ser excluído.
+deleteCharacter:Excluir Personagem

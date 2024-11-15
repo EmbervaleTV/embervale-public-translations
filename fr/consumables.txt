@@ -156,3 +156,5 @@ coin_pile_description:Utilisez ceci pour obtenir du cuivre. Niveau {level}
 roasted_chicken:Poulet rôti
 roasted_chicken_craft_description:Réapprovisionne de {amount_min1} à {amount_max1} endurance.
 roasted_chicken_description:Réapprovisionne {amount_min1} endurance.
+xp_elixir:Élixir XP
+xp_elixir_description:Cette potion vous donne {amount} XP !

@@ -19,7 +19,7 @@ errConsumableInventoryIsFull:Your consumable inventory is full!
 errConsumableInventoryWouldBeFull:This would make your consumable bag too heavy!
 errChestInventoryIsFull:Your chest inventory is full!
 
-errDesyncedObjDoesNotExist: Unable to complete this action. This may happen if the item no longer exists, often caused by playing the game on multiple devices simultaneously.
+errGameDesynced:Action could not be completed. This typically happens if you play on multiple devices at once or switch devices without reloading.
 
 errNotEnoughArcanites:You don't have enough Arcanites.
 errNotEnoughMoney:You don't have enough gold to buy this!

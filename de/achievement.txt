@@ -117,3 +117,5 @@ referStreamerWhenDone:Sobald alle Schritte abgeschlossen sind, erhältst du inne
 daily:Täglich
 tutorial:Tutorial
 complete_daily_mission:Schließe {amount} tägliche Missionen ab
+defeat_a_player_in_chat:Besiege einen anderen Spieler mit dem !evbattle-Befehl.
+cantDonateBundles:Es tut mir leid, aber ich kann keine Bündel als Spenden annehmen.

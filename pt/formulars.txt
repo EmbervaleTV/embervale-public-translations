@@ -33,19 +33,19 @@ statArmor-rogue:Reduz todo dano físico.
 statArmor-F-rogue:(Armadura + Força/3) / lvl * 0.08
 statArmor-M-rogue:Valor máximo 50%.
 statMagRes-mage:Reduz todo dano mágico.
-statMagRes-F-mage:(Resistência Mág. / lvl) * 0.08
+statMagRes-F-mage:(Resistência Mágica / nível) * 0.08
 statMagRes-M-mage:Valor máximo 50%.
 statMagRes-knight:Reduz todo dano mágico.
-statMagRes-F-knight:(Res. Mag. + Sabedoria/3) / lvl * 0.08
+statMagRes-F-knight:(Resistência Mágica + Sabedoria/3) / nível * 0.08
 statMagRes-M-knight:Valor máximo 50%.
 statMagRes-ranger:Reduz todo dano mágico.
-statMagRes-F-ranger:(Res. Mag. + Sabedoria/3) / lvl * 0.08
+statMagRes-F-ranger:(Resistência Mágica + Sabedoria/3) / nível * 0.08
 statMagRes-M-ranger:Valor máximo 50%.
 statMagRes-warrior:Reduz todo dano mágico.
-statMagRes-F-warrior:(Res. Mag. + Sabedoria/3) / lvl * 0.08
+statMagRes-F-warrior:(Resistência Mágica + Sabedoria/3) / nível * 0.08
 statMagRes-M-warrior:Valor máximo 50%.
 statMagRes-rogue:Reduz todo dano mágico.
-statMagRes-F-rogue:(Res. Mag. + Sabedoria/3) / lvl * 0.08
+statMagRes-F-rogue:(Resistência Mágica + Sabedoria/3) / nível * 0.08
 statMagRes-M-rogue:Valor máximo 50%.
 statCritMod-mage:Determina o poder dos acertos críticos.
 statCritMod-F-mage:(Sorte / ((lvl + 1) * 2)) + 1.2
@@ -78,18 +78,18 @@ statCritPerc-rogue:Determina a chance de acertar um golpe crítico.
 statCritPerc-F-rogue:(Precisão / lvl) * 0.25
 statCritPerc-M-rogue:Valor máximo 50%
 statEvasion-mage:Chance de desviar de um golpe físico.
-statEvasion-F-mage:(Evasão + destreza/3) / nv * 0,075
+statEvasion-F-mage:(Agilidade + destreza/3) / niv * 0.075
 statEvasion-M-mage:Valor máximo 20%.
 statEvasion-knight:Chance de desviar de um golpe físico.
-statEvasion-F-knight:(Evasão + destreza/3) / nv * 0,025
+statEvasion-F-knight:(Agilidade + destreza/3) / niv * 0.025
 statEvasion-M-knight:Valor máximo 10%.
 statEvasion-ranger:Chance de desviar de um golpe físico.
-statEvasion-F-ranger:(Evasão / lvl) * 0.1
+statEvasion-F-ranger:(Agilidade / niv) * 0.1
 statEvasion-M-ranger:Valor máximo 30%.
 statEvasion-warrior:Chance de desviar de um golpe físico.
-statEvasion-F-warrior:(Evasão + destreza/3) / nv * 0,05
+statEvasion-F-warrior:(Agilidade + destreza/3) / niv * 0.05
 statEvasion-M-warrior:Valor máximo 15%.
 statEvasion-rogue:Chance de desviar de um golpe físico.
-statEvasion-F-rogue:(Evasão / lvl) * 0.1
+statEvasion-F-rogue:(Agilidade / niv) * 0.1
 statEvasion-M-rogue:Valor máximo 30%.
 statArmor-F-warrior:(Armadura / lvl) * 0.08

@@ -71,7 +71,7 @@ str:Force
 strEffect:Dégâts Physiques
 strDescription:{stat} augmente les dégâts physiques pour les Chevaliers et Guerriers, et augmente l'armure pour toutes les autres classes.
 wis:Sagesse
-wisEffect:Dégâts Magiques
+wisEffect:Dommages Magiques
 wisDescription:{stat} améliore les dégâts magiques pour les Mages et augmente la résistance magique pour toutes les autres classes.
 dex:Dextérité
 dexEffect:Dégâts de Précision
@@ -88,9 +88,9 @@ luckDescription:{stat} augmente les dégâts des coups critiques.
 armor:Armure
 outfit:Tenue
 outfits:Tenues
-damage_reduction:Réduc. DMG
-mag_res:Rés. mag.
-mag_absorption:Absorp. mag.
+damage_reduction:Réduction DMG
+mag_res:Rès. Mag.
+mag_absorption:Absorp. Mag.
 eva:Évasion
 skillPoints:Points de Comp.
 current_hp:PV actuels
@@ -240,7 +240,7 @@ beast-slayer-badge_desc:Obtenu grâce aux succès du bestiaire
 patreon-badge:Badge Patreon
 patreon-badge_desc:Badge pour être un membre Patreon. Merci pour votre soutien !
 alpha-badge:Badge Alpha
-alpha-badge_desc:Récompense de participation pour l'Alpha d'Embervale !
+alpha-badge_desc:Récompense de participation pour l'Alpha de Embervale
 obtainedBy:Obtenu par {obtained_by}% des joueurs
 noBadge:Aucun badge
 emptyBadge:Un emplacement de badge vide
@@ -497,7 +497,7 @@ loadingTip34:La boutique reçoit un nouveau lot d'articles gratuitement 24 heure
 loadingTip35:Nettoyer un Donjon pour la première fois te garantit un Coffre Mythique !
 loadingTip36:Les Donjons ont des pools uniques de monstres ; collectionne-les tous pour remplir ton Bestiaire !
 chrono-badge:Badge Chrono
-chrono-badge_desc:Badge extrêmement rare pour avoir collecté 365 récompenses quotidiennes consécutives.
+chrono-badge_desc:Insigne extrêmement rare pour avoir collecté 365 récompenses quotidiennes consécutives
 founder_male:Fondateur
 founder_female:Fondatrice
 harbinger_male:Présage
@@ -557,3 +557,21 @@ cookebotNoConsent:Vous n'avez pas accepté tous les cookies requis, y compris ce
 emeraldShop:Boutique Arcanite
 halloween-2024-badge:Badge Halloween 2024
 halloween-2024-badge_desc:Obtenable en complétant toutes les missions de l'événement Halloween
+critChance:Chance de Crit
+critMultiplier:Multiplicateur de Crit
+physDefense:Déf. Phys.
+armorEffect:Défense Physique
+armorDescription:{stat} augmente votre Défense Physique
+magDefense:Déf. Mag.
+magicalResistance:Résistance Magique
+magicalResistanceEffect:Défense Magique
+magicalResistanceDescription:{stat} augmente votre Défense Magique
+challengePlayerFightCooldown:Vous avez utilisé vos 5 attaques horaires. Vous pouvez continuer vos attaques, mais aucune autre entrée ne sera ajoutée au glossaire.
+agility:Agilité
+agilityEffect:Évasion
+agilityDescription:{stat} augmente ton évasion
+streamer:Streamer
+confirmCharDeletion:Êtes-vous sûr de vouloir supprimer {username} ?
+confirmCharNotReversible:Je comprends que cette action est irréversible. Tout le progrès et les objets de ce personnage seront perdus.
+confirmCharUsername:Veuillez confirmer le nom du personnage à supprimer.
+deleteCharacter:Supprimer Personnage

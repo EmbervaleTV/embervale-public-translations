@@ -156,3 +156,5 @@ coin_pile_description:Use isto para ganhar cobre. Nível {level}
 roasted_chicken:Frango Assado
 roasted_chicken_craft_description:Reabastece de {amount_min1} a {amount_max1} de resistência.
 roasted_chicken_description:Reabastece {amount_min1} de resistência.
+xp_elixir:Elixir de XP
+xp_elixir_description:Esta poção concede-lhe {amount}XP!

@@ -88,14 +88,14 @@ luckDescription:{stat} aumenta el daño de los golpes críticos.
 armor:Armadura
 outfit:Atuendo
 outfits:Atuendos
-damage_reduction:Red. DMG
-mag_res:Res. Mag.
-mag_absorption:Abs. Mag.
+damage_reduction:Reducción de DMG
+mag_res:Resist. mag.
+mag_absorption:Absorp. de Mag.
 eva:Evasión
 skillPoints:Puntos de habilidad
-current_hp:HP actual
-crit_chance:Perc crit
-crit_multiplier:Mod crit
+current_hp:HP Actual
+crit_chance:Prob. crit
+crit_multiplier:Mod. crit
 damage:Daño
 shield_ability_chance:Prob bloq
 shield_ability_rate:Tasa bloq
@@ -240,7 +240,7 @@ beast-slayer-badge_desc:Obtenible a través de logros del bestiario
 patreon-badge:Insignia de Patreon
 patreon-badge_desc:Insignia por ser miembro de Patreon. ¡Gracias por tu apoyo!
 alpha-badge:Insignia de Alpha
-alpha-badge_desc:Recompensa de participación en la Alpha de Embervale
+alpha-badge_desc:Recompensa por participar en la Alpha de Embervale
 obtainedBy:Obtenido por el {obtained_by}% de los jugadores
 noBadge:Sin insignia
 emptyBadge:Un espacio de insignia vacío
@@ -497,7 +497,7 @@ loadingTip34:La tienda recibe un nuevo lote de artículos gratis 24 horas despu�
 loadingTip35:¡Limpiar una Mazmorra por primera vez te garantiza un Cofre Mítico!
 loadingTip36:¡Las Mazmorras tienen grupos únicos de monstruos; recógelos todos para llenar tu Bestiario!
 chrono-badge:Insignia de Crono
-chrono-badge_desc:Insignia extremadamente rara por recolectar 365 recompensas diarias seguidas.
+chrono-badge_desc:Insignia extremadamente rara por recolectar 365 recompensas diarias consecutivamente
 founder_male:Fundador
 founder_female:Fundadora
 harbinger_male:Heraldo
@@ -557,3 +557,21 @@ cookebotNoConsent:No has aceptado todas las cookies requeridas, incluidas las de
 emeraldShop:Tienda de Arcanite
 halloween-2024-badge:Insignia de Halloween 2024
 halloween-2024-badge_desc:Obtenible al completar todas las Misiones del Evento de Halloween
+critChance:Probabilidad de Crítico
+critMultiplier:Multiplicador de Crítico
+physDefense:Def. Física
+armorEffect:Defensa Física
+armorDescription:{stat} aumenta tu Defensa Física
+magDefense:Def. Mag.
+magicalResistance:Resistencia Mágica
+magicalResistanceEffect:Defensa Mágica
+magicalResistanceDescription:{stat} aumenta tu Defensa Mágica.
+challengePlayerFightCooldown:Has usado tus 5 ataques por hora. Puedes continuar atacando, pero no se añadirán más entradas al glosario.
+agility:Agilidad
+agilityEffect:Evasión
+agilityDescription:{stat} aumenta tu evasión
+streamer:Streamer
+confirmCharDeletion:¿Estás seguro de que quieres eliminar a {username}?
+confirmCharNotReversible:Entiendo que esta acción no se puede deshacer. Todo el progreso y los objetos de este personaje se perderán.
+confirmCharUsername:Por favor confirma el nombre del personaje a eliminar.
+deleteCharacter:Eliminar Personaje

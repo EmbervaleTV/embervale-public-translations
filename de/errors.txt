@@ -68,4 +68,4 @@ twitchBotRemoved:Der Bot wird jetzt gehen. Danke, dass du Embervale gespielt has
 errPleaseRenameYourCharacter:Du musst deinen Charakter umbenennen! Da dies eine Anfrage von uns ist, haben wir dir 25 Arcanites gutgeschrieben, damit du deinen Charakter kostenlos umbenennen kannst.
 errConsumableInventoryWouldBeFull:Das würde deine Verbrauchsgegenstände-Tasche zu schwer machen!
 errChestInventoryIsFull:Dein Truheninventar ist voll!
-errDesyncedObjDoesNotExist:Aktion konnte nicht abgeschlossen werden. Dies kann passieren, wenn das Objekt nicht mehr existiert, was oft durch gleichzeitiges Spielen auf mehreren Geräten verursacht wird.
+errGameDesynced:Aktion konnte nicht abgeschlossen werden. Dies passiert normalerweise, wenn du auf mehreren Geräten gleichzeitig spielst oder Geräte wechselst, ohne neu zu laden.

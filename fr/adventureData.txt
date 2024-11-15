@@ -232,3 +232,8 @@ sortByLvlHigh:Santé : Le plus haut en premier
 youReceivedFromManipulationEnd:Vous avez gagné grâce à la manipulation de vote :
 alreadyBanished:{{ playerToBanish.char.username }} est déjà banni.
 invalidChoice:Choix invalide.
+inAdventureFrom:Vous êtes actuellement dans l'aventure de {inAdName}.
+effect_shadow_remains:La forme du joueur est maintenant une ombre. // Subit des dégâts magiques doublés, 50 % de dégâts physiques en moins.
+shadow_remains:Ombre Résiduelle
+effect_petrified:Le joueur est transformé en pierre. // Incapable de bouger ou d'agir
+petrified:Pétrifié

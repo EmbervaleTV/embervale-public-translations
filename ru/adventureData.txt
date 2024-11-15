@@ -232,3 +232,8 @@ sortByLvlHigh:Здоровье: Сначала наибольшее
 youReceivedFromManipulationEnd:Вы заработали за манипуляцию голосами:
 alreadyBanished:{{ playerToBanish.char.username }} уже изгнан.
 invalidChoice:Недопустимый выбор.
+inAdventureFrom:Вы находитесь в приключении {inAdName}.
+effect_shadow_remains:Форма игрока теперь является тенью. // Получает двойной урон от магии, на 50% меньше урона от физических атак.
+shadow_remains:Оставшаяся тень
+effect_petrified:Игрок превращен в камень. // Невозможно двигаться или совершать действия
+petrified:Окаменение

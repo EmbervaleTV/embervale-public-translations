@@ -1,4 +1,4 @@
-evhelp:Você pode encontrar todos os comandos aqui.
+evhelp:Você pode encontrar todos os comandos aqui:
 notStarted:Sua jornada ainda não começou!
 cmdUnknownError:Ocorreu um erro desconhecido!
 serverOverload:O servidor está sobrecarregado! Tente novamente mais tarde.
@@ -31,4 +31,5 @@ adventureVotingDisabled:O streamer desativou as votações para jogadores fora d
 adventureVoteManipulationDisabled:O streamer desativou as manipulações de votos.
 adventureYouAreNotInThis:Você deve fazer parte desta aventura para usar este comando!
 adventureLeaderLeaveForbidden:O líder não pode deixar a aventura. Se você selecionou o personagem errado, pode se render sem tempo de espera, desde que não tenha pressionado o botão 'criar'.
-twitchbotCharNotFound:Personagem não encontrado! Por favor, verifique a ortografia.
+twitchbotCharNotFound:Seu personagem não foi encontrado! Por favor, verifique a ortografia.
+twitchbotTargetNoAccount:O jogador selecionado ainda não criou seu primeiro personagem Embervale!

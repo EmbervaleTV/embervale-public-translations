@@ -33,19 +33,19 @@ statArmor-rogue:Уменьшает весь физический урон.
 statArmor-F-rogue:(Броня + Сила/3) / ур. * 0.08
 statArmor-M-rogue:Максимальное значение 50%.
 statMagRes-mage:Уменьшает весь магический урон.
-statMagRes-F-mage:(Маг. защ / уровень) * 0.08
+statMagRes-F-mage:(Магическая защита / уровень) * 0.08
 statMagRes-M-mage:Максимальное значение 50%.
 statMagRes-knight:Уменьшает весь магический урон.
-statMagRes-F-knight:(Маг. Сопр. + Мудрость/3) / ур. * 0.08
+statMagRes-F-knight:(Магическая защита + Мудрость/3) / уровень * 0.08
 statMagRes-M-knight:Максимальное значение 50%.
 statMagRes-ranger:Уменьшает весь магический урон.
-statMagRes-F-ranger:(Маг. Сопр. + Мудрость/3) / ур. * 0.08
+statMagRes-F-ranger:(Магическая защита + Мудрость/3) / уровень * 0.08
 statMagRes-M-ranger:Максимальное значение 50%.
 statMagRes-warrior:Уменьшает весь магический урон.
-statMagRes-F-warrior:(Маг. Сопр. + Мудрость/3) / ур. * 0.08
+statMagRes-F-warrior:(Магическая защита + Мудрость/3) / уровень * 0.08
 statMagRes-M-warrior:Максимальное значение 50%.
 statMagRes-rogue:Уменьшает весь магический урон.
-statMagRes-F-rogue:(Маг. Сопр. + Мудрость/3) / ур. * 0.08
+statMagRes-F-rogue:(Магическая защита + Мудрость/3) / уровень * 0.08
 statMagRes-M-rogue:Максимальное значение 50%.
 statCritMod-mage:Определяет силу критических ударов.
 statCritMod-F-mage:(Удача / ((уровень + 1) * 2)) + 1.2
@@ -78,18 +78,18 @@ statCritPerc-rogue:Определяет шанс нанести критичес
 statCritPerc-F-rogue:(Точность / уровень) * 0.25
 statCritPerc-M-rogue:Максимальное значение 50%
 statEvasion-mage:Шанс уклониться от физического удара.
-statEvasion-F-mage:(Уклонение + ловкость/3) / ур * 0.075
+statEvasion-F-mage:(Ловкость + ловкость/3) / ур * 0.075
 statEvasion-M-mage:Максимальное значение 20%.
 statEvasion-knight:Шанс уклониться от физического удара.
-statEvasion-F-knight:(Уклонение + ловкость/3) / ур * 0.025
+statEvasion-F-knight:(Ловкость + ловкость/3) / ур * 0.025
 statEvasion-M-knight:Максимальное значение 10%.
 statEvasion-ranger:Шанс уклониться от физического удара.
-statEvasion-F-ranger:(Уклонение / уровень) * 0.1
+statEvasion-F-ranger:(Ловкость / ур) * 0.1
 statEvasion-M-ranger:Максимальное значение 30%.
 statEvasion-warrior:Шанс уклониться от физического удара.
-statEvasion-F-warrior:(Уклонение + ловкость/3) / ур * 0.05
+statEvasion-F-warrior:(Ловкость + ловкость/3) / ур * 0.05
 statEvasion-M-warrior:Максимальное значение 15%.
 statEvasion-rogue:Шанс уклониться от физического удара.
-statEvasion-F-rogue:(Уклонение / уровень) * 0.1
+statEvasion-F-rogue:(Ловкость / ур) * 0.1
 statEvasion-M-rogue:Максимальное значение 30%.
 statArmor-F-warrior:(Броня / уровень) * 0.08
