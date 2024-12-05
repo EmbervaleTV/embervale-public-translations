@@ -32,7 +32,6 @@ defeat_knight_class:Derrote {amount} cavaleiros
 defeat_ranger_class:Derrote {amount} guardiões
 defeat_warrior_class:Derrote {amount} guerreiros
 collect_items_bounties:Coleta {amount} itens em recompensas
-collect_items_shop:Compre {amount} itens da loja
 collect_mythical_item:Obtenha {amount} itens míticos
 complete_bestiary:Complete {count}% do seu bestiário
 complete_materials_glossary:Descubra {count}% dos materiais

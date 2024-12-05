@@ -19,7 +19,7 @@ dungeon:Dungeon
 startDungeon:Start Dungeon
 dungeonAutoSell:There are still some items in your dungeon inventory! If you leave the dungeon now, they will be lost!
 selectConsumablesForDungeon:Select the potions you wish to take into the dungeon. Please note that all items brought into the dungeon will be lost if you are defeated.
-youDontHaveHealPotions:You don't have any health potions.
+youDontHaveHealPotions:You don’t have any health potions available to add to your dungeon bag.
 
 // Dungeon Effects
 effect_gem_blessing:The player is blessed for {rounds} rounds.  // +25% to all stats

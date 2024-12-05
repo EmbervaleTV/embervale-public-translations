@@ -7,7 +7,6 @@ ended:Terminé
 leader:Chef
 welcomeToAdventures:Bienvenue dans les aventures
 yourHighscore:Ton meilleur score
-beforeAdventureStartsText:Adventures est un mode de jeu explicitement développé pour les streamers. Ta communauté peut rejoindre via "!ev join" ton aventure. La limite maximale actuelle de participation est de 50.
 wrongAdventureLeader:Vous êtes connecté avec un personnage différent de celui qui a commencé l'aventure. Veuillez passer à {username} pour continuer.
 currentLoggedIn:Vous êtes actuellement connecté en tant que :
 youCanSelectRecipient:Tu peux sélectionner le destinataire d'un butin rare ou supérieur !
@@ -62,9 +61,9 @@ effect_agile:Le joueur se sent agile. // Joue toujours en premier
 agile:Agile
 effect_silenced:Le joueur est réduit au silence. // Désactive les capacités
 silenced:Réduit au silence
-effect_shaky:Le joueur a la tremblote. // Ranger seulement, +20% de chance de rater
+effect_shaky:Le joueur est tremblant. // +20 % de chance d'échec
 shaky:Tremblant
-effect_precise:Le joueur a une précision avancée. // Ranger seulement, ton adversaire ne peut pas esquiver les attaques
+effect_precise:Le joueur a une précision avancée. // Votre adversaire ne peut pas esquiver les attaques
 precise:Précis
 effect_furious:Le joueur est furieux. // +25% de dégâts, 33% de chance de se blesser
 furious:Furieux
@@ -105,7 +104,7 @@ uncomfortable:Inconfortable
 effect_diplomatic:Le joueur excelle en négociation et en résolution de conflits. // +30% de renommée, +5 à tous les jets de renommée
 diplomatic:Diplomatique
 unavailable:Indisponible
-effect_unavailable:Le joueur est actuellement occupé ailleurs et ne peut temporairement pas participer aux batailles. // # TODO
+effect_unavailable:Le joueur est actuellement occupé ailleurs et ne peut temporairement pas participer aux batailles. // Ne peut pas combattre
 dark_blessing:Bénédiction Sombre
 effect_dark_blessing:Le joueur a été béni par une divinité sinistre. // +20% toutes les statistiques, +10% dégâts subis
 enlightened:Éclairé
@@ -172,8 +171,6 @@ check_vitality:Ceux bénis d'une vitalité remarquable prospéreront.
 vitality:Vitalité
 check_mag_resistance:Ceux dotés d'une résistance magique formidable prévaudront.
 mag_resistance:Résistance Magique
-check_speech:Résoudre ce problème nécessitera un peu de charisme.
-speech:Charisme
 check_dexterity:Ceux possédant une dextérité exceptionnelle excelleront.
 dexterity:Dextérité
 check_morale:Le moral dans le groupe est-il assez élevé pour surmonter cet obstacle?
@@ -237,3 +234,110 @@ effect_shadow_remains:La forme du joueur est maintenant une ombre. // Subit des 
 shadow_remains:Ombre Résiduelle
 effect_petrified:Le joueur est transformé en pierre. // Incapable de bouger ou d'agir
 petrified:Pétrifié
+smoke_bomb:Bombe Fumigène
+smoke_bomb_description:L'adversaire a 5% de chances en plus de manquer sa cible.
+adventureHighscore:Meilleur score d'aventure
+adventureHosted:Aventures organisées
+oil_pot:Pot d'Huile
+oil_pot_description:L'adversaire reçoit 500% de dégâts Infernal en plus lors de la prochaine bataille.
+adventures:Aventures
+tools:Outils
+beforeAdventureStartsText1:Adventures est un mode de jeu spécialement conçu pour les streamers.
+beforeAdventureStartsText2:Votre communauté peut rejoindre votre aventure en utilisant la commande "!ev join".
+beforeAdventureStartsText3:L'aventure se termine lorsque le Moral du groupe atteint zéro ou si vous choisissez d'abandonner.
+beforeAdventureStartsText4:Vous avez la possibilité de sélectionner des spectateurs pour participer aux batailles !
+beforeAdventureStartsText5:Votre communauté peut s'engager activement dans l'aventure en votant sur les décisions clés et en collaborant avec vous sur la stratégie !
+beforeAdventureStartsText6:La limite maximale actuelle de participants est de 50.
+unlock:Déverrouiller
+effect_transparent:Ce joueur est difficile à détecter. // +10% d'esquive
+transparent:Transparent
+arcane_armor_enchantment:Armure Arcanique
+arcane_armor_enchantment_description:Annule 50% des dégâts Arcanique entrants lors de la prochaine bataille.
+arcane_hex:Malédiction Arcanique
+arcane_hex_description:L'adversaire reçoit 500% de dégâts Arcanique en plus lors de la prochaine bataille.
+magical_surge:Surge Magique
+magical_surge_description:Les attaques magiques ignorent la Résistance Magique lors de la prochaine bataille.
+arcane_weapon_enchantment:Enchantement d'Arme Arcanique
+arcane_weapon_enchantment_description:Imprègne les armes de pouvoir Arcane, modifiant leurs dégâts élémentaires et ajoutant 25% de dégâts Arcanes bonus.
+ballista_bolt:Boulon de Baliste
+ballista_bolt_description:Inflige immédiatement 10% de la santé actuelle de l'adversaire en dégâts.
+bewilderbrew:Boisson de Confusion
+bewilderbrew_description:Alcool fort qui confond l'adversaire, ajoutant 10% de chances qu'il se blesse lui-même.
+blood_curse:Malédiction de Sang
+blood_curse_description:Empêche l'adversaire de se soigner.
+bloody_knife:Couteau Sanglant
+bloody_knife_description:Ajoute un effet de saignement à l'adversaire, réduisant la guérison et infligeant des dégâts.
+brilliant_lifegem:Gemmes de Vie Brillante
+brilliant_lifegem_description:Ralentit considérablement la dégradation de la vie des Guerriers.
+divine_armor_enchantment:Armure Divine
+divine_armor_enchantment_description:Négation de 50% des dégâts Divins reçus pendant la prochaine bataille.
+divine_seal:Sceau Divin
+divine_seal_description:L'adversaire reçoit 500% de dégâts Divins supplémentaires pendant la prochaine bataille.
+divine_weapon_enchantment:Enchantement d'Arme Divine
+divine_weapon_enchantment_description:Imprègne les armes de pouvoir Divin, modifiant leurs dégâts élémentaires et ajoutant 25% de dégâts Divins bonus.
+elven_quiver:Carquois Elfique
+elven_quiver_description:Augmente de 15 % la chance de Tir Rapide des Rangers.
+executioner:Bourreau
+executioner_description:Exécute les adversaires qui tombent sous 10% de PV.
+fire_sling:Fronde de Feu
+fire_sling_description:Ajoute un effet de brûlure à l'adversaire, réduisant les dégâts de mêlée et le blessant.
+flash:Flash
+flash_description:L'adversaire a 10% de chances supplémentaires de rater.
+freezing_breath:Haleine Givrante
+freezing_breath_description:L'adversaire reçoit 500% de dégâts de Givre supplémentaires pendant la prochaine bataille.
+frost_armor_enchantment:Enchantement d'Armure de Givre
+frost_armor_enchantment_description:Réduit de 50 % les dégâts de givre reçus lors de la prochaine bataille.
+frost_weapon_enchantment:Enchantement d'Arme de Givre
+frost_weapon_enchantment_description:Imprègne les armes de pouvoir Givré, modifiant leurs dégâts élémentaires et ajoutant 25% de dégâts Givrés bonus.
+fumes_of_agility:Fumées d'Agilité
+fumes_of_agility_description:Les membres du groupe agissent toujours en premier lors de la prochaine bataille.
+heavy_chain:Chaîne Lourde
+heavy_chain_description:Empêche l'ennemi d'esquiver.
+icicle:Glaçon
+icicle_description:Ajoute un effet de gel à l'adversaire, réduisant les dégâts à distance et le blessant.
+illusion_cloak:Manteau d'Illusion
+illusion_cloak_description:Garantit des coups critiques pour les Roublards après l'utilisation de la furtivité.
+infernal_armor_enchantment:Enchantement d'Armure Infernale
+infernal_armor_enchantment_description:Réduit de 50 % les dégâts infernaux reçus lors de la prochaine bataille.
+infernal_weapon_enchantment:Enchantement d'Arme Infernale
+infernal_weapon_enchantment_description:Imprègne les armes de pouvoir Infernal, modifiant leurs dégâts élémentaires et ajoutant 25% de dégâts Infernaux bonus.
+love_potion:Potion d'Amour
+love_potion_description:20% de chance que l'adversaire passe son attaque. Ne fonctionne que sur les humanoïdes.
+lucky_foot:Pied Porte-Bonheur
+lucky_foot_description:Augmente la qualité du butin de 1 pour le prochain combat.
+monster_mirror:Miroir de Monstre
+monster_mirror_description:Une copie plus faible de l'adversaire combattra pour vous dans la prochaine bataille.
+mood_resonator:Résonateur d'humeur
+mood_resonator_description:Double tous les gains et pertes de moral pour la prochaine bataille.
+necrotic_armor_enchantment:Enchantement d'armure nécrotique
+necrotic_armor_enchantment_description:Annule 50% des dégâts nécrotiques entrants pendant la prochaine bataille.
+necrotic_weapon_enchantment:Enchantement d'arme nécrotique
+necrotic_weapon_enchantment_description:Imprègne les armes de pouvoir Nécrotique, modifiant leurs dégâts élémentaires et ajoutant 25% de dégâts Nécrotiques bonus.
+plank_shield:Bouclier en planches
+plank_shield_description:Protège le groupe des premiers 500 dégâts entrants.
+poison_flask:Fiole de poison
+poison_flask_description:Empoisonne l'ennemi, infligeant des dégâts après chaque attaque.
+polished_shield:Bouclier poli
+polished_shield_description:+10% de chance de blocage pour les Chevaliers dans la prochaine bataille.
+revival_blessing:Bénédiction de réveil
+revival_blessing_description:Ressuscite le premier à tomber au combat.
+strong_bones:Os solides
+strong_bones_description:Empêche les blessures pendant la prochaine bataille.
+summoning_book:Livre d'invocation
+summoning_book_description:Invoque un squelette pour se joindre à la prochaine bataille.
+undead_mark:Marque des morts-vivants
+undead_mark_description:L'adversaire reçoit 500 % de dégâts Nécrotiques supplémentaires lors du prochain combat.
+vampire_bite:Morsure de Vampire
+vampire_bite_description:Tous les joueurs ont 20% de chance de soigner 20% des dégâts infligés lors du prochain combat.
+active:Actif
+inactive:Inactif
+adventureSettingRaffleAnimation:Animation de Raffle
+toolLimitReached:Vous pouvez activer jusqu'à 5 outils pour un seul combat.
+toolAlreadyEnabled:Cet outil a déjà été activé.
+requiredUnlocksTool:Victoires requises pour le prochain déverrouillage
+requiredUnlocksToolTooltip:Seules les batailles avec un indicateur de butin "Faible" ou supérieur sont comptées.
+adventureBestiaryRequired:Vous devez vaincre ce monstre au moins une fois pour débloquer son entrée dans le bestiaire et voir ses statistiques !
+toolActivatedForNextFight:L'outil a été activé pour le prochain combat !
+adventureSettingFullscreen:Jouer à des aventures en mode plein écran [Cela rechargera votre jeu]
+strong_armor:Armure Robuste
+effect_strong_armor:L'armure de ce joueur s'est avérée extraordinairement robuste.  // +25% armure

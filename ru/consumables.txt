@@ -158,3 +158,4 @@ roasted_chicken_craft_description:Восстанавливает от {amount_mi
 roasted_chicken_description:Восстанавливает {amount_min1} выносливости.
 xp_elixir:Эликсир опыта
 xp_elixir_description:Это зелье дает вам {amount} опыта!
+adventureOver:Приключение уже закончилось!

@@ -32,7 +32,6 @@ defeat_knight_class:Победите {amount} рыцарей
 defeat_ranger_class:Победите {amount} следопытов
 defeat_warrior_class:Победите {amount} воинов
 collect_items_bounties:Соберите {amount} предметов в наградах
-collect_items_shop:Купите {amount} предметов в магазине
 collect_mythical_item:Достаньте {amount} мифических предметов
 complete_bestiary:Заполните {count}% Бестиария
 complete_materials_glossary:Откройте {count}% материалов

@@ -48,3 +48,8 @@ skin_profaned:Entweiht
 alreadyOwnsSkin:Der Spieler besitzt diesen Skin bereits.
 eventShopClosesIn:Eventladen schließt in
 eventEndsIn:Event endet in
+skin_arctic_stalker:Arktischer Pirschjäger
+skin_elk_hide:Elchhaut
+skin_polar_bear:Eisbär
+skin_festive_protector:Festlicher Beschützer
+skin_christmas_spirit:Weihnachtlicher Geist

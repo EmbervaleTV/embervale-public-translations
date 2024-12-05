@@ -7,7 +7,6 @@ ended:Terminou
 leader:Líder
 welcomeToAdventures:Bem-vindo(a) às aventuras
 yourHighscore:Seu recorde
-beforeAdventureStartsText:Adventures é um modo de jogo desenvolvido explicitamente para streamers. Sua comunidade pode se juntar à sua aventura através de "!ev join". O limite máximo atual de participantes é 50.
 wrongAdventureLeader:Você está logado com um personagem diferente daquele que iniciou a aventura. Por favor, mude para {username} para continuar.
 currentLoggedIn:Você está atualmente logado como:
 youCanSelectRecipient:Você pode selecionar o destinatário de itens raros ou superiores!
@@ -62,9 +61,9 @@ effect_agile:O jogador está ágil. // Sempre vai em primeiro
 agile:Ágil
 effect_silenced:O jogador está silenciado. // Habilidades desativadas
 silenced:Silenciado
-effect_shaky:O jogador está trêmulo. // Apenas para Ranger, +20% de chance de errar
+effect_shaky:O jogador está trêmulo. // +20% chance de erro
 shaky:Trêmulo
-effect_precise:O jogador tem precisão avançada. // Apenas para Ranger, o oponente não pode esquivar dos ataques
+effect_precise:O jogador tem precisão avançada. // Seu oponente não pode desviar dos ataques
 precise:Preciso
 effect_furious:O jogador está furioso. // +25% de dano, 33% de chance de se machucar
 furious:Furioso
@@ -105,7 +104,7 @@ uncomfortable:Desconfortável
 effect_diplomatic:O jogador se destaca em negociação e resolução de conflitos. // +30% fama, +5 em todas as jogadas de fama
 diplomatic:Diplomático
 unavailable:Indisponível
-effect_unavailable:O jogador está atualmente ocupado em outro lugar e temporariamente não pode participar das batalhas. // # TODO
+effect_unavailable:O jogador está atualmente ocupado em outro lugar e temporariamente não pode participar de batalhas. // Não pode batalhar
 dark_blessing:Bênção Sombria
 effect_dark_blessing:O jogador foi abençoado por uma divindade sinistra. // +20% todas as estatísticas, +10% dano recebido
 enlightened:Iluminado
@@ -172,8 +171,6 @@ check_vitality:Aqueles abençoados com vitalidade notável prosperarão.
 vitality:Vitalidade
 check_mag_resistance:Aqueles dotados com resistência mágica formidável prevalecerão.
 mag_resistance:Resistência Mágica
-check_speech:Resolver este problema exigirá um pouco de carisma.
-speech:Carisma
 check_dexterity:Aqueles que possuem destreza excepcional se destacarão.
 dexterity:Destreza
 check_morale:A moral no grupo está alta o suficiente para superar este obstáculo?
@@ -237,3 +234,110 @@ effect_shadow_remains:A forma do jogador agora é uma sombra. // Recebe o dobro 
 shadow_remains:Sombra Permanece
 effect_petrified:O jogador é transformado em pedra. // Incapaz de se mover ou realizar ações
 petrified:Petrificado
+smoke_bomb:Bomba de Fumaça
+smoke_bomb_description:O oponente tem 5% mais chance de errar.
+adventureHighscore:Pontuação de Aventura
+adventureHosted:Eventos de Aventura
+oil_pot:Vasilha de Óleo
+oil_pot_description:O oponente recebe 500% a mais de dano Infernal durante a próxima batalha.
+adventures:Aventuras
+tools:Ferramentas
+beforeAdventureStartsText1:Adventures é um modo de jogo projetado especificamente para streamers.
+beforeAdventureStartsText2:Sua comunidade pode participar da sua aventura usando o comando "!ev join".
+beforeAdventureStartsText3:A aventura termina quando a Moral do grupo chega a zero ou se você escolher se render.
+beforeAdventureStartsText4:Você tem a opção de selecionar espectadores para participar das batalhas!
+beforeAdventureStartsText5:Sua comunidade pode se engajar ativamente na aventura votando em decisões importantes e colaborando com você na estratégia!
+beforeAdventureStartsText6:O limite máximo atual de participantes é 50.
+unlock:Desbloquear
+effect_transparent:Este jogador é difícil de detectar. // +10% evasão
+transparent:Transparente
+arcane_armor_enchantment:Armadura Arcana
+arcane_armor_enchantment_description:Nega 50% do dano Arcano durante a próxima batalha.
+arcane_hex:Maldição Arcana
+arcane_hex_description:O oponente recebe 500% a mais de dano Arcano durante a próxima batalha.
+magical_surge:Surto Mágico
+magical_surge_description:Os ataques mágicos ignoram a Resistência Mágica durante a próxima batalha.
+arcane_weapon_enchantment:Encantamento de Arma Arcana
+arcane_weapon_enchantment_description:Imbuir armas com poder Arcano, alterando seu dano elemental e adicionando 25% de dano Arcano bônus.
+ballista_bolt:Flecha de Balista
+ballista_bolt_description:Causa 10% da saúde atual do oponente como dano imediatamente.
+bewilderbrew:Confoção
+bewilderbrew_description:Álcool forte que confunde o oponente, adicionando 10% de chance de se ferirem.
+blood_curse:Maldição de Sangue
+blood_curse_description:Impede o oponente de se curar.
+bloody_knife:Faca Ensanguentada
+bloody_knife_description:Adiciona um efeito de sangramento ao oponente, reduzindo a cura e causando dano.
+brilliant_lifegem:Gema de Vida Brilhante
+brilliant_lifegem_description:Retarda significativamente a decadência de dreno de vida dos Guerreiros.
+divine_armor_enchantment:Armadura Divina
+divine_armor_enchantment_description:Anula 50% do dano Divino recebido durante a próxima batalha.
+divine_seal:Selo Divino
+divine_seal_description:O oponente recebe 500% mais dano Divino durante a próxima batalha.
+divine_weapon_enchantment:Encantamento de Arma Divina
+divine_weapon_enchantment_description:Imbuir armas com poder Divino, alterando seu dano elemental e adicionando 25% de dano Divino bônus.
+elven_quiver:Aljava Élfica
+elven_quiver_description:Adiciona 15% à chance de Saque Rápido dos Rangers.
+executioner:Carrasco
+executioner_description:Executa oponentes que caem abaixo de 10% de HP.
+fire_sling:Funda de Fogo
+fire_sling_description:Adiciona um efeito de queimadura ao oponente, reduzindo o dano corpo a corpo e ferindo-o.
+flash:Luz
+flash_description:O oponente se torna 10% mais propenso a errar.
+freezing_breath:Sopro Congelante
+freezing_breath_description:O oponente recebe 500% mais dano de Gelo durante a próxima batalha.
+frost_armor_enchantment:Encantamento de Armadura Gélida
+frost_armor_enchantment_description:Negar 50% do dano de Gelo recebidos durante a próxima batalha.
+frost_weapon_enchantment:Frost Weapon Enchantment
+frost_weapon_enchantment_description:Imbuir armas com poder de Gelo, alterando seu dano elemental e adicionando 25% de dano de Gelo bônus.
+fumes_of_agility:Fumaças de Agilidade
+fumes_of_agility_description:Membros do grupo sempre vão primeiro na próxima batalha.
+heavy_chain:Cadeia Pesada
+heavy_chain_description:Impede o inimigo de evadir.
+icicle:Ciclope
+icicle_description:Adiciona um efeito de congelamento ao oponente, reduzindo o dano à distância e ferindo-o.
+illusion_cloak:Manto de Ilusão
+illusion_cloak_description:Garante acertos críticos para Ladinos após usar furtividade.
+infernal_armor_enchantment:Infernal Armor Enchantment
+infernal_armor_enchantment_description:Negar 50% do dano Infernal recebidos durante a próxima batalha.
+infernal_weapon_enchantment:Infernal Weapon Enchantment
+infernal_weapon_enchantment_description:Imbuir armas com poder Infernal, alterando seu dano elemental e adicionando 25% de dano Infernal bônus.
+love_potion:Poção do Amor
+love_potion_description:20% de chance do oponente pular seu ataque. Funciona apenas em Humanóides.
+lucky_foot:Pé de Sorte
+lucky_foot_description:Eleva a qualidade do saque em 1 para o próximo combate.
+monster_mirror:Espelho de Monstro
+monster_mirror_description:Uma cópia mais fraca do oponente lutará por você na próxima batalha.
+mood_resonator:Mood Resonator
+mood_resonator_description:Duplicará todos os ganhos e perdas de moral na próxima batalha.
+necrotic_armor_enchantment:Necrotic Armor Enchantment
+necrotic_armor_enchantment_description:Anula 50% do dano Necrótico recebido durante a próxima batalha.
+necrotic_weapon_enchantment:Necrotic Weapon Enchantment
+necrotic_weapon_enchantment_description:Imbuir armas com poder Necrótico, alterando seu dano elemental e adicionando 25% de dano Necrótico bônus.
+plank_shield:Escudo de Tábuas
+plank_shield_description:Protege o grupo dos primeiros 500 de dano recebido.
+poison_flask:Frasco de Veneno
+poison_flask_description:Envenena o inimigo, causando dano após cada ataque.
+polished_shield:Escudo Polido
+polished_shield_description:+10% de chance de bloqueio para Cavaleiros na próxima batalha.
+revival_blessing:Bênção de Revivificação
+revival_blessing_description:Reanima o primeiro a cair na batalha.
+strong_bones:Ossos Fortes
+strong_bones_description:Previne ferimentos durante a próxima batalha.
+summoning_book:Livro de Invocação
+summoning_book_description:Invoca um esqueleto para se juntar à próxima batalha.
+undead_mark:Marca dos Mortos-Vivos
+undead_mark_description:O oponente recebe 500% a mais de dano Necrótico durante a próxima batalha.
+vampire_bite:Mordida de Vampiro
+vampire_bite_description:Todos os jogadores têm 20% de chance de curar 20% do dano causado durante a próxima batalha.
+active:Ativo
+inactive:Inativo
+adventureSettingRaffleAnimation:Animação de Sorteio
+toolLimitReached:Você pode ativar até 5 ferramentas para uma única luta.
+toolAlreadyEnabled:Esta ferramenta já foi ativada.
+requiredUnlocksTool:Vitórias necessárias para o próximo desbloqueio
+requiredUnlocksToolTooltip:Apenas batalhas com um indicador de saque "Baixo" ou superior são contadas.
+adventureBestiaryRequired:Você deve derrotar este monstro pelo menos uma vez para desbloquear sua entrada no bestiário e ver suas estatísticas!
+toolActivatedForNextFight:A ferramenta foi ativada para a próxima luta!
+adventureSettingFullscreen:Jogue Aventuras em Modo Tela Cheia [Isso reiniciará seu jogo]
+strong_armor:Armadura Forte
+effect_strong_armor:A armadura deste jogador provou ser extraordinariamente resistente. // +25% armadura

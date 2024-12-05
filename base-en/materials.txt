@@ -114,8 +114,6 @@ silver_key:Silver Key
 silver_key_description:Used to unlock something...
 mysterious_potion:Mysterious Potion
 mysterious_potion_description:A suspicious-looking potion... should I drink it?
-smoke_bomb:Smoke Bomb
-smoke_bomb_description:Used to escape the dungeon without losing loot.
 rare_gem:Rare Gem
 rare_gem_description:An odd gem. Could be valuable.
 stack_of_coins:Stack of Coins

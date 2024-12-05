@@ -33,3 +33,4 @@ adventureYouAreNotInThis:Vous devez faire partie de cette aventure pour utiliser
 adventureLeaderLeaveForbidden:Le leader ne peut pas quitter l'aventure. Si tu as sélectionné le mauvais personnage, tu peux te rendre sans temps de recharge, tant que tu n'as pas appuyé sur le bouton 'créer'.
 twitchbotCharNotFound:Votre personnage n'a pas été trouvé ! Veuillez vérifier votre orthographe.
 twitchbotTargetNoAccount:Le joueur sélectionné n'a pas encore créé son premier personnage Embervale !
+twitchbotTargetYourself:Tu ne peux pas t'attaquer toi-même !

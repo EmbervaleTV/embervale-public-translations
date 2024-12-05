@@ -33,3 +33,4 @@ adventureYouAreNotInThis:Du musst Teil dieses Abenteuers sein, um diesen Befehl 
 adventureLeaderLeaveForbidden:Der Anführer kann das Abenteuer nicht verlassen. Wenn du den falschen Charakter ausgewählt hast, kannst du kapitulieren, ohne dass es eine Abklingzeit gibt, solange du nicht den 'Erstellen'-Knopf gedrückt hast.
 twitchbotCharNotFound:Dein Charakter wurde nicht gefunden! Bitte überprüfe die Schreibweise.
 twitchbotTargetNoAccount:Der ausgewählte Spieler hat noch keinen Embervale-Charakter erstellt!
+twitchbotTargetYourself:Du kannst dich nicht selbst angreifen!

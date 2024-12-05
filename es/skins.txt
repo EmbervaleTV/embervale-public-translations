@@ -48,3 +48,8 @@ skin_profaned:Profanado
 alreadyOwnsSkin:El jugador ya posee este aspecto.
 eventShopClosesIn:Tienda del Evento cierra en
 eventEndsIn:El evento termina en
+skin_arctic_stalker:Cazador Ártico
+skin_elk_hide:Cuero de Alce
+skin_polar_bear:Oso Polar
+skin_festive_protector:Protector Festivo
+skin_christmas_spirit:Espíritu Navideño

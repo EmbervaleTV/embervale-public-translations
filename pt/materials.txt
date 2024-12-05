@@ -82,8 +82,6 @@ silver_key:Chave de Prata
 silver_key_description:Usada para destrancar algo...
 mysterious_potion:Potion Misteriosa
 mysterious_potion_description:Uma poção de aparência suspeita... devo bebê-la?
-smoke_bomb:Bomba de Fumaça
-smoke_bomb_description:Usada para escapar da masmorra sem perder tesouros.
 rare_gem:Gema Rara
 rare_gem_description:Uma gema estranha. Pode ser valiosa.
 stack_of_coins:Pilha de Moedas

@@ -12,7 +12,7 @@ confirmGuildInvite:Are you sure you want to invite {username} to your guild?
 confirmGuildKick:Are you sure you want to kick {username}?
 lastActivity:Last activity
 leave:Leave
-inviteTextarea:You can write here why a player should join your guild
+inviteTextarea:Share why players should join your guild!
 thisPlayerAlreadyJoinedOtherGuild:This player already joined a different Guild.
 addNewRole:Please enter the name of the role you want to add!
 renameRole:If you want to change the name of the role {role} change the name and press save!
@@ -27,6 +27,7 @@ PERMISSION_KICK_MEMBER:Kick member
 PERMISSION_EDIT_DESCRIPTION:Guild description
 PERMISSION_EDIT_FEE:Edit Fee
 PERMISSION_INVITE_MEMBER:Invite Member
+PERMISSION_WRITE_IN_GUILD_CHAT:Send Chat Message
 
 createYourGuild:Create your guild
 acceptInvite:Accept invite

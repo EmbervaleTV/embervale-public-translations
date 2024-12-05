@@ -17,35 +17,35 @@ statVIT-F-ranger:(1 + vit * 0.1) * (1 + 0.01 * lvl) * 15 + 10
 statVIT-warrior:A quantidade de dano que você pode receber.
 statVIT-F-warrior:(1 + vit * 0.1) * (1 + 0.01 * lvl) * 18 + 10
 statVIT-rogue:A quantidade de dano que você pode receber.
-statVIT-F-rogue:(1 + vit * 0.1) * (1 + 0.01 * lvl) * 15 + 10
+statVIT-F-rogue:(1 + vit * 0.1) * (1 + 0.01 * lvl) * 16 + 10
 statArmor-mage:Reduz todo dano físico.
 statArmor-M-mage:Valor máximo 50%.
-statArmor-F-mage:(Armadura + Força/3) / lvl * 0.08
+statArmor-F-mage:((Armadura + Força/3) / lvl * 0.08) * 100
 statArmor-knight:Reduz todo dano físico.
-statArmor-F-knight:(Armadura / lvl) * 0.08
+statArmor-F-knight:((Armadura / lvl) * 0.08) * 100
 statArmor-M-knight:Valor máximo 50%.
 statArmor-ranger:Reduz todo dano físico.
-statArmor-F-ranger:(Armadura + Força/3) / lvl * 0.08
+statArmor-F-ranger:((Armadura + Força/3) / lvl * 0.08) * 100
 statArmor-M-ranger:Valor máximo 50%.
 statArmor-warrior:Reduz todo dano físico.
 statArmor-M-warrior:Valor máximo 50%.
 statArmor-rogue:Reduz todo dano físico.
-statArmor-F-rogue:(Armadura + Força/3) / lvl * 0.08
+statArmor-F-rogue:((Armadura + Força/3) / lvl * 0.08) * 100
 statArmor-M-rogue:Valor máximo 50%.
 statMagRes-mage:Reduz todo dano mágico.
-statMagRes-F-mage:(Resistência Mágica / nível) * 0.08
+statMagRes-F-mage:(Resistência Mágica / (lvl * 10)) * 100
 statMagRes-M-mage:Valor máximo 50%.
 statMagRes-knight:Reduz todo dano mágico.
-statMagRes-F-knight:(Resistência Mágica + Sabedoria/3) / nível * 0.08
+statMagRes-F-knight:((Resistência Mágica + Sabedoria/3) / (lvl * 10)) * 100
 statMagRes-M-knight:Valor máximo 50%.
 statMagRes-ranger:Reduz todo dano mágico.
-statMagRes-F-ranger:(Resistência Mágica + Sabedoria/3) / nível * 0.08
+statMagRes-F-ranger:((Resistência Mágica + Sabedoria/3) / (lvl * 10)) * 100
 statMagRes-M-ranger:Valor máximo 50%.
 statMagRes-warrior:Reduz todo dano mágico.
-statMagRes-F-warrior:(Resistência Mágica + Sabedoria/3) / nível * 0.08
+statMagRes-F-warrior:((Resistência Mágica + Sabedoria/3) / (lvl * 10)) * 100
 statMagRes-M-warrior:Valor máximo 50%.
 statMagRes-rogue:Reduz todo dano mágico.
-statMagRes-F-rogue:(Resistência Mágica + Sabedoria/3) / nível * 0.08
+statMagRes-F-rogue:((Resistência Mágica + Sabedoria/3) / (lvl * 10)) * 100
 statMagRes-M-rogue:Valor máximo 50%.
 statCritMod-mage:Determina o poder dos acertos críticos.
 statCritMod-F-mage:(Sorte / ((lvl + 1) * 2)) + 1.2
@@ -63,33 +63,45 @@ statCritMod-rogue:Determina o poder dos acertos críticos.
 statCritMod-F-rogue:(Sorte / ((lvl + 1) * 2)) + 1.1
 statCritMod-M-rogue:Valor máximo x1.8.
 statCritPerc-mage:Determina a chance de conseguir um acerto crítico.
-statCritPerc-F-mage:(Precisão / lvl) * 0.25
+statCritPerc-F-mage:((Precisão / lvl) * 0.25) * 100
 statCritPerc-M-mage:Valor máximo 50%
 statCritPerc-knight:Determina a chance de acertar um golpe crítico.
-statCritPerc-F-knight:(Precisão / lvl) * 0.25
+statCritPerc-F-knight:((Precisão / lvl) * 0.25) * 100
 statCritPerc-M-knight:Valor máximo 50%
 statCritPerc-ranger:Determina a chance de acertar um golpe crítico.
-statCritPerc-F-ranger:(Precisão / lvl) * 0.25
+statCritPerc-F-ranger:((Precisão / lvl) * 0.25) * 100
 statCritPerc-M-ranger:Valor máximo 80%
 statCritPerc-warrior:Determina a chance de acertar um golpe crítico.
-statCritPerc-F-warrior:(Precisão / lvl) * 0.25
+statCritPerc-F-warrior:((Precisão / lvl) * 0.25) * 100
 statCritPerc-M-warrior:Valor máximo 50%
 statCritPerc-rogue:Determina a chance de acertar um golpe crítico.
-statCritPerc-F-rogue:(Precisão / lvl) * 0.25
+statCritPerc-F-rogue:((Precisão / lvl) * 0.25) * 100
 statCritPerc-M-rogue:Valor máximo 50%
 statEvasion-mage:Chance de desviar de um golpe físico.
-statEvasion-F-mage:(Agilidade + destreza/3) / niv * 0.075
+statEvasion-F-mage:((Agilidade + Destreza/3) / lvl * 0.075) * 100
 statEvasion-M-mage:Valor máximo 20%.
 statEvasion-knight:Chance de desviar de um golpe físico.
-statEvasion-F-knight:(Agilidade + destreza/3) / niv * 0.025
+statEvasion-F-knight:((Agilidade + Destreza/3) / lvl * 0.025) * 100
 statEvasion-M-knight:Valor máximo 10%.
 statEvasion-ranger:Chance de desviar de um golpe físico.
-statEvasion-F-ranger:(Agilidade / niv) * 0.1
+statEvasion-F-ranger:((Agilidade / lvl) * 0.1) * 100
 statEvasion-M-ranger:Valor máximo 30%.
 statEvasion-warrior:Chance de desviar de um golpe físico.
-statEvasion-F-warrior:(Agilidade + destreza/3) / niv * 0.05
+statEvasion-F-warrior:((Agilidade + Destreza/3) / lvl * 0.05) * 100
 statEvasion-M-warrior:Valor máximo 15%.
-statEvasion-rogue:Chance de desviar de um golpe físico.
-statEvasion-F-rogue:(Agilidade / niv) * 0.1
-statEvasion-M-rogue:Valor máximo 30%.
-statArmor-F-warrior:(Armadura / lvl) * 0.08
+statEvasion-rogue:Chance de desviar de qualquer ataque.
+statEvasion-F-rogue:((Agilidade / lvl) * 0.1) * 100
+statEvasion-M-rogue:Valor máximo 40%.
+statArmor-F-warrior:((Armadura / lvl) * 0.08) * 100
+skillMenuClassAbilityKnight:A firmeza do cavaleiro concede-lhes 15% de saúde máxima.
+skillMenuClassAbilityRanger:A excelente mira do ranger concede-lhes 10% de aumento na chance de golpe crítico.
+skillMenuClassAbilityMage:A habilidade do mago de focar no alvo permite-lhes nunca errar.
+skillMenuClassAbilityWarrior:As habilidades físicas superiores do guerreiro permitem-lhes causar 20% de dano corpo a corpo aumentado.
+skillMenuClassAbilityRogue:O ladino usa furtividade em vez de evasão, permitindo-lhes desviar de ataques físicos e mágicos.
+skillMenuExtraAbilityKnight:Equipe um escudo que concede uma chance de 30% de reduzir o dano recebido: 75% para ataques corpo a corpo e 25% para ataques à distância.
+skillMenuExtraAbilityRanger:As flechas farpadas do ranger aplicam um efeito de sangramento em golpes críticos por duas rodadas.
+skillMenuExtraAbilityMage:Equipado com um grimório antigo, o mago pode realizar ataques críticos até 120% mais poderosos.
+skillMenuExtraAbilityWarrior:A pedra da vida concede-lhe um roubo de vida decrescente de 30%.
+skillMenuExtraAbilityRogue:O Ladino carrega um amuleto de sorte especial, dando-lhes uma chance bônus de 10% para usar furtividade.
+yourCurrentSkills:Suas habilidades atuais
+moreSkillsComingSoon:Mais para obter em breve

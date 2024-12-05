@@ -31,7 +31,6 @@ defeat_knight_class:Besiege {amount} Ritter
 defeat_ranger_class:Besiege {amount} Waldläufer
 defeat_warrior_class:Besiege {amount} Krieger
 collect_items_bounties:Sammle {amount} Gegenstände in Kopfgeldern
-collect_items_shop:Kaufe {amount} Gegenstände aus dem Laden
 collect_mythical_item:Erlange {amount} mythische Gegenstände
 complete_bestiary:Vervollständige {count}% deines Bestiarums
 complete_materials_glossary:Entdecke {count}% der Materialien

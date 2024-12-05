@@ -69,3 +69,4 @@ errPleaseRenameYourCharacter:¡Necesitas renombrar a tu personaje! Como esto es 
 errConsumableInventoryWouldBeFull:¡Esto haría que tu bolsa de consumibles sea demasiado pesada!
 errChestInventoryIsFull:¡Tu inventario del cofre está lleno!
 errGameDesynced:La acción no pudo ser completada. Esto generalmente ocurre si juegas en múltiples dispositivos a la vez o cambias de dispositivo sin recargar.
+errArcaniteDesync:La cantidad de Arcanite enviada por el juego no coincide con el número calculado por nuestro servidor. Por favor, intenta de nuevo.

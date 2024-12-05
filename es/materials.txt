@@ -82,8 +82,6 @@ silver_key:Llave de Plata
 silver_key_description:Usado para desbloquear algo...
 mysterious_potion:Poción Misteriosa
 mysterious_potion_description:Una poción de aspecto sospechoso... ¿debería beberla?
-smoke_bomb:Bomba de Humo
-smoke_bomb_description:Usada para escapar del calabozo sin perder botín.
 rare_gem:Gema Rara
 rare_gem_description:Una gema extraña. Podría ser valiosa.
 stack_of_coins:Montón de Monedas

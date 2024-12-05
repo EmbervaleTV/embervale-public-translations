@@ -22,6 +22,7 @@ errChestInventoryIsFull:Your chest inventory is full!
 errGameDesynced:Action could not be completed. This typically happens if you play on multiple devices at once or switch devices without reloading.
 
 errNotEnoughArcanites:You don't have enough Arcanites.
+errArcaniteDesync:The Arcanite amount sent by the game doesn't match the number calculated by our server. Please try again.
 errNotEnoughMoney:You don't have enough gold to buy this!
 errNotEnoughGold:You don't have enough gold to buy this!
 errNotEnoughSkillPoints:You don't have enough skill points to perform this action!

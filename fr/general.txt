@@ -88,14 +88,10 @@ luckDescription:{stat} augmente les dégâts des coups critiques.
 armor:Armure
 outfit:Tenue
 outfits:Tenues
-damage_reduction:Réduction DMG
 mag_res:Rès. Mag.
-mag_absorption:Absorp. Mag.
 eva:Évasion
 skillPoints:Points de Comp.
 current_hp:PV actuels
-crit_chance:Chance crit
-crit_multiplier:Modif crit
 damage:Dégâts
 shield_ability_chance:Chance de Blocage
 shield_ability_rate:Taux de Blocage
@@ -151,7 +147,7 @@ glossaryTipItem:Progresse en recevant l'objet ou en gagnant contre un joueur pos
 glossaryTipMaterial:Progresse en obtenant ou en fabriquant les matériaux !
 glossaryTipSkin:Déverrouille en battant des joueurs portant la tenue !
 unknown:Inconnu
-youGainBonusXP:Tu gagnes {percentage}% de XP bonus
+youGainBonusXP:Vous gagnez {percentage}% de bonus XP contre les monstres
 newBestiaryEntry:Nouvelle entrée de bestiaire :
 newGlory:Nouvelle gloire :
 newGlossaryEntries:Nouvelles entrées de glossaire :
@@ -330,7 +326,7 @@ starterTutorial2:Sélectionnez la prime de votre choix. Les étoiles derrière l
 starterTutorial3:Attendez ou passez le temps de voyage, et votre bataille commencera !
 starterTutorial4:-
 starterTutorial5:Vous venez de terminer votre première prime et complété le didacticiel de base ! Commencez à naviguer dans les menus pour en savoir plus sur le jeu !
-expeditionTutorial0:Les expéditions sont des tâches de longue durée qui prennent de 1 à 12 heures. Vous pouvez obtenir des matériaux pour la fabrication ici ! Vous ne pouvez pas combattre pendant que vous êtes en expédition !
+expeditionTutorial0:Les expéditions prennent de 1 à 12 heures et sont essentielles pour rassembler des matériaux d'artisanat. Pendant ce temps, les donjons et primes sont indisponibles.
 character:Personnage
 selectBackground:Sélectionner l'arrière-plan
 skill:Compétence
@@ -401,11 +397,11 @@ errReplayAlreadySaved:La rediffusion a déjà été sauvegardée.
 warningTooManyReplays:Tu approches de la limite de 10 rediffusions sauvegardées. Veuillez en supprimer pour pouvoir en sauvegarder de nouvelles.
 connect:Connecte-toi
 marketNoDiscordConnected:Seuls les joueurs vérifiés peuvent utiliser le marché. Vérifie maintenant en connectant ton Discord !
-starter_shield_description:Le Chevalier porte un bouclier pour réduire les dégâts physiques en bloquant de temps en temps. Attribut boosté : PV
-starter_quiver_description:Le Ranger a toujours ses flèches prêtes, lui permettant de lancer une attaque supplémentaire de temps en temps. Attribut boosté : Chance de crit.
+starter_shield_description:Le Chevalier porte un bouclier pour réduire les dégâts en bloquant de temps à autre. Attribut amélioré : PV
+starter_quiver_description:Le Ranger utilise des flèches barbelées, faisant saigner son adversaire lors de coups critiques. Attribut amélioré : Chance de crit.
 starter_grimoire_description:La capacité du Mage à se focaliser sur sa cible lui permet de ne jamais manquer. Attribut boosté : Modificateur de crit.
 starter_lifestone_description:La Pierre de Vie te confère 30 % de drain de vie décroissant. Attribut boosté : Dégâts.
-starter_talisman_description:Le Voleur utilise sa capacité de furtivité pour esquiver les attaques à distance et magiques. Attribut boosté : Évasion.
+starter_talisman_description:Le Voleur utilise sa capacité de furtivité pour esquiver les attaques. Attribut amélioré : Évasion.
 heavyArmor:Armure Lourde
 mediumArmor:Armure Moyenne
 lightArmor:Armure Légère
@@ -492,9 +488,9 @@ loadingTip29:Augmenter le niveau de ton personnage te permettra de trouver plus 
 loadingTip30:Tu as du mal avec un certain type d'ennemi ? Découvre sa faiblesse élémentaire !
 loadingTip31:Gagner dans l'arène te rapporte non seulement de la Gloire, mais aussi une petite portion de l'or de ton adversaire !
 loadingTip32:Si tu perds de l'or contre un attaquant dans l'arène, tu es protégé contre d'autres pertes pour un moment.
-loadingTip33:Garde ta série de récompenses quotidiennes intacte et obtiens des récompenses de plus en plus puissantes !
+loadingTip33:Utilise les outils dans les aventures pour augmenter ta renommée !
 loadingTip34:La boutique reçoit un nouveau lot d'articles gratuitement 24 heures après ton dernier reroll.
-loadingTip35:Nettoyer un Donjon pour la première fois te garantit un Coffre Mythique !
+loadingTip35:Compléter un donjon pour la première fois garantit un Coffre Mythique et augmente ta capacité d'inventaire !
 loadingTip36:Les Donjons ont des pools uniques de monstres ; collectionne-les tous pour remplir ton Bestiaire !
 chrono-badge:Badge Chrono
 chrono-badge_desc:Insigne extrêmement rare pour avoir collecté 365 récompenses quotidiennes consécutives
@@ -566,7 +562,7 @@ magDefense:Déf. Mag.
 magicalResistance:Résistance Magique
 magicalResistanceEffect:Défense Magique
 magicalResistanceDescription:{stat} augmente votre Défense Magique
-challengePlayerFightCooldown:Vous avez utilisé vos 5 attaques horaires. Vous pouvez continuer vos attaques, mais aucune autre entrée ne sera ajoutée au glossaire.
+challengePlayerFightCooldown:Vous avez utilisé vos 5 attaques horaires. Vous pouvez continuer d'attaquer, mais aucune autre entrée ne sera ajoutée au glossaire.
 agility:Agilité
 agilityEffect:Évasion
 agilityDescription:{stat} augmente ton évasion
@@ -575,3 +571,14 @@ confirmCharDeletion:Êtes-vous sûr de vouloir supprimer {username} ?
 confirmCharNotReversible:Je comprends que cette action est irréversible. Tout le progrès et les objets de ce personnage seront perdus.
 confirmCharUsername:Veuillez confirmer le nom du personnage à supprimer.
 deleteCharacter:Supprimer Personnage
+help:Aide
+youUnlocked:Vous avez débloqué :
+toggleSkin:Changer de Peau
+enabled:Activé
+bundle:Bundle
+own:Posséder
+hireExplorer:Engager explorateur
+explore:Explorer
+exploreByYourSelfExpl:Vous pouvez explorer et rassembler les ressources vous-même ! En attendant, vous ne pourrez pas accomplir de Chasses.
+exploreHireExpl:Vous pouvez engager quelqu'un pour recueillir des ressources pour vous ! Bien qu'il ne soit pas aussi compétent que vous, il récoltera une quantité respectable de matériaux, vous permettant de vous concentrer sur les primes. Collecte 2 matériaux par heure.
+yourActiveExpeditions:Vos expéditions actives

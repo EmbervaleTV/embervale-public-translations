@@ -35,5 +35,6 @@ more_slots_lvl3:Ganas 2 puestos de gremio adicionales
 defense_lvl0:-
 defense_lvl1:Este artículo no sirve para nada todavía
 defense_lvl2:Este artículo no sirve para nada todavía
-inviteTextarea:Puedes escribir aquí por qué un jugador debería unirse a tu gremio
+inviteTextarea:¡Comparte por qué los jugadores deberían unirse a tu gremio!
 thisPlayerAlreadyJoinedOtherGuild:Este jugador ya se unió a otro gremio.
+PERMISSION_WRITE_IN_GUILD_CHAT:Enviar mensaje de chat

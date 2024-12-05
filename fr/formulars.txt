@@ -17,35 +17,35 @@ statVIT-F-ranger:(1 + vit * 0.1) * (1 + 0.01 * lvl) * 15 + 10
 statVIT-warrior:La quantité de dégâts que tu peux encaisser.
 statVIT-F-warrior:(1 + vit * 0.1) * (1 + 0.01 * lvl) * 18 + 10
 statVIT-rogue:La quantité de dégâts que tu peux encaisser.
-statVIT-F-rogue:(1 + vit * 0.1) * (1 + 0.01 * lvl) * 15 + 10
+statVIT-F-rogue:(1 + vit * 0,1) * (1 + 0,01 * lvl) * 16 + 10
 statArmor-mage:Réduit tous les dégâts physiques.
 statArmor-M-mage:Valeur maximale 50%.
-statArmor-F-mage:(Armure + Force/3) / niveau * 0.08
+statArmor-F-mage:((Armure + Force/3) / niveau * 0,08) * 100
 statArmor-knight:Réduit tous les dégâts physiques.
-statArmor-F-knight:(Armure / niveau) * 0,08
+statArmor-F-knight:((Armure / niveau) * 0,08) * 100
 statArmor-M-knight:Valeur maximale 50%.
 statArmor-ranger:Réduit tous les dégâts physiques.
-statArmor-F-ranger:(Armure + Force/3) / niveau * 0.08
+statArmor-F-ranger:((Armure + Force/3) / niveau * 0,08) * 100
 statArmor-M-ranger:Valeur maximale 50%.
 statArmor-warrior:Réduit tous les dégâts physiques.
 statArmor-M-warrior:Valeur maximale 50%.
 statArmor-rogue:Réduit tous les dégâts physiques.
-statArmor-F-rogue:(Armure + Force/3) / niveau * 0.08
+statArmor-F-rogue:((Armure + Force/3) / niveau * 0,08) * 100
 statArmor-M-rogue:Valeur maximale 50%.
 statMagRes-mage:Réduit tous les dégâts magiques.
-statMagRes-F-mage:(Résistance Magique / niveau) * 0.08
+statMagRes-F-mage:(Résistance Magique / (lvl * 10)) * 100
 statMagRes-M-mage:Valeur maximale 50%.
 statMagRes-knight:Réduit tous les dégâts magiques.
-statMagRes-F-knight:(Résistance Magique + Sagesse/3) / niveau * 0.08
+statMagRes-F-knight:((Résistance Magique + Sagesse/3) / (lvl * 10)) * 100
 statMagRes-M-knight:Valeur maximale 50%.
 statMagRes-ranger:Réduit tous les dégâts magiques.
-statMagRes-F-ranger:(Résistance Magique + Sagesse/3) / niveau * 0.08
+statMagRes-F-ranger:((Résistance Magique + Sagesse/3) / (lvl * 10)) * 100
 statMagRes-M-ranger:Valeur maximale 50%.
 statMagRes-warrior:Réduit tous les dégâts magiques.
-statMagRes-F-warrior:(Résistance Magique + Sagesse/3) / niveau * 0.08
+statMagRes-F-warrior:((Résistance Magique + Sagesse/3) / (lvl * 10)) * 100
 statMagRes-M-warrior:Valeur maximale 50%.
 statMagRes-rogue:Réduit tous les dégâts magiques.
-statMagRes-F-rogue:(Résistance Magique + Sagesse/3) / niveau * 0.08
+statMagRes-F-rogue:((Résistance Magique + Sagesse/3) / (lvl * 10)) * 100
 statMagRes-M-rogue:Valeur maximale 50%.
 statCritMod-mage:Détermine la puissance des coups critiques.
 statCritMod-F-mage:(Chance / ((niveau + 1) * 2)) + 1,2
@@ -63,33 +63,45 @@ statCritMod-rogue:Détermine la puissance des coups critiques.
 statCritMod-F-rogue:(Chance / ((niveau + 1) * 2)) + 1,1
 statCritMod-M-rogue:Valeur maximale x1.8.
 statCritPerc-mage:Détermine la chance de porter un coup critique.
-statCritPerc-F-mage:(Précision / niveau) * 0,25
+statCritPerc-F-mage:((Précision / niveau) * 0,25) * 100
 statCritPerc-M-mage:Valeur maximale 50%
 statCritPerc-knight:Détermine la chance de réussir un coup critique.
-statCritPerc-F-knight:(Précision / niveau) * 0,25
+statCritPerc-F-knight:((Précision / niveau) * 0,25) * 100
 statCritPerc-M-knight:Valeur maximale 50%
 statCritPerc-ranger:Détermine la chance de réussir un coup critique.
-statCritPerc-F-ranger:(Précision / niveau) * 0,25
+statCritPerc-F-ranger:((Précision / niveau) * 0,25) * 100
 statCritPerc-M-ranger:Valeur maximale 80%
 statCritPerc-warrior:Détermine la chance de réussir un coup critique.
-statCritPerc-F-warrior:(Précision / niveau) * 0,25
+statCritPerc-F-warrior:((Précision / niveau) * 0,25) * 100
 statCritPerc-M-warrior:Valeur maximale 50%
 statCritPerc-rogue:Détermine la chance de réussir un coup critique.
-statCritPerc-F-rogue:(Précision / niveau) * 0,25
+statCritPerc-F-rogue:((Précision / niveau) * 0,25) * 100
 statCritPerc-M-rogue:Valeur maximale 50%
 statEvasion-mage:Chance de parer une attaque physique.
-statEvasion-F-mage:(Agilité + dextérité/3) / niveau * 0.075
+statEvasion-F-mage:((Agilité + Dextérité/3) / niveau * 0,075) * 100
 statEvasion-M-mage:Valeur maximale 20%.
 statEvasion-knight:Chance de parer une attaque physique.
-statEvasion-F-knight:(Agilité + dextérité/3) / niveau * 0.025
+statEvasion-F-knight:((Agilité + Dextérité/3) / niveau * 0,025) * 100
 statEvasion-M-knight:Valeur maximale 10%.
 statEvasion-ranger:Chance de parer une attaque physique.
-statEvasion-F-ranger:(Agilité / niveau) * 0.1
+statEvasion-F-ranger:((Agilité / niveau) * 0,1) * 100
 statEvasion-M-ranger:Valeur maximale 30%.
 statEvasion-warrior:Chance de parer une attaque physique.
-statEvasion-F-warrior:(Agilité + dextérité/3) / niveau * 0.05
+statEvasion-F-warrior:((Agilité + Dextérité/3) / niveau * 0,05) * 100
 statEvasion-M-warrior:Valeur maximale 15%.
-statEvasion-rogue:Chance de parer une attaque physique.
-statEvasion-F-rogue:(Agilité / niveau) * 0.1
-statEvasion-M-rogue:Valeur maximale 30%.
-statArmor-F-warrior:(Armure / niveau) * 0,08
+statEvasion-rogue:Chance d'esquiver toute attaque.
+statEvasion-F-rogue:((Agilité / niveau) * 0,1) * 100
+statEvasion-M-rogue:Valeur maximale de 40 %.
+statArmor-F-warrior:((Armure / niveau) * 0,08) * 100
+skillMenuClassAbilityKnight:La ténacité du chevalier leur accorde 15% de santé maximale.
+skillMenuClassAbilityRanger:La précision remarquable du ranger leur accorde une chance de critique augmentée de 10%.
+skillMenuClassAbilityMage:La capacité du mage à se concentrer sur sa cible leur permet de ne jamais manquer.
+skillMenuClassAbilityWarrior:Les capacités physiques supérieures du guerrier leur permettent d'infliger 20% de dégâts de mêlée supplémentaires.
+skillMenuClassAbilityRogue:Le rogue utilise la furtivité au lieu de l'évasion, leur permettant d'esquiver les attaques physiques et magiques.
+skillMenuExtraAbilityKnight:Équipe un bouclier qui accorde 30% de chance de réduire les dégâts entrants : 75% pour les attaques au corps à corps et 25% pour les attaques à distance.
+skillMenuExtraAbilityRanger:Les flèches barbelées du rôdeur appliquent un effet de saignement sur les coups critiques pendant deux tours.
+skillMenuExtraAbilityMage:Équipé d'un grimoire ancien, le mage peut porter des coups critiques jusqu'à 120% plus puissants.
+skillMenuExtraAbilityWarrior:La pierre de vie vous accorde un drainage de vie de 30% en dégradation.
+skillMenuExtraAbilityRogue:Le Rogue porte un charme de chance spécial lui donnant un bonus de 10% de chance d'utiliser la furtivité.
+yourCurrentSkills:Vos compétences actuelles
+moreSkillsComingSoon:Plus à obtenir bientôt

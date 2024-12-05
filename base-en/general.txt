@@ -27,6 +27,7 @@ page:Page
 of:of
 or:or
 max:Max
+help:Help
 
 // settings
 imageResolution:Image Resolution
@@ -43,6 +44,7 @@ credits:Credits
 code:Code
 voucher:Voucher
 optional:Optional
+own:Own
 
 newUpdate:A new update is available.
 pleaseReload:Please reload!
@@ -127,14 +129,6 @@ critChance:Crit Chance
 critMultiplier:Crit Multiplier
 eva:Evasion
 damage:Damage
-
-// kann weg
-mag_absorption:Mag. Absorp.
-damage_reduction:DMG Reduct.
-crit_chance:Crit perc
-crit_multiplier:Crit mod
-
-// gucken wo genutzt
 mag_res:Mag. res.
 
 
@@ -207,7 +201,7 @@ glossaryTipItem:Progress by receiving the item or winning against a player with 
 glossaryTipMaterial:Progress by obtaining or crafting the materials!
 glossaryTipSkin:Unlock by defeating players wearing the outfit!
 unknown:Unknown
-youGainBonusXP:You gain {percentage}% bonus XP
+youGainBonusXP:{percentage}% bonus XP vs Monsters
 newBestiaryEntry:New bestiary entry:
 newGlory:New glory:
 newGlossaryEntries:New glossary entries:
@@ -310,6 +304,7 @@ ayetStudioDailyLimit:Please come back tomorrow for more Arcanites!
 ayetStudioNoFill:Sorry, no ads are available at the moment. Please check back in a few minutes.
 ayetStudioNoFillRetry:Sorry, no ads available at the moment. Retrying in:
 cookebotNoConsent:You haven't accepted all required cookies, including marketing and analytics. This may prevent you from receiving rewarded ads.
+bundle:Bundle
 mythical_bundle:Mythical Bundle
 legendary_bundle:Legendary Bundle
 epic_bundle:Epic Bundle
@@ -393,6 +388,7 @@ guildFee:Money Fee
 // achievements
 you_received:You received:
 youReceived:You received:
+youUnlocked:You unlocked:
 congratulations:Congratulations!
 claim:Claim
 claim_reward:Claim Reward
@@ -418,7 +414,12 @@ newDiscovered:New discovery!
 newMaterialsDiscovered:Your glossary was updated with the following entries:
 progress:Progress
 collect:Collect
+hireExplorer:Hire explorer
+explore:Explore
+yourActiveExpeditions:Your active expeditions
 
+exploreByYourSelfExpl:You can explore and gather the resources by yourself! In the meantime you won't be able to do Bounties.
+exploreHireExpl:You can hire someone to gather resources for you! While they’re not as skilled as you, they’ll collect a decent amount of materials, allowing you to focus on bounties. Collects 2 materials per hour.
 
 // loadingScreenTips
 loadingTip0:Recipes are rare, so it's a good idea to prioritize a bounty when you see one!
@@ -454,9 +455,9 @@ loadingTip29:Raising your character's level will allow you to find more recipes.
 loadingTip30:Struggling with a certain kind of enemy? Figure out their elemental weakness!
 loadingTip31:Winning in the arena not only grants you Glory but also a small portion of your opponent's gold!
 loadingTip32:If you lose gold to an attacker in the arena, you are protected from losing more for a while.
-loadingTip33:Keep your daily reward streak alive and obtain increasingly more powerful rewards!
+loadingTip33:Use tools in adventures to increase your fame!
 loadingTip34:The shop receives a new batch of items for free 24 hours after your last reroll.
-loadingTip35:Clearing a Dungeon for the first time guarantees you a Mythical Chest!
+loadingTip35:Completing a dungeon for the first time guarantees a Mythical Chest and expands your inventory capacity!
 loadingTip36:Dungeons have unique pools of monsters; collect them all to fill your Bestiary!
 
 // levelUp
@@ -478,7 +479,7 @@ starterTutorial2:Select the bounty of your choice. The stars behind the monster'
 starterTutorial3:Now wait or skip the travel time, and your battle will start!
 starterTutorial4:-
 starterTutorial5:You just completed your first bounty and finished the basic tutorial! Start navigating through the menus to learn more about the game!
-expeditionTutorial0:Expeditions are long-running tasks that take 1 to 12 hours. You can obtain materials for crafting here! You can't battle while you're on an expedition!
+expeditionTutorial0:Expeditions take 1–12 hours and are crucial for gathering crafting materials. During this time, dungeons and bounties are unavailable.
 
 // character menu
 character:Character
@@ -521,6 +522,7 @@ materials:Materials
 chests:Chests
 skin:Skin
 skins:Skins
+toggleSkin:Toggle Skin
 monster:Monster
 monsters:Monsters
 defense:Defense
@@ -538,6 +540,7 @@ notification:Notification
 required:Required
 found:Found
 select:Select
+enabled:Enabled
 
 // login
 login:Login
@@ -554,7 +557,7 @@ deleteReplay:Delete Replay
 spectate:Spectate
 errCantSpectate:This battle does not exist.
 arenaFightCooldown:The arena restores 5 points per hour, but on expeditions, only 2 as the journey slows recovery.
-challengePlayerFightCooldown:You have used your 5 hourly attacks. ou may continue your attacks, but no further entries will be added to the glossary.
+challengePlayerFightCooldown:You have used your 5 hourly attacks. You may continue attacking, but no further entries will be added to the glossary.
 yourSavedBattles:Your saved battles
 
 // battle
@@ -581,11 +584,11 @@ connect:Connect
 marketNoDiscordConnected:Only verified players can use the market. Verify now by connecting your Discord!
 
 // class slot
-starter_shield_description:The Knight carries a shield to reduce physical damage by blocking from time to time. Boosted attribute: HP
-starter_quiver_description:The Ranger has their arrows always ready, allowing them to start an additional attack from time to time. Boosted attribute: Crit chance.
+starter_shield_description:The Knight carries a shield to reduce damage by blocking from time to time. Boosted attribute: HP
+starter_quiver_description:The Ranger uses barbed arrows, causing their opponent to bleed on critical strikes. Boosted attribute: Crit chance.
 starter_grimoire_description:The Mage's ability to focus on their target allows them to never miss. Boosted attribute: Crit Modifier.
 starter_lifestone_description:The Lifestone grants you 30% decaying life drain. Boosted attribute: Damage.
-starter_talisman_description:The Rogue uses their stealth ability to dodge ranged and magical attacks. Boosted attribute: Evasion.
+starter_talisman_description:The Rogue uses their stealth ability to dodge attacks. Boosted attribute: Evasion.
 heavyArmor:Heavy Armor
 mediumArmor:Medium Armor
 lightArmor:Light Armor

@@ -7,7 +7,6 @@ ended:Beendet
 leader:Anführer
 welcomeToAdventures:Willkommen zu den Abenteuern
 yourHighscore:Deine Höchstpunktzahl
-beforeAdventureStartsText:Abenteuer ist ein Spielmodus, der ausdrücklich für Streamer entwickelt wurde. Deine Community kann über "!ev join" an deinem Abenteuer teilnehmen. Das derzeitige maximale Beitrittslimit liegt bei 50.
 wrongAdventureLeader:Du bist mit einem anderen Charakter eingeloggt als dem, der das Abenteuer gestartet hat. Bitte wechsle zu {username}, um fortzufahren.
 currentLoggedIn:Du bist derzeit eingeloggt als:
 adventureEndMessageMoraleZero:Die Moral der Gruppe ist zu niedrig, um das Abenteuer fortzusetzen. Ihr entscheidet euch, nach Hause zurückzukehren.
@@ -51,9 +50,9 @@ effect_agile:Der Spieler fühlt sich flink. // Geht immer als Erstes
 agile:Flink
 effect_silenced:Der Spieler ist stumm. // Deaktiviert Fähigkeiten
 silenced:Stumm
-effect_shaky:Der Spieler ist zittrig. // Nur Ranger, +20% Fehlchance
+effect_shaky:Der Spieler ist zitterig. // +20% Fehlschlagschance
 shaky:Zittrig
-effect_precise:Der Spieler hat fortgeschrittene Präzision. // Nur Ranger, dein Gegner kann nicht ausweichen
+effect_precise:Der Spieler hat fortgeschrittene Präzision. // Dein Gegner kann Angriffen nicht ausweichen
 precise:Präzise
 effect_furious:Der Spieler ist wütend. // +25% Schaden, 33% Chance sich selbst zu verletzen
 furious:Wütend
@@ -94,7 +93,7 @@ uncomfortable:Unwohl
 effect_diplomatic:Der Spieler glänzt in Verhandlung und Konfliktlösung. // +30% Ruhm, +5 auf alle Ruhm-Würfe
 diplomatic:Diplomatisch
 unavailable:Nicht verfügbar
-effect_unavailable:Der Spieler ist derzeit anderweitig beschäftigt und kann vorübergehend nicht an Kämpfen teilnehmen. // # TODO
+effect_unavailable:Der Spieler ist momentan anderweitig beschäftigt und kann vorübergehend nicht an Kämpfen teilnehmen. // Kann nicht kämpfen
 dark_blessing:Dunkler Segen
 effect_dark_blessing:Der Spieler wurde von einer finsteren Gottheit gesegnet. // +20% alle Werte, +10% erlittenen Schaden
 enlightened:Erleuchtet
@@ -161,8 +160,6 @@ check_vitality:Die mit bemerkenswerter Vitalität Gesegneten werden gedeihen.
 vitality:Vitalität
 check_mag_resistance:Die mit beeindruckender magischer Widerstandskraft Beschenkten werden siegen.
 mag_resistance:Magischer Widerstand
-check_speech:Um dieses Problem zu lösen, wird etwas Charisma benötigt.
-speech:Charisma
 check_dexterity:Diejenigen mit außergewöhnlicher Geschicklichkeit werden brillieren.
 dexterity:Geschicklichkeit
 check_morale:Ist die Moral in der Gruppe hoch genug, um dieses Hindernis zu überwinden?
@@ -237,3 +234,110 @@ effect_shadow_remains:Die Gestalt des Spielers ist nun ein Schatten. // Erleidet
 shadow_remains:Schatten bleibt
 effect_petrified:Der Spieler wird in Stein verwandelt. // Unfähig, sich zu bewegen oder Aktionen auszuführen
 petrified:Versteinert
+smoke_bomb:Rauchbombe
+smoke_bomb_description:Der Gegner verfehlt 5% häufiger.
+adventureHighscore:Abenteuer Highscore
+adventureHosted:Veranstaltete Abenteuer
+oil_pot:Öltopf
+oil_pot_description:Der Gegner erhält während des nächsten Kampfes 500% mehr Infernal-Schaden.
+adventures:Abenteuer
+tools:Werkzeuge
+beforeAdventureStartsText1:Abenteuer ist ein Spielmodus, der speziell für Streamer entwickelt wurde.
+beforeAdventureStartsText2:Deine Community kann mit dem Befehl "!ev join" deinem Abenteuer beitreten.
+beforeAdventureStartsText3:Das Abenteuer endet, wenn die Moral der Gruppe auf null sinkt oder wenn du dich entscheidest, aufzugeben.
+beforeAdventureStartsText4:Du hast die Möglichkeit, Zuschauer auszuwählen, die an Kämpfen teilnehmen!
+beforeAdventureStartsText5:Deine Community kann aktiv am Abenteuer teilnehmen, indem sie über wichtige Entscheidungen abstimmt und zusammen mit dir Strategien entwickelt!
+beforeAdventureStartsText6:Die aktuelle maximale Teilnehmergrenze liegt bei 50.
+unlock:Freischalten
+effect_transparent:Dieser Spieler ist schwer zu entdecken. // +10% Ausweichrate
+transparent:Transparent
+arcane_armor_enchantment:Arkanrüstungs-Verzauberung
+arcane_armor_enchantment_description:Negiert 50% des eingehenden Arkan-Schaden während des nächsten Kampfes.
+arcane_hex:Arkaner Fluch
+arcane_hex_description:Der Gegner erhält während des nächsten Kampfes 500% mehr Arkan-Schaden.
+magical_surge:Magischer Schub
+magical_surge_description:Magische Angriffe ignorieren Magieresistenz während des nächsten Kampfes.
+arcane_weapon_enchantment:Arkanwaffen-Verzauberung
+arcane_weapon_enchantment_description:Durchdringt Waffen mit Arkaner Macht, ändert ihren Elementarschaden und fügt 25% Bonus Arkaner Schaden hinzu.
+ballista_bolt:Ballista-Bolt
+ballista_bolt_description:Verursacht sofort 10% der aktuellen Gesundheit des Gegners als Schaden.
+bewilderbrew:Irrtrank
+bewilderbrew_description:Starker Alkohol, der den Gegner verwirrt und eine 10%ige Chance hinzufügt, dass er sich selbst verletzt.
+blood_curse:Blutfluch
+blood_curse_description:Verhindert, dass der Gegner sich heilt.
+bloody_knife:Blutiges Messer
+bloody_knife_description:Fügt dem Gegner einen Blutungseffekt hinzu, reduziert Heilung und verursacht Schaden.
+brilliant_lifegem:Brillanter Lebensstein
+brilliant_lifegem_description:Verlangsamt den Zerfall des Lebensentzugs von Kriegern erheblich.
+divine_armor_enchantment:Göttliche Rüstung
+divine_armor_enchantment_description:Negiert 50% des eingehenden Göttlichen Schadens während des nächsten Kampfes.
+divine_seal:Göttliches Siegel
+divine_seal_description:Gegner erleidet 500% erhöhten Göttlichen Schaden während des nächsten Kampfes.
+divine_weapon_enchantment:Göttliche Waffenverzauberung
+divine_weapon_enchantment_description:Durchdringt Waffen mit Göttlicher Macht, ändert ihren Elementarschaden und fügt 25% Bonus Göttlichen Schaden hinzu.
+elven_quiver:Elfenköcher
+elven_quiver_description:Erhöht die Schnellzieh-Chance der Waldläufer um 15%.
+executioner:Henker
+executioner_description:Hinrichtet Gegner, die unter 10% HP fallen.
+fire_sling:Feuerschleuder
+fire_sling_description:Fügt dem Gegner einen Brenneffekt hinzu, reduziert Nahkampfschaden und fügt ihm Schaden zu.
+flash:Blitz
+flash_description:Der Gegner verfehlt mit 10% höherer Wahrscheinlichkeit.
+freezing_breath:Eisiger Atem
+freezing_breath_description:Gegner erleidet 500% erhöhten Frostschaden während des nächsten Kampfes.
+frost_armor_enchantment:Frost-Rüstungsverzauberung
+frost_armor_enchantment_description:Negiert 50% des eintreffenden Frostschadens während des nächsten Kampfes.
+frost_weapon_enchantment:Frostwaffenverzauberung
+frost_weapon_enchantment_description:Durchdringt Waffen mit Frost Macht, ändert ihren Elementarschaden und fügt 25% Bonus Frost Schaden hinzu.
+fumes_of_agility:Geschenke der Beweglichkeit
+fumes_of_agility_description:Gruppenmitglieder sind im nächsten Kampf immer zuerst an der Reihe.
+heavy_chain:Schwere Kette
+heavy_chain_description:Hindert den Feind daran, auszuweichen.
+icicle:Eiszapfen
+icicle_description:Fügt dem Gegner einen Frost-Effekt hinzu, reduziert Fernkampfschaden und fügt ihm Schaden zu.
+illusion_cloak:Tarnumhang
+illusion_cloak_description:Gewährleistet kritische Treffer für Schurken, nachdem Tarnung verwendet wurde.
+infernal_armor_enchantment:Infernalische Rüstungsverzauberung
+infernal_armor_enchantment_description:Negiert 50% des eintreffenden Infernal-Schadens während des nächsten Kampfes.
+infernal_weapon_enchantment:Infernalische Waffenverzauberung
+infernal_weapon_enchantment_description:Durchdringt Waffen mit Infernalischer Macht, ändert ihren Elementarschaden und fügt 25% Bonus Infernalischen Schaden hinzu.
+love_potion:Liebestrank
+love_potion_description:20% Chance, dass der Gegner seinen Angriff auslässt. Funktioniert nur bei Humanoiden.
+lucky_foot:Glückspfote
+lucky_foot_description:Erhöht die Beutequalität um 1 für den nächsten Kampf.
+monster_mirror:Monsterspiegel
+monster_mirror_description:Eine schwächere Kopie des Gegners wird im nächsten Kampf für dich kämpfen.
+mood_resonator:Mood Resonator
+mood_resonator_description:Verdoppelt alle Moralgewinne und -verluste für den nächsten Kampf.
+necrotic_armor_enchantment:Nekrotische Rüstungsverzauberung
+necrotic_armor_enchantment_description:Negiert 50% des eingehenden nekrotischen Schadens während des nächsten Kampfes.
+necrotic_weapon_enchantment:Nekrotische Waffenverzauberung
+necrotic_weapon_enchantment_description:Durchdringt Waffen mit Nekrotischer Macht, ändert ihren Elementarschaden und fügt 25% Bonus Nekrotischen Schaden hinzu.
+plank_shield:Bretterschild
+plank_shield_description:Schützt die Gruppe vor den ersten 500 eingehenden Schaden.
+poison_flask:Giftflasche
+poison_flask_description:Vergiftet den Feind und fügt nach jedem Angriff Schaden zu.
+polished_shield:Poliertes Schild
+polished_shield_description:+10% Blockchance für Ritter im nächsten Kampf.
+revival_blessing:Wiederbelebungssegen
+revival_blessing_description:Belebt den ersten wieder, der im Kampf fällt.
+strong_bones:Starke Knochen
+strong_bones_description:Verhindert Verletzungen während des nächsten Kampfes.
+summoning_book:Beschwörungsbuch
+summoning_book_description:Beschwört ein Skelett, das sich dem nächsten Kampf anschließt.
+undead_mark:Untotenmal
+undead_mark_description:Gegner erhält 500% erhöhten Nekrotischen Schaden im nächsten Kampf.
+vampire_bite:Vampirbiss
+vampire_bite_description:Alle Spieler haben eine 20% Chance, 20% des zugefügten Schadens im nächsten Kampf zu heilen.
+active:Aktiv
+inactive:Inaktiv
+adventureSettingRaffleAnimation:Raffel-Animation
+toolLimitReached:Du kannst bis zu 5 Werkzeuge für einen einzelnen Kampf aktivieren.
+toolAlreadyEnabled:Dieses Werkzeug wurde bereits aktiviert.
+requiredUnlocksTool:Benötigte Siege für die nächste Freischaltung
+requiredUnlocksToolTooltip:Es werden nur Kämpfe mit einem Beuteindikator von „Niedrig“ oder höher gezählt.
+adventureBestiaryRequired:Du musst dieses Monster mindestens einmal besiegen, um seinen Bestiarieneintrag freizuschalten und seine Werte anzusehen!
+toolActivatedForNextFight:Das Werkzeug wurde für den bevorstehenden Kampf aktiviert!
+adventureSettingFullscreen:Abenteuer im Vollbild-Modus spielen [Dies wird dein Spiel neu laden]
+strong_armor:Starke Rüstung
+effect_strong_armor:Die Rüstung dieses Spielers hat sich als außergewöhnlich robust erwiesen. // +25 % Rüstung

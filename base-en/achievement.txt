@@ -51,7 +51,6 @@ defeat_warrior_class_in_arena:Defeat {amount} warriors in arena battles
 
 // Collecting
 collect_items_bounties:Collect {amount} items in bounties
-collect_items_shop:Purchase {amount} items from the shop
 collect_mythical_item:Obtain {amount} mythical items
 find_a_mythical_item:Find {amount} mythical items
 

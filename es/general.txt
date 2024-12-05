@@ -88,14 +88,10 @@ luckDescription:{stat} aumenta el daño de los golpes críticos.
 armor:Armadura
 outfit:Atuendo
 outfits:Atuendos
-damage_reduction:Reducción de DMG
 mag_res:Resist. mag.
-mag_absorption:Absorp. de Mag.
 eva:Evasión
 skillPoints:Puntos de habilidad
 current_hp:HP Actual
-crit_chance:Prob. crit
-crit_multiplier:Mod. crit
 damage:Daño
 shield_ability_chance:Prob bloq
 shield_ability_rate:Tasa bloq
@@ -151,7 +147,7 @@ glossaryTipItem:¡Progresa al recibir el objeto o ganar contra un jugador con es
 glossaryTipMaterial:¡Progresa obteniendo o fabricando los materiales!
 glossaryTipSkin:¡Desbloquea al derrotar jugadores que lleven el atuendo!
 unknown:Desconocido
-youGainBonusXP:Ganas un {percentage}% de XP adicional
+youGainBonusXP:{percentage}% de bonificación de XP vs Monstruos
 newBestiaryEntry:Nueva entrada en el bestiario:
 newGlory:Nueva gloria:
 newGlossaryEntries:Nuevas entradas del glosario:
@@ -330,7 +326,7 @@ starterTutorial2:Selecciona la recompensa de tu elección. ¡Las estrellas detr�
 starterTutorial3:¡Ahora espera o salta el tiempo de viaje, y tu batalla comenzará!
 starterTutorial4:-
 starterTutorial5:¡Acabas de completar tu primera recompensa y has terminado el tutorial básico! ¡Empieza a navegar por los menús para aprender más sobre el juego!
-expeditionTutorial0:Las expediciones son tareas de larga duración que toman de 1 a 12 horas. ¡Puedes obtener materiales para la fabricación aquí! ¡No puedes luchar mientras estás en una expedición!
+expeditionTutorial0:Las expediciones duran de 1 a 12 horas y son cruciales para reunir materiales de artesanía. Durante este tiempo, las mazmorras y recompensas no están disponibles.
 character:Personaje
 selectBackground:Seleccionar Fondo
 skill:Habilidad
@@ -401,11 +397,11 @@ errReplayAlreadySaved:La repetición ya ha sido guardada.
 warningTooManyReplays:Estás cerca del límite de 10 repeticiones guardadas. Por favor, elimina algunas para poder guardar nuevas.
 connect:Conectar
 marketNoDiscordConnected:Solo los jugadores verificados pueden usar el mercado. ¡Verifícate ahora conectando tu Discord!
-starter_shield_description:El Caballero porta un escudo para reducir el daño físico bloqueando de vez en cuando. Atributo mejorado: HP
-starter_quiver_description:El Guardabosques siempre tiene sus flechas listas, permitiéndole iniciar un ataque adicional de vez en cuando. Atributo mejorado: Probabilidad de Crítico.
+starter_shield_description:El Caballero lleva un escudo para reducir el daño bloqueando de vez en cuando. Atributo mejorado: HP
+starter_quiver_description:El Guardabosques usa flechas con púas, causando que su oponente sangre con golpes críticos. Atributo mejorado: Prob. Crítica.
 starter_grimoire_description:La capacidad del Mago para enfocarse en su objetivo le permite nunca fallar. Atributo mejorado: Modificador de Crítico.
 starter_lifestone_description:La Piedra de Vida te otorga un 30% de drenaje de vida decreciente. Atributo mejorado: Daño.
-starter_talisman_description:El Pícaro usa su habilidad de sigilo para esquivar ataques a distancia y mágicos. Atributo mejorado: Evasión.
+starter_talisman_description:El Pícaro usa su habilidad de sigilo para esquivar ataques. Atributo mejorado: Evasión.
 heavyArmor:Armadura Pesada
 mediumArmor:Armadura Media
 lightArmor:Armadura Ligera
@@ -492,9 +488,9 @@ loadingTip29:Subir de nivel a tu personaje te permitirá encontrar más recetas.
 loadingTip30:¿Tienes problemas con un tipo específico de enemigo? ¡Descubre su debilidad elemental!
 loadingTip31:Ganar en la arena no solo te otorga Gloria, sino también una pequeña porción del oro de tu oponente.
 loadingTip32:Si pierdes oro ante un atacante en la arena, estarás protegido de perder más por un tiempo.
-loadingTip33:¡Mantén viva tu racha de recompensas diarias y obtén recompensas cada vez más poderosas!
+loadingTip33:¡Usa herramientas en las aventuras para aumentar tu fama!
 loadingTip34:La tienda recibe un nuevo lote de artículos gratis 24 horas después de tu último reroll.
-loadingTip35:¡Limpiar una Mazmorra por primera vez te garantiza un Cofre Mítico!
+loadingTip35:¡Completar una mazmorra por primera vez garantiza un Cofre Mítico y expande tu capacidad de inventario!
 loadingTip36:¡Las Mazmorras tienen grupos únicos de monstruos; recógelos todos para llenar tu Bestiario!
 chrono-badge:Insignia de Crono
 chrono-badge_desc:Insignia extremadamente rara por recolectar 365 recompensas diarias consecutivamente
@@ -566,7 +562,7 @@ magDefense:Def. Mag.
 magicalResistance:Resistencia Mágica
 magicalResistanceEffect:Defensa Mágica
 magicalResistanceDescription:{stat} aumenta tu Defensa Mágica.
-challengePlayerFightCooldown:Has usado tus 5 ataques por hora. Puedes continuar atacando, pero no se añadirán más entradas al glosario.
+challengePlayerFightCooldown:Has usado tus 5 ataques por hora. Puedes seguir atacando, pero no se añadirán más entradas al glosario.
 agility:Agilidad
 agilityEffect:Evasión
 agilityDescription:{stat} aumenta tu evasión
@@ -575,3 +571,14 @@ confirmCharDeletion:¿Estás seguro de que quieres eliminar a {username}?
 confirmCharNotReversible:Entiendo que esta acción no se puede deshacer. Todo el progreso y los objetos de este personaje se perderán.
 confirmCharUsername:Por favor confirma el nombre del personaje a eliminar.
 deleteCharacter:Eliminar Personaje
+help:Ayuda
+youUnlocked:Has desbloqueado:
+toggleSkin:Alternar Apariencia
+enabled:Habilitado
+bundle:Paquete
+own:Poseer
+hireExplorer:Contratar explorador
+explore:Explorar
+exploreByYourSelfExpl:¡Puedes explorar y reunir los recursos por ti mismo! Mientras tanto, no podrás realizar misiones.
+exploreHireExpl:Puedes contratar a alguien para recolectar recursos para ti. Aunque no son tan hábiles como tú, recogerán una cantidad decente de materiales, permitiéndote centrarte en las recompensas. Recoge 2 materiales por hora.
+yourActiveExpeditions:Tus expediciones activas

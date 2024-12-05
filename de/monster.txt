@@ -116,7 +116,7 @@ spider_crab:Spinnenkrabbe
 black_ant_protector:Schwarze Ameisenschützer
 venomous_centipede:Giftige Hundertfüßer
 sand_devourer:Sandschlinger
-cactus_abomination:Kaktus-Missgeburt
+cactus_abomination:Kaktus-Scheusal
 goblin_captain:Goblin-Hauptmann
 general_gogz:General Gogz
 accursed_captain_hawk:Verfluchter Captain Hawk

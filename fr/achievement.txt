@@ -32,7 +32,6 @@ defeat_knight_class:Vaincre {amount} chevaliers
 defeat_ranger_class:Vaincre {amount} rôdeurs
 defeat_warrior_class:Vaincre {amount} guerriers
 collect_items_bounties:Collecter {amount} objets dans les primes
-collect_items_shop:Acheter {amount} objets dans la boutique
 collect_mythical_item:Obtention de {amount} objets mythiques
 complete_bestiary:Compléter {count}% de ton bestiaire
 complete_materials_glossary:Découvrir {count}% des matériaux

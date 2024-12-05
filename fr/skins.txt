@@ -48,3 +48,8 @@ skin_profaned:Profané
 alreadyOwnsSkin:Le joueur possède déjà ce skin.
 eventShopClosesIn:Le Marché de l'Événement ferme dans
 eventEndsIn:L'événement se termine dans
+skin_arctic_stalker:Traqueur Arctique
+skin_elk_hide:Peau d'Élan
+skin_polar_bear:Ours Polaire
+skin_festive_protector:Protecteur Festif
+skin_christmas_spirit:Esprit de Noël

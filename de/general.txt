@@ -84,14 +84,10 @@ luckDescription:{stat} erhöht den Schaden von kritischen Treffern.
 armor:Rüstung
 outfit:Kleidung
 outfits:Kleidungen
-damage_reduction:Schadensreduk.
 mag_res:Mag. res.
-mag_absorption:Mag. Absorb.
 eva:Ausweichen
 skillPoints:Fertigkeit Punkte
 current_hp:Aktuelle LP
-crit_chance:Krit-Wahrsch.
-crit_multiplier:Krit-Mod.
 damage:Schaden
 shield_ability_chance:Blockchance
 shield_ability_rate:Blockrate
@@ -147,7 +143,7 @@ glossaryTipItem:Schreite voran, indem du den Gegenstand erhältst oder gegen ein
 glossaryTipMaterial:Schreite voran, indem du die Materialien erhältst oder herstellst!
 glossaryTipSkin:Schalte frei, indem du Spieler besiegst, die das Outfit tragen!
 unknown:Unbekannt
-youGainBonusXP:Du erhältst {percentage}% Bonus-XP
+youGainBonusXP:{percentage}% Bonus-XP gegen Monster
 newBestiaryEntry:Neuer Eintrag im Bestiarium:
 newGlory:Neue Ehre:
 newGlossaryEntries:Neue Glossareinträge:
@@ -306,7 +302,7 @@ starterTutorial2:Wähle das Kopfgeld deiner Wahl. Die Sterne hinter dem Namen de
 starterTutorial3:Warte jetzt oder überspringe die Reisezeit und dein Kampf wird beginnen!
 starterTutorial4:-
 starterTutorial5:Du hast gerade dein erstes Kopfgeld abgeschlossen und das Basistutorial beendet! Beginne durch die Menüs zu navigieren, um mehr über das Spiel zu erfahren!
-expeditionTutorial0:Expeditionen sind langfristige Aufgaben, die 1 bis 12 Stunden dauern. Hier kannst du Materialien für das Handwerken erhalten! Du kannst nicht kämpfen, während du auf einer Expedition bist!
+expeditionTutorial0:Expeditionen dauern 1–12 Stunden und sind entscheidend für das Sammeln von Handwerksmaterialien. Während dieser Zeit sind Verliese und Kopfgelder nicht verfügbar.
 selectBackground:Hintergrund auswählen
 skill:Fähigkeit
 thisActionTakesSkillPoints:Diese Aktion verbraucht { pointsToSkillStat } Fertigkeitspunkte auf dem Attribut.
@@ -373,11 +369,11 @@ errReplayAlreadySaved:Die Wiederholung wurde bereits gespeichert.
 warningTooManyReplays:Du kommst der Grenze von 10 gespeicherten Wiederholungen nahe. Bitte lösche einige, um neue speichern zu können.
 connect:Verbinden
 marketNoDiscordConnected:Nur verifizierte Spieler können den Markt nutzen. Verifiziere dich jetzt, indem du dich mit deinem Discord verbindest!
-starter_shield_description:Der Ritter trägt ein Schild, um physischen Schaden durch Blocken von Zeit zu Zeit zu reduzieren. Geboostetes Attribut: HP
-starter_quiver_description:Der Waldläufer hat seine Pfeile immer bereit und kann von Zeit zu Zeit einen zusätzlichen Angriff starten. Geboostetes Attribut: Kritische Trefferchance.
+starter_shield_description:Der Ritter trägt einen Schild, um den Schaden gelegentlich durch Blocken zu verringern. Verstärktes Attribut: HP
+starter_quiver_description:Der Waldläufer verwendet Widerhakenpfeile, die beim kritischen Treffer den Gegner bluten lassen. Verstärktes Attribut: Kritische Chance.
 starter_grimoire_description:Die Fähigkeit des Magiers, sich auf sein Ziel zu konzentrieren, erlaubt es ihm, nie zu verfehlen. Geboostetes Attribut: Kritischer Treffer-Modifikator.
 starter_lifestone_description:Der Lebensstein gewährt dir 30% verfallenden Lebensentzug. Geboostetes Attribut: Schaden.
-starter_talisman_description:Der Schurke nutzt seine Schleichfähigkeiten, um Fern- und magischen Angriffen auszuweichen. Geboostetes Attribut: Ausweichen.
+starter_talisman_description:Der Schurke nutzt seine Fähigkeit zur Heimlichkeit, um Angriffen auszuweichen. Verstärktes Attribut: Ausweichen.
 heavyArmor:Schwere Rüstung
 mediumArmor:Mittlere Rüstung
 lightArmor:Leichte Rüstung
@@ -492,9 +488,9 @@ loadingTip29:Das Erhöhen des Levels deines Charakters ermöglicht es dir, mehr 
 loadingTip30:Kämpfst du mit einer bestimmten Art von Feind? Finde ihre elementare Schwäche heraus!
 loadingTip31:Das Gewinnen in der Arena gewährt dir nicht nur Ruhm, sondern auch einen kleinen Teil des Goldes deines Gegners!
 loadingTip32:Wenn du in der Arena Gold an einen Angreifer verlierst, bist du für eine Weile davor geschützt, mehr zu verlieren.
-loadingTip33:Halte deine tägliche Belohnungsserie am Leben und erhalte zunehmend mächtigere Belohnungen!
+loadingTip33:Nutze Werkzeuge in Abenteuern, um deinen Ruhm zu steigern!
 loadingTip34:Der Shop erhält eine neue Ladung von Gegenständen kostenlos 24 Stunden nach deinem letzten Neuwurf.
-loadingTip35:Das Räumen eines Dungeons zum ersten Mal garantiert dir eine mythische Truhe!
+loadingTip35:Beim ersten Abschließen eines Dungeons ist eine Mythische Truhe garantiert und erweitert deine Inventarkapazität!
 loadingTip36:Dungeons haben einzigartige Pools von Monstern; sammle sie alle, um dein Bestiarium zu füllen!
 chrono-badge:Chrono-Abzeichen
 chrono-badge_desc:Äußerst seltener Abzeichen für das Sammeln von 365 täglichen Belohnungen in Folge
@@ -566,7 +562,7 @@ magDefense:Mag. Verteidigung
 magicalResistance:Magische Resistenz
 magicalResistanceEffect:Magische Verteidigung
 magicalResistanceDescription:{stat} erhöht deine Magische Verteidigung
-challengePlayerFightCooldown:Du hast deine 5 stündlichen Angriffe verbraucht. Du kannst deine Angriffe fortsetzen, aber es werden keine weiteren Einträge im Glossar hinzugefügt.
+challengePlayerFightCooldown:Du hast deine 5 stündlichen Angriffe genutzt. Du kannst weiter angreifen, aber es werden keine weiteren Einträge ins Glossar aufgenommen.
 agility:Beweglichkeit
 agilityEffect:Ausweichen
 agilityDescription:{stat} erhöht dein Ausweichen
@@ -575,3 +571,14 @@ confirmCharDeletion:Willst du {username} wirklich löschen?
 confirmCharNotReversible:Ich verstehe, dass diese Aktion nicht rückgängig gemacht werden kann. Alle Fortschritte und Gegenstände für diesen Charakter gehen verloren.
 confirmCharUsername:Bitte bestätige den Namen des Charakters, der gelöscht werden soll.
 deleteCharacter:Charakter löschen
+help:Hilfe
+youUnlocked:Du hast freigeschaltet:
+toggleSkin:Haut wechseln
+enabled:Aktiviert
+bundle:Bundle
+own:Eigen
+hireExplorer:Entdecker anheuern
+explore:Erkunden
+exploreByYourSelfExpl:Du kannst selbst erkunden und die Ressourcen sammeln! In der Zwischenzeit kannst du keine Kopfgelder erledigen.
+exploreHireExpl:Du kannst jemanden anheuern, um Ressourcen für dich zu sammeln! Obwohl sie nicht so geschickt sind wie du, werden sie eine ordentliche Menge Materialien sammeln, sodass du dich auf Kopfgelder konzentrieren kannst. Sammelt 2 Materialien pro Stunde.
+yourActiveExpeditions:Deine aktiven Expeditionen

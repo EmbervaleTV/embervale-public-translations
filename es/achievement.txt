@@ -32,7 +32,6 @@ defeat_knight_class:Derrota {amount} caballeros
 defeat_ranger_class:Derrota {amount} exploradores
 defeat_warrior_class:Derrota {amount} guerreros
 collect_items_bounties:Recoge {amount} objetos en recompensas
-collect_items_shop:Compra {amount} objetos en la tienda
 collect_mythical_item:Obtén {amount} objetos míticos
 complete_bestiary:Completa {count}% de tu Bestiario
 complete_materials_glossary:Descubre {count}% de materiales

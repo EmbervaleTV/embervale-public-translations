@@ -16,7 +16,7 @@ dungeon:Dungeon
 startDungeon:Dungeon beginnen
 dungeonAutoSell:Es befinden sich noch einige Gegenstände in deinem Dungeon-Inventar! Wenn du jetzt den Dungeon verlässt, gehen diese verloren!
 selectConsumablesForDungeon:Wähle die Tränke aus, die du mit in den Dungeon nehmen möchtest. Beachte, dass alle Gegenstände, die du in den Dungeon mitnimmst, verloren gehen, wenn du besiegt wirst.
-youDontHaveHealPotions:Du hast keine Heiltränke.
+youDontHaveHealPotions:Du hast keine Heiltränke, die du zu deiner Dungeon-Tasche hinzufügen kannst.
 effect_gem_blessing:Der Spieler ist für {rounds} Runden gesegnet.  // +25% auf alle Werte
 gem_blessing:Juvelensegen
 lost_fairy_blessing:Segen der verlorenen Fee

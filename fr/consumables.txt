@@ -158,3 +158,4 @@ roasted_chicken_craft_description:Réapprovisionne de {amount_min1} à {amount_m
 roasted_chicken_description:Réapprovisionne {amount_min1} endurance.
 xp_elixir:Élixir XP
 xp_elixir_description:Cette potion vous donne {amount} XP !
+adventureOver:L'aventure est déjà terminée !

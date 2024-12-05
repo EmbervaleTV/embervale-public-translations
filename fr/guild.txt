@@ -35,5 +35,6 @@ more_slots_lvl3:Vous gagnez 2 emplacements de guilde supplémentaires
 defense_lvl0:-
 defense_lvl1:Cet article est encore inutile
 defense_lvl2:Cet article est encore inutile
-inviteTextarea:Vous pouvez écrire ici pourquoi un joueur devrait rejoindre votre guilde
+inviteTextarea:Partagez pourquoi les joueurs devraient rejoindre votre guilde !
 thisPlayerAlreadyJoinedOtherGuild:Ce joueur a déjà rejoint une autre guilde.
+PERMISSION_WRITE_IN_GUILD_CHAT:Envoyer un message de chat

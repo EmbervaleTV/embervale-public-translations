@@ -82,8 +82,6 @@ silver_key:Clé en argent
 silver_key_description:Utilisé pour déverrouiller quelque chose...
 mysterious_potion:Potion mystérieuse
 mysterious_potion_description:Une potion à l'apparence suspecte... devrais-je la boire ?
-smoke_bomb:Bombe fumigène
-smoke_bomb_description:Utilisée pour échapper au donjon sans perdre de butin.
 rare_gem:Pierre précieuse rare
 rare_gem_description:Une pierre étrange. Pourrait avoir de la valeur.
 stack_of_coins:Tas de pièces

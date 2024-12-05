@@ -48,3 +48,8 @@ skin_profaned:Осквернённый
 alreadyOwnsSkin:У игрока уже есть этот облик.
 eventShopClosesIn:Магазин событий закроется через
 eventEndsIn:Событие заканчивается через
+skin_arctic_stalker:Арктический Сталкер
+skin_elk_hide:Шкура Лося
+skin_polar_bear:Полярный Медведь
+skin_festive_protector:Праздничный Защитник
+skin_christmas_spirit:Рождественский Дух

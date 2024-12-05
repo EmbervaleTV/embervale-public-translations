@@ -8,7 +8,6 @@ ended:Ended
 leader:Leader
 welcomeToAdventures:Welcome to adventures
 yourHighscore:Your highscore
-beforeAdventureStartsText:Adventures is a game mode explicitly developed for streamers. Your community can join via "!ev join" to your adventure. The current maximum join limit is 50.
 wrongAdventureLeader:You are logged in with a different character than the one that started the adventure. Please switch to {username} to continue.
 currentLoggedIn:You are currently logged in as:
 youCanSelectRecipient:You can select the recipient of rare or higher loot!
@@ -32,6 +31,8 @@ youReceivedFromManipulation:You earn 1 Arcanite for every 10 spent on votes when
 youReceivedFromManipulationEnd:You earned from vote manipulation:
 adventureSettingAllowArcaniteVotes:Enable players to vote using Arcanites
 adventureSettingAllowEveryoneToVote:Enable voting from players outside your adventure
+adventureSettingRaffleAnimation:Raffle Animation
+adventureSettingFullscreen:Play Adventures in Fullscreen Mode [This will reload your game]
 adventureEndMessageMoraleZero:The morale of the group is too low to continue the adventure. You decide to return home.
 adventureEndMessageAllDead:The group can no longer continue to fight. You decide to return home.
 adventureEndMessageSurrender:You decided to return home with your group.
@@ -49,6 +50,26 @@ alreadyVoted:You already voted.
 invalidChoice:Invalid Choice.
 vote:Vote
 choose:Choose
+
+adventures:Adventures
+adventureHighscore:Adventure Highscore
+adventureHosted:Adventures Hosted
+adventureBestiaryRequired:You must defeat this monster at least once to unlock their bestiary entry and view their stats!
+tools:Tools
+active:Active
+inactive:Inactive
+unlock:Unlock
+beforeAdventureStartsText1:Adventures is a game mode specifically designed for streamers.
+beforeAdventureStartsText2:Your community can join your adventure using the command "!ev join".
+beforeAdventureStartsText3:The adventure ends when the group's Morale reaches zero or if you choose to surrender.
+beforeAdventureStartsText4:You have the option to select viewers to participate in battles!
+beforeAdventureStartsText5:Your community can actively engage in the adventure by voting on key decisions and collaborating with you on strategy!
+beforeAdventureStartsText6:The current maximum participant limit is 50.
+toolLimitReached:You can activate up to 5 tools for a single fight.
+toolAlreadyEnabled:This tool has already been enabled.
+toolActivatedForNextFight:The tool has been activated for the upcoming fight!
+requiredUnlocksTool:Required victories for next unlock
+requiredUnlocksToolTooltip:Only battles with a loot indicator of "Low" or higher are counted.
 
 // sorting
 default:Default
@@ -100,9 +121,9 @@ effect_agile:The player feels agile. // Always goes first
 agile:Agile
 effect_silenced:The player is silenced. // Disables abilities
 silenced:Silenced
-effect_shaky:The player is shaky. // Ranger only, +20% miss chance
+effect_shaky:The player is shaky. // +20% miss chance
 shaky:Shaky
-effect_precise:The player has advanced precision. // Ranger only, your opponent can't dodge attacks
+effect_precise:The player has advanced precision. // Your opponent can't dodge attacks
 precise:Precise
 effect_furious:The player is furious. // +25% damage, 33% chance to hurt self
 furious:Furious
@@ -126,6 +147,8 @@ effect_terrified:The player has seen something highly unsettling. // -2 morale p
 terrified:Terrified
 effect_vigilant:The player is extra vigilant. // +5% evasion
 vigilant:Vigilant
+effect_transparent:This player is hard to detect. // +10% evasion
+transparent:Transparent
 effect_thief:The player is a known thief and watched with suspicion. // +30% dexterity, -3 morale per round
 thief:Thief
 effect_blacksmith:The player has proven to be a capable blacksmith. // Priority for smithing checks, 10x smithing skill for adventure
@@ -143,7 +166,7 @@ uncomfortable:Uncomfortable
 effect_diplomatic:The player excels in negotiation and conflict resolution. // +30% fame, +5 on all fame rolls
 diplomatic:Diplomatic
 unavailable:Unavailable
-effect_unavailable:The player is currently busy elsewhere and temporarily can't participate in battles. // # TODO
+effect_unavailable:The player is currently busy elsewhere and temporarily can't participate in battles. // Can't battle
 dark_blessing:Dark Blessing
 effect_dark_blessing:The player was blessed by a sinister deity. // +20% all stats, +10% damage taken
 sick:Sick
@@ -198,6 +221,8 @@ divine_staff:Divine Staff
 effect_divine_staff:The player wields an ancient staff designed to smite all abominations. // +500% damage vs abominations
 destined_death:Destined Death
 effect_destined_death: A blade imbued with forbidden magic. // Death
+strong_armor:Strong Armor
+effect_strong_armor:This player's armor has proven to be extraordinarily sturdy.  // +25% armor
 
 effect_transformed:The player is transformed into a creature. // ???
 transformed:Transformed
@@ -249,8 +274,6 @@ check_morale:Is the morale in the party high enough to overcome this hindrance?
 morale:Morale
 check_fame:The most experienced adventurers will know the solution.
 fame:Fame
-check_speech:Solving this problem will require some charisma.
-speech:Speech
 
 // Global Adventure Effects
 bright_hair:Everyone's hair is colored brightly.
@@ -276,3 +299,87 @@ adventureCooldownRoyal:50% shorter adventure cooldown.
 adventureCooldownMythical:50% shorter adventure cooldown.
 adventureCooldownLegendary:25% shorter adventure cooldown.
 adventureCooldownEpic:10% shorter adventure cooldown.
+
+// Tools
+arcane_armor_enchantment:Arcane Armor
+arcane_armor_enchantment_description:Negates 50% of incoming Arcane damage during the next battle.
+arcane_hex:Arcane Hex
+arcane_hex_description:Opponent receives 500% increased Arcane damage during the next battle.
+magical_surge:Magical Surge
+magical_surge_description:Magic attacks ignore Magic Resistance during the next battle.
+arcane_weapon_enchantment:Arcane Weapon Enchantment
+arcane_weapon_enchantment_description: Imbues weapons with Arcane power, changing their elemental damage and adding 25% bonus Arcane damage.
+ballista_bolt:Ballista Bolt
+ballista_bolt_description:Deals 10% of the opponent's current health as damage immediately.
+bewilderbrew:Bewilderbrew
+bewilderbrew_description:Strong alcohol that confuses the opponent, adding a 10% chance for them to harm themselves.
+blood_curse:Blood Curse
+blood_curse_description:Prevents the opponent from healing.
+bloody_knife:Bloody Knife
+bloody_knife_description:Adds a bleed effect to the opponent, reducing healing and dealing damage.
+brilliant_lifegem:Brilliant Lifegem
+brilliant_lifegem_description:Slows down the lifedrain decay of Warriors significantly.
+divine_armor_enchantment:Divine Armor
+divine_armor_enchantment_description:Negates 50% of incoming Divine damage during the next battle.
+divine_seal:Divine Seal
+divine_seal_description:Opponent receives 500% increased Divine damage during the next battle.
+divine_weapon_enchantment:Divine Weapon Enchantment
+divine_weapon_enchantment_description:Imbues weapons with Divine power, changing their elemental damage and adding 25% bonus Divine damage.
+elven_quiver:Elven Quiver
+elven_quiver_description:Adds 15% to the Quickdraw chance of Rangers.
+executioner:Executioner
+executioner_description:Executes opponents that drop below 10% HP.
+fire_sling:Fire Sling
+fire_sling_description:Adds a burn effect to the opponent, reducing melee damage and harming them.
+flash:Flash
+flash_description:The opponent becomes 10% more likely to miss.
+freezing_breath:Freezing Breath
+freezing_breath_description:Opponent receives 500% increased Frost damage during the next battle.
+frost_armor_enchantment:Frost Armor Enchantment
+frost_armor_enchantment_description:Negates 50% of incoming Frost damage during the next battle.
+frost_weapon_enchantment:Frost Weapon Enchantment
+frost_weapon_enchantment_description:Imbues weapons with Frost power, changing their elemental damage and adding 25% bonus Frost damage.
+fumes_of_agility:Fumes of Agility
+fumes_of_agility_description:Party members always go first in the next battle.
+heavy_chain:Heavy Chain
+heavy_chain_description:Stops the enemy from evading.
+icicle:Icicle
+icicle_description:Adds a freeze effect to the opponent, reducing ranged damage and harming them.
+illusion_cloak:Illusion Cloak
+illusion_cloak_description:Guarantees critical hits for Rogues after stealth is used.
+infernal_armor_enchantment:Infernal Armor Enchantment
+infernal_armor_enchantment_description:Negates 50% of incoming Infernal damage during the next battle.
+infernal_weapon_enchantment:Infernal Weapon Enchantment
+infernal_weapon_enchantment_description:Imbues weapons with Infernal power, changing their elemental damage and adding 25% bonus Infernal damage.
+love_potion:Love Potion
+love_potion_description:20% chance for the opponent to skip their attack. Only works on Humanoids.
+lucky_foot:Lucky Foot
+lucky_foot_description:Raises loot quality by 1 for the next combat.
+monster_mirror:Monster Mirror
+monster_mirror_description:A weaker copy of the opponent will fight for you in the next battle.
+mood_resonator:Mood Resonator
+mood_resonator_description:Doubles all morale gains and losses for the next battle.
+necrotic_armor_enchantment:Necrotic Armor Enchantment
+necrotic_armor_enchantment_description:Negates 50% of incoming Necrotic damage during the next battle.
+necrotic_weapon_enchantment:Necrotic Weapon Enchantment
+necrotic_weapon_enchantment_description:Imbues weapons with Necrotic power, changing their elemental damage and adding 25% bonus Necrotic damage.
+oil_pot:Oil Pot
+oil_pot_description:Opponent receives 500% increased Infernal damage during the next battle.
+plank_shield:Plank Shield
+plank_shield_description:Protects the party from the first 500 incoming damage.
+poison_flask:Poison Flask
+poison_flask_description:Poisons the enemy, dealing damage after every attack.
+polished_shield:Polished Shield
+polished_shield_description:+10% block chance for Knights in the next battle.
+revival_blessing:Revival Blessing
+revival_blessing_description:Revives the first to fall in battle.
+smoke_bomb:Smoke Bomb
+smoke_bomb_description:The opponent becomes 5% more likely to miss.
+strong_bones:Strong Bones
+strong_bones_description:Prevents injuries during the next battle.
+summoning_book:Summoning Book
+summoning_book_description:Summons a skeleton to join the next battle.
+undead_mark:Undead Mark
+undead_mark_description:Opponent receives 500% increased Necrotic damage during the next battle.
+vampire_bite:Vampire Bite
+vampire_bite_description:All players have a 20% chance to heal 20% of damage dealt during the next battle.

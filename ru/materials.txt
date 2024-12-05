@@ -82,8 +82,6 @@ silver_key:Серебряный Ключ
 silver_key_description:Используется для открытия чего-то...
 mysterious_potion:Загадочное Зелье
 mysterious_potion_description:Подозрительное на вид зелье... выпить его?
-smoke_bomb:Дымовая Бомба
-smoke_bomb_description:Используется для побега из подземелья без потери добычи.
 rare_gem:Редкий Драгоценный Камень
 rare_gem_description:Странный камень. Может быть ценным.
 stack_of_coins:Стопка Монет

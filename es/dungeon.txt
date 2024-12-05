@@ -16,7 +16,7 @@ dungeon:Calabozo
 startDungeon:Comenzar Calabozo
 dungeonAutoSell:¡Todavía hay algunos objetos en tu inventario de calabozo! ¡Si sales del calabozo ahora, se perderán!
 selectConsumablesForDungeon:Selecciona las pociones que deseas llevar a la mazmorra. Ten en cuenta que todos los objetos que lleves a la mazmorra se perderán si eres derrotado.
-youDontHaveHealPotions:No tienes pociones de salud.
+youDontHaveHealPotions:No tienes pociones de salud disponibles para agregar a tu bolsa de mazmorra.
 effect_gem_blessing:El jugador está bendecido por {rounds} rondas.  // +25% a todas las estadísticas
 gem_blessing:Bendición de la Gema
 lost_fairy_blessing:Bendición del Hada Perdida

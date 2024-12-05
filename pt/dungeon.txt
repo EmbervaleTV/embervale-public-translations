@@ -16,7 +16,7 @@ dungeon:Masmorra
 startDungeon:Começar Masmorra
 dungeonAutoSell:Ainda há alguns itens em seu inventário de masmorra! Se você sair da masmorra agora, eles serão perdidos!
 selectConsumablesForDungeon:Selecione as poções que deseja levar para a masmorra. Observe que todos os itens levados para a masmorra serão perdidos se você for derrotado.
-youDontHaveHealPotions:Você não tem nenhuma poção de cura.
+youDontHaveHealPotions:Você não tem nenhuma poção de saúde disponível para adicionar à sua bolsa de masmorra.
 effect_gem_blessing:O jogador está abençoado por {rounds} rodadas.
 gem_blessing:Bênção da Gema
 lost_fairy_blessing:Bênção da Fada Perdida

@@ -158,3 +158,4 @@ roasted_chicken_craft_description:Füllt {amount_min1} bis {amount_max1} Ausdaue
 roasted_chicken_description:Füllt {amount_min1} Ausdauer auf.
 xp_elixir:XP-Elixier
 xp_elixir_description:Dieser Trank gibt dir {amount} XP!
+adventureOver:Das Abenteuer ist bereits zu Ende!

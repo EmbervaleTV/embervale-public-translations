@@ -33,3 +33,4 @@ adventureYouAreNotInThis:Вы должны быть частью этого пр
 adventureLeaderLeaveForbidden:Лидер не может покинуть приключение. Если вы выбрали неправильного персонажа, вы можете сдаться без перезарядки, пока не нажали кнопку «создать».
 twitchbotCharNotFound:Ваш персонаж не найден! Пожалуйста, проверьте написание.
 twitchbotTargetNoAccount:Выбранный игрок ещё не создал своего первого персонажа в Embervale!
+twitchbotTargetYourself:Вы не можете атаковать себя!

@@ -16,7 +16,7 @@ dungeon:Donjon
 startDungeon:Commencer le Donjon
 dungeonAutoSell:Il reste encore des objets dans votre inventaire de donjon ! Si vous quittez le donjon maintenant, ils seront perdus !
 selectConsumablesForDungeon:Sélectionne les potions que tu souhaites emporter dans le donjon. Note que tous les objets amenés dans le donjon seront perdus si tu es vaincu.
-youDontHaveHealPotions:Tu n'as pas de potions de santé.
+youDontHaveHealPotions:Tu n'as pas de potions de santé disponibles à ajouter à ton sac de donjon.
 effect_gem_blessing:Le joueur est béni pour {rounds} tours.  // +25% à toutes les statistiques
 gem_blessing:Bénédiction de Gemme
 lost_fairy_blessing:Bénédiction de la Fée Perdue

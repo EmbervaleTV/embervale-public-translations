@@ -139,7 +139,7 @@ second_chance_description:Use this to reroll a dice.
 secondChanceDonateDescription:This allows the streamer to reroll a dice. After a total of 100 Arcanites are spent, the streamer gains a second chance. It can only be used during the current adventure and purchased once per adventure.
 secondChanceBuyConfirmation:Please confirm that you want to spend {amount} Arcanites to contribute toward the second chance.
 secondChanceLimitReached:The streamer already has a Second Chance. Please try again after they’ve used it.
-
+adventureOver:The adventure has already ended!
 medium_xp_potion:Medium XP Potion
 medium_xp_potion_description:This potion boosts your XP by {percent}% for {amount} fights!
 

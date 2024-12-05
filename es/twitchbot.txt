@@ -33,3 +33,4 @@ adventureYouAreNotInThis:¡Debes ser parte de esta aventura para usar este coman
 adventureLeaderLeaveForbidden:El líder no puede abandonar la aventura. Si seleccionaste el personaje equivocado, puedes rendirte sin tiempo de espera, siempre y cuando no hayas presionado el botón 'crear'.
 twitchbotCharNotFound:¡No se encontró tu personaje! Por favor, verifica la ortografía.
 twitchbotTargetNoAccount:¡El jugador seleccionado aún no ha creado su primer personaje de Embervale!
+twitchbotTargetYourself:¡No puedes atacarte a ti mismo!

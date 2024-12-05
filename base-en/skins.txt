@@ -53,6 +53,13 @@ skin_batwing:Batwing
 skin_vampire_hunter:Vampire Hunter
 skin_profaned:Profaned
 
+// Christmas 2024
+skin_arctic_stalker:Arctic Stalker
+skin_elk_hide:Elk Hide
+skin_polar_bear:Polar Bear
+skin_festive_protector:Festive Protector
+skin_christmas_spirit:Christmas Spirit
+
 // extra
 alreadyOwnsSkin:The player already owns this skin.
 eventShopClosesIn:Event Shop Closes in

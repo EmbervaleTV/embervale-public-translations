@@ -82,8 +82,6 @@ silver_key:Silberschlüssel
 silver_key_description:Wird verwendet, um etwas zu öffnen...
 mysterious_potion:Mysteriöser Trank
 mysterious_potion_description:Ein verdächtig aussehender Trank... soll ich ihn trinken?
-smoke_bomb:Rauchbombe
-smoke_bomb_description:Wird verwendet, um aus dem Verlies zu entkommen, ohne Beute zu verlieren.
 rare_gem:Seltener Edelstein
 rare_gem_description:Ein seltsamer Edelstein. Könnte wertvoll sein.
 stack_of_coins:Stapel Münzen
@@ -137,7 +135,6 @@ gold_ore_flavor:Ein schimmerndes Goldklumpen, so wertvoll in Münzen wie in der 
 pewter_flavor:Weich, aber langlebig, wird Zinn oft zum Gießen von Runen und Talismanen verwendet.
 sapphire_flavor:Diese tiefblauen Edelsteine werden oft von Verzauberern gesucht, da sie magische Energien fokussieren können.
 ruby_flavor:Hell und feurig, werden Rubine wegen ihrer Fähigkeit geschätzt, Feuerzauber und Verzauberungen zu verstärken.
-```  
 eternal_ice_flavor:Kalt bei Berührung, schmilzt ewiges Eis nie und ist daher eine gefragte Komponente in mächtiger Frostmagie.
 clover_flavor:Klee ist ein häufiges, aber wirksames Kraut und wird oft in heilenden Salben und einfachen Tränken verwendet.
 midnight_rose_flavor:Diese seltene, dunkle Blume soll sich nur im Licht des Vollmonds öffnen und wird in mächtigen Liebestränken verwendet.
@@ -158,7 +155,6 @@ echostem_reeds_flavor:Diese hohlen Stängel sind wegen ihrer Fähigkeit, Schall 
 emberstalk_toadstool_flavor:Ein feuriger Pilz, der mit einem inneren Glühen brennt und oft in feuerbasierten alchemistischen Rezepten verwendet wird.
 giant's_blood_essence_flavor:Destilliert aus dem Blut eines Riesen, verleiht diese Essenz Stärke und Widerstandskraft.
 glacierthorn_flower_flavor:Nur in den kältesten Regionen wachsend, wird diese Blume in frostbezogenen Tränken und Zaubern verwendet.
-```
 maple_leaves_flavor:Diese Blätter werden oft in heilenden Umschlägen verwendet, von denen gesagt wird, dass sie Geist und Körper beruhigen.
 skytear_crystals_flavor:Diese Kristalle enthalten die Macht des Himmels selbst, knisternd vor elektrischer Energie.
 spider_root_flavor:Verdreht und knorrig, wird diese Wurzel oft in Lähmungs- und Fangtränken verwendet.

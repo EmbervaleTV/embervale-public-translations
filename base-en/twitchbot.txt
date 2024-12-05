@@ -8,6 +8,7 @@ twitchbotNoAccount:Please create your character in the Embervale extension!
 twitchbotCharNotFound:Your character was not found! Please check your spelling.
 twitchbotNoActiveChar:Please log in with your character through the Embervale extension or add the character's name at the end of any command.
 twitchbotTargetNoAccount:The selected player has not created their first Embervale Character yet!
+twitchbotTargetYourself:You can't attack yourself!
 
 // Adventure
 adventureNotActive:There is no active adventure!
