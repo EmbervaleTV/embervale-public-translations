@@ -85,7 +85,7 @@ sea_platter_description:Reabastece {amount_min1} de vigor.
 coin_stack:Pilha de Moedas
 coin_stack_description:Use isto para ganhar cobre. Nível {level}
 medium_xp_potion:Poção Média de XP
-medium_xp_potion_description:Esta poção aumenta seu XP em {percent}% por {amount} lutas!
+medium_xp_potion_description:Esta poção aumenta seu XP em {percent}% por {amount} lutas de recompensa!
 recipe:Receita
 small_heal_potion_recipe:Receita da Poção Pequena de Cura
 fruit_basket_recipe:Receita da Cesta de Frutas
@@ -139,7 +139,7 @@ material_sack_description:Use isto para ganhar um punhado de materiais. Nível {
 second_chance:Segunda Chance
 second_chance_description:Use isto para rolar um dado novamente.
 secondChanceBuyConfirmation:Por favor, confirme que deseja gastar {amount} Arcanites para contribuir para a segunda chance.
-secondChanceDonateDescription:Permite que o streamer role novamente um dado. Após um total de 100 Arcanites ser gasto, o streamer ganha uma segunda chance. Só pode ser usada durante a aventura atual e adquirida uma vez por aventura.
+secondChanceDonateDescription:Isso permite que o streamer jogue o dado novamente. Depois que um total de 100 Arcanites forem gastos, o streamer ganha uma segunda chance.
 pumpkin_treat:Doce de Abóbora
 pumpkin_treat_craft_description:Reabastece de {amount_min1} a {amount_max1} resistência. A receita desaparecerá após o Evento de Halloween 2024.
 pumpkin_treat_description:Reabastece {amount_min1} resistência.
@@ -159,3 +159,20 @@ roasted_chicken_description:Reabastece {amount_min1} de resistência.
 xp_elixir:Elixir de XP
 xp_elixir_description:Esta poção concede-lhe {amount}XP!
 adventureOver:A aventura já terminou!
+consumableOverwriteWarning:Você já tem uma poção de tamanho diferente ativa! Usar uma poção maior ou menor substituirá a atual.
+present:Presente
+mysterious_present:Presente Misterioso
+christmas_candy:Doce de Natal
+christmas_candy_craft_description:Reabastece de {amount_min1} a {amount_max1} de resistência. A receita desaparecerá após o Evento de Natal de 2024.
+christmas_candy_description:Reabastece {amount_min1} de resistência.
+raid_pass:Convite Invernal
+raid_pass_description:Um convite do Senhor Sander Klause para enfrentar os perigos além do Gelo Eterno. Prove sua força ou determinação para reivindicar riquezas inimagináveis. Convite {xxx}
+sex_change_potion:Potion de Mudança de Sexo
+sex_change_potion_description:Beba esta poção diretamente da garrafa para se tornar ele se você era ela ou para se tornar ela se você era ele.
+potion_of_humanity:Potion de Humanidade
+potion_of_humanity_description:Beba esta poção para se tornar um humano.
+potion_of_elvenkind:Potion de Gente-Elfo
+potion_of_elvenkind_description:Beba esta poção para se tornar um elfo.
+potion_of_demonhood:Potion de Condição Demoníaca
+potion_of_demonhood_description:Beba esta poção para se tornar um demônio.
+alreadyOwnThatPotion:Você já possui essa poção. Você pode comprar outra após usar a que você tem.

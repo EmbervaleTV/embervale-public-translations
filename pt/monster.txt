@@ -601,7 +601,7 @@ gravekeeper_bestiary:Em tempos de dificuldade, os ceifadores tornam-se excessiva
 hooded_stranger_bestiary:Marca e estilo são tudo quando se trata de assalto na estrada.
 lady_of_the_passage_bestiary:Uma vez sacerdotisa da terra, agora uma sentinela solitária do reino sem sol abaixo das ondas.
 light_slime_bestiary:Leve pelo peso e pela iluminação, não necessariamente em termos de dificuldade.
-lost_fairy_bestiary:Ei, escute!
+lost_fairy_bestiary:Ei, ouça!
 lost_soul_bestiary:Seu valor de uma (1) alma pode não valer o esforço.
 overseer_crab_bestiary:As hierarquias sociais dos caranguejos são pouco exploradas, mas estudos preliminares confirmam que os caranguejos supervisores conseguem ver por cima de seus irmãos menores apenas pelo tamanho, sim.
 protector_of_the_forest_heart_bestiary:É melhor dobrar como um salgueiro antes de quebrar diante deste carvalho.
@@ -633,7 +633,7 @@ goblin_rider_bestiary:Sua armadura é reciclada de ataques passados e dá uma in
 goblin_sorcerer_bestiary:Seu hábito de domesticar pássaros os torna batedores perigosos
 flying_leech_bestiary:Algum médico empreendedor queria utilizar esses sugadores, mas seu jarro quebrou e os libertou em uma cidade vizinha.
 behemoth_bestiary:Pele grossa, presas perigosas... cauda serpentina e uma juba de cabelo flamejante?
-ice_snake_bestiary:Essas cobras parecem usar o pedaço de gelo que protrude de sua cabeça como chifre
+ice_snake_bestiary:Essas cobras parecem usar o pedaço de gelo que se projeta de sua cabeça como chifre
 gnoll_shaman_bestiary:Suas poções potentes parecem ser a causa da expressão maníaca de suas tribos
 undead_gnoll_bestiary:Ugh, não tão acariciável agora
 skeleton_commander_bestiary:Sua armadura e equipamento indicam que muito esforço foi investido na criação deste morto-vivo
@@ -1088,7 +1088,7 @@ gravekeeper_bounty:Manto negro escondendo osso pálido, esta foice espera por mo
 hooded_stranger_bounty:Algum problema na estrada
 lady_of_the_passage_bounty:Uma luz pálida nas profundezas revela um guardião final
 light_slime_bounty:Imbuído por fé
-lost_fairy_bounty:Uma ameaça do reino feérico
+lost_fairy_bounty:Uma ameaça do reino das fadas
 lost_soul_bounty:Manifestação de uma criatura falecida
 overseer_crab_bounty:Marisco gigante
 protector_of_the_forest_heart_bounty:Perto do centro das grandes florestas, uma última linha de defesa
@@ -1521,3 +1521,21 @@ gemstone_fire_dragon_bounty:Uma visão rara, as escamas deste dragão brilham co
 lady_of_the_vale_bounty:Diferente de sua irmã serena, a Senhora da Passagem, ela é tão feroz quanto as terras vulcânicas que governa. Seu espírito flamejante a torna tanto cativante quanto perigosa, personificando a fúria indomada de Embervale.
 ignithor_the_charred_sovereign_bounty:Antes um deus guardião, Ignithor sucumbiu às chamas de Embervale, tornando-se um soberano jorrante de raiva. Sua ira faz a terra tremer, e toda criatura infernal se curva a seu domínio escaldante.
 blightflame_first_of_dragons_bounty:Uma vez o pai dos dragões, Blightflame é agora um servo esquelético do Soberano Carbonizado. Seu nome original, assim como seu antigo poder, está perdido no tempo.
+rudolph:Rudolph
+big_sack_goblin:Goblin do Saco Grande
+angry_snowman:Boneco de Neve Furioso
+rudolph_bestiary:-
+big_sack_goblin_bestiary:-
+angry_snowman_bestiary:-
+rudolph_bounty:-
+big_sack_goblin_bounty:-
+angry_snowman_bounty:-
+spiky_turtle:Tartaruga Espinhosa
+spiky_turtle_bestiary:Uma fortaleza viva revestida por uma carapaça espinhosa, a Tartaruga Espinhosa é lenta, mas quase indestrutível. Poucos predadores ousam desafiar sua paciência, pois quando ataca, faz isso com força esmagadora.
+spiky_turtle_bounty:Uma parede ambulante de espinhos—tenha cautela, pois até sua carapaça é uma arma.
+lich:Lich
+lich_bestiary:Um poderoso mago das trevas que transcendeu os limites da mortalidade e empunha os poderes da vida e da morte, colhendo almas para alimentar seu temido reinado.
+lich_bounty:Um tirano imortal vinculado à magia sombria. Derrote-o, mas cuidado—morrer pode não ser o fim.
+corrupted_rat:Rato Corrompido
+corrupted_rat_bestiary:Retorcido por forças sombrias, este rato é mais do que um mero catador—é um arauto da decadência. Seus olhos brilhantes e forma em decomposição são avisos para todos que cruzam seu caminho.
+corrupted_rat_bounty:Antes uma praga comum, agora uma criatura de decadência e malícia. Sua mordida espalha corrupção, transformando a carne em uma ruína purulenta.

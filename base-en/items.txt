@@ -90,7 +90,7 @@ gem_of_renewal:Gem of Renewal
 archmages_necklace:Archmage's Necklace
 eye_of_the_storm:Eye of the Storm
 iron_band:Iron Band
-brass_band:Brass Band
+bronze_band:Bronze Band
 vanity_of_the_abyss:Vanity of the Abyss
 monks_pearls:Monk's Pearls
 bards_thread:Bard's Thread
@@ -909,7 +909,7 @@ crystalshroud_bracers:Crystalshroud Bracers
 acolythes_gloves:Acolyte's Gloves
 wandering_witches_bracers:Wandering Witch's Bracers
 exiled_scholars_gloves:Exiled Scholar's Gloves
-wondrous_healers_gloves:Wondroush Healer's Gloves
+wondrous_healers_gloves:Wondrous Healer's Gloves
 
 // Medium
 
@@ -952,7 +952,7 @@ oceanleaf_arms:Oceanleaf Arms
 
 umbral_claws:Umbral Claws
 platinum_protectors:Platinum Protectors
-blood_crown_gauntlets:Blood_Crown_Gauntlets
+blood_crown_gauntlets:Blood Crown Gauntlets
 hellfire_wrath:Hellfire Wrath
 mirageforge_hands:Mirageforge Hands
 

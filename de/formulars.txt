@@ -1,17 +1,17 @@
 statDMG-mage:Der Bereich des magischen Schadens, den du verursachen kannst.
 statDMG-F-mage:Schaden = Waffenschaden * ((Weisheit / 60) + 1)
 statDMG-knight:Der Bereich des physischen Schadens, den du verursachen kannst.
-statDMG-F-knight:Schaden = Waffenschaden * ((Stärke / 60) + 1)
+statDMG-F-knight:Schaden = (Waffenschaden / 2,66) * ((Stärke / 60) + 1)
 statDMG-ranger:Der Bereich des physischen Schadens, den du verursachen kannst.
-statDMG-F-ranger:Schaden = Waffenschaden * ((Geschicklichkeit / 60) + 1)
+statDMG-F-ranger:Schaden = (Waffenschaden / 1,54) * ((Geschicklichkeit / 60) + 1)
 statDMG-warrior:Der Bereich des physischen Schadens, den du verursachen kannst.
-statDMG-F-warrior:Schaden = Waffenschaden * ((Stärke / 60) + 1)
+statDMG-F-warrior:Schaden = (Waffenschaden / 2) * ((Stärke / 60) + 1)
 statDMG-rogue:Der Bereich des physischen Schadens, den du verursachen kannst.
-statDMG-F-rogue:Schaden = Waffenschaden * ((Geschicklichkeit / 60) + 1)
+statDMG-F-rogue:Schaden = (Waffenschaden / 1,66) * ((Geschicklichkeit / 60) + 1)
 statVIT-mage:Die Menge an Schaden, die du einstecken kannst.
 statVIT-F-mage:(1 + Vit * 0.1) * (1 + 0.01 * lvl) * 11.5 + 10
 statVIT-knight:Die Menge an Schaden, die du einstecken kannst.
-statVIT-F-knight:(1 + Vit * 0.1) * (1 + 0.01 * lvl) * 22 + 10
+statVIT-F-knight:((1 + vit * 0,1) * (1 + 0,01 * lvl) * 22 + 10) * 1,15
 statVIT-ranger:Die Menge an Schaden, die du einstecken kannst.
 statVIT-F-ranger:(1 + Vit * 0.1) * (1 + 0.01 * lvl) * 15 + 10
 statVIT-warrior:Die Menge an Schaden, die du einstecken kannst.
@@ -69,7 +69,7 @@ statCritPerc-knight:Bestimmt die Chance, einen kritischen Treffer zu landen.
 statCritPerc-F-knight:((Genauigkeit / lvl) * 0,25) * 100
 statCritPerc-M-knight:Maximaler Wert 50%
 statCritPerc-ranger:Bestimmt die Chance, einen kritischen Treffer zu landen.
-statCritPerc-F-ranger:((Genauigkeit / lvl) * 0,25) * 100
+statCritPerc-F-ranger:((Genauigkeit / lvl) * 0,25) * 100 + 10
 statCritPerc-M-ranger:Maximaler Wert 80%
 statCritPerc-warrior:Bestimmt die Chance, einen kritischen Treffer zu landen.
 statCritPerc-F-warrior:((Genauigkeit / lvl) * 0,25) * 100

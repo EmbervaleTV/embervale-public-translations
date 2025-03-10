@@ -53,3 +53,18 @@ skin_elk_hide:Elchhaut
 skin_polar_bear:Eisbär
 skin_festive_protector:Festlicher Beschützer
 skin_christmas_spirit:Weihnachtlicher Geist
+accountBundle:Account-Paket
+eventName:Weihnachten 2024
+eventBackground:Weihnachts-Hintergrund
+eventWeapon:Weihnachts-Waffe
+eventUserWillReceive:{user} wird erhalten
+eventOutfit:Weihnachtsoutfit
+eventCollection:Alles aus der Weihnachtskollektion 2024 für alle Charaktere und kommenden Charaktere
+eventSkinBundleMsg:{character_name} hat dir das Weihnachts-Skin-Bundle 2024 geschenkt!
+eventSkinAccountBundleMsg:{character_name} hat dir das Weihnachts-Skin-Bundle 2024 für all deine Charaktere geschenkt!
+eventRaidRewardTxt:{character_name} erhielt: {reward} - Schaden: {dmg} ({perc}%) - Angriffe: {amount} ({chance}%)
+thorn_knight:Dornritter
+twilight_rogue:Dämmerungs-Schurke
+tempest_ranger:Sturmwächter
+druid_mage:Druiden-Magier
+skytear_warrior:Skytear-Krieger

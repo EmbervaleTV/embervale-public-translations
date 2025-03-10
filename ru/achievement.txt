@@ -86,7 +86,7 @@ defeat_mage_class_in_arena:Победите {amount} магов в боях на
 defeat_knight_class_in_arena:Победите {amount} рыцарей в боях на арене
 defeat_ranger_class_in_arena:Победите {amount} рейнджеров в боях на арене
 defeat_warrior_class_in_arena:Победите {amount} воинов в боях на арене
-repeatable__participate_in_adventures:[Повторяемое] Участвуйте в {amount} приключениях
+repeatable__participate_in_adventures:Участвуйте в {amount} приключениях
 vote_in_adventures:Отдать {amount} голосов в приключениях
 complete_elemental_butterflies_glossary:Добавьте все {amount} Элементальных Бабочек в ваш Глоссарий
 event:Событие
@@ -106,7 +106,7 @@ complete_dungeon_12:Очистите 'Кладбище Безымянных'
 complete_dungeon_13:Очистите 'Бастион Света'
 complete_dungeon_14:Очистите 'Embervale'
 complete_dungeon_5:Пройти 'Подводный Путь'
-repeatable__refer_a_streamer:[Повторяемое] Приглашайте новых стримеров на Embervale.TV
+repeatable__refer_a_streamer:Пригласите новых стримеров на Embervale.TV
 referStreamer:Пригласите стримера
 referStreamerReq1:Стример должен ввести ваше имя Twitch при создании своего первого персонажа.
 referStreamerReq2:Стример должен быть аффилиатом или партнером Twitch.
@@ -118,3 +118,23 @@ tutorial:Туториал
 complete_daily_mission:Выполните {amount} ежедневных миссий
 defeat_a_player_in_chat:Победите другого игрока, используя команду !evbattle.
 cantDonateBundles:Извините, но я не могу принять наборы в качестве пожертвований.
+activate_tools:Активируйте {amount} инструментов в приключениях
+join_raid:Помогите лорду Сандеру Клаузу в {amount} налетах
+cantDonateThis:Извините, но я не могу принять это пожертвование.
+referFirstStreamer:Первое приглашение дает вам облик доспехов искателя приключений для всех ваших персонажей!
+goodItemInShop:В данный момент в магазине находится мифический предмет. Вы уверены, что хотите обновить?
+reachMaxReputation:Достигните максимальной репутации с продавцом.
+defeat_rogue_class_in_bounties:Победите {amount} разбойников в наградах
+defeat_mage_class_in_bounties:Победите {amount} магов в наградах
+defeat_knight_class_in_bounties:Победите {amount} рыцарей в наградах
+defeat_ranger_class_in_bounties:Победите {amount} рейнджеров в наградах
+defeat_warrior_class_in_bounties:Победите {amount} воинов в наградах
+bestiary_dex_entry_hint:Отображает индикатор на наградах, если у вас нет соответствующей записи в бестиарии.
+item_dex_entry_hint:Отображает индикатор на предметах, если у вас нет соответствующей записи в словаре.
+reach_alchemist_level:Достигните уровня алхимии {lvl}
+reach_smith_level:Достигните уровня ковки {lvl}
+reach_cook_level:Достигните уровня кулинарии {lvl}
+repeatable:Повторяемый
+win_in_the_arena:Победите на арене {amount} раз
+repeatable__host_adventures__public:Проведите {amount} приключений, пройдите через Комнату 25 и сделайте это в категории Embervale.TV с неограниченным чатом.
+repeatable__activate_tools__public:Активируйте {amount} инструменты в приключениях с более чем 10 активными игроками.

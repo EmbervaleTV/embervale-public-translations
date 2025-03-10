@@ -1,17 +1,17 @@
 statDMG-mage:El rango de daño mágico que puedes infligir.
 statDMG-F-mage:Daño = Daño del arma * ((sabiduría / 60) + 1)
 statDMG-knight:El rango de daño físico que puedes infligir.
-statDMG-F-knight:Daño = Daño del arma * ((fuerza / 60) + 1)
+statDMG-F-knight:Daño = (Daño de arma / 2.66) * ((fuerza / 60) + 1)
 statDMG-ranger:El rango de daño físico que puedes infligir.
-statDMG-F-ranger:Daño = Daño del arma * ((destreza / 60) + 1)
+statDMG-F-ranger:Daño = (Daño de arma / 1.54) * ((destreza / 60) + 1)
 statDMG-warrior:El rango de daño físico que puedes infligir.
-statDMG-F-warrior:Daño = Daño del arma * ((fuerza / 60) + 1)
+statDMG-F-warrior:Daño = (Daño de arma / 2) * ((fuerza / 60) + 1)
 statDMG-rogue:El rango de daño físico que puedes infligir.
-statDMG-F-rogue:Daño = Daño del arma * ((destreza / 60) + 1)
+statDMG-F-rogue:Daño = (Daño de arma / 1.66) * ((destreza / 60) + 1)
 statVIT-mage:La cantidad de daño que puedes recibir.
 statVIT-F-mage:(1 + vit * 0.1) * (1 + 0.01 * lvl) * 11.5 + 10
 statVIT-knight:La cantidad de daño que puedes recibir.
-statVIT-F-knight:(1 + vit * 0.1) * (1 + 0.01 * lvl) * 22 + 10
+statVIT-F-knight:((1 + vit * 0.1) * (1 + 0.01 * lvl) * 22 + 10) * 1.15
 statVIT-ranger:La cantidad de daño que puedes recibir.
 statVIT-F-ranger:(1 + vit * 0.1) * (1 + 0.01 * lvl) * 15 + 10
 statVIT-warrior:La cantidad de daño que puedes recibir.
@@ -69,7 +69,7 @@ statCritPerc-knight:Determina la probabilidad de dar un golpe crítico.
 statCritPerc-F-knight:((Precisión / lvl) * 0.25) * 100
 statCritPerc-M-knight:Valor máximo 50%
 statCritPerc-ranger:Determina la probabilidad de dar un golpe crítico.
-statCritPerc-F-ranger:((Precisión / lvl) * 0.25) * 100
+statCritPerc-F-ranger:((Precisión / nivel) * 0.25) * 100 + 10
 statCritPerc-M-ranger:Valor máximo 80%
 statCritPerc-warrior:Determina la probabilidad de dar un golpe crítico.
 statCritPerc-F-warrior:((Precisión / lvl) * 0.25) * 100

@@ -508,6 +508,12 @@ volcanic_maiden:Volcanic Maiden
 gemstone_fire_dragon:Gemstone Fire Dragon
 ignithor_the_charred_sovereign:Ignithor, the charred Sovereign
 blightflame_first_of_dragons:Blightflame, first of Dragons
+spiky_turtle:Spiky turtle
+rudolph:Rudolph
+big_sack_goblin:Big Sack Goblin
+angry_snowman:Angry Snowman
+lich:Lich
+corrupted_rat:Corrupted Rat
 
 abnormous_tick_bestiary:A tick of this size makes one think about the creatures it usually preys upon
 accursed_captain_hawk_bestiary:At least one part of his curse must concern his sense of style. Have you seen that famous outfit and lived to tell the tale?
@@ -659,7 +665,7 @@ goblin_rider_bestiary:Their armor is scanvenged from past raids and gives an ind
 goblin_sorcerer_bestiary:Their habit of taming birds makes them dangerous scouts
 flying_leech_bestiary:Some enterprising doctor wanted to utilize these suckers, but his jar broke and set them free in a neighboring town.
 behemoth_bestiary:Thick skin, dangerous tusks… serpentine tail and a mane of fiery hair?
-ice_snake_bestiary:These snakes seem to use the pice of ice protruding from their head as horn
+ice_snake_bestiary:These snakes seem to use the piece of ice protruding from their head as horn
 gnoll_shaman_bestiary:Their potent brews seems to be the cause of their tribes maniac expression
 undead_gnoll_bestiary:Ugh, not so pet-able anymore
 skeleton_commander_bestiary:Its armor and equipemnt indicate a lot of effort was put into creating this undead
@@ -1018,6 +1024,13 @@ gemstone_fire_dragon_bestiary: A rare sight, this dragon’s scales shimmer like
 lady_of_the_vale_bestiary: Unlike her serene sister, the Lady of the Passage, she is as fierce as the volcanic lands she rules. Her fiery spirit makes her both captivating and perilous, embodying Embervale’s untamed wrath.
 ignithor_the_charred_sovereign_bestiary: Once a guardian god, Ignithor succumbed to Embervale’s flames, becoming a molten sovereign of rage. His wrath shakes the land, and every infernal creature bows to his searing dominion.
 blightflame_first_of_dragons_bestiary: Once the father of dragonkind, Blightflame is now a skeletal servant of the Charred Sovereign. His original name, like his former power, is lost to time.
+spiky_turtle_bestiary:A living fortress clad in a spiked shell, the Spiky Turtle is slow but nearly indestructible. Few predators dare to challenge its patience, for when it strikes, it does so with crushing force.
+rudolph_bestiary: -
+big_sack_goblin_bestiary: -
+angry_snowman_bestiary: -
+lich_bestiary:A mighty dark wizard who transcended the limits of mortality and wields the powers of life and death, harvesting souls to fuel its dreaded reign.
+corrupted_rat_bestiary: Twisted by dark forces, this rat is more than a scavenger—it is a harbinger of decay. Its glowing eyes and rotting form are warnings to all who cross its path.
+
 
 abnormous_tick_bounty:An oversized parasite thet will draw more than a bit of blood
 accursed_captain_hawk_bounty:A pirate captain older than most ships he plunders
@@ -1137,7 +1150,7 @@ gravekeeper_bounty:Black cloak hiding pale bone, this scythe is waiting for over
 hooded_stranger_bounty:Some trouble on the road
 lady_of_the_passage_bounty:A pale light in the depths reveals a final guardian
 light_slime_bounty:Suffused by faith
-lost_fairy_bounty:A menance of the fea realm
+lost_fairy_bounty:A menace of the fea realm
 lost_soul_bounty:Manifestation of a perished creature
 overseer_crab_bounty:Oversized shellfish
 protector_of_the_forest_heart_bounty:Near the centre of the great woods, a last line of defense
@@ -1529,3 +1542,9 @@ gemstone_fire_dragon_bounty: A rare sight, this dragon’s scales shimmer like j
 lady_of_the_vale_bounty: Unlike her serene sister, the Lady of the Passage, she is as fierce as the volcanic lands she rules. Her fiery spirit makes her both captivating and perilous, embodying Embervale’s untamed wrath.
 ignithor_the_charred_sovereign_bounty: Once a guardian god, Ignithor succumbed to Embervale’s flames, becoming a molten sovereign of rage. His wrath shakes the land, and every infernal creature bows to his searing dominion.
 blightflame_first_of_dragons_bounty: Once the father of dragonkind, Blightflame is now a skeletal servant of the Charred Sovereign. His original name, like his former power, is lost to time.
+spiky_turtle_bounty: A walking wall of spikes—take caution, for even its shell is a weapon.
+rudolph_bounty: -
+big_sack_goblin_bounty: -
+angry_snowman_bounty: -
+lich_bounty: An immortal tyrant bound to dark magic. Strike it down, but beware—death may not be the end.
+corrupted_rat_bounty: Once an ordinary pest, now a creature of decay and malice. Its bite spreads corruption, turning flesh into festering ruin.

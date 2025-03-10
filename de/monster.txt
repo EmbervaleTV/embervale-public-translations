@@ -633,7 +633,7 @@ goblin_rider_bestiary:Ihre Rüstung stammt aus früheren Raubzügen und gibt ein
 goblin_sorcerer_bestiary:Ihre Gewohnheit, Vögel zu zähmen, macht sie zu gefährlichen Spähern.
 flying_leech_bestiary:Ein findiger Arzt wollte diese Sauger nutzen, aber sein Glas zerbrach und setzte sie in einer Nachbarstadt frei.
 behemoth_bestiary:Dicke Haut, gefährliche Stoßzähne... serpentiner Schwanz und eine Mähne aus feurigem Haar?
-ice_snake_bestiary:Diese Schlangen scheinen das Stück Eis, das aus ihrem Kopf ragt, als Horn zu verwenden.
+ice_snake_bestiary:Diese Schlangen scheinen das Stück Eis, das aus ihrem Kopf ragt, als Horn zu nutzen.
 gnoll_shaman_bestiary:Ihre starken Gebräue scheinen der Grund für den manischen Ausdruck ihrer Stämme zu sein.
 undead_gnoll_bestiary:Ugh, nicht mehr so zum Streicheln geeignet.
 skeleton_commander_bestiary:Seine Rüstung und Ausrüstung deuten darauf hin, dass viel Mühe in die Erschaffung dieses Untoten gesteckt wurde.
@@ -1088,7 +1088,7 @@ gravekeeper_bounty:Ein schwarzer Umhang verbirgt bleichige Knochen, diese Sense 
 hooded_stranger_bounty:Ein bisschen Ärger auf der Straße.
 lady_of_the_passage_bounty:Ein bleiches Licht in der Tiefe enthüllt einen letzten Wächter.
 light_slime_bounty:Erfüllt von Glauben.
-lost_fairy_bounty:Eine Bedrohung des Feenreichs.
+lost_fairy_bounty:Eine Bedrohung aus dem Feenreich
 lost_soul_bounty:Manifestation einer verstorbenen Kreatur.
 overseer_crab_bounty:Übergroßer Schalentier
 protector_of_the_forest_heart_bounty:Nahe dem Zentrum des großen Waldes, eine letzte Verteidigungslinie
@@ -1521,3 +1521,21 @@ gemstone_fire_dragon_bounty:Ein seltener Anblick, die Schuppen dieses Drachens s
 lady_of_the_vale_bounty:Im Gegensatz zu ihrer ruhigen Schwester, der Herrin des Passes, ist sie so wild wie die vulkanischen Ländereien, die sie beherrscht. Ihr feuriger Geist macht sie sowohl faszinierend als auch gefährlich und verkörpert Embervales ungezähmten Zorn.
 ignithor_the_charred_sovereign_bounty:Einst ein Wächtergott, verfiel Ignithor den Flammen von Embervale und wurde zu einem glühenden Herrscher des Zorns. Sein Zorn erschüttert das Land, und jedes höllische Geschöpf beugt sich seiner sengenden Herrschaft.
 blightflame_first_of_dragons_bounty:Einst der Vater der Drachen, ist Blightflame nun ein skelettierter Diener des Verkohlten Herrschers. Sein ursprünglicher Name, wie auch seine frühere Macht, ist für alle Zeiten verloren.
+rudolph:Rudolph
+big_sack_goblin:Großsack-Goblin
+angry_snowman:Wütender Schneemann
+rudolph_bestiary:-
+big_sack_goblin_bestiary:-
+angry_snowman_bestiary:-
+rudolph_bounty:-
+big_sack_goblin_bounty:-
+angry_snowman_bounty:-
+spiky_turtle:Stachelige Schildkröte
+spiky_turtle_bestiary:Eine lebendige Festung, die in einem stacheligen Panzer gekleidet ist. Die Stachelige Schildkröte ist langsam, aber nahezu unzerstörbar. Wenige Raubtiere wagen es, ihre Geduld herauszufordern, denn wenn sie zuschlägt, tut sie dies mit zermalmender Kraft.
+spiky_turtle_bounty:Eine gehende Wand aus Stacheln—sei vorsichtig, denn selbst ihr Panzer ist eine Waffe.
+lich:Lich
+lich_bestiary:Ein mächtiger dunkler Zauberer, der die Grenzen der Sterblichkeit überschritten hat und die Kräfte von Leben und Tod beherrscht, um Seelen zu sammeln und seine gefürchtete Herrschaft zu nähren.
+lich_bounty:Ein unsterblicher Tyrann, gebunden an dunkle Magie. Schlagt ihn nieder, aber seid gewarnt—der Tod ist vielleicht nicht das Ende.
+corrupted_rat:Korrupte Ratte
+corrupted_rat_bestiary:Verdorben durch dunkle Mächte, ist diese Ratte mehr als ein Aasfresser – sie ist ein Vorbote des Verfalls. Ihre glühenden Augen und der verrottende Körper sind Warnungen für alle, die ihren Weg kreuzen.
+corrupted_rat_bounty:Einst ein gewöhnlicher Schädling, jetzt ein Wesen des Verfalls und der Bosheit. Ihr Biss verbreitet Verderben und verwandelt Fleisch in eiternen Ruin.

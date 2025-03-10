@@ -60,7 +60,7 @@ effect_healthy:Der Spieler fühlt sich außergewöhnlich gesund. // +25% Maximal
 healthy:Gesund
 effect_lucky:Der Spieler fühlt sich glücklich. // +25% Glück
 lucky:Glücklich
-effect_regenerating:Der Spieler regeneriert Gesundheit und kann nicht an Kämpfen teilnehmen. // +25% Gesundheit pro Runde
+effect_regenerating:Der Spieler regeneriert Gesundheit und kann nicht an Kämpfen teilnehmen, bis er vollständig geheilt ist. // +25% Gesundheit pro Runde
 regenerating:Regenierend
 effect_astral_healing:Der Spieler erhält magische Heilung von einem anderen Spieler. // +50% Gesundheit pro Runde
 astral_healing:Astrale Heilung
@@ -179,7 +179,7 @@ adventureCooldownEpic:Abenteuer-Abklingzeit um 10% verkürzt.
 youCanSelectRecipient:Du kannst den Empfänger von seltener oder höherer Beute auswählen!
 selectRandomPlayer:Zufälligen Spieler auswählen
 treasureOf:Schatz von
-banishConfirmation:Bist du sicher, dass du {{ playerToBanish.char.username }} aus diesem Abenteuer verbannen willst?
+banishConfirmation:Bist du sicher, dass du {{ playerToBanish }} zurück ins Training schicken möchtest? (Sie werden für den Rest dieses Abenteuers nicht verfügbar sein, aber trotzdem Beute erhalten)
 areYouSure:Bist du sicher?
 banish:Verbannen
 youCanStartNewAdventureIn:Du kannst ein neues Abenteuer beginnen in:
@@ -227,7 +227,7 @@ sortByHPHigh:Level: Höchste zuerst
 sortByLvlLow:Gesundheit: Niedrigste zuerst
 sortByLvlHigh:Gesundheit: Höchste zuerst
 youReceivedFromManipulationEnd:Du hast durch das Manipulieren von Stimmen verdient:
-alreadyBanished:{{ playerToBanish.char.username }} ist bereits verbannt.
+alreadyBanished:{{ playerToBanish.char.username }} trainiert bereits.
 invalidChoice:Ungültige Wahl.
 inAdventureFrom:Du befindest dich derzeit im Abenteuer von {inAdName}.
 effect_shadow_remains:Die Gestalt des Spielers ist nun ein Schatten. // Erleidet doppelten Magieschaden, 50 % weniger physischen Schaden.
@@ -276,7 +276,7 @@ divine_seal_description:Gegner erleidet 500% erhöhten Göttlichen Schaden währ
 divine_weapon_enchantment:Göttliche Waffenverzauberung
 divine_weapon_enchantment_description:Durchdringt Waffen mit Göttlicher Macht, ändert ihren Elementarschaden und fügt 25% Bonus Göttlichen Schaden hinzu.
 elven_quiver:Elfenköcher
-elven_quiver_description:Erhöht die Schnellzieh-Chance der Waldläufer um 15%.
+elven_quiver_description:Der Waldläufer hat nun eine 15%ige Chance, ein Relikt der Vergangenheit heraufzubeschwören: seine frühere Fähigkeit, Schnellziehen.
 executioner:Henker
 executioner_description:Hinrichtet Gegner, die unter 10% HP fallen.
 fire_sling:Feuerschleuder
@@ -338,6 +338,45 @@ requiredUnlocksTool:Benötigte Siege für die nächste Freischaltung
 requiredUnlocksToolTooltip:Es werden nur Kämpfe mit einem Beuteindikator von „Niedrig“ oder höher gezählt.
 adventureBestiaryRequired:Du musst dieses Monster mindestens einmal besiegen, um seinen Bestiarieneintrag freizuschalten und seine Werte anzusehen!
 toolActivatedForNextFight:Das Werkzeug wurde für den bevorstehenden Kampf aktiviert!
-adventureSettingFullscreen:Abenteuer im Vollbild-Modus spielen [Dies wird dein Spiel neu laden]
+adventureSettingFullscreen:[Experimentell] Spiele Abenteuer im Vollbildmodus [Dies wird dein Spiel neu laden]
 strong_armor:Starke Rüstung
 effect_strong_armor:Die Rüstung dieses Spielers hat sich als außergewöhnlich robust erwiesen. // +25 % Rüstung
+allPlayersReceivedTheirDailyLimit:Alle Spieler in deiner Lobby haben bereits ihr tägliches Abenteuertruhen-Limit erreicht. Möchtest du auf die Beute verzichten?
+forfeit:Verzichten
+votingEndsIn:Abstimmung endet in
+votingStartCountdown:Countdown starten
+8aeher_dt_hqjr:8aeher dt Hqjr
+effect_8aeher_dt_hqjr:8aek ndr hqou shqlt fndj.
+seeker_of_egir:Sucher von Egir
+effect_seeker_of_egir:Ich suche nach Schätzen in der kalten Tiefe des Abgrunds. Hüte dich vor den Wächtern, ihr Blick ist unkontrolliert. Egirs geben, aber mit Vorsicht, sie weben ihre Falle. In den Tiefen wirst du finden, was du wagen magst.
+haunted_by_egir:Heimgesucht von Egir
+effect_haunted_by_egir:Heimgesucht von einer alten, dunklen Präsenz.
+effect_training:Der Spieler trainiert. // Nicht mehr Teil des Abenteuers
+training:Training
+effect_deserter:Der Spieler hat die Gruppe verlassen. // Nicht mehr Teil des Abenteuers
+deserter:Deserteur
+noAdventureStartedName:{leaderName} leitet gerade kein Abenteuer.
+adventureLootReceivedToday:Beute aus heutigen Abenteuern gesammelt:
+roll:Würfeln
+check_agility:Geschickte Ausweichmanöver erforderlich.
+agility:Geschicklichkeit
+guardian_angel_activated:Guardian Angel [AKTIVIERT]
+effect_guardian_angel_activated:Eine göttliche Präsenz greift ein und stellt den gefallenen Spieler für einen letzten Kampf wieder her.
+effect_chef:Der Spieler hat außergewöhnliche kulinarische Fähigkeiten demonstriert. // Erhält Vorrang bei Kochprüfungen und einen 10-fachen Boost auf Kochfertigkeiten während Abenteuern.
+chef:Chef
+party:Gruppe
+check_adventure_item:Diese Option erfordert, dass die Gruppe {item_name} besitzt.
+strong:Stark
+effect_strong:Der Spieler besitzt außergewöhnliche körperliche Stärke. // +10% Stärke, +1 auf alle Stärke-Würfe
+wise:Weise
+effect_wise:Der Spieler hat tiefgründige Weisheit und Einsicht. // +10% Weisheit, +1 auf alle Weisheits-Würfe
+dexterous:Gewandt
+effect_dexterous:Der Spieler hat außergewöhnliche Beweglichkeit und Koordination. // +10% Geschicklichkeit, +1 auf alle Geschicklichkeits-Würfe
+errPartyNotOwningItem:Deine Gruppe hat nicht genug der erforderlichen Gegenstände, um über diese Option abzustimmen!
+noToolsExplanation:Du hast momentan kein Werkzeug. Du kannst während Abenteuern zufällig Werkzeuge erhalten, wenn du mindestens einmal abgestimmt hast!
+merchantNotEnoughPlayerToFaint:Deine Gruppe hat nicht genug wache Mitglieder dafür.
+merchantNoMorale:Die Moral deiner Gruppe ist zu niedrig!
+merchantDevilTooltip:Ich hungere nach den Seelen deiner Gruppenmitglieder. Wirst du sie für Schätze opfern?
+merchantMoraleTooltip:Ich gedeihe durch die Verzweiflung anderer. Wirst du trotzdem wagen, mit mir zu handeln?
+effect_sacrificed:Der Spieler wurde geopfert. // Nicht mehr Teil des Abenteuers
+sacrificed:Geopfert

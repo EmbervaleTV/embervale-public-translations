@@ -850,7 +850,7 @@ crystalshroud_bracers:Braçadeiras Crystalshroud
 acolythes_gloves:Luvas do Acólito
 wandering_witches_bracers:Braçadeiras da Bruxa Errante
 exiled_scholars_gloves:Luvas do Erudito Exilado
-wondrous_healers_gloves:Luvas do Curandeiro Maravilhoso
+wondrous_healers_gloves:Luvas Maravilhosas do Curandeiro
 silent_bracers:Braçadeiras Silenciosas
 foreststalker_hands:Mãos do Perseguidor da Floresta
 shadow_guards:Guardas das Sombras
@@ -876,7 +876,7 @@ goldweave_armguards:Braçadeiras de Tecido Dourado
 oceanleaf_arms:Braços de Folha do Oceano
 umbral_claws:Garras Umbráticas
 platinum_protectors:Protetores de Platina
-blood_crown_gauntlets:Manoplas da Coroa de Sangue
+blood_crown_gauntlets:Manoplas Coroa de Sangue
 hellfire_wrath:Ira do Fogo Infernal
 mirageforge_hands:Mãos da Forja de Miragens
 crystalshroud_hat:Chapéu Crystalshroud
@@ -999,3 +999,4 @@ thunderstrike:Golpe de Trovão
 divine_smite:Golpe Divino
 golden_order:Ordem Dourada
 blightreaver:Ceifador da Praga
+bronze_band:Banda de Bronze

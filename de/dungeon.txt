@@ -17,16 +17,5 @@ startDungeon:Dungeon beginnen
 dungeonAutoSell:Es befinden sich noch einige Gegenstände in deinem Dungeon-Inventar! Wenn du jetzt den Dungeon verlässt, gehen diese verloren!
 selectConsumablesForDungeon:Wähle die Tränke aus, die du mit in den Dungeon nehmen möchtest. Beachte, dass alle Gegenstände, die du in den Dungeon mitnimmst, verloren gehen, wenn du besiegt wirst.
 youDontHaveHealPotions:Du hast keine Heiltränke, die du zu deiner Dungeon-Tasche hinzufügen kannst.
-effect_gem_blessing:Der Spieler ist für {rounds} Runden gesegnet.  // +25% auf alle Werte
-gem_blessing:Juvelensegen
-lost_fairy_blessing:Segen der verlorenen Fee
-effect_lost_fairy_blessing:Der Spieler wird für {rounds} Runden von der verlorenen Fee gesegnet.  // +10% HP pro Raum
-gem_curse:Juwelenfluch
-effect_gem_curse:Der Spieler ist für {rounds} Runden verflucht.  // -5% auf alle Werte
-strength_buff:Stärkungsbonus
-effect_strength_buff:Der Spieler hat für {rounds} Runden einen Stärkungsbonus.  // +20% Stärke
-wisdom_buff:Weisheitsbonus
-effect_wisdom_buff:Der Spieler hat für {rounds} Runden einen Weisheitsbonus.  // +20% Weisheit
-cluttered_mind:Verwirrter Geist
-effect_cluttered_mind:Der Spieler ist für {rounds} Runden verwirrt.  // -20% Genauigkeit
 recommendedLevel:Empfohlenes Level
+enterDungeon:Betrete den Dungeon

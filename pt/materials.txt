@@ -180,3 +180,17 @@ pepper_flavor:Picante e quente, a pimenta é um ingrediente chave em muitos prat
 raw_pork_flavor:Recém abatida, esta carne de porco está pronta para ser cozinhada em uma refeição robusta para qualquer aventureiro.
 riverland_potato_flavor:Plantadas no solo fértil das terras ribeirinhas, estas batatas são um alimento básico para qualquer refeição simples.
 sea_salt_flavor:Grosso e saboroso, o sal marinho é colhido na beira do oceano, um ingrediente vital em qualquer cozinha.
+infested_gardens-key_description:Nível 10 - 30
+embervale-key_description:Nível 140 - 160
+bastion_of_light-key_description:Nível 130 - 150
+abandonded_wastelands-key_description:Nível 100 - 120
+dried_out_riverlands-key_description:Nível 20 - 40
+occupied_river_crossing-key_description:Nível 30 - 50
+island_of_beasts-key_description:Nível 70 - 90
+hidden_kingdom-key_description:Nível 60 - 80
+eternal_ice-key_description:Nível 80 - 100
+silver_mountains-key_description:Nível 90 - 110
+stranded_seafire-key_description:Nível 40 - 60
+deepwater_passage-key_description:Nível 50 - 70
+graveyard_of_the_nameless-key_description:Nível 120 - 140
+duskwood-key_description:Nível 110 - 130

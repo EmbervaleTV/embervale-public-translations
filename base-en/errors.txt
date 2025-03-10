@@ -14,6 +14,7 @@ invalidToken:<h3>Authentication failed</h3> Please ensure that your system clock
 errTwitchAccessNotGranted:Please grant access to your Twitch ID by clicking the little human icon on the bottom right!
 errNoInventoryItem:Inventory is empty!
 errInventoryIsFull:Your inventory is full! Please sell some items!
+errDungeonInventoryIsFull:You cannot carry additional items into this dungeon!
 errMaterialInventoryIsFull:Your material inventory is full! You can craft something or spend your materials at the Merchant in the shop!
 errConsumableInventoryIsFull:Your consumable inventory is full!
 errConsumableInventoryWouldBeFull:This would make your consumable bag too heavy!
@@ -46,6 +47,7 @@ errInvalidAppearanceType:This appearance type is invalid!
 errInvalidAppearanceColor:This appearance color is invalid!
 
 errNoStamina:You don't have any stamina left!
+errNotAllowed:This action is not allowed.
 
 twitchBotRemoved:The bot will leave now. Thank you for playing Embervale.
 

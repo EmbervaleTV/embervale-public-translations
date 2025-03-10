@@ -2,7 +2,7 @@ evhelp:Здесь вы можете найти все команды:
 notStarted:Твое путешествие еще не началось!
 cmdUnknownError:Произошла неизвестная ошибка!
 serverOverload:Сервер перегружен! Пожалуйста, повторите попытку позже.
-twitchbotNoAccount:Пожалуйста, создайте своего персонажа в расширении Embervale!
+twitchbotNoAccount:Пожалуйста, создайте своего персонажа в дополнении Embervale под трансляцией!
 twitchbotNoActiveChar:Пожалуйста, войдите с вашим персонажем через расширение Embervale или добавьте имя персонажа в конец любой команды.
 adventureNotActive:Активных приключений нет!
 adventureAlreadyIn:Вы уже в приключении!
@@ -34,3 +34,22 @@ adventureLeaderLeaveForbidden:Лидер не может покинуть при
 twitchbotCharNotFound:Ваш персонаж не найден! Пожалуйста, проверьте написание.
 twitchbotTargetNoAccount:Выбранный игрок ещё не создал своего первого персонажа в Embervale!
 twitchbotTargetYourself:Вы не можете атаковать себя!
+raidNoMonster:Мы ожидаем новых приказов от лорда Сандера Клауса!
+raidMonsterAlreadyDefeated:Группа уже победила {translated_monster_name}! Мы ожидаем новых приказов от лорда Сандера Клауса!
+raidYouDealtDmg:{playername} поразил {monster}, нанеся урон {amount}!
+raidYouDealtTotalDmg:{playername} атаковал {attackAmount} раз, нанеся в общей сложности урон {amount}!
+raidMonster1:Морозный, порождение Титана
+raidMonster2:Мятный Разрушитель
+raidMonster3:Крынглкрушитель, Ломатель Саней
+raidStart:{translated_monster} атакует мое королевство! Лорд Сандер Клаус нуждается в вашей помощи. Введите !evraid join, чтобы принять участие в защите!
+raidNoPass:Тебе нужно холодное приглашение от лорда Сандера Клауса, чтобы помочь!
+raisePassConsumeError:Вы можете использовать этот предмет только в чате. Введите !evraid join, чтобы принять участие в защите!
+raidMonster4:Снежный Страж Метели
+raidMonster5:Юлетайдский Опустошитель
+raidMonster6:Имбирный Захватчик, Пожиратель Печенья
+raidMonster7:Страж Вечного Мороза
+raidMonster8:Гнев Омелы, Вестник Холли
+raidMonster9:Ужас Блесток, Чудовище Гирлянды
+raidMonster10:Песнелом, Разрушитель Песен
+raidNoActiveRaid:В данный момент нет активного рейда.
+adventureSurrenderConfirmation:Вы можете завершить приключение в любое время, сдавшись, без потери добычи.

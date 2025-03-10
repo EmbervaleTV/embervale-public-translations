@@ -17,16 +17,5 @@ startDungeon:Commencer le Donjon
 dungeonAutoSell:Il reste encore des objets dans votre inventaire de donjon ! Si vous quittez le donjon maintenant, ils seront perdus !
 selectConsumablesForDungeon:Sélectionne les potions que tu souhaites emporter dans le donjon. Note que tous les objets amenés dans le donjon seront perdus si tu es vaincu.
 youDontHaveHealPotions:Tu n'as pas de potions de santé disponibles à ajouter à ton sac de donjon.
-effect_gem_blessing:Le joueur est béni pour {rounds} tours.  // +25% à toutes les statistiques
-gem_blessing:Bénédiction de Gemme
-lost_fairy_blessing:Bénédiction de la Fée Perdue
-effect_lost_fairy_blessing:Le joueur est béni par la Fée Perdue pour {rounds} tours.  // +10% PV chaque salle
-gem_curse:Malédiction de Gemme
-effect_gem_curse:Le joueur est maudit pour {rounds} tours.  // -5% à toutes les stats
-strength_buff:Renforcement de la Force
-effect_strength_buff:Le joueur est renforcé pour {rounds} tours.  // +20% force
-wisdom_buff:Renforcement de la Sagesse
-effect_wisdom_buff:Le joueur est renforcé pour {rounds} tours.  // +20% sagesse
-cluttered_mind:Esprit Brouillé
-effect_cluttered_mind:Le joueur est confus pour {rounds} tours.  // -20% précision
 recommendedLevel:Niveau Recommandé
+enterDungeon:Entrer dans le donjon

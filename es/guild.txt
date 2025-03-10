@@ -11,8 +11,8 @@ confirmGuildInvite:¿Estás seguro de que quieres invitar a {username} a tu grem
 confirmGuildKick:¿Estás seguro de que quieres echar a {username}?
 lastActivity:Última actividad
 leave:Salir
-addNewRole:¡Ingresa el nombre del rol que deseas agregar!
-renameRole:Si quieres cambiar el nombre del rol {role}, ¡cámbialo y presiona guardar!
+addNewRole:¡Por favor, introduce el nombre del rol que te gustaría añadir!
+renameRole:Para renombrar el rol {role}, ingresa el nuevo nombre y presiona guardar.
 deleteRole:Eliminar rol
 deleteGuild:Eliminar gremio
 guildDescription:Descripción del gremio
@@ -21,7 +21,6 @@ PERMISSION_ADMIN:Líder
 PERMISSION_CO_ADMIN:Líder de visados
 PERMISSION_KICK_MEMBER:Miembro de Kick
 PERMISSION_EDIT_DESCRIPTION:Descripción del gremio
-PERMISSION_EDIT_FEE:Tarifa de edición
 PERMISSION_INVITE_MEMBER:Invitar a un miembro
 createYourGuild:Crea tu gremio
 acceptInvite:Aceptar invitación
@@ -35,6 +34,29 @@ more_slots_lvl3:Ganas 2 puestos de gremio adicionales
 defense_lvl0:-
 defense_lvl1:Este artículo no sirve para nada todavía
 defense_lvl2:Este artículo no sirve para nada todavía
-inviteTextarea:¡Comparte por qué los jugadores deberían unirse a tu gremio!
-thisPlayerAlreadyJoinedOtherGuild:Este jugador ya se unió a otro gremio.
+inviteTextarea:¡Destaca los beneficios de unirte a tu gremio!
+thisPlayerAlreadyJoinedOtherGuild:Este jugador ya se ha unido a otro gremio.
 PERMISSION_WRITE_IN_GUILD_CHAT:Enviar mensaje de chat
+memberSince:Miembro desde
+PERMISSION_EDIT_UPGRADES:Controla las mejoras
+guildless:Sin gremio
+invite:Invitar
+applications:Aplicaciones
+invites:Invitaciones
+noApplications:Ningún jugador se ha postulado a tu gremio aún.
+noInvites:No hay invitaciones pendientes para tu gremio.
+joinTextarea:¡Demuestra por qué serías una valiosa adición al gremio!
+apply:Aplicar
+applicationSent:¡Tu solicitud ha sido enviada con éxito!
+accept:Aceptar
+decline:Rechazar
+invitationSent:¡Tu invitación ha sido enviada con éxito!
+revoke:Revocar
+from:De
+inviteConfirmation:¿Estás seguro de que quieres aceptar a {name} en tu gremio?
+rejectConfirmation:¿Estás seguro de que quieres rechazar a {name} de unirse?
+kick:Patada
+revokeConfirmation:¿Estás seguro de que quieres revocar la invitación de {name} para unirse?
+chatNoPermission:No tienes permiso...
+hideSystemMsg:Ocultar mensajes del sistema
+showSystemMsg:Mostrar mensajes del sistema

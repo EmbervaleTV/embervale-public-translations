@@ -850,7 +850,7 @@ crystalshroud_bracers:Braciles de Manto de Cristal
 acolythes_gloves:Guantes del Acólito
 wandering_witches_bracers:Brazaletes de la Bruja Errante
 exiled_scholars_gloves:Guantes del Erudito Exiliado
-wondrous_healers_gloves:Guantes del Sanador Maravilloso
+wondrous_healers_gloves:Guantes Maravillosos del Sanador
 silent_bracers:Braciles Silenciosos
 foreststalker_hands:Manos de Rastreador del Bosque
 shadow_guards:Guardianes de Sombra
@@ -876,7 +876,7 @@ goldweave_armguards:Guardabrazos de Tejido Dorado
 oceanleaf_arms:Brazos de Hoja Oceánica
 umbral_claws:Garras Umbrías
 platinum_protectors:Protectores de Platino
-blood_crown_gauntlets:Guanteletes de Corona de Sangre
+blood_crown_gauntlets:Guanteletes de la Corona de Sangre
 hellfire_wrath:Ira de Fuego Infernal
 mirageforge_hands:Manos de Forja de Espejismo
 crystalshroud_hat:Sombrero de Crystalshroud
@@ -999,3 +999,4 @@ thunderstrike:Golpe de Trueno
 divine_smite:Golpe Divino
 golden_order:Orden Dorada
 blightreaver:Segador de Plaga
+bronze_band:Banda de bronce

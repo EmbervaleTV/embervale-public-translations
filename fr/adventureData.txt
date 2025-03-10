@@ -12,7 +12,7 @@ currentLoggedIn:Vous êtes actuellement connecté en tant que :
 youCanSelectRecipient:Tu peux sélectionner le destinataire d'un butin rare ou supérieur !
 selectRandomPlayer:Sélectionner un joueur au hasard
 treasureOf:Trésor de
-banishConfirmation:Es-tu sûr de vouloir bannir {{ playerToBanish.char.username }} de cette aventure ?
+banishConfirmation:Es-tu sûr de vouloir renvoyer {{ playerToBanish }} à l'entraînement ? (Ils ne seront pas disponibles pour le reste de cette aventure mais recevront tout de même du butin)
 areYouSure:Es-tu sûr ?
 banish:Bannir
 youCanStartNewAdventureIn:Vous pouvez commencer une nouvelle aventure dans :
@@ -71,7 +71,7 @@ effect_healthy:Le joueur se sent exceptionnellement en bonne santé. // +25% de 
 healthy:En bonne santé
 effect_lucky:Le joueur se sent chanceux. // +25% de chance
 lucky:Chanceux
-effect_regenerating:Le joueur régénère sa santé et ne peut pas participer aux combats. // +25% de santé par tour
+effect_regenerating:Le joueur régénère sa santé et ne peut pas rejoindre les batailles tant qu'il n'est pas complètement guéri. // +25% santé par tour
 regenerating:Régénération
 effect_astral_healing:Le joueur reçoit des soins magiques d'un autre joueur. // +50% de santé par tour
 astral_healing:Soin Astral
@@ -227,7 +227,7 @@ sortByHPHigh:Niveau : Le plus haut en premier
 sortByLvlLow:Santé : Le plus bas en premier
 sortByLvlHigh:Santé : Le plus haut en premier
 youReceivedFromManipulationEnd:Vous avez gagné grâce à la manipulation de vote :
-alreadyBanished:{{ playerToBanish.char.username }} est déjà banni.
+alreadyBanished:{{ playerToBanish.char.username }} est déjà en entraînement.
 invalidChoice:Choix invalide.
 inAdventureFrom:Vous êtes actuellement dans l'aventure de {inAdName}.
 effect_shadow_remains:La forme du joueur est maintenant une ombre. // Subit des dégâts magiques doublés, 50 % de dégâts physiques en moins.
@@ -262,7 +262,7 @@ arcane_weapon_enchantment_description:Imprègne les armes de pouvoir Arcane, mod
 ballista_bolt:Boulon de Baliste
 ballista_bolt_description:Inflige immédiatement 10% de la santé actuelle de l'adversaire en dégâts.
 bewilderbrew:Boisson de Confusion
-bewilderbrew_description:Alcool fort qui confond l'adversaire, ajoutant 10% de chances qu'il se blesse lui-même.
+bewilderbrew_description:Alcool fort qui rend confus l'adversaire, ajoutant 10% de chances qu'il se blesse lui-même.
 blood_curse:Malédiction de Sang
 blood_curse_description:Empêche l'adversaire de se soigner.
 bloody_knife:Couteau Sanglant
@@ -276,7 +276,7 @@ divine_seal_description:L'adversaire reçoit 500% de dégâts Divins supplément
 divine_weapon_enchantment:Enchantement d'Arme Divine
 divine_weapon_enchantment_description:Imprègne les armes de pouvoir Divin, modifiant leurs dégâts élémentaires et ajoutant 25% de dégâts Divins bonus.
 elven_quiver:Carquois Elfique
-elven_quiver_description:Augmente de 15 % la chance de Tir Rapide des Rangers.
+elven_quiver_description:Le Rôdeur a désormais 15 % de chances d'invoquer une relique du passé : son ancienne capacité, Dégainage Rapide.
 executioner:Bourreau
 executioner_description:Exécute les adversaires qui tombent sous 10% de PV.
 fire_sling:Fronde de Feu
@@ -338,6 +338,45 @@ requiredUnlocksTool:Victoires requises pour le prochain déverrouillage
 requiredUnlocksToolTooltip:Seules les batailles avec un indicateur de butin "Faible" ou supérieur sont comptées.
 adventureBestiaryRequired:Vous devez vaincre ce monstre au moins une fois pour débloquer son entrée dans le bestiaire et voir ses statistiques !
 toolActivatedForNextFight:L'outil a été activé pour le prochain combat !
-adventureSettingFullscreen:Jouer à des aventures en mode plein écran [Cela rechargera votre jeu]
+adventureSettingFullscreen:[Expérimental] Jouez aux aventures en mode plein écran [Cela rechargera votre jeu]
 strong_armor:Armure Robuste
 effect_strong_armor:L'armure de ce joueur s'est avérée extraordinairement robuste.  // +25% armure
+allPlayersReceivedTheirDailyLimit:Tous les joueurs de ton lobby ont déjà atteint leur limite quotidienne de coffres d'aventure. Veux-tu renoncer au butin ?
+forfeit:Renoncer
+votingEndsIn:Le vote se termine dans
+votingStartCountdown:Lancement du compte à rebours
+8aeher_dt_hqjr:8aeher dt Hqjr
+effect_8aeher_dt_hqjr:8aek ndr hqou shqlt fndj.
+seeker_of_egir:Chasseur d'Egir
+effect_seeker_of_egir:Je cherche un trésor dans le froid de l'abîme profond, Prenez garde aux guetteurs, leur regard incontrôlé. Egirs donnent, mais avec prudence, ils tissent leur piège, Dans les profondeurs, vous trouverez ce que vous osez.
+haunted_by_egir:Hanté par Egir
+effect_haunted_by_egir:Hanté par une présence ancienne et sombre.
+effect_training:Le joueur s'entraîne. // Ne fait plus partie de l'aventure
+training:Entraînement
+effect_deserter:Le joueur a quitté le groupe. // Ne fait plus partie de l'aventure
+deserter:Déserteur
+noAdventureStartedName:{leaderName} ne dirige pas d'aventure en ce moment.
+adventureLootReceivedToday:Butin collecté lors des aventures aujourd'hui :
+roll:Lancer
+check_agility:Esquives rapides nécessaires.
+agility:Agilité
+guardian_angel_activated:Ange Gardien [ACTIVÉ]
+effect_guardian_angel_activated:Une présence divine intervient, ressuscitant le joueur tombé pour un dernier combat.
+effect_chef:Le joueur a démontré des compétences culinaires exceptionnelles. // Obtient la priorité lors des tests de cuisine et un bonus de 10x à la compétence de cuisine pendant les aventures.
+chef:Chef
+party:Fête
+check_adventure_item:Cette option nécessite que le groupe possède {item_name}.
+strong:Fort
+effect_strong:Le joueur possède une force physique exceptionnelle. // +10% force, +1 à tous les jets de force
+wise:Sage
+effect_wise:Le joueur possède une sagesse et une perspicacité profondes. // +10% sagesse, +1 à tous les jets de sagesse
+dexterous:Adroit
+effect_dexterous:Le joueur possède une agilité et une coordination exceptionnelles. // +10% dextérité, +1 à tous les jets de dextérité
+errPartyNotOwningItem:Votre groupe n’a pas assez des objets requis pour voter sur cette option !
+noToolsExplanation:Vous n'avez actuellement aucun outil. Vous pouvez recevoir des outils aléatoirement lors des aventures si vous avez voté au moins une fois !
+merchantNotEnoughPlayerToFaint:Votre groupe n'a pas assez de membres conscients pour faire cela.
+merchantNoMorale:Le moral de votre groupe est trop bas !
+merchantDevilTooltip:J'ai faim des âmes de vos compagnons de groupe. Les sacrifierez-vous pour des trésors ?
+merchantMoraleTooltip:Je me nourris du désespoir des autres. Oserez-vous encore commercer avec moi ?
+effect_sacrificed:Le joueur a été sacrifié. // Ne fait plus partie de l'aventure
+sacrificed:Sacrifié

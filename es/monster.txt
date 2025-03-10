@@ -633,7 +633,7 @@ goblin_rider_bestiary:Su armadura es reciclada de incursiones pasadas y da una i
 goblin_sorcerer_bestiary:Su hábito de domesticar aves los hace exploradores peligrosos.
 flying_leech_bestiary:Un doctor emprendedor quería utilizar estos chupadores, pero su frasco se rompió y los liberó en una ciudad vecina.
 behemoth_bestiary:Piel gruesa, colmillos peligrosos... cola serpentina y una melena de cabello ardiente.
-ice_snake_bestiary:Estas serpientes parecen usar el trozo de hielo que sobresale de su cabeza como un cuerno.
+ice_snake_bestiary:Estas serpientes parecen usar el trozo de hielo que sobresale de su cabeza como cuerno
 gnoll_shaman_bestiary:Sus poderosas pociones parecen ser la causa de la expresión maníaca de su tribu.
 undead_gnoll_bestiary:Uf, ya no es tan acariciable.
 skeleton_commander_bestiary:Su armadura y equipamiento indican que se puso mucho esfuerzo en crear este no-muerto.
@@ -1521,3 +1521,21 @@ gemstone_fire_dragon_bounty:Una visión rara, las escamas de este dragón brilla
 lady_of_the_vale_bounty:A diferencia de su hermana serena, la Dama del Paso, ella es tan feroz como las tierras volcánicas que gobierna. Su espíritu ardiente la hace cautivadora y peligrosa, encarnando la ira indómita de Embervale.
 ignithor_the_charred_sovereign_bounty:Antiguamente un dios guardián, Ignithor sucumbió a las llamas de Embervale, convirtiéndose en un soberano de ira fundida. Su ira sacude la tierra, y cada criatura infernal se inclina ante su ardiente dominio.
 blightflame_first_of_dragons_bounty:En otro tiempo el padre de los dragones, Blightflame es ahora un siervo esquelético del Soberano Chamuscado. Su nombre original, al igual que su antiguo poder, se ha perdido en el tiempo.
+rudolph:Rudolph
+big_sack_goblin:Goblin de Gran Saco
+angry_snowman:Muñeco de Nieve Enfadado
+rudolph_bestiary:-
+big_sack_goblin_bestiary:-
+angry_snowman_bestiary:-
+rudolph_bounty:-
+big_sack_goblin_bounty:-
+angry_snowman_bounty:-
+spiky_turtle:Tortuga espinosa
+spiky_turtle_bestiary:Una fortaleza viviente revestida de un caparazón con púas, la Tortuga Espinosa es lenta pero casi indestructible. Pocos depredadores se atreven a desafiar su paciencia, porque cuando ataca, lo hace con una fuerza aplastante.
+spiky_turtle_bounty:Una pared andante de espinas—ten cuidado, pues incluso su caparazón es un arma.
+lich:Lich
+lich_bestiary:Un poderoso mago oscuro que trascendió los límites de la mortalidad y maneja los poderes de la vida y la muerte, cosechando almas para alimentar su temida dominación.
+lich_bounty:Un tirano inmortal atado a la magia oscura. Derríbalo, pero ten cuidado: la muerte podría no ser el final.
+corrupted_rat:Ratón Corrupto
+corrupted_rat_bestiary:Retorcido por fuerzas oscuras, este ratón es más que un carroñero—es un heraldo de la decadencia. Sus ojos brillantes y su forma putrefacta son advertencias para todos los que cruzan su camino.
+corrupted_rat_bounty:Una vez una plaga ordinaria, ahora una criatura de decadencia y malicia. Su mordedura esparce corrupción, convirtiendo la carne en ruina supurante.

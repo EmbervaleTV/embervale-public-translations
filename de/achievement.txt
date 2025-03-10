@@ -86,7 +86,7 @@ defeat_mage_class_in_arena:Besiege {amount} Magier in Arenakämpfen
 defeat_knight_class_in_arena:Besiege {amount} Ritter in Arenakämpfen
 defeat_ranger_class_in_arena:Besiege {amount} Waldläufer in Arenakämpfen
 defeat_warrior_class_in_arena:Besiege {amount} Krieger in Arenakämpfen
-repeatable__participate_in_adventures:[Wiederholbar] Nimm an {amount} Abenteuern teil
+repeatable__participate_in_adventures:Nimm an {amount} Abenteuern teil
 vote_in_adventures:Gib {amount} Stimmen in Abenteuer ab
 complete_elemental_butterflies_glossary:Füge alle {amount} elementaren Schmetterlinge deinem Glossar hinzu
 event:Ereignis
@@ -106,7 +106,7 @@ complete_dungeon_12:Schließe 'Friedhof der Namenlosen' ab
 complete_dungeon_13:Schließe 'Bastion des Lichts' ab
 complete_dungeon_14:Schließe 'Embervale' ab
 complete_dungeon_5:Schließe 'Tiefwasserpassage' ab
-repeatable__refer_a_streamer:[Wiederholbar] Empfehle neue Streamer für Embervale.TV
+repeatable__refer_a_streamer:Empfehle neue Streamer an Embervale.TV
 referStreamer:Empfiehl einen Streamer
 referStreamerReq1:Der Streamer muss deinen Twitch-Namen eingeben, wenn er seinen ersten Charakter erstellt.
 referStreamerReq2:Der Streamer muss ein Twitch-Affiliate oder -Partner sein.
@@ -118,3 +118,23 @@ tutorial:Tutorial
 complete_daily_mission:Schließe {amount} tägliche Missionen ab
 defeat_a_player_in_chat:Besiege einen anderen Spieler mit dem !evbattle-Befehl.
 cantDonateBundles:Es tut mir leid, aber ich kann keine Bündel als Spenden annehmen.
+activate_tools:Aktiviere {amount} Werkzeuge in Abenteuern
+join_raid:Hilf Lord Sander Klause bei {amount} Raids
+cantDonateThis:Es tut mir leid, aber ich kann diese Spende nicht annehmen.
+referFirstStreamer:Die erste Empfehlung gewährt dir den Abenteurer-Rüstungs-Skin für all deine Charaktere!
+goodItemInShop:Ein mythischer Gegenstand ist derzeit im Laden. Bist du sicher, dass du aktualisieren möchtest?
+reachMaxReputation:Erreiche das maximale Ansehen beim Ladenbesitzer.
+defeat_rogue_class_in_bounties:Besiege {amount} Schurken in Kopfgeldern
+defeat_mage_class_in_bounties:Besiege {amount} Magier in Kopfgeldern
+defeat_knight_class_in_bounties:Besiege {amount} Ritter in Kopfgeldern
+defeat_ranger_class_in_bounties:Besiege {amount} Waldläufer in Kopfgeldern
+defeat_warrior_class_in_bounties:Besiege {amount} Krieger in Kopfgeldern
+bestiary_dex_entry_hint:Zeigt einen Indikator bei Kopfgeldern an, wenn du den entsprechenden Bestiariumseintrag nicht hast.
+item_dex_entry_hint:Zeigt einen Indikator auf Gegenständen, wenn du den entsprechenden Glossareintrag nicht hast.
+reach_alchemist_level:Erreiche Alchemie-Level {lvl}
+reach_smith_level:Erreiche Schmiede-Level {lvl}
+reach_cook_level:Erreiche Koch-Level {lvl}
+repeatable:Wiederholbar
+win_in_the_arena:Gewinne {amount} Mal in der Arena
+repeatable__host_adventures__public:Veranstalte {amount} Abenteuer, gehe durch Raum 25 und tue dies unter der Embervale.TV-Kategorie mit unbeschränktem Chat.
+repeatable__activate_tools__public:Aktiviere {amount} Werkzeuge in Abenteuern mit mehr als 10 aktiven Spielern

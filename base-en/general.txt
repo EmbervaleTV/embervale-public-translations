@@ -26,12 +26,19 @@ settings:Settings
 page:Page
 of:of
 or:or
+and:And
 max:Max
 help:Help
+average:Average
+sortBy:Sort By
+date:Date
+selected:Selected
 
 // settings
 imageResolution:Image Resolution
+imageResolutionTip:(Only switch to low if images are loading slowly)
 controls:Controls
+controlsTip:(Choose desktop for mouse input and mobile for touch controls)
 currentlyPlaying:Currently Playing
 musicVolume:Music Volume
 effectsVolume:Effects Volume
@@ -40,11 +47,16 @@ mobileOptimized:Mobile Optimized
 reloadExtension:Reload Extension
 version:Version
 langauge:Language
+language:Language
 credits:Credits
 code:Code
 voucher:Voucher
 optional:Optional
 own:Own
+limitFPS:Cap animation FPS
+limitFPSTip:(Lowering FPS can optimize performance by using fewer resources)
+dangerZone:Danger Zone
+patreonThanks:The Project would never be possible without our Patreons. Much love to all of you ♥ And a special thanks to our:
 
 newUpdate:A new update is available.
 pleaseReload:Please reload!
@@ -205,6 +217,9 @@ youGainBonusXP:{percentage}% bonus XP vs Monsters
 newBestiaryEntry:New bestiary entry:
 newGlory:New glory:
 newGlossaryEntries:New glossary entries:
+newOutfitDiscovered:Outfit added to Glossary:
+youCompletedThisCategory:You have fully completed this category.
+hideObtainedEntries:Hide Completed Entries
 
 // pvp
 challengeOpponent:Do you want to challenge {opponent}?
@@ -230,7 +245,6 @@ adventure:Adventure
 crafting:Crafting
 dungeon:Dungeon
 achievement:Achievement
-imageResolution:Image Resolution
 high:High
 medium:Medium
 low:Low
@@ -261,15 +275,20 @@ sellItemConfirmation:Are you sure you want to sell {item}?
 sell:Sell
 info:Infos
 purchase:Purchase
+purchaseSuccess:Thank you for your purchase!
 newItemSlot:A new item slot has been added to the shop!
 shopRefresh:Shop Refresh
 freeShopRefresh:Free Shop Refresh
-shopRefreshTooltip:You can refresh the shop for free once per day. Using copper or arcanites to refresh the shop will not reset the daily free refresh timer.
+shopRefreshTooltip:You can refresh the shop for free every 20 hours. Using copper or arcanites to refresh the shop will not reset the daily free refresh timer.
+shopRefreshTooltipNextRefresh:Next free refresh in:
 buyArcanites:Buy Arcanites
 arcaniteShop:Arcanite Shop
-emeraldShop:Arcanite Shop
+
 buyBundle:Buy Bundle
+purchaseBundle:Purchase Bundle
 donate:Donate
+reputation:Reputation
+reputationProgressTooltip:Collect { points } reputation to hit { percentage }%
 reputationExplaination:Donate unused materials to the merchant to increase your reputation and receive temporarily better items!
 reputationShopKeeperExplaination1:Greetings, traveler! I’m happy to buy any equipment you wish to sell.
 reputationShopKeeperExplaination2:If you have spare materials or consumables, feel free to donate them—I’ll make good use of them.
@@ -279,6 +298,9 @@ reputationDonateConfirmation:You are about to donate {materialAmountToSpend} out
 shopRerollInfo1:Once your reputation reaches 100%, the shopkeeper will no longer offer common items.
 shopRerollInfo2:The chances listed below represent the probability for each item in a single roll. If you have unlocked 8 shop slots, the chances apply 8 times, once for each slot.
 shopRerollInfo3:The chances are rounded to three decimal places
+shopRerollInfo4:The reward system safeguards players from bad luck when refreshing the shop:
+shopPityMythicalInfo:Guaranteed Mythical
+shopPityLegendaryInfo:Guaranteed Legendary
 shopRerollBaseChance:Base chance with 0% reputation per item
 copperExplaination:100 Copper is equal to 1 Silver, and 100 Silver is equal to 1 Gold
 
@@ -294,6 +316,7 @@ watchVideo:Watch video
 completeOffers:Complete offers to earn Arcanites
 creatorCode:Creator Code
 allPricesIncVat:All prices include VAT.
+purchaseWithCreatorCode:{name} just purchased {product} and supported you with your creator code: {crco}
 
 confirmGiftingBundleConsumable:Are you sure you want to gift the {bundleName} to {Playername}? They will receive a consumable to activate the bundle themselves. Arcanites will be added immediately.
 confirmPurchaseBundleConsumable:Are you sure you want to purchase {bundleName}?
@@ -302,6 +325,7 @@ successGiftingBundle:Thank you for gifting the {bundleName} to {Playername}!
 ayetStudioConfirming:Thank you for watching the ad! Your Arcanites should be credited to your account within the next 60 seconds. You can go ahead and close this window—we'll notify you once the credits are added!
 ayetStudioDailyLimit:Please come back tomorrow for more Arcanites!
 ayetStudioNoFill:Sorry, no ads are available at the moment. Please check back in a few minutes.
+ayetStudioAdExpired:Unfortunately, the ad has expired due to inactivity.
 ayetStudioNoFillRetry:Sorry, no ads available at the moment. Retrying in:
 cookebotNoConsent:You haven't accepted all required cookies, including marketing and analytics. This may prevent you from receiving rewarded ads.
 bundle:Bundle
@@ -323,10 +347,13 @@ extra:Extra
 beard:Beard
 readAndAccept:I've read and accept the
 tos:ToS
+termsOfService:Terms of Service
+privacyPolicy:Privacy Policy
 color:Color
 chooseName:Choose your name
 referrer:Referrer (Twitch name)
-barberRewardRefferer:I want to reward a referrer
+barberRewardRefferer:Referral Code (Optional)
+barberRequireSubscriptionTooltip:You must have an active subscription to select this hairstyle.
 referalNameInvalid:The referal name is invalid. Please correct or delete it.
 pleaseConfirmNameChange:Please confirm that you want to rename {current_name} to {new_name} for 25 Arcanites.
 deleteCharacter:Delete Character
@@ -349,7 +376,8 @@ hoarders-badge:Hoarder's Badge
 hoarders-badge_desc:Gold Gold Gold!
 halloween-2024-badge:Halloween 2024 Badge
 halloween-2024-badge_desc:Obtainable by completing all Halloween Event Missions
-
+christmas-2024-badge:Christmas 2024 Badge
+christmas-2024-badge_desc:Obtainable during the Christmas 2024 Event
 
 obtainedBy:Obtained by {obtained_by}% of players
 noBadge:No badge
@@ -395,6 +423,7 @@ claim_reward:Claim Reward
 reward:Reward
 completed:Completed
 alreadyClaimed:You have already claimed this reward. (This may occur if the game is open in multiple instances.)
+hideCompletedAchievements:Hide completed achievements
 
 // brewery
 material:Material
@@ -427,7 +456,7 @@ loadingTip1:It's a good idea to start an expedition before leaving to collect re
 loadingTip2:You can always reset your skill points, so you can match your points according to your armor!
 loadingTip3:Join our Discord to receive daily rewards!
 loadingTip4:This is supposed to be a tip, but we ran out of ideas.
-loadingTip5:Beating a dungeon for the first time guarantees a mythical chest.
+loadingTip5:Each crafting level expands your Material Inventory by 20 slots.
 loadingTip6:When selecting bounties, pay attention to the stamina-to-experience ratio when prioritizing leveling up.
 loadingTip7:Epic, Legendary, and Mythical items might have elemental affinities boosting your damage/resistance.
 loadingTip8:You can change the speed of combat during a battle.
@@ -435,7 +464,7 @@ loadingTip9:You can practice battle against players by clicking on their name in
 loadingTip10:Mages never miss their target. Only stealth can help evade their attacks.
 loadingTip11:Luck increases the damage of critical strikes.
 loadingTip12:Knights are heavily armored and carry a shield, giving them a natural advantage against dexterity-based classes.
-loadingTip13:The Ranger's quickdraw ability allows them to strike twice once in a while.
+loadingTip13:The Ranger's bleed ability inflicts a bleeding effect on the opponent, dealing damage over time and reducing their healing effectiveness.
 loadingTip14:Warriors use a lifestone to drain their enemies' HP with every hit. However, the power of the stone decays quickly.
 loadingTip15:The Rogue is a master of stealth and evasion, making it much harder for attackers to land hits.
 loadingTip16:Make sure to get your glossary filled to earn XP more quickly!
@@ -453,10 +482,10 @@ loadingTip27:Share your progress by typing !evflex in any channel with Embervale
 loadingTip28:We listen to your feedback. Join our Discord server to submit your suggestions!
 loadingTip29:Raising your character's level will allow you to find more recipes.
 loadingTip30:Struggling with a certain kind of enemy? Figure out their elemental weakness!
-loadingTip31:Winning in the arena not only grants you Glory but also a small portion of your opponent's gold!
-loadingTip32:If you lose gold to an attacker in the arena, you are protected from losing more for a while.
+loadingTip31:Victory in the arena rewards you with Glory, along with a bonus of XP and gold!
+loadingTip32:Refer a streamer to Embervale and earn 1000 Arcanites! Check the achievement tab for more details.
 loadingTip33:Use tools in adventures to increase your fame!
-loadingTip34:The shop receives a new batch of items for free 24 hours after your last reroll.
+loadingTip34:You can reroll the shop for free every 24 hours!
 loadingTip35:Completing a dungeon for the first time guarantees a Mythical Chest and expands your inventory capacity!
 loadingTip36:Dungeons have unique pools of monsters; collect them all to fill your Bestiary!
 
@@ -500,6 +529,7 @@ report:Report
 equipped:Equipped
 maximumFood:You can eat a maximum of 3 meals per day.
 potionAlreadyActive:You already have a potion active. This will overwrite your current active potion!
+potionSameTypeActive:You already have an xp potion active.
 todayYouAte:Today you ate {amount} meals.
 tradeable:Tradeable
 youCanGiftBundle:You can gift this person a Bundle.
@@ -510,6 +540,7 @@ receivesOnce:{ username } receives this once:
 youReceiveOnce:You receive this once:
 giftAnonymously:Gift Anonymously
 anonymously:Anonymously
+anonymous:Anonymous
 hideMyNameInChat:(This hides your name in the streamers chat when using creator code)
 giftBundle:Gift Bundle
 giftedYou:Gifted you
@@ -615,12 +646,6 @@ successfullyCrafted:Successfully crafted
 yourTitle:Your title
 title:Title
 
-// unused
-hero:Hero
-veteran:Veteran
-adventurer:Adventurer
-mercenary:Mercenary
-squire:Squire
 
 // achievement
 legendary_adventurer_male:Legendary Adventurer
@@ -653,6 +678,10 @@ squire_male:Squire
 squire_female:Squire
 councilor_male:Councilor
 councilor_female:Councilor
+provisioner_male:Provisioner
+provisioner_female:Provisioner
+guardian_male:Guardian
+guardian_female:Guardian
 unequip_male:Unequip title
 unequip_female:Unequip title
 
@@ -670,6 +699,22 @@ history:History
 cooking:Cooking
 class_slot:Class Slot
 gift:Gift
+
+
+// gear preset
+clickOnPresetToChange:Click a gear preset to update its icon.
+chooseIcon:Choose Icon
+updatePreset:Update Preset
+resetPreset:Reset Preset
+editPresetIcon:Edit Icons
+equipPreset:Equip Preset
+purchasePreset:Purchase Preset
+preset:Preset
+free:Free
+dontOwnPreset:You don't have a preset yet.
+confirmGearPresetPurchase:Confirm your gear preset purchase by clicking the button below.
+confirmGearPresetFreePurchase:The first two gear presets are free.
+cantSellItemsFromPreset:You cannot sell this item while it is part of a preset.
 
 // monster categories
 all:All

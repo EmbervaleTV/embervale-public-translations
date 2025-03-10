@@ -12,6 +12,7 @@ todo:To-do
 weekly:Weekly
 daily:Daily
 event:Event
+repeatable:Repeatable
 newMissionsIn:New missions in
 levelUp:Level up!
 
@@ -37,17 +38,26 @@ defeat_abomination_monster:Defeat {amount} abomination monsters
 defeat_dragon_monster:Defeat {amount} dragon monsters
 defeat_mimic_monster:Defeat {amount} mimic monsters
 
+// deprecated achievements!
 defeat_rogue_class:Defeat {amount} rogues
 defeat_mage_class:Defeat {amount} mages
 defeat_knight_class:Defeat {amount} knights
 defeat_ranger_class:Defeat {amount} rangers
 defeat_warrior_class:Defeat {amount} warriors
 
+defeat_rogue_class_in_bounties:Defeat {amount} rogues in bounties
+defeat_mage_class_in_bounties:Defeat {amount} mages in bounties
+defeat_knight_class_in_bounties:Defeat {amount} knights in bounties
+defeat_ranger_class_in_bounties:Defeat {amount} rangers in bounties
+defeat_warrior_class_in_bounties:Defeat {amount} warriors in bounties
+
 defeat_rogue_class_in_arena:Defeat {amount} rogues in arena battles
 defeat_mage_class_in_arena:Defeat {amount} mages in arena battles
 defeat_knight_class_in_arena:Defeat {amount} knights in arena battles
 defeat_ranger_class_in_arena:Defeat {amount} rangers in arena battles
 defeat_warrior_class_in_arena:Defeat {amount} warriors in arena battles
+
+win_in_the_arena:Win in the arena {amount} times
 
 // Collecting
 collect_items_bounties:Collect {amount} items in bounties
@@ -66,7 +76,8 @@ complete_bestiary:Complete {count}% of your Bestiary
 complete_materials_glossary:Discover {count}% of materials
 complete_items_glossary:Discover {count}% of items
 complete_elemental_butterflies_glossary:Add all {amount} Elemental Butterflies to your Glossary
-
+bestiary_dex_entry_hint:Displays an indicator on bounties if you don't have the corresponding Bestiary Entry.
+item_dex_entry_hint:Displays an indicator on items if you don't have the corresponding Glossary Entry.
 
 // Combat
 clear_bounties:Clear {amount} bounties
@@ -103,9 +114,9 @@ wear_full_set_of_mythical:Wear a full set of mythical items
 
 // Adventurer
 participate_in_adventures:Participate in {amount} adventures
-repeatable__participate_in_adventures:[Repeatable] Participate in {amount} adventures
 reach_fame:Reach {amount} fame
 vote_in_adventures:Cast {amount} votes in adventures
+activate_tools:Activate {amount} tools in adventures
 
 // Shop
 shop_reroll_5:Rerolling the shop costs 5% less copper
@@ -114,6 +125,9 @@ sell_items_in_shop:Sell {amount} items in the shop
 purchase_items_in_shop:Purchase {amount} items from the shop
 donate_materials:Donate {amount} materials to the merchant
 cantDonateBundles:I'm sorry, but I cannot accept bundles as donations.
+cantDonateThis:I'm sorry, but I cannot accept this donation.
+goodItemInShop:A Mythical item is currently in the shop. Are you sure you want to refresh?
+reachMaxReputation:Reach maximum reputation with the shopkeeper.
 
 // Extra
 claim_daily_bonus:Claim {amount} daily bonuses on our Discord
@@ -144,18 +158,29 @@ craft_alchemist:Craft {amount} alchemical items
 craft_smith:Forge {amount} smithing items
 craft_cook:Prepare {amount} meals
 
+reach_alchemist_level:Achieve Alchemy Level {lvl}
+reach_smith_level:Achieve Smithing Level {lvl}
+reach_cook_level:Achieve Cooking Level {lvl}
+
 use_potion:Drink {amount} potions
 use_food:Eat {amount} meals
 
 
 // event
 complete_all_event_missions:Complete and claim rewards for all {amount} event missions
+join_raid:Help Lord Sander Klause in {amount} Raids
+
+// repeatable
+repeatable__refer_a_streamer:Refer new streamers to Embervale.TV
+repeatable__participate_in_adventures:Participate in {amount} adventures
+repeatable__host_adventures__public:Host {amount} adventures, progress through Room 25, and do so under the Embervale.TV category with unrestricted chat.
+repeatable__activate_tools__public:Activate {amount} tools in adventures with more than 10 active players
 
 // other
 referStreamer:Refer a streamer
-repeatable__refer_a_streamer:[Repeatable] Refer new streamers to Embervale.TV
 referStreamerReq1:The streamer must enter your Twitch name when creating their first character.
 referStreamerReq2:The streamer must be a Twitch Affiliate or Partner.
 referStreamerReq3:The streamer must reach level 10 in Embervale.
 referStreamerReq4:The streamer must host at least 3 adventures.
 referStreamerWhenDone:Once all steps are completed, you'll receive your reward within 24 hours:
+referFirstStreamer:The first referral grants you the adventurer armor skin for all your characters!

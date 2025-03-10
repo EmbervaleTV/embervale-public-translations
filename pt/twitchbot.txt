@@ -2,7 +2,7 @@ evhelp:Você pode encontrar todos os comandos aqui:
 notStarted:Sua jornada ainda não começou!
 cmdUnknownError:Ocorreu um erro desconhecido!
 serverOverload:O servidor está sobrecarregado! Tente novamente mais tarde.
-twitchbotNoAccount:Crie seu personagem na extensão Embervale!
+twitchbotNoAccount:Por favor, crie seu personagem na extensão Embervale abaixo da transmissão!
 twitchbotNoActiveChar:Por favor, faça login com seu personagem através da extensão Embervale ou adicione o nome do personagem no final de qualquer comando.
 adventureNotActive:Não há aventura ativa!
 adventureAlreadyIn:Você já está em uma aventura!
@@ -34,3 +34,22 @@ adventureLeaderLeaveForbidden:O líder não pode deixar a aventura. Se você sel
 twitchbotCharNotFound:Seu personagem não foi encontrado! Por favor, verifique a ortografia.
 twitchbotTargetNoAccount:O jogador selecionado ainda não criou seu primeiro personagem Embervale!
 twitchbotTargetYourself:Você não pode atacar você mesmo!
+raidNoMonster:Estamos aguardando novas ordens do Lord Sander Klause!
+raidMonsterAlreadyDefeated:O grupo já derrotou {translated_monster_name}! Estamos aguardando novas ordens do Lord Sander Klause!
+raidYouDealtDmg:{playername} acertou {monster}, causando {amount} de dano!
+raidYouDealtTotalDmg:{playername} atacou {attackAmount} vezes, causando um total de {amount} de dano!
+raidMonster1:Frosty, o Titã Nascido do Mal
+raidMonster2:Agressor de Hortelã
+raidMonster3:Kringlecrusher, o Quebra-Trenos
+raidStart:{translated_monster} está atacando meu reino! Lorde Sander Klause precisa de sua ajuda. Digite !evraid join para participar da defesa!
+raidNoPass:Você precisa de um Convite Invernal do Lorde Sander Klause para ajudar!
+raisePassConsumeError:Você só pode usar este item no chat. Digite !evraid join para participar da defesa!
+raidMonster4:Desvio de Neve, o Guardião da Nevasca
+raidMonster5:Devastador Natalino
+raidMonster6:Gengibre, o Devorador de Biscoitos
+raidMonster7:Sentinela de Geada Eterna
+raidMonster8:Ira do Visco, o Arauto de Azevinho
+raidMonster9:Terror de Fita, o Demônio das Guirlandas
+raidMonster10:Carolvine, o Quebra-canções
+raidNoActiveRaid:Não há incursão ativa agora.
+adventureSurrenderConfirmation:Você pode encerrar a aventura a qualquer momento rendendo-se, sem perder nenhum saque.

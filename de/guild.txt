@@ -11,8 +11,8 @@ confirmGuildInvite:Bist du sicher, dass du {username} in deine Gilde einladen m�
 confirmGuildKick:Bist du sicher, dass du {username} kicken willst?
 lastActivity:Letzte Aktivität
 leave:Verlassen
-addNewRole:Bitte geben Sie den Namen der Rolle ein, die Sie hinzufügen möchten!
-renameRole:Wenn du den Namen der Rolle {role} ändern möchtest, ändere den Namen und drücke Speichern!
+addNewRole:Bitte gib den Namen der Rolle ein, die du hinzufügen möchtest!
+renameRole:Um die Rolle {role} umzubenennen, gib den neuen Namen ein und drücke auf Speichern!
 deleteRole:Rolle löschen
 deleteGuild:Gilde löschen
 guildDescription:Beschreibung der Gilde
@@ -21,7 +21,6 @@ PERMISSION_ADMIN:Anführer
 PERMISSION_CO_ADMIN:Vize-Leiter
 PERMISSION_KICK_MEMBER:Mitglied kicken
 PERMISSION_EDIT_DESCRIPTION:Beschreibung der Gilde
-PERMISSION_EDIT_FEE:Gebühr bearbeiten
 PERMISSION_INVITE_MEMBER:Mitglied einladen
 createYourGuild:Erstelle deine Gilde
 acceptInvite:Einladung annehmen
@@ -35,6 +34,29 @@ more_slots_lvl3:Du erhältst 2 zusätzliche Gildenplätze
 defense_lvl0:-
 defense_lvl1:Dieser Artikel ist noch nutzlos
 defense_lvl2:Dieser Artikel ist noch nutzlos
-inviteTextarea:Teile, warum Spieler deiner Gilde beitreten sollten!
+inviteTextarea:Betone die Vorteile, deiner Gilde beizutreten!
 thisPlayerAlreadyJoinedOtherGuild:Dieser Spieler ist bereits einer anderen Gilde beigetreten.
 PERMISSION_WRITE_IN_GUILD_CHAT:Chatnachricht senden
+memberSince:Mitglied seit
+PERMISSION_EDIT_UPGRADES:Upgrade-Steuerung
+guildless:Gildenlos
+invite:Einladen
+applications:Bewerbungen
+invites:Einladungen
+noApplications:Noch keine Spieler haben sich für eure Gilde beworben.
+noInvites:Es gibt keine ausstehenden Einladungen für eure Gilde.
+joinTextarea:Zeige, warum du eine wertvolle Ergänzung für die Gilde wärst!
+apply:Anwenden
+applicationSent:Deine Bewerbung wurde erfolgreich versendet!
+accept:Akzeptieren
+decline:Ablehnen
+invitationSent:Deine Einladung wurde erfolgreich gesendet!
+revoke:Widerrufen
+from:Von
+inviteConfirmation:Sind Sie sicher, dass Sie {name} in Ihre Gilde aufnehmen möchten?
+rejectConfirmation:Sind Sie sicher, dass Sie {name} ablehnen und nicht beitreten lassen möchten?
+kick:Tritt
+revokeConfirmation:Bist du sicher, dass du die Einladung von {name} widerrufen möchtest?
+chatNoPermission:Du hast keine Berechtigung...
+hideSystemMsg:Systemnachrichten ausblenden
+showSystemMsg:Systemnachrichten anzeigen

@@ -2,7 +2,7 @@ evhelp:Vous pouvez trouver toutes les commandes ici :
 notStarted:Votre voyage n'a pas encore commencé!
 cmdUnknownError:Une erreur inconnue s'est produite!
 serverOverload:Le serveur est surchargé! Veuillez réessayer ultérieurement.
-twitchbotNoAccount:Créez votre personnage dans l'extension Embervale!
+twitchbotNoAccount:Veuillez créer votre personnage dans l'extension Embervale sous le flux !
 twitchbotNoActiveChar:Veuillez vous connecter avec votre personnage via l'extension Embervale ou ajouter le nom du personnage à la fin de n'importe quelle commande.
 adventureNotActive:Il n'y a pas d'aventure active!
 adventureAlreadyIn:Vous êtes déjà dans une aventure!
@@ -34,3 +34,22 @@ adventureLeaderLeaveForbidden:Le leader ne peut pas quitter l'aventure. Si tu as
 twitchbotCharNotFound:Votre personnage n'a pas été trouvé ! Veuillez vérifier votre orthographe.
 twitchbotTargetNoAccount:Le joueur sélectionné n'a pas encore créé son premier personnage Embervale !
 twitchbotTargetYourself:Tu ne peux pas t'attaquer toi-même !
+raidNoMonster:Nous attendons de nouveaux ordres du Seigneur Sander Klause !
+raidMonsterAlreadyDefeated:Le groupe a déjà vaincu {translated_monster_name} ! Nous attendons de nouveaux ordres du Seigneur Sander Klause !
+raidYouDealtDmg:{playername} a frappé {monster}, infligeant {amount} dégâts !
+raidYouDealtTotalDmg:{playername} a attaqué {attackAmount} fois, infligeant un total de {amount} dégâts !
+raidMonster1:Frosty le Titan Déchu
+raidMonster2:Massacreur de Menthe
+raidMonster3:Kringlebroyeur, le Briseur de Traîneau
+raidStart:{translated_monster} attaque mon royaume ! Lord Sander Klause a besoin de votre aide. Tapez !evraid join pour participer à la défense !
+raidNoPass:Tu as besoin d'une Invitation Hivernale de Lord Sander Klause pour aider !
+raisePassConsumeError:Vous ne pouvez utiliser cet objet que dans le chat. Tapez !evraid join pour participer à la défense !
+raidMonster4:Flocon, le Gardien de Blizzard
+raidMonster5:Ravageur de la Yuletide
+raidMonster6:Gingergrasp, le Dévoreur de Biscuits
+raidMonster7:Sentinelle d'Èternaglace
+raidMonster8:Mistlewrath, le Héraut du Houx
+raidMonster9:Terroritinsel, le Monstre de Guirlande
+raidMonster10:Carolvine, le Brise-Chant
+raidNoActiveRaid:Il n'y a pas de raid en cours pour le moment.
+adventureSurrenderConfirmation:Vous pouvez mettre fin à l'aventure à tout moment en vous rendant, sans perdre de butin.

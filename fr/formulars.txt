@@ -1,17 +1,17 @@
 statDMG-mage:La plage de dégâts magiques que tu peux infliger.
 statDMG-F-mage:Dommages = Dommages de l'arme * ((sagesse / 60) + 1)
 statDMG-knight:La plage de dégâts physiques que tu peux infliger.
-statDMG-F-knight:Dommages = Dommages de l'arme * ((force / 60) + 1)
+statDMG-F-knight:Dégâts = (Dégâts de l'arme / 2,66) * ((force / 60) + 1)
 statDMG-ranger:La plage de dégâts physiques que tu peux infliger.
-statDMG-F-ranger:Dommages = Dommages de l'arme * ((dextérité / 60) + 1)
+statDMG-F-ranger:Dégâts = (Dégâts de l'arme / 1,54) * ((dextérité / 60) + 1)
 statDMG-warrior:La plage de dégâts physiques que tu peux infliger.
-statDMG-F-warrior:Dommages = Dommages de l'arme * ((force / 60) + 1)
+statDMG-F-warrior:Dégâts = (Dégâts de l'arme / 2) * ((force / 60) + 1)
 statDMG-rogue:La plage de dégâts physiques que tu peux infliger.
-statDMG-F-rogue:Dommages = Dommages de l'arme * ((dextérité / 60) + 1)
+statDMG-F-rogue:Dégâts = (Dégâts de l'arme / 1,66) * ((dextérité / 60) + 1)
 statVIT-mage:La quantité de dégâts que tu peux encaisser.
 statVIT-F-mage:(1 + vit * 0.1) * (1 + 0.01 * lvl) * 11.5 + 10
 statVIT-knight:La quantité de dégâts que tu peux encaisser.
-statVIT-F-knight:(1 + vit * 0.1) * (1 + 0.01 * lvl) * 22 + 10
+statVIT-F-knight:((1 + vit * 0.1) * (1 + 0.01 * lvl) * 22 + 10) * 1.15
 statVIT-ranger:La quantité de dégâts que tu peux encaisser.
 statVIT-F-ranger:(1 + vit * 0.1) * (1 + 0.01 * lvl) * 15 + 10
 statVIT-warrior:La quantité de dégâts que tu peux encaisser.
@@ -69,7 +69,7 @@ statCritPerc-knight:Détermine la chance de réussir un coup critique.
 statCritPerc-F-knight:((Précision / niveau) * 0,25) * 100
 statCritPerc-M-knight:Valeur maximale 50%
 statCritPerc-ranger:Détermine la chance de réussir un coup critique.
-statCritPerc-F-ranger:((Précision / niveau) * 0,25) * 100
+statCritPerc-F-ranger:((Précision / lvl) * 0.25) * 100 + 10
 statCritPerc-M-ranger:Valeur maximale 80%
 statCritPerc-warrior:Détermine la chance de réussir un coup critique.
 statCritPerc-F-warrior:((Précision / niveau) * 0,25) * 100

@@ -104,7 +104,7 @@ talisman_scaling_bonus:Ausweichen
 common:Gewöhnlich
 uncommon:Ungewöhnlich
 rare:Selten
-epic:Epos
+epic:Episch
 legendary:Legendär
 mythical:Mythisch
 royal:Königlich
@@ -270,7 +270,7 @@ loadingTip1:Es ist eine gute Idee, eine Expedition zu starten, bevor du Ressourc
 loadingTip2:Du kannst deine Fertigkeitspunkte jederzeit zurücksetzen, sodass du deine Punkte deiner Rüstung anpassen kannst!
 loadingTip3:Tritt unserem Discord bei, um tägliche Belohnungen zu erhalten!
 loadingTip4:Das sollte ein Tipp sein, aber uns sind die Ideen ausgegangen.
-loadingTip5:Das erstmalige Besiegen eines Dungeons garantiert eine mythische Truhe.
+loadingTip5:Jedes Handwerkslevel erweitert dein Materialinventar um 20 Slots.
 loadingTip6:Wenn du Kopfgelder auswählst, achte auf das Verhältnis von Ausdauer zu Erfahrung, wenn du das Leveln priorisierst.
 loadingTip7:Epische, legendäre und mythische Gegenstände können elementare Affinitäten haben, die deinen Schaden/Widerstand erhöhen.
 loadingTip8:Du kannst während eines Kampfes die Geschwindigkeit des Kampfes ändern.
@@ -278,7 +278,7 @@ loadingTip9:Du kannst gegen Spieler üben, indem du auf ihren Namen in der Beste
 loadingTip10:Magier verfehlen ihr Ziel nie. Nur Tarnung kann helfen, ihren Angriffen zu entgehen.
 loadingTip11:Glück erhöht den Schaden von kritischen Treffern.
 loadingTip12:Ritter sind schwer gepanzert und tragen ein Schild, was ihnen einen natürlichen Vorteil gegen Geschicklichkeitsklassen gibt.
-loadingTip13:Die Fähigkeit Schnellschuss des Waldläufers erlaubt ihnen gelegentlich, zweimal zuzuschlagen.
+loadingTip13:Die Blutungsfähigkeit des Waldläufers fügt dem Gegner einen Blutungseffekt zu, der ihm über Zeit Schaden zufügt und seine Heilungseffektivität reduziert.
 loadingTip14:Krieger benutzen einen Lebensstein, um mit jedem Treffer die HP ihrer Feinde abzuziehen. Allerdings lässt die Kraft des Steins schnell nach.
 loadingTip15:Der Schurke ist ein Meister der Heimlichkeit und Ausweichmanöver, was es Angreifern erheblich erschwert, Treffer zu landen.
 loadingTip16:Stelle sicher, dass du dein Glossar füllst, um schneller XP zu verdienen!
@@ -392,11 +392,6 @@ smith:Schmieden
 alchemist:Alchemist
 yourTitle:Dein Titel
 title:Titel
-hero:Held
-veteran:Veteran
-adventurer:Abenteurer
-mercenary:Söldner
-squire:Knappe
 legendary_adventurer_male:Legendärer Abenteurer
 legendary_adventurer_female:Legendäre Abenteurerin
 stylist_male:Stylist
@@ -486,10 +481,10 @@ selectYourCharacter:Wähle deinen Charakter
 select:Auswählen
 loadingTip29:Das Erhöhen des Levels deines Charakters ermöglicht es dir, mehr Rezepte zu finden.
 loadingTip30:Kämpfst du mit einer bestimmten Art von Feind? Finde ihre elementare Schwäche heraus!
-loadingTip31:Das Gewinnen in der Arena gewährt dir nicht nur Ruhm, sondern auch einen kleinen Teil des Goldes deines Gegners!
-loadingTip32:Wenn du in der Arena Gold an einen Angreifer verlierst, bist du für eine Weile davor geschützt, mehr zu verlieren.
+loadingTip31:Der Sieg in der Arena belohnt dich mit Ruhm, zusammen mit einem Bonus an XP und Gold!
+loadingTip32:Empfehle einen Streamer für Embervale und verdiene 1000 Arcanites! Sieh im Errungenschaften-Tab nach, um mehr Details zu erfahren.
 loadingTip33:Nutze Werkzeuge in Abenteuern, um deinen Ruhm zu steigern!
-loadingTip34:Der Shop erhält eine neue Ladung von Gegenständen kostenlos 24 Stunden nach deinem letzten Neuwurf.
+loadingTip34:Du kannst den Shop alle 24 Stunden kostenlos neu würfeln!
 loadingTip35:Beim ersten Abschließen eines Dungeons ist eine Mythische Truhe garantiert und erweitert deine Inventarkapazität!
 loadingTip36:Dungeons haben einzigartige Pools von Monstern; sammle sie alle, um dein Bestiarium zu füllen!
 chrono-badge:Chrono-Abzeichen
@@ -504,7 +499,7 @@ collect:Sammeln
 giftedYou:Hat dir geschenkt
 ayetStudioNoFill:Tut uns leid, momentan sind keine Werbungen verfügbar. Bitte schaue in ein paar Minuten wieder vorbei.
 referrer:Empfehler (Twitch-Name)
-barberRewardRefferer:Ich möchte einen Empfehler belohnen
+barberRewardRefferer:Empfehlungscode (Optional)
 referalNameInvalid:Der Empfehlername ist ungültig. Bitte korrigiere oder lösche ihn.
 resetStatsLevelTep:Du kannst deine Attribute kostenlos zurücksetzen, bis du Level 10 erreichst!
 anonymously:Anonym
@@ -533,7 +528,7 @@ shopRerollInfo3:Die Chancen werden auf drei Dezimalstellen gerundet.
 shopRerollBaseChance:Basis-Chance mit 0% Ruf pro Gegenstand.
 create:Erstellen
 youReceivedFollowingBenefits:Du hast {bundle_name} für die nächsten 30 Tage aktiviert!
-shopRefreshTooltip:Du kannst den Laden einmal pro Tag kostenlos aktualisieren. Die Verwendung von Kupfer oder Arcanite zum Aktualisieren des Ladens setzt den täglichen kostenlosen Aktualisierungs-Timer nicht zurück.
+shopRefreshTooltip:Du kannst den Laden alle 20 Stunden kostenlos aktualisieren. Die Verwendung von Kupfer oder Arcanite, um den Laden zu aktualisieren, setzt den täglichen kostenlosen Aktualisierungs-Timer nicht zurück.
 copperExplaination:100 Kupfer sind gleich 1 Silber, und 100 Silber sind gleich 1 Gold.
 eyebrows:Augenbrauen
 hoarders-badge:Horterauszeichnung
@@ -550,7 +545,6 @@ confirmPurchaseBundleConsumable:Möchtest du wirklich {bundleName} kaufen?
 successPurchaseBundle:Vielen Dank für den Kauf von {bundleName}!
 potionAlreadyActive:Du hast bereits einen aktiven Trank. Dies wird deinen derzeit aktiven Trank überschreiben!
 cookebotNoConsent:Du hast nicht alle erforderlichen Cookies akzeptiert, einschließlich Marketing und Analytik. Dies kann verhindern, dass du belohnte Anzeigen erhältst.
-emeraldShop:Arcanite-Laden
 halloween-2024-badge:Halloween 2024 Abzeichen
 halloween-2024-badge_desc:Erhaltbar durch das Abschließen aller Halloween-Event-Missionen
 critChance:Krit-Chance
@@ -582,3 +576,53 @@ explore:Erkunden
 exploreByYourSelfExpl:Du kannst selbst erkunden und die Ressourcen sammeln! In der Zwischenzeit kannst du keine Kopfgelder erledigen.
 exploreHireExpl:Du kannst jemanden anheuern, um Ressourcen für dich zu sammeln! Obwohl sie nicht so geschickt sind wie du, werden sie eine ordentliche Menge Materialien sammeln, sodass du dich auf Kopfgelder konzentrieren kannst. Sammelt 2 Materialien pro Stunde.
 yourActiveExpeditions:Deine aktiven Expeditionen
+reputation:Reputation
+reputationProgressTooltip:Sammle { points } Ruf, um { percentage } % zu erreichen.
+shopRefreshTooltipNextRefresh:Nächste kostenlose Aktualisierung in:
+christmas-2024-badge:Weihnachten 2024 Abzeichen
+christmas-2024-badge_desc:Erhältlich während des Weihnachtsereignisses 2024
+potionSameTypeActive:Du hast bereits einen XP-Trank aktiv.
+average:Durchschnittlich
+termsOfService:Nutzungsbedingungen
+privacyPolicy:Datenschutzerklärung
+and:Und
+sortBy:Sortieren Nach
+date:Datum
+anonymous:Anonym
+purchaseSuccess:Vielen Dank für deinen Kauf!
+purchaseWithCreatorCode:{name} hat gerade {product} gekauft und dich mit deinem Creator-Code unterstützt: {crco}
+selected:Ausgewählt
+purchaseBundle:Bundle kaufen
+barberRequireSubscriptionTooltip:Du musst ein aktives Abonnement haben, um diese Frisur auszuwählen.
+ayetStudioAdExpired:Leider ist die Anzeige aufgrund von Inaktivität abgelaufen.
+shopRerollInfo4:Das Belohnungssystem schützt Spieler vor Pech beim Aktualisieren des Ladens:
+shopPityMythicalInfo:Garantiert Mythisch
+shopPityLegendaryInfo:Garantiert Legendär
+provisioner_male:Versorger
+provisioner_female:Versorgerin
+guardian_male:Wächter
+guardian_female:Wächterin
+clickOnPresetToChange:Klicke auf ein Ausrüstungsset, um sein Symbol zu aktualisieren.
+chooseIcon:Symbol wählen
+equipPreset:Preset ausrüsten
+free:Frei
+purchasePreset:Kauf-Voreinstellung
+limitFPS:Begrenze die Animations-FPS
+imageResolutionTip:(Nur auf niedrig umschalten, wenn Bilder langsam laden)
+limitFPSTip:(Die Reduzierung der FPS kann die Leistung optimieren, indem weniger Ressourcen verwendet werden)
+controlsTip:(Wähle Desktop für Maus-Eingabe und Mobil für Touch-Steuerung)
+dangerZone:Gefahrenzone
+patreonThanks:Das Projekt wäre ohne unsere Patreon-Unterstützer niemals möglich gewesen. Viel Liebe an euch alle ♥ Und ein besonderer Dank an unsere:
+language:Sprache
+newOutfitDiscovered:Outfit zum Glossar hinzugefügt:
+dontOwnPreset:Du hast noch kein Preset.
+confirmGearPresetPurchase:Bestätige deinen Kauf des Ausrüstungs-Presets, indem du unten auf den Knopf klickst.
+confirmGearPresetFreePurchase:Die ersten zwei Ausrüstungs-Presets sind kostenlos.
+preset:Voreinstellung
+cantSellItemsFromPreset:Du kannst diesen Gegenstand nicht verkaufen, solange er Teil eines Presets ist.
+youCompletedThisCategory:Du hast diese Kategorie vollständig abgeschlossen.
+hideObtainedEntries:Vollständige Einträge ausblenden
+hideCompletedAchievements:Verstecke abgeschlossene Erfolge
+editPresetIcon:Symbole bearbeiten
+updatePreset:Voreinstellung aktualisieren
+resetPreset:Zurücksetzen Voreinstellung

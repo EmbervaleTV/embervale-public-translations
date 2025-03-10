@@ -12,7 +12,7 @@ currentLoggedIn:Você está atualmente logado como:
 youCanSelectRecipient:Você pode selecionar o destinatário de itens raros ou superiores!
 selectRandomPlayer:Selecionar jogador aleatório
 treasureOf:Tesouro de
-banishConfirmation:Tem certeza de que deseja banir {{ playerToBanish.char.username }} desta aventura?
+banishConfirmation:Tem certeza de que deseja enviar {{ playerToBanish }} de volta para o treinamento? (Eles ficarão indisponíveis para o resto desta aventura, mas ainda receberão saque)
 areYouSure:Você tem certeza?
 banish:Banir
 youCanStartNewAdventureIn:Você pode começar uma nova Aventura em:
@@ -71,7 +71,7 @@ effect_healthy:O jogador se sente excepcionalmente saudável. // +25% de saúde 
 healthy:Saudável
 effect_lucky:O jogador está se sentindo com sorte. // +25% de sorte
 lucky:Sorte
-effect_regenerating:O jogador está regenerando saúde e não pode participar de batalhas. // +25% de saúde por rodada
+effect_regenerating:O jogador está regenerando saúde e não pode participar de batalhas até estar completamente curado. // +25% saúde por rodada
 regenerating:Regenerando
 effect_astral_healing:O jogador está recebendo cura mágica de outro jogador. // +50% de vida por rodada
 astral_healing:Cura Astral
@@ -227,7 +227,7 @@ sortByHPHigh:Nível: Maior primeiro
 sortByLvlLow:Vida: Menor primeiro
 sortByLvlHigh:Vida: Maior primeiro
 youReceivedFromManipulationEnd:Você ganhou por manipulação de votos:
-alreadyBanished:{{ playerToBanish.char.username }} já está banido.
+alreadyBanished:{{ playerToBanish.char.username }} já está treinando.
 invalidChoice:Escolha Inválida.
 inAdventureFrom:Você está atualmente na aventura de {inAdName}.
 effect_shadow_remains:A forma do jogador agora é uma sombra. // Recebe o dobro de dano mágico, 50% menos dano físico.
@@ -276,7 +276,7 @@ divine_seal_description:O oponente recebe 500% mais dano Divino durante a próxi
 divine_weapon_enchantment:Encantamento de Arma Divina
 divine_weapon_enchantment_description:Imbuir armas com poder Divino, alterando seu dano elemental e adicionando 25% de dano Divino bônus.
 elven_quiver:Aljava Élfica
-elven_quiver_description:Adiciona 15% à chance de Saque Rápido dos Rangers.
+elven_quiver_description:O Ranger agora tem 15% de chance de invocar uma relíquia do passado: sua antiga habilidade, Saca Rápida.
 executioner:Carrasco
 executioner_description:Executa oponentes que caem abaixo de 10% de HP.
 fire_sling:Funda de Fogo
@@ -338,6 +338,45 @@ requiredUnlocksTool:Vitórias necessárias para o próximo desbloqueio
 requiredUnlocksToolTooltip:Apenas batalhas com um indicador de saque "Baixo" ou superior são contadas.
 adventureBestiaryRequired:Você deve derrotar este monstro pelo menos uma vez para desbloquear sua entrada no bestiário e ver suas estatísticas!
 toolActivatedForNextFight:A ferramenta foi ativada para a próxima luta!
-adventureSettingFullscreen:Jogue Aventuras em Modo Tela Cheia [Isso reiniciará seu jogo]
+adventureSettingFullscreen:[Experimental] Jogue Aventuras em Modo Tela Cheia [Isso irá recarregar seu jogo]
 strong_armor:Armadura Forte
 effect_strong_armor:A armadura deste jogador provou ser extraordinariamente resistente. // +25% armadura
+allPlayersReceivedTheirDailyLimit:Todos os jogadores em seu lobby já atingiram o limite diário de baús de aventura. Deseja abdicar do saque?
+forfeit:Abdicar
+votingEndsIn:A votação termina em
+votingStartCountdown:Iniciar contagem regressiva
+8aeher_dt_hqjr:8aeher dt Hqjr
+effect_8aeher_dt_hqjr:8aek ndr hqou shqlt fndj.
+seeker_of_egir:Buscador de Egir
+effect_seeker_of_egir:Procuro por tesouros nas profundezas frias do abismo, Cuidado com os observadores, seus olhares são incontroláveis. Egirs dão, mas com cautela, tecem suas armadilhas, Nas profundezas, você encontrará o que se atrever.
+haunted_by_egir:Assombrado por Egir
+effect_haunted_by_egir:Assombrado por uma presença antiga e sombria.
+effect_training:O jogador está treinando. // Não faz mais parte da aventura
+training:Treinamento
+effect_deserter:O §player0§ deixou o grupo. // Não faz mais parte da aventura
+deserter:Desertor
+noAdventureStartedName:{leaderName} não está organizando uma aventura no momento.
+adventureLootReceivedToday:Recompensas coletadas das aventuras hoje:
+roll:Rolagem
+check_agility:Esquivas rápidas necessárias.
+agility:Agilidade
+guardian_angel_activated:Anjo Guardião [ATIVADO]
+effect_guardian_angel_activated:Uma presença divina intervém, restaurando o jogador caído para um último confronto.
+effect_chef:O jogador demonstrou habilidades culinárias excepcionais. // Ganha prioridade em testes de culinária e um aumento de 10x na habilidade de cozinhar durante aventuras.
+chef:Chef
+party:Festa
+check_adventure_item:Esta opção requer que o grupo tenha {item_name}.
+strong:Forte
+effect_strong:O jogador possui força física excepcional. // +10% de força, +1 em todas as jogadas de força
+wise:Sábio
+effect_wise:O jogador tem sabedoria e perspicácia profundas. // +10% de sabedoria, +1 em todas as jogadas de sabedoria
+dexterous:Destro
+effect_dexterous:O jogador tem agilidade e coordenação excepcionais. // +10% de destreza, +1 em todas as jogadas de destreza
+errPartyNotOwningItem:Seu grupo não possui itens suficientes necessários para votar nesta opção!
+noToolsExplanation:Você não possui nenhuma ferramenta atualmente. Você pode receber ferramentas aleatoriamente durante aventuras se tiver votado pelo menos uma vez!
+merchantNotEnoughPlayerToFaint:Sua equipe não tem membros conscientes suficientes para fazer isso.
+merchantNoMorale:A moral da sua equipe está muito baixa!
+merchantDevilTooltip:Tenho fome das almas dos membros da sua equipe. Você os sacrificará por tesouro?
+merchantMoraleTooltip:Eu prospero no desespero dos outros. Você ainda ousa negociar comigo?
+effect_sacrificed:O jogador foi sacrificado. // Não faz mais parte da aventura
+sacrificed:Sacrificado

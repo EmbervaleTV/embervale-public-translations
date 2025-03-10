@@ -286,7 +286,7 @@ loadingTip1:¡Es una buena idea comenzar una expedición antes de salir a recoge
 loadingTip2:¡Siempre puedes restablecer tus puntos de habilidad, así que puedes ajustarlos según tu armadura!
 loadingTip3:¡Únete a nuestro Discord para recibir recompensas diarias!
 loadingTip4:Esto se supone que es un consejo, pero nos quedamos sin ideas.
-loadingTip5:Superar una mazmorra por primera vez garantiza un cofre mítico.
+loadingTip5:Cada nivel de fabricación amplía tu Inventario de Materiales en 20 espacios.
 loadingTip6:Al seleccionar recompensas, presta atención a la relación entre resistencia y experiencia al priorizar subir de nivel.
 loadingTip7:Los objetos Épicos, Legendarios y Míticos podrían tener afinidades elementales que aumenten tu daño/resistencia.
 loadingTip8:Puedes cambiar la velocidad del combate durante una batalla.
@@ -294,7 +294,7 @@ loadingTip9:Puedes practicar la batalla contra jugadores haciendo clic en su nom
 loadingTip10:Los magos nunca fallan su objetivo. Solo el sigilo puede ayudar a evadir sus ataques.
 loadingTip11:La suerte aumenta el daño de los golpes críticos.
 loadingTip12:Los caballeros están fuertemente armados y llevan un escudo, dándoles una ventaja natural contra las clases basadas en destreza.
-loadingTip13:La habilidad de desenfunde rápido del Guardabosques le permite atacar dos veces de vez en cuando.
+loadingTip13:La habilidad de sangrado del Guardabosques inflige un efecto de sangrado en el oponente, causando daño con el tiempo y reduciendo su efectividad de curación.
 loadingTip14:Los guerreros utilizan una piedra vital para drenar la HP de sus enemigos con cada golpe. Sin embargo, el poder de la piedra se agota rápidamente.
 loadingTip15:El Pícaro es un maestro del sigilo y la evasión, lo que dificulta mucho que los atacantes acierten golpes.
 loadingTip16:¡Asegúrate de completar tu glosario para ganar XP más rápido!
@@ -421,11 +421,6 @@ alchemist:Alquimista
 successfullyCrafted:Fabricado con éxito
 yourTitle:Tu título
 title:Título
-hero:Héroe
-veteran:Veterano
-adventurer:Aventurero
-mercenary:Mercenario
-squire:Escudero
 legendary_adventurer_male:Aventurero Legendario
 legendary_adventurer_female:Aventurera Legendaria
 stylist_male:Estilista
@@ -486,10 +481,10 @@ selectYourCharacter:Selecciona tu personaje
 select:Seleccionar
 loadingTip29:Subir de nivel a tu personaje te permitirá encontrar más recetas.
 loadingTip30:¿Tienes problemas con un tipo específico de enemigo? ¡Descubre su debilidad elemental!
-loadingTip31:Ganar en la arena no solo te otorga Gloria, sino también una pequeña porción del oro de tu oponente.
-loadingTip32:Si pierdes oro ante un atacante en la arena, estarás protegido de perder más por un tiempo.
+loadingTip31:La victoria en la arena te recompensa con Gloria, junto con un bono de XP y oro.
+loadingTip32:¡Refiere a un streamer a Embervale y gana 1000 Arcanites! Consulta la pestaña de logros para más detalles.
 loadingTip33:¡Usa herramientas en las aventuras para aumentar tu fama!
-loadingTip34:La tienda recibe un nuevo lote de artículos gratis 24 horas después de tu último reroll.
+loadingTip34:¡Puedes volver a tirar la tienda gratis cada 24 horas!
 loadingTip35:¡Completar una mazmorra por primera vez garantiza un Cofre Mítico y expande tu capacidad de inventario!
 loadingTip36:¡Las Mazmorras tienen grupos únicos de monstruos; recógelos todos para llenar tu Bestiario!
 chrono-badge:Insignia de Crono
@@ -504,7 +499,7 @@ collect:Recoger
 giftedYou:Te regaló
 ayetStudioNoFill:Lo siento, no hay anuncios disponibles en este momento. Por favor, vuelve a intentarlo en unos minutos.
 referrer:Referidor (nombre de Twitch)
-barberRewardRefferer:Quiero recompensar a un referidor
+barberRewardRefferer:Código de referencia (Opcional)
 referalNameInvalid:El nombre del referidor es inválido. Por favor, corrígelo o elimínalo.
 resetStatsLevelTep:¡Puedes reiniciar tus estadísticas gratis hasta que alcances el nivel 10!
 anonymously:Anónimamente
@@ -533,7 +528,7 @@ shopRerollInfo3:Las probabilidades se redondean a tres decimales
 shopRerollBaseChance:Probabilidad base con 0% de reputación por artículo
 create:Crear
 youReceivedFollowingBenefits:¡Has habilitado {bundle_name} por los próximos 30 días!
-shopRefreshTooltip:Puede refrescar la tienda gratis una vez por día. Usar cobre o arcanites para refrescar la tienda no reiniciará el temporizador diario de refresco gratis.
+shopRefreshTooltip:Puedes refrescar la tienda gratis cada 20 horas. Usar cobre o arcanites para refrescar la tienda no reiniciará el temporizador de refresco diario gratuito.
 copperExplaination:100 Cobres equivalen a 1 Plata, y 100 Platas equivalen a 1 Oro.
 eyebrows:Cejas
 hoarders-badge:Insignia del Acumulador
@@ -550,7 +545,6 @@ confirmPurchaseBundleConsumable:¿Estás seguro de que deseas comprar {bundleNam
 successPurchaseBundle:¡Gracias por comprar {bundleName}!
 potionAlreadyActive:Ya tienes una poción activa. ¡Esto sobrescribirá tu poción activa actual!
 cookebotNoConsent:No has aceptado todas las cookies requeridas, incluidas las de marketing y análisis. Esto puede impedir que recibas anuncios recompensados.
-emeraldShop:Tienda de Arcanite
 halloween-2024-badge:Insignia de Halloween 2024
 halloween-2024-badge_desc:Obtenible al completar todas las Misiones del Evento de Halloween
 critChance:Probabilidad de Crítico
@@ -582,3 +576,53 @@ explore:Explorar
 exploreByYourSelfExpl:¡Puedes explorar y reunir los recursos por ti mismo! Mientras tanto, no podrás realizar misiones.
 exploreHireExpl:Puedes contratar a alguien para recolectar recursos para ti. Aunque no son tan hábiles como tú, recogerán una cantidad decente de materiales, permitiéndote centrarte en las recompensas. Recoge 2 materiales por hora.
 yourActiveExpeditions:Tus expediciones activas
+reputation:Reputación
+reputationProgressTooltip:Recoge { points } de reputación para alcanzar el { percentage }%
+shopRefreshTooltipNextRefresh:Próxima actualización gratuita en:
+christmas-2024-badge:Insignia de Navidad 2024
+christmas-2024-badge_desc:Obtenible durante el Evento de Navidad 2024
+potionSameTypeActive:Ya tienes una poción de xp activa.
+average:Promedio
+termsOfService:Términos de Servicio
+privacyPolicy:Política de Privacidad
+and:Y
+sortBy:Ordenar Por
+date:Fecha
+anonymous:Anónimo
+purchaseSuccess:¡Gracias por tu compra!
+purchaseWithCreatorCode:{name} acaba de comprar {product} y te apoyó con su código de creador: {crco}
+selected:Seleccionado
+purchaseBundle:Comprar Paquete
+barberRequireSubscriptionTooltip:Debes tener una suscripción activa para seleccionar este peinado.
+ayetStudioAdExpired:Desafortunadamente, el anuncio ha expirado debido a la inactividad.
+shopRerollInfo4:El sistema de recompensas protege a los jugadores de la mala suerte al refrescar la tienda:
+shopPityMythicalInfo:Mitico garantizado
+shopPityLegendaryInfo:Legendario garantizado
+provisioner_male:Proveedor
+provisioner_female:Proveedora
+guardian_male:Guardián
+guardian_female:Guardiana
+clickOnPresetToChange:Haz clic en un conjunto de engranajes para actualizar su icono.
+chooseIcon:Elegir icono
+equipPreset:Equipar conjunto
+free:Gratis
+purchasePreset:Comprar Preajuste
+limitFPS:Capar el FPS de la animación
+imageResolutionTip:(Solo cambia a baja si las imágenes están cargando lentamente)
+limitFPSTip:(Reducir el FPS puede optimizar el rendimiento al usar menos recursos)
+controlsTip:(Elige escritorio para la entrada del ratón y móvil para controles táctiles)
+dangerZone:Zona de Peligro
+patreonThanks:El Proyecto nunca sería posible sin nuestros Patreons. Mucho amor a todos ustedes ♥ Y un agradecimiento especial a nuestro:
+language:Idioma
+newOutfitDiscovered:Conjunto añadido al Glosario:
+dontOwnPreset:Aún no tienes un preset.
+confirmGearPresetPurchase:Confirma la compra de tu preset de equipamiento haciendo clic en el botón de abajo.
+confirmGearPresetFreePurchase:Los dos primeros presets de equipamiento son gratuitos.
+preset:Preajuste
+cantSellItemsFromPreset:No puedes vender este objeto mientras forma parte de un conjunto predefinido.
+youCompletedThisCategory:Has completado completamente esta categoría.
+hideObtainedEntries:Ocultar entradas completadas.
+hideCompletedAchievements:Ocultar logros completados
+editPresetIcon:Editar Iconos
+updatePreset:Actualizar Preajuste
+resetPreset:Restablecer Preajuste

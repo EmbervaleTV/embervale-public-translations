@@ -633,7 +633,7 @@ goblin_rider_bestiary:Leur armure est récupérée lors de raids passés et donn
 goblin_sorcerer_bestiary:Leur habitude d'apprivoiser les oiseaux en fait des éclaireurs dangereux
 flying_leech_bestiary:Un médecin entreprenant voulait utiliser ces sangsues, mais son bocal s'est cassé et les a libérées dans une ville voisine.
 behemoth_bestiary:Peau épaisse, défenses dangereuses… queue serpentine et crinière de cheveux enflammés?
-ice_snake_bestiary:Ces serpents semblent utiliser le pic de glace qui sort de leur tête comme corne
+ice_snake_bestiary:Ces serpents semblent utiliser le morceau de glace qui dépasse de leur tête comme une corne.
 gnoll_shaman_bestiary:Leurs potions puissantes semblent être la cause de l'expression maniaque de leur tribu.
 undead_gnoll_bestiary:Beurk, plus vraiment caressable maintenant.
 skeleton_commander_bestiary:Son armure et son équipement indiquent qu'un grand effort a été consacré à la création de ce mort-vivant.
@@ -1088,7 +1088,7 @@ gravekeeper_bounty:Une cape noire cachant un os pâle, cette faux attend les mor
 hooded_stranger_bounty:Quelques ennuis sur la route
 lady_of_the_passage_bounty:Une lumière pâle dans les profondeurs révèle un gardien final
 light_slime_bounty:Imprégné de foi
-lost_fairy_bounty:Une menace du royaume des fées
+lost_fairy_bounty:Une menace du royaume féérique
 lost_soul_bounty:Manifestation d'une créature périe
 overseer_crab_bounty:Coquillage surdimensionné
 protector_of_the_forest_heart_bounty:Près du centre des grandes forêts, une dernière ligne de défense
@@ -1521,3 +1521,21 @@ gemstone_fire_dragon_bounty:Un spectacle rare, les écailles de ce dragon scinti
 lady_of_the_vale_bounty:Contrairement à sa sœur sereine, la Dame du Passage, elle est aussi farouche que les terres volcaniques qu'elle règne. Son esprit ardent la rend à la fois captivante et périlleuse, incarnant la colère indomptée d'Embervale.
 ignithor_the_charred_sovereign_bounty:Autrefois un dieu gardien, Ignithor a succombé aux flammes d'Embervale, devenant un souverain de rage en fusion. Sa colère fait trembler la terre, et chaque créature infernale s'incline devant sa domination brûlante.
 blightflame_first_of_dragons_bounty:Autrefois le père de la lignée des dragons, Blightflame est maintenant un serviteur squelettique du Souverain Calciné. Son nom d'origine, comme son ancien pouvoir, est perdu dans le temps.
+rudolph:Rudolph
+big_sack_goblin:Gobelin au Grand Sac
+angry_snowman:Bonhomme de Neige Enragé
+rudolph_bestiary:-
+big_sack_goblin_bestiary:-
+angry_snowman_bestiary:-
+rudolph_bounty:-
+big_sack_goblin_bounty:-
+angry_snowman_bounty:-
+spiky_turtle:Tortue épineuse
+spiky_turtle_bestiary:Forteresse vivante vêtue d'une carapace hérissée, la Tortue Épineuse est lente mais presque indestructible. Peu de prédateurs osent défier sa patience, car quand elle attaque, elle le fait avec une force écrasante.
+spiky_turtle_bounty:Un mur ambulant de piques—prends garde, car même sa carapace est une arme.
+lich:Liche
+lich_bestiary:Un puissant sorcier sombre qui a transcendé les limites de la mortalité et manie les pouvoirs de la vie et de la mort, récoltant des âmes pour alimenter son règne redoutable.
+lich_bounty:Un tyran immortel lié à la magie noire. Abattez-le, mais méfiez-vous—la mort peut ne pas être la fin.
+corrupted_rat:Rat Corrompu
+corrupted_rat_bestiary:Déformé par des forces obscures, ce rat est plus qu'un simple charognard—c'est un présage de décomposition. Ses yeux brillants et sa forme pourrissante sont des avertissements pour tous ceux qui croisent son chemin.
+corrupted_rat_bounty:Autrefois un parasite ordinaire, désormais une créature de décomposition et de malveillance. Sa morsure propage la corruption, transformant la chair en ruine purulente.

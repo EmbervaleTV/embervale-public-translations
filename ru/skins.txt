@@ -53,3 +53,18 @@ skin_elk_hide:Шкура Лося
 skin_polar_bear:Полярный Медведь
 skin_festive_protector:Праздничный Защитник
 skin_christmas_spirit:Рождественский Дух
+accountBundle:Пакет учетной записи
+eventName:Рождество 2024
+eventBackground:Рождественский фон
+eventWeapon:Рождественское оружие
+eventUserWillReceive:{user} получит
+eventOutfit:Рождественский наряд
+eventCollection:Все из рождественской коллекции 2024 года для всех персонажей и будущих персонажей
+eventSkinBundleMsg:{character_name} подарил вам Набор скинов на Рождество 2024 года!
+eventSkinAccountBundleMsg:{character_name} подарил вам Набор скинов на Рождество 2024 года для всех ваших персонажей!
+eventRaidRewardTxt:{character_name} получил: {reward} - Урон: {dmg} ({perc}%) - Атаки: {amount} ({chance}%)
+thorn_knight:Рыцарь Шипов
+twilight_rogue:Сумеречный Разбойник
+tempest_ranger:Страж Бури
+druid_mage:Маг Друид
+skytear_warrior:Воин Скайтира

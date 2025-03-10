@@ -86,7 +86,7 @@ defeat_mage_class_in_arena:Vaincre {amount} mages dans des batailles d'arène
 defeat_knight_class_in_arena:Vaincre {amount} chevaliers dans des batailles d'arène
 defeat_ranger_class_in_arena:Vaincre {amount} rangers dans des batailles d'arène
 defeat_warrior_class_in_arena:Vaincre {amount} guerriers dans des batailles d'arène
-repeatable__participate_in_adventures:[Répétable] Participer à {amount} aventures
+repeatable__participate_in_adventures:Participez à {amount} aventures
 vote_in_adventures:Exprimez {amount} votes dans les aventures
 complete_elemental_butterflies_glossary:Ajoutez tous les {amount} Papillons Élémentaires à votre Glossaire
 event:Événement
@@ -106,7 +106,7 @@ complete_dungeon_12:Nettoyez 'Cimetière des Sans-Nom'
 complete_dungeon_13:Nettoyez 'Bastion de Lumière'
 complete_dungeon_14:Nettoyez 'Embervale'
 complete_dungeon_5:Nettoyer 'Passage des eaux profondes'
-repeatable__refer_a_streamer:[Répétable] Référez de nouveaux streamers à Embervale.TV
+repeatable__refer_a_streamer:Parrainez de nouveaux streamers sur Embervale.TV
 referStreamer:Référez un streamer
 referStreamerReq1:Le streamer doit entrer votre nom Twitch lors de la création de leur premier personnage.
 referStreamerReq2:Le streamer doit être un Affiliate ou Partner sur Twitch.
@@ -118,3 +118,23 @@ tutorial:Didacticiel
 complete_daily_mission:Accomplis {amount} missions quotidiennes
 defeat_a_player_in_chat:Vaincre un autre joueur en utilisant la commande !evbattle.
 cantDonateBundles:Je suis désolé, mais je ne peux pas accepter des lots en tant que dons.
+activate_tools:Activer {amount} outils dans les aventures
+join_raid:Aidez le Seigneur Sander Klause dans {amount} raids
+cantDonateThis:Je suis désolé, mais je ne peux pas accepter ce don.
+referFirstStreamer:La première recommandation vous offre la peau d'armure d'aventurier pour tous vos personnages !
+goodItemInShop:Un objet Mythique est actuellement dans la boutique. Es-tu sûr de vouloir actualiser ?
+reachMaxReputation:Atteins la réputation maximale avec le commerçant.
+defeat_rogue_class_in_bounties:Vaincre {amount} voleurs dans les primes
+defeat_mage_class_in_bounties:Vaincre {amount} mages dans les primes
+defeat_knight_class_in_bounties:Vaincre {amount} chevaliers dans les primes
+defeat_ranger_class_in_bounties:Vaincre {amount} rangers dans les primes
+defeat_warrior_class_in_bounties:Vaincre {amount} guerriers dans les primes
+bestiary_dex_entry_hint:Affiche un indicateur sur les primes si vous n'avez pas l'entrée correspondante dans le Bestiaire.
+item_dex_entry_hint:Affiche un indicateur sur les objets si tu n'as pas l'entrée correspondante dans le glossaire.
+reach_alchemist_level:Atteindre le niveau d'alchimie {lvl}
+reach_smith_level:Atteindre le niveau de forge {lvl}
+reach_cook_level:Atteindre le niveau de cuisine {lvl}
+repeatable:Répétable
+win_in_the_arena:Gagne dans l'arène {amount} fois
+repeatable__host_adventures__public:Organiser {amount} aventures, progresse jusqu'à la Salle 25, et fais-le sous la catégorie Embervale.TV avec un chat non restreint.
+repeatable__activate_tools__public:Active {amount} outils dans des aventures avec plus de 10 joueurs actifs.

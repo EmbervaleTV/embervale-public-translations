@@ -6,15 +6,18 @@ fight:Fight
 surrender:Surrender
 ended:Ended
 leader:Leader
+party:Party
 welcomeToAdventures:Welcome to adventures
 yourHighscore:Your highscore
 wrongAdventureLeader:You are logged in with a different character than the one that started the adventure. Please switch to {username} to continue.
 currentLoggedIn:You are currently logged in as:
 youCanSelectRecipient:You can select the recipient of rare or higher loot!
+allPlayersReceivedTheirDailyLimit:All players in your lobby have already reached their daily adventure chest limit. Do you want to forfeit the loot?
+forfeit:Forfeit
 selectRandomPlayer:Select random player
 treasureOf:Treasure of
-banishConfirmation:Are you sure you want to banish {{ playerToBanish.char.username }} from this adventure?
-alreadyBanished:{{ playerToBanish.char.username }} is already banished.
+banishConfirmation:Are you sure you want to send {{ playerToBanish }} back to training? (They will be unavailable for the rest of this adventure but will still receive loot)
+alreadyBanished:{{ playerToBanish.char.username }} is already training.
 areYouSure:Are you sure?
 banish:Banish
 youCanStartNewAdventureIn:You can start a new Adventure in:
@@ -32,7 +35,7 @@ youReceivedFromManipulationEnd:You earned from vote manipulation:
 adventureSettingAllowArcaniteVotes:Enable players to vote using Arcanites
 adventureSettingAllowEveryoneToVote:Enable voting from players outside your adventure
 adventureSettingRaffleAnimation:Raffle Animation
-adventureSettingFullscreen:Play Adventures in Fullscreen Mode [This will reload your game]
+adventureSettingFullscreen:[Experimental] Play Adventures in Fullscreen Mode [This will reload your game]
 adventureEndMessageMoraleZero:The morale of the group is too low to continue the adventure. You decide to return home.
 adventureEndMessageAllDead:The group can no longer continue to fight. You decide to return home.
 adventureEndMessageSurrender:You decided to return home with your group.
@@ -44,12 +47,17 @@ yourGroupObtained:Your group obtained:
 yourGroupLost:Your group lost:
 ThePlayerWillReceiveReward:Are you sure you want to give §player0§ the reward?
 noAdventureStarted:The streamer isn't hosting an adventure right now.
+noAdventureStartedName:{leaderName} is not hosting an adventure right now.
 waitingForVoting:Waiting for the next voting in {leaderName}'s adventure...
 inAdventureFrom:You are currently in {inAdName}'s adventure.
 alreadyVoted:You already voted.
 invalidChoice:Invalid Choice.
 vote:Vote
+roll:Roll
 choose:Choose
+votingStartCountdown:Start countdown
+votingEndsIn:Voting ends in
+adventureLootReceivedToday:Loot collected from adventures today:
 
 adventures:Adventures
 adventureHighscore:Adventure Highscore
@@ -59,6 +67,7 @@ tools:Tools
 active:Active
 inactive:Inactive
 unlock:Unlock
+noToolsExplanation:You don't have any tool currently. You can receive tools randomly during adventures if you have voted at least once!
 beforeAdventureStartsText1:Adventures is a game mode specifically designed for streamers.
 beforeAdventureStartsText2:Your community can join your adventure using the command "!ev join".
 beforeAdventureStartsText3:The adventure ends when the group's Morale reaches zero or if you choose to surrender.
@@ -70,6 +79,14 @@ toolAlreadyEnabled:This tool has already been enabled.
 toolActivatedForNextFight:The tool has been activated for the upcoming fight!
 requiredUnlocksTool:Required victories for next unlock
 requiredUnlocksToolTooltip:Only battles with a loot indicator of "Low" or higher are counted.
+
+// merchant
+merchantNotEnoughPlayerToFaint:Your party doesn’t have enough conscious members to do that.
+merchantNoMorale:Your party’s morale is too low!
+
+merchantDevilTooltip:I hunger for the souls of your party members. Will you sacrifice them for treasure?
+merchantMoraleTooltip:I thrive on the despair of others. Will you still dare to trade with me?
+
 
 // sorting
 default:Default
@@ -131,7 +148,7 @@ effect_healthy:The player feels exceptionally healthy. // +25% max health
 healthy:Healthy
 effect_lucky:The player is feeling lucky. // +25% luck
 lucky:Lucky
-effect_regenerating:The player is regenerating health and can't participate in battles. // +25% health per round
+effect_regenerating:The player is regenerating health and cannot join battles until fully healed. // +25% health per round
 regenerating:Regenerating
 effect_astral_healing:The player is receiving magical healing from another player. // +50% health per round
 astral_healing:Astral Healing
@@ -153,6 +170,8 @@ effect_thief:The player is a known thief and watched with suspicion. // +30% dex
 thief:Thief
 effect_blacksmith:The player has proven to be a capable blacksmith. // Priority for smithing checks, 10x smithing skill for adventure
 blacksmith:Blacksmith
+effect_chef:The player has demonstrated exceptional culinary skills. // Gains priority in cooking checks and a 10x boost to cooking skill during adventures.
+chef:Chef
 effect_ancient_knowledge:The player is inspired by long-lost knowledge. // +30% wisdom
 ancient_knowledge:Ancient Knowledge
 effect_cursed:The player is affected by a mysterious curse. // -100% luck
@@ -179,6 +198,8 @@ plagued:Plagued
 effect_plagued:Suffering from an unknown plague, the player's vitality and strength are greatly reduced. // -50% vitality, -30% strength
 guardian_angel:Guardian Angel
 effect_guardian_angel:Protected by a divine deity, the player is bound to return once more after falling in combat.
+guardian_angel_activated:Guardian Angel [ACTIVATED]
+effect_guardian_angel_activated:A divine presence intervenes, restoring the fallen player for one last stand.
 protective_blessing:Protective Blessing
 effect_protective_blessing:A minor blessing protecting the affected from harm. // -5% damage taken
 dragon_slayer:Dragon Slayer
@@ -187,6 +208,20 @@ berserk:Berserk
 effect_berserk:Heavily injured, the player fell into an ancient rage. // +200% damage as long as badly wounded or maimed
 ambivalent:Ambivalent
 effect_ambivalent:The character is known for their contradictory ideas, leading to mixed results in their actions. // -10 to +10 on any roll
+8aeher_dt_hqjr:8aeher dt Hqjr
+effect_8aeher_dt_hqjr: 8aek ndr hqou shqlt fndj.
+seeker_of_egir:Seeker of Egir
+effect_seeker_of_egir:I seek for treasure in the deep abyss's cold, Be warned of the watchers, their gaze uncontrolled. Egirs give, but with caution, they weave their snare, In the depths, you’ll find what you might dare.
+haunted_by_egir:Haunted by Egir
+effect_haunted_by_egir:Haunted by an ancient, dark presence.
+
+strong:Strong
+effect_strong:The player possesses exceptional physical strength. // +10% strength, +1 to all strength rolls
+wise:Wise
+effect_wise:The player has profound wisdom and insight. // +10% wisdom, +1 to all wisdom rolls
+dexterous:Dexterous
+effect_dexterous:The player has exceptional agility and coordination. // +10% dexterity, +1 to all dexterity rolls
+
 
 // Effects Permanent
 effect_drained:The player feels drained and won't be able to fully recover anymore. // -25% max health
@@ -205,6 +240,12 @@ effect_vampiristic:The player is suspected to be a vampire. // Heal for 75% dama
 vampiristic:Vampiristic
 effect_banished:The player was banished from the party. // No longer part of the adventure
 banished:Banished
+effect_sacrificed:The player was sacrificed. // No longer part of the adventure
+sacrificed:Sacrificed
+effect_training:The player is training. // No longer part of the adventure
+training:Training
+effect_deserter:The player left the party. // No longer part of the adventure
+deserter:Deserter
 strong_leader:Strong Leader
 effect_strong_leader:The leader has proven exceptional strength. // +25% all stats
 usurper:Usurper
@@ -269,6 +310,8 @@ check_armor:Powerful armor needed.
 armor:Armor
 check_evasion:Swift dodges necessary.
 evasion:Evasion
+check_agility:Swift dodges necessary.
+agility:Agility
 
 check_morale:Is the morale in the party high enough to overcome this hindrance?
 morale:Morale
@@ -282,12 +325,15 @@ effect_bright_hair:Bright Hair
 check_coin_stack:This option requires a coin stack.
 coin_stack:Coin
 
+check_adventure_item:This option requires the party to have {item_name}.
+
 check_min_morale:Only selectable if your party morale is higher than the displayed amount.
 min_morale:Minimum Required Morale
 check_max_morale:Only selectable if your party morale is lower than the displayed amount
 max_morale:Maximum Allowed Morale
 
 errNoCoinStack:Your group doesn't have enough coins!
+errPartyNotOwningItem:Your party doesn’t have enough of the required item(s) to vote on this option!
 
 adventurePlayerCheck:Check
 errNotEnoughVotings:You can't continue without voting for something!
@@ -326,7 +372,7 @@ divine_seal_description:Opponent receives 500% increased Divine damage during th
 divine_weapon_enchantment:Divine Weapon Enchantment
 divine_weapon_enchantment_description:Imbues weapons with Divine power, changing their elemental damage and adding 25% bonus Divine damage.
 elven_quiver:Elven Quiver
-elven_quiver_description:Adds 15% to the Quickdraw chance of Rangers.
+elven_quiver_description:The Ranger now has a 15% chance to call upon a relic of the past: their former ability, Quickdraw.
 executioner:Executioner
 executioner_description:Executes opponents that drop below 10% HP.
 fire_sling:Fire Sling

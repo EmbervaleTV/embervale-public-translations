@@ -17,16 +17,5 @@ startDungeon:Comenzar Calabozo
 dungeonAutoSell:¡Todavía hay algunos objetos en tu inventario de calabozo! ¡Si sales del calabozo ahora, se perderán!
 selectConsumablesForDungeon:Selecciona las pociones que deseas llevar a la mazmorra. Ten en cuenta que todos los objetos que lleves a la mazmorra se perderán si eres derrotado.
 youDontHaveHealPotions:No tienes pociones de salud disponibles para agregar a tu bolsa de mazmorra.
-effect_gem_blessing:El jugador está bendecido por {rounds} rondas.  // +25% a todas las estadísticas
-gem_blessing:Bendición de la Gema
-lost_fairy_blessing:Bendición del Hada Perdida
-effect_lost_fairy_blessing:El jugador está bendecido por el Hada Perdida por {rounds} rondas.  // +10% HP cada habitación
-gem_curse:Maldición de la Gema
-effect_gem_curse:El jugador está maldito por {rounds} rondas.  // -5% a todas las estadísticas
-strength_buff:Mejora de Fuerza
-effect_strength_buff:El jugador está mejorado por {rounds} rondas.  // +20% fuerza
-wisdom_buff:Mejora de Sabiduría
-effect_wisdom_buff:El jugador está mejorado por {rounds} rondas.  // +20% sabiduría
-cluttered_mind:Mente Confusa
-effect_cluttered_mind:El jugador está confundido por {rounds} rondas.  // -20% precisión
 recommendedLevel:Nivel Recomendado
+enterDungeon:Entrar en la Mazmorra

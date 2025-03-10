@@ -16,19 +16,33 @@ necrotic_vein:Necrotic Vein
 divinite:Divinite
 ember_heart:Ember Heart
 embervale-key:Embervale Key
+embervale-key_description:Level 140 - 160
 bastion_of_light-key:Bastion of Light Key
+bastion_of_light-key_description:Level 130 - 150
 infested_gardens-key:Infested Gardens Key
+infested_gardens-key_description:Level 10 - 30
 abandonded_wastelands-key:Abandoned Wastelands Key
+abandonded_wastelands-key_description:Level 100 - 120
 dried_out_riverlands-key:Dried Out Riverlands Key
+dried_out_riverlands-key_description:Level 20 - 40
 occupied_river_crossing-key:Occupied River Crossing Key
+occupied_river_crossing-key_description:Level 30 - 50
 island_of_beasts-key:Island of Beasts Key
+island_of_beasts-key_description:Level 70 - 90
 hidden_kingdom-key:Hidden Kingdom Key
+hidden_kingdom-key_description:Level 60 - 80
 eternal_ice-key:Eternal Ice Key
+eternal_ice-key_description:Level 80 - 100
 silver_mountains-key:Silver Mountains Key
+silver_mountains-key_description:Level 90 - 110
 stranded_seafire-key:Stranded Seafire Key
+stranded_seafire-key_description:Level 40 - 60
 deepwater_passage-key:Deepwater Passage Key
+deepwater_passage-key_description:Level 50 - 70
 graveyard_of_the_nameless-key:Graveyard of the Nameless Key
+graveyard_of_the_nameless-key_description:Level 120 - 140
 duskwood-key:Duskwood Key
+duskwood-key_description:Level 110 - 130
 
 // Alchemy
 

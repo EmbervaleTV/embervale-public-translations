@@ -11,8 +11,8 @@ confirmGuildInvite:Êtes-vous sûr de vouloir inviter {username} à rejoindre vo
 confirmGuildKick:Êtes-vous sûr de vouloir supprimer {username}?
 lastActivity:Dernière activité
 leave:Partir
-addNewRole:Entrez le nom du rôle que vous souhaitez ajouter!
-renameRole:Si vous souhaitez modifier le nom du rôle {role}, changez-le et appuyez sur Enregistrer!
+addNewRole:Veuillez entrer le nom du rôle que vous souhaitez ajouter !
+renameRole:Pour renommer le rôle {role}, entrez le nouveau nom et appuyez sur enregistrer !
 deleteRole:Supprimer le rôle
 deleteGuild:Supprimer une guilde
 guildDescription:Description de la guilde
@@ -21,7 +21,6 @@ PERMISSION_ADMIN:Dirigeant
 PERMISSION_CO_ADMIN:Vize Leader
 PERMISSION_KICK_MEMBER:Membre Kick
 PERMISSION_EDIT_DESCRIPTION:Description de la guilde
-PERMISSION_EDIT_FEE:Modifier les frais
 PERMISSION_INVITE_MEMBER:Inviter un membre
 createYourGuild:Créez votre guilde
 acceptInvite:Accepter l'invitation
@@ -35,6 +34,29 @@ more_slots_lvl3:Vous gagnez 2 emplacements de guilde supplémentaires
 defense_lvl0:-
 defense_lvl1:Cet article est encore inutile
 defense_lvl2:Cet article est encore inutile
-inviteTextarea:Partagez pourquoi les joueurs devraient rejoindre votre guilde !
+inviteTextarea:Mettez en avant les avantages de rejoindre votre guilde !
 thisPlayerAlreadyJoinedOtherGuild:Ce joueur a déjà rejoint une autre guilde.
 PERMISSION_WRITE_IN_GUILD_CHAT:Envoyer un message de chat
+memberSince:Membre depuis
+PERMISSION_EDIT_UPGRADES:Contrôle des améliorations
+guildless:Sans Guilde
+invite:Inviter
+applications:Applications
+invites:Invitations
+noApplications:Aucun joueur n'a encore postulé à votre guilde.
+noInvites:Il n'y a aucune invitation en attente pour votre guilde.
+joinTextarea:Montrez pourquoi vous seriez un atout précieux pour la guilde !
+apply:Appliquer
+applicationSent:Votre candidature a été envoyée avec succès !
+accept:Accepter
+decline:Refuser
+invitationSent:Votre invitation a été envoyée avec succès !
+revoke:Révoquer
+from:De
+inviteConfirmation:Es-tu sûr de vouloir accepter {name} dans ta guilde ?
+rejectConfirmation:Es-tu sûr de vouloir rejeter {name} de rejoindre ?
+kick:Coup de pied
+revokeConfirmation:Es-tu sûr de vouloir révoquer l'invitation de {name} à rejoindre ?
+chatNoPermission:Tu n'as pas la permission...
+hideSystemMsg:Masquer les messages système
+showSystemMsg:Afficher les messages système

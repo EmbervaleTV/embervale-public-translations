@@ -180,3 +180,17 @@ pepper_flavor:Острый и горячий, перец является клю
 raw_pork_flavor:Свежезарезанная, эта свинина готова к приготовлению в сытное блюдо для любого приключенца.
 riverland_potato_flavor:Выращенные на плодородной почве речных земель, эти картофелины являются основным продуктом любого скромного приема пищи.
 sea_salt_flavor:Грубая и ароматная, морская соль добывается с края океана, являясь важным ингредиентом на любой кухне.
+infested_gardens-key_description:Уровень 10 - 30
+embervale-key_description:Уровень 140 - 160
+bastion_of_light-key_description:Уровень 130 - 150
+abandonded_wastelands-key_description:Уровень 100 - 120
+dried_out_riverlands-key_description:Уровень 20 - 40
+occupied_river_crossing-key_description:Уровень 30 - 50
+island_of_beasts-key_description:Уровень 70 - 90
+hidden_kingdom-key_description:Уровень 60 - 80
+eternal_ice-key_description:Уровень 80 - 100
+silver_mountains-key_description:Уровень 90 - 110
+stranded_seafire-key_description:Уровень 40 - 60
+deepwater_passage-key_description:Уровень 50 - 70
+graveyard_of_the_nameless-key_description:Уровень 120 - 140
+duskwood-key_description:Уровень 110 - 130

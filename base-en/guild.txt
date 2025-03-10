@@ -12,25 +12,49 @@ confirmGuildInvite:Are you sure you want to invite {username} to your guild?
 confirmGuildKick:Are you sure you want to kick {username}?
 lastActivity:Last activity
 leave:Leave
-inviteTextarea:Share why players should join your guild!
-thisPlayerAlreadyJoinedOtherGuild:This player already joined a different Guild.
-addNewRole:Please enter the name of the role you want to add!
-renameRole:If you want to change the name of the role {role} change the name and press save!
+from:From
+inviteTextarea:Highlight the benefits of joining your guild!
+joinTextarea:Showcase why you’d be a valuable addition to the guild!
+thisPlayerAlreadyJoinedOtherGuild:This player has already joined another guild.
+addNewRole:Please enter the name of the role you'd like to add!
+renameRole:To rename the role {role}, enter the new name and press save!
 deleteRole:Delete role
 deleteGuild:Delete guild
 guildDescription:Guild description
 guildName:Guild name
+guildless:Guildless
+memberSince:Member Since
+lastActivity:Last Activity
 
 PERMISSION_ADMIN:Leader
 PERMISSION_CO_ADMIN:Vize Leader
 PERMISSION_KICK_MEMBER:Kick member
 PERMISSION_EDIT_DESCRIPTION:Guild description
-PERMISSION_EDIT_FEE:Edit Fee
+PERMISSION_EDIT_UPGRADES:Control upgrades
 PERMISSION_INVITE_MEMBER:Invite Member
 PERMISSION_WRITE_IN_GUILD_CHAT:Send Chat Message
 
+chatNoPermission:You don't have permission...
+hideSystemMsg:Hide system messages
+showSystemMsg:Show system messages
+
 createYourGuild:Create your guild
 acceptInvite:Accept invite
+invite:Invite
+applications:Applications
+apply:Apply
+accept:Accept
+decline:Decline
+revoke:Revoke
+kick:Kick
+applicationSent:Your application has been sent successfully!
+invitationSent:Your invitation has been sent successfully!
+inviteConfirmation:Are you sure you want to accept {name} into your guild?
+rejectConfirmation:Are you sure you want to reject {name} from joining?
+revokeConfirmation:Are you sure you want to revoke {name}'s invitation to join?
+invites:Invites
+noApplications:No players have applied to your guild yet.
+noInvites:There are no pending invites to your guild.
 errTooManyRoles:You can only have 10 roles in your guild!
 
 

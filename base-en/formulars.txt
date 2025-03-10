@@ -1,18 +1,18 @@
 statDMG-mage:The range of magical damage you can deal.
 statDMG-F-mage:Damage = Weapon damage * ((wisdom / 60) + 1)
 statDMG-knight:The range of physical damage you can deal.
-statDMG-F-knight:Damage = Weapon damage * ((strength / 60) + 1)
+statDMG-F-knight:Damage = (Weapon damage / 2.66) * ((strength / 60) + 1)
 statDMG-ranger:The range of physical damage you can deal.
-statDMG-F-ranger:Damage = Weapon damage * ((dexterity / 60) + 1)
+statDMG-F-ranger:Damage = (Weapon damage / 1.54) * ((dexterity / 60) + 1)
 statDMG-warrior:The range of physical damage you can deal.
-statDMG-F-warrior:Damage = Weapon damage * ((strength / 60) + 1)
+statDMG-F-warrior:Damage = (Weapon damage / 2) * ((strength / 60) + 1)
 statDMG-rogue:The range of physical damage you can deal.
-statDMG-F-rogue:Damage = Weapon damage * ((dexterity / 60) + 1)
+statDMG-F-rogue:Damage = (Weapon damage / 1.66) * ((dexterity / 60) + 1)
 
 statVIT-mage:The amount of damage you can take.
 statVIT-F-mage:(1 + vit * 0.1) * (1 + 0.01 * lvl) * 11.5 + 10
 statVIT-knight:The amount of damage you can take.
-statVIT-F-knight:(1 + vit * 0.1) * (1 + 0.01 * lvl) * 22 + 10
+statVIT-F-knight:((1 + vit * 0.1) * (1 + 0.01 * lvl) * 22 + 10) * 1.15
 statVIT-ranger:The amount of damage you can take.
 statVIT-F-ranger:(1 + vit * 0.1) * (1 + 0.01 * lvl) * 15 + 10
 statVIT-warrior:The amount of damage you can take.
@@ -75,7 +75,7 @@ statCritPerc-knight:Determines chance to land a critical hit.
 statCritPerc-F-knight:((Accuracy / lvl) * 0.25) * 100
 statCritPerc-M-knight:Maximum value 50%
 statCritPerc-ranger:Determines chance to land a critical hit.
-statCritPerc-F-ranger:((Accuracy / lvl) * 0.25) * 100
+statCritPerc-F-ranger:((Accuracy / lvl) * 0.25) * 100 + 10
 statCritPerc-M-ranger:Maximum value 80%
 statCritPerc-warrior:Determines chance to land a critical hit.
 statCritPerc-F-warrior:((Accuracy / lvl) * 0.25) * 100

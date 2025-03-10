@@ -86,7 +86,7 @@ defeat_mage_class_in_arena:Derrota a {amount} magos en batallas de arena
 defeat_knight_class_in_arena:Derrota a {amount} caballeros en batallas de arena
 defeat_ranger_class_in_arena:Derrota a {amount} exploradores en batallas de arena
 defeat_warrior_class_in_arena:Derrota a {amount} guerreros en batallas de arena
-repeatable__participate_in_adventures:[Repetible] Participa en {amount} aventuras
+repeatable__participate_in_adventures:Participa en {amount} aventuras
 vote_in_adventures:Emitir {amount} votos en aventuras
 complete_elemental_butterflies_glossary:Añade todos los {amount} Elemental Butterflies a tu Glosario
 event:Evento
@@ -106,7 +106,7 @@ complete_dungeon_12:Limpia 'Cementerio de los Sin Nombre'
 complete_dungeon_13:Limpia 'Bastión de Luz'
 complete_dungeon_14:Limpia 'Embervale'
 complete_dungeon_5:Despejar 'Paso de Aguas Profundas'
-repeatable__refer_a_streamer:[Repetible] Recomienda nuevos streamers a Embervale.TV
+repeatable__refer_a_streamer:Recomienda nuevos streamers a Embervale.TV
 referStreamer:Recomienda un streamer
 referStreamerReq1:El streamer debe introducir tu nombre de Twitch al crear su primer personaje.
 referStreamerReq2:El streamer debe ser Afiliado o Partner de Twitch.
@@ -118,3 +118,23 @@ tutorial:Tutorial
 complete_daily_mission:Completa {amount} misiones diarias
 defeat_a_player_in_chat:Derrota a otro jugador usando el comando !evbattle.
 cantDonateBundles:Lo siento, pero no puedo aceptar paquetes como donaciones.
+activate_tools:Activa {amount} herramientas en aventuras
+join_raid:Ayuda al Lord Sander Klause en {amount} incursiones
+cantDonateThis:Lo siento, pero no puedo aceptar esta donación.
+referFirstStreamer:¡La primera referencia te otorga la apariencia de armadura de aventurero para todos tus personajes!
+goodItemInShop:Un objeto mítico está actualmente en la tienda. ¿Estás seguro de que quieres actualizar?
+reachMaxReputation:Alcanza la máxima reputación con el tendero.
+defeat_rogue_class_in_bounties:Derrota a {amount} pícaros en recompensas
+defeat_mage_class_in_bounties:Derrota a {amount} magos en recompensas
+defeat_knight_class_in_bounties:Derrota a {amount} caballeros en recompensas
+defeat_ranger_class_in_bounties:Derrota a {amount} exploradores en recompensas
+defeat_warrior_class_in_bounties:Derrota a {amount} guerreros en recompensas
+bestiary_dex_entry_hint:Muestra un indicador en recompensas si no tienes la Entrada correspondiente del Bestiario.
+item_dex_entry_hint:Muestra un indicador en los objetos si no tienes la Entrada en el Glosario correspondiente.
+reach_alchemist_level:Alcanza el Nivel de Alquimia {lvl}
+reach_smith_level:Alcanza el Nivel de Herrería {lvl}
+reach_cook_level:Alcanza el Nivel de Cocina {lvl}
+repeatable:Repetible
+win_in_the_arena:Gana en la arena {amount} veces
+repeatable__host_adventures__public:Acoge {amount} aventuras, progresa a través de la Sala 25, y hazlo bajo la categoría Embervale.TV con chat sin restricciones.
+repeatable__activate_tools__public:Activa {amount} herramientas en aventuras con más de 10 jugadores activos

@@ -850,7 +850,7 @@ crystalshroud_bracers:Kristallschleier Armschienen
 acolythes_gloves:Handschuhe des Akolythen
 wandering_witches_bracers:Armschienen der umherwandernden Hexe
 exiled_scholars_gloves:Verstoßene Gelehrten Handschuhe
-wondrous_healers_gloves:Wundersame Heiler Handschuhe
+wondrous_healers_gloves:Wunderbare Heilerhandschuhe
 silent_bracers:Stille Armschienen
 foreststalker_hands:Waldjäger Hände
 shadow_guards:Schattenwachen
@@ -876,7 +876,7 @@ goldweave_armguards:Goldgewebe Armschützer
 oceanleaf_arms:Ozeanblatt Arme
 umbral_claws:Schattenschwingen Klauen
 platinum_protectors:Platinbeschützer
-blood_crown_gauntlets:Blut_Krone_Panzerhandschuhe
+blood_crown_gauntlets:Blutkrone-Panzerhandschuhe
 hellfire_wrath:Höllenfeuer Zorn
 mirageforge_hands:Mirageschmiedehände
 crystalshroud_hat:Kristallschleier-Hut
@@ -999,3 +999,4 @@ thunderstrike:Donnerschlag
 divine_smite:Göttlicher Streich
 golden_order:Goldene Ordnung
 blightreaver:Seuchenräuber
+bronze_band:Bronzeband

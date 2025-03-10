@@ -17,16 +17,5 @@ startDungeon:Começar Masmorra
 dungeonAutoSell:Ainda há alguns itens em seu inventário de masmorra! Se você sair da masmorra agora, eles serão perdidos!
 selectConsumablesForDungeon:Selecione as poções que deseja levar para a masmorra. Observe que todos os itens levados para a masmorra serão perdidos se você for derrotado.
 youDontHaveHealPotions:Você não tem nenhuma poção de saúde disponível para adicionar à sua bolsa de masmorra.
-effect_gem_blessing:O jogador está abençoado por {rounds} rodadas.
-gem_blessing:Bênção da Gema
-lost_fairy_blessing:Bênção da Fada Perdida
-effect_lost_fairy_blessing:O jogador é abençoado pela Fada Perdida por {rounds} rodadas. // +10% HP em cada sala
-gem_curse:Maldição da Gema
-effect_gem_curse:O jogador está amaldiçoado por {rounds} rodadas.  // -5% em todas as estatísticas
-strength_buff:Aumento de Força
-effect_strength_buff:O jogador recebe um aumento de força por {rounds} rodadas.  // +20% força
-wisdom_buff:Aumento de Sabedoria
-effect_wisdom_buff:O jogador recebe um aumento de sabedoria por {rounds} rodadas.  // +20% sabedoria
-cluttered_mind:Mente Confusa
-effect_cluttered_mind:O jogador está confuso por {rounds} rodadas.  // -20% precisão
 recommendedLevel:Nível Recomendado
+enterDungeon:Entrar na Masmorra

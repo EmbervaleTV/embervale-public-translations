@@ -53,3 +53,18 @@ skin_elk_hide:Pele de Alce
 skin_polar_bear:Urso Polar
 skin_festive_protector:Protetor Festivo
 skin_christmas_spirit:Espírito Natalino
+accountBundle:Pacote de Conta
+eventName:Natal 2024
+eventBackground:Fundo de Natal
+eventWeapon:Arma de Natal
+eventUserWillReceive:{user} receberá
+eventOutfit:Roupa de Natal
+eventCollection:Tudo da Coleção de Natal 2024 para todos os personagens e personagens futuros
+eventSkinBundleMsg:{character_name} presenteou você com o Pacote de Skins de Natal 2024!
+eventSkinAccountBundleMsg:{character_name} presenteou você com o Pacote de Skins de Natal 2024 para todos os seus personagens!
+eventRaidRewardTxt:{character_name} recebeu: {reward} - Dano: {dmg} ({perc}%) - Ataques: {amount} ({chance}%)
+thorn_knight:Cavaleiro dos Espinhos
+twilight_rogue:Pícaro do Crepúsculo
+tempest_ranger:Patrulheiro da Tempestade
+druid_mage:Mago Druida
+skytear_warrior:Guerreiro Skytear

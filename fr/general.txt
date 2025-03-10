@@ -286,7 +286,7 @@ loadingTip1:Il est conseillé de commencer une expédition avant de partir pour 
 loadingTip2:Vous pouvez toujours réinitialiser vos points de compétence afin de les ajuster à votre armure !
 loadingTip3:Rejoignez notre Discord pour recevoir des récompenses quotidiennes !
 loadingTip4:Ceci est censé être un conseil, mais nous sommes à court d'idées.
-loadingTip5:Terminer un donjon pour la première fois garantit un coffre mythique.
+loadingTip5:Chaque niveau d'artisanat agrandit votre inventaire de matériaux de 20 emplacements.
 loadingTip6:Lors de la sélection des primes, faites attention au ratio endurance-expérience pour prioriser la montée en niveau.
 loadingTip7:Les objets épiques, légendaires et mythiques peuvent avoir des affinités élémentaires augmentant vos dégâts/résistances.
 loadingTip8:Vous pouvez changer la vitesse du combat pendant une bataille.
@@ -294,7 +294,7 @@ loadingTip9:Vous pouvez vous entraîner au combat contre des joueurs en cliquant
 loadingTip10:Les mages ne ratent jamais leur cible. Seule la furtivité peut aider à éviter leurs attaques.
 loadingTip11:La chance augmente les dégâts des coups critiques.
 loadingTip12:Les chevaliers sont lourdement armurés et portent un bouclier, leur conférant un avantage naturel contre les classes basées sur la dextérité.
-loadingTip13:La capacité de tir rapide du Ranger leur permet de frapper deux fois de temps en temps.
+loadingTip13:La capacité de saignement du Ranger inflige un effet de saignement à l'adversaire, infligeant des dégâts au fil du temps et réduisant l'efficacité de ses soins.
 loadingTip14:Les guerriers utilisent une pierre de vie pour drainer les PV de leurs ennemis à chaque coup. Cependant, la puissance de la pierre se dégrade rapidement.
 loadingTip15:Le Voleur est un maître de la furtivité et de l'esquive, rendant beaucoup plus difficile pour les attaquants de porter des coups.
 loadingTip16:Assurez-vous de remplir votre glossaire pour gagner de l'XP plus rapidement !
@@ -421,11 +421,6 @@ alchemist:Alchimiste
 successfullyCrafted:Artisanat réussi
 yourTitle:Ton titre
 title:Titre
-hero:Héros
-veteran:Vétéran
-adventurer:Aventurier
-mercenary:Mercenaire
-squire:Écuyer
 legendary_adventurer_male:Aventurier Légendaire
 legendary_adventurer_female:Aventurière Légendaire
 stylist_male:Styliste
@@ -486,10 +481,10 @@ selectYourCharacter:Sélectionne ton personnage
 select:Sélectionner
 loadingTip29:Augmenter le niveau de ton personnage te permettra de trouver plus de recettes.
 loadingTip30:Tu as du mal avec un certain type d'ennemi ? Découvre sa faiblesse élémentaire !
-loadingTip31:Gagner dans l'arène te rapporte non seulement de la Gloire, mais aussi une petite portion de l'or de ton adversaire !
-loadingTip32:Si tu perds de l'or contre un attaquant dans l'arène, tu es protégé contre d'autres pertes pour un moment.
+loadingTip31:La victoire dans l'arène vous récompense de Gloire, accompagnée d'un bonus de XP et d'or !
+loadingTip32:Référez un streamer à Embervale et gagnez 1000 Arcanites ! Consultez l'onglet des succès pour plus de détails.
 loadingTip33:Utilise les outils dans les aventures pour augmenter ta renommée !
-loadingTip34:La boutique reçoit un nouveau lot d'articles gratuitement 24 heures après ton dernier reroll.
+loadingTip34:Vous pouvez relancer la boutique gratuitement toutes les 24 heures !
 loadingTip35:Compléter un donjon pour la première fois garantit un Coffre Mythique et augmente ta capacité d'inventaire !
 loadingTip36:Les Donjons ont des pools uniques de monstres ; collectionne-les tous pour remplir ton Bestiaire !
 chrono-badge:Badge Chrono
@@ -504,7 +499,7 @@ collect:Collecte
 giftedYou:Vous a offert
 ayetStudioNoFill:Désolé, aucune publicité n'est disponible pour le moment. Merci de vérifier dans quelques minutes.
 referrer:Référent (nom Twitch)
-barberRewardRefferer:Je veux récompenser un référent
+barberRewardRefferer:Code de parrainage (Optionnel)
 referalNameInvalid:Le nom du référent est invalide. Veuillez le corriger ou le supprimer.
 resetStatsLevelTep:Tu peux réinitialiser tes statistiques gratuitement jusqu'à atteindre le niveau 10 !
 anonymously:Anonymement
@@ -533,7 +528,7 @@ shopRerollInfo3:Les chances sont arrondies à trois décimales
 shopRerollBaseChance:Chance de base avec 0 % de réputation par objet
 create:Créer
 youReceivedFollowingBenefits:Vous avez activé {bundle_name} pour les 30 prochains jours !
-shopRefreshTooltip:Vous pouvez rafraîchir la boutique gratuitement une fois par jour. Utiliser du cuivre ou des Arcanites pour rafraîchir la boutique ne réinitialisera pas le minuteur de rafraîchissement gratuit quotidien.
+shopRefreshTooltip:Vous pouvez rafraîchir la boutique gratuitement toutes les 20 heures. Utiliser des pièces de cuivre ou des Arcanites pour rafraîchir la boutique ne réinitialisera pas le minuteur quotidien de rafraîchissement gratuit.
 copperExplaination:100 Cuivre équivaut à 1 Argent, et 100 Argent équivaut à 1 Or
 eyebrows:Sourcils
 hoarders-badge:Insigne de l'accumulateur
@@ -550,7 +545,6 @@ confirmPurchaseBundleConsumable:Es-tu sûr de vouloir acheter {bundleName} ?
 successPurchaseBundle:Merci d'avoir acheté {bundleName} !
 potionAlreadyActive:Tu as déjà une potion active. Cela va écraser ta potion active actuelle !
 cookebotNoConsent:Vous n'avez pas accepté tous les cookies requis, y compris ceux de marketing et d'analyse. Cela pourrait vous empêcher de recevoir des publicités récompensées.
-emeraldShop:Boutique Arcanite
 halloween-2024-badge:Badge Halloween 2024
 halloween-2024-badge_desc:Obtenable en complétant toutes les missions de l'événement Halloween
 critChance:Chance de Crit
@@ -582,3 +576,53 @@ explore:Explorer
 exploreByYourSelfExpl:Vous pouvez explorer et rassembler les ressources vous-même ! En attendant, vous ne pourrez pas accomplir de Chasses.
 exploreHireExpl:Vous pouvez engager quelqu'un pour recueillir des ressources pour vous ! Bien qu'il ne soit pas aussi compétent que vous, il récoltera une quantité respectable de matériaux, vous permettant de vous concentrer sur les primes. Collecte 2 matériaux par heure.
 yourActiveExpeditions:Vos expéditions actives
+reputation:Réputation
+reputationProgressTooltip:Collectez { points } de réputation pour atteindre { percentage }%
+shopRefreshTooltipNextRefresh:Prochain rafraîchissement gratuit dans :
+christmas-2024-badge:Badge Noël 2024
+christmas-2024-badge_desc:Obtenu lors de l'Événement de Noël 2024
+potionSameTypeActive:Tu as déjà une potion d'xp active.
+average:Moyenne
+termsOfService:Conditions d'utilisation
+privacyPolicy:Politique de confidentialité
+and:Et
+sortBy:Trier Par
+date:Date
+anonymous:Anonyme
+purchaseSuccess:Merci pour votre achat !
+purchaseWithCreatorCode:{name} vient d'acheter {product} et vous a soutenu avec votre code créateur : {crco}
+selected:Sélectionné
+purchaseBundle:Acheter le Pack
+barberRequireSubscriptionTooltip:Vous devez avoir un abonnement actif pour choisir cette coiffure.
+ayetStudioAdExpired:Malheureusement, l'annonce a expiré en raison de l'inactivité.
+shopRerollInfo4:Le système de récompense protège les joueurs de la malchance lors du rafraîchissement de la boutique :
+shopPityMythicalInfo:Mythique garanti
+shopPityLegendaryInfo:Légendaire garanti
+provisioner_male:Approvisionneur
+provisioner_female:Approvisionneuse
+guardian_male:Gardien
+guardian_female:Gardienne
+clickOnPresetToChange:Cliquez sur un préréglage d'équipement pour mettre à jour son icône.
+chooseIcon:Choisir l'icône
+equipPreset:Équiper le préréglage
+free:Gratuit
+purchasePreset:Achat Prédéfini
+limitFPS:Limitez l'animation FPS
+imageResolutionTip:(Passer à faible uniquement si les images se chargent lentement)
+limitFPSTip:(Réduire le FPS peut optimiser les performances en utilisant moins de ressources)
+controlsTip:(Choisissez bureau pour l'entrée de la souris et mobile pour les commandes tactiles)
+dangerZone:Zone Dangereuse
+patreonThanks:Le projet n'aurait jamais été possible sans nos Patreons. Beaucoup d'amour à vous tous ♥ Et un merci spécial à nos :
+language:Langue
+newOutfitDiscovered:Tenue ajoutée au Glossaire :
+dontOwnPreset:Vous n'avez pas encore de preset.
+confirmGearPresetPurchase:Confirmez l'achat de votre pré-réglage d'équipement en cliquant sur le bouton ci-dessous.
+confirmGearPresetFreePurchase:Les deux premiers pré-réglages d'équipement sont gratuits.
+preset:Préréglage
+cantSellItemsFromPreset:Vous ne pouvez pas vendre cet objet tant qu'il fait partie d'un préréglage.
+youCompletedThisCategory:Vous avez entièrement complété cette catégorie.
+hideObtainedEntries:Cacher les entrées complétées
+hideCompletedAchievements:Masquer les succès complétés
+editPresetIcon:Modifier les icônes
+updatePreset:Mettre à jour le préréglage
+resetPreset:Réinitialiser le Préréglage

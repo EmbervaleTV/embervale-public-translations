@@ -70,3 +70,5 @@ errConsumableInventoryWouldBeFull:Das würde deine Verbrauchsgegenstände-Tasche
 errChestInventoryIsFull:Dein Truheninventar ist voll!
 errGameDesynced:Aktion konnte nicht abgeschlossen werden. Dies passiert normalerweise, wenn du auf mehreren Geräten gleichzeitig spielst oder Geräte wechselst, ohne neu zu laden.
 errArcaniteDesync:Die Arcanite-Menge, die vom Spiel gesendet wurde, stimmt nicht mit der von unserem Server berechneten Anzahl überein. Bitte versuche es erneut.
+errNotAllowed:Diese Aktion ist nicht erlaubt.
+errDungeonInventoryIsFull:Du kannst keine zusätzlichen Gegenstände in diesen Dungeon mitnehmen!

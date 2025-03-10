@@ -70,3 +70,5 @@ errConsumableInventoryWouldBeFull:¡Esto haría que tu bolsa de consumibles sea 
 errChestInventoryIsFull:¡Tu inventario del cofre está lleno!
 errGameDesynced:La acción no pudo ser completada. Esto generalmente ocurre si juegas en múltiples dispositivos a la vez o cambias de dispositivo sin recargar.
 errArcaniteDesync:La cantidad de Arcanite enviada por el juego no coincide con el número calculado por nuestro servidor. Por favor, intenta de nuevo.
+errNotAllowed:Esta acción no está permitida.
+errDungeonInventoryIsFull:¡No puedes llevar más objetos a esta mazmorra!

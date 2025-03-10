@@ -286,7 +286,7 @@ loadingTip1:É uma boa ideia começar uma expedição antes de sair para coletar
 loadingTip2:Você pode sempre redefinir seus pontos de habilidade, assim poderá ajustá-los de acordo com sua armadura!
 loadingTip3:Entre no nosso Discord para receber recompensas diárias!
 loadingTip4:Era para ser uma dica, mas ficamos sem ideias.
-loadingTip5:Derrotar uma masmorra pela primeira vez garante um baú mítico.
+loadingTip5:Cada nível de criação expande seu Inventário de Materiais em 20 espaços.
 loadingTip6:Ao selecionar recompensas, preste atenção na relação resistência-experiência ao priorizar seu nível.
 loadingTip7:Itens Épicos, Lendários e Míticos podem ter afinidades elementares que aumentam seu dano/resistência.
 loadingTip8:Você pode alterar a velocidade do combate durante uma batalha.
@@ -294,7 +294,7 @@ loadingTip9:Você pode praticar batalha contra outros jogadores clicando no nome
 loadingTip10:Magos nunca erram o alvo. Apenas furtividade pode ajudar a evitar os ataques deles.
 loadingTip11:Sorte aumenta o dano dos golpes críticos.
 loadingTip12:Cavaleiros são fortemente armados e carregam um escudo, dando-lhes uma vantagem natural contra classes baseadas em destreza.
-loadingTip13:A habilidade de saque rápido do Ranger permite que ele ataque duas vezes de vez em quando.
+loadingTip13:A habilidade de sangramento do Ranger aplica um efeito de sangramento no oponente, causando dano ao longo do tempo e reduzindo sua eficácia de cura.
 loadingTip14:Guerreiros usam uma pedra de vida para drenar o HP dos inimigos com cada golpe. No entanto, o poder da pedra se deteriora rapidamente.
 loadingTip15:O Ladino é um mestre da furtividade e evasão, tornando muito mais difícil para os atacantes acertarem golpes.
 loadingTip16:Certifique-se de preencher seu glossário para ganhar XP mais rapidamente!
@@ -421,11 +421,6 @@ alchemist:Alquimista
 successfullyCrafted:Criado com sucesso
 yourTitle:Seu título
 title:Título
-hero:Herói
-veteran:Veterano
-adventurer:Aventureiro
-mercenary:Mercenário
-squire:Escudeiro
 legendary_adventurer_male:Aventureiro Lendário
 legendary_adventurer_female:Aventureira Lendária
 stylist_male:Estilista
@@ -486,10 +481,10 @@ selectYourCharacter:Selecione o seu personagem
 select:Selecionar
 loadingTip29:Aumentar o nível do seu personagem permitirá encontrar mais receitas.
 loadingTip30:Tendo dificuldades com um certo tipo de inimigo? Descubra sua fraqueza elemental!
-loadingTip31:Vencer na arena não só concede Glória, como também uma pequena parte do ouro do seu oponente!
-loadingTip32:Se você perder ouro para um atacante na arena, você fica protegido de perder mais por um tempo.
+loadingTip31:A vitória na arena recompensa você com Glória, além de um bônus de XP e ouro!
+loadingTip32:Indique um streamer para Embervale e ganhe 1000 Arcanites! Verifique a aba de conquistas para mais detalhes.
 loadingTip33:Use ferramentas em aventuras para aumentar sua fama!
-loadingTip34:A loja recebe um novo lote de itens gratuitamente 24 horas após sua última alteração.
+loadingTip34:Você pode rolar a loja novamente gratuitamente a cada 24 horas!
 loadingTip35:Completar uma masmorra pela primeira vez garante um Baú Mítico e expande sua capacidade de inventário!
 loadingTip36:As Masmorras têm pools únicos de monstros; colete todos para preencher seu Bestiário!
 chrono-badge:Emblema Crono
@@ -504,7 +499,7 @@ collect:Coletar
 giftedYou:Presenteou você
 ayetStudioNoFill:Desculpe, não há anúncios disponíveis no momento. Por favor, volte em alguns minutos.
 referrer:Referência (nome no Twitch)
-barberRewardRefferer:Quero recompensar um referenciador
+barberRewardRefferer:Código de Referência (Opcional)
 referalNameInvalid:O nome do referenciador é inválido. Por favor, corrija ou exclua-o.
 resetStatsLevelTep:Você pode redefinir seus atributos gratuitamente até alcançar o nível 10!
 anonymously:Anonimamente
@@ -533,7 +528,7 @@ shopRerollInfo3:As chances são arredondadas para três casas decimais
 shopRerollBaseChance:Chance base com 0% de reputação por item
 create:Criar
 youReceivedFollowingBenefits:Você ativou {bundle_name} pelos próximos 30 dias!
-shopRefreshTooltip:Você pode atualizar a loja gratuitamente uma vez por dia. Usar cobre ou Arcanites para atualizar a loja não irá reiniciar o temporizador de atualização gratuita diária.
+shopRefreshTooltip:Você pode atualizar a loja gratuitamente a cada 20 horas. Usar cobre ou Arcanites para atualizar a loja não reiniciará o temporizador da atualização gratuita diária.
 copperExplaination:100 Cobre é igual a 1 Prata, e 100 Prata é igual a 1 Ouro
 eyebrows:Sobrancelhas
 hoarders-badge:Insígnia do Acumulador
@@ -550,7 +545,6 @@ confirmPurchaseBundleConsumable:Tem certeza de que deseja comprar {bundleName}?
 successPurchaseBundle:Obrigado por adquirir {bundleName}!
 potionAlreadyActive:Você já tem uma poção ativa. Isso substituirá sua poção ativa atual!
 cookebotNoConsent:Você não aceitou todos os cookies necessários, incluindo marketing e análises. Isso pode impedir o recebimento de anúncios recompensados.
-emeraldShop:Loja Arcanite
 halloween-2024-badge:Distintivo de Halloween 2024
 halloween-2024-badge_desc:Obtido ao completar todas as Missões do Evento de Halloween
 critChance:Chance de Crítico
@@ -582,3 +576,53 @@ explore:Explorar
 exploreByYourSelfExpl:Você pode explorar e coletar os recursos por conta própria! Nesse meio tempo, você não poderá fazer Caçadas.
 exploreHireExpl:Você pode contratar alguém para coletar recursos para você! Embora não sejam tão habilidosos quanto você, eles vão coletar uma quantidade razoável de materiais, permitindo que você se concentre em recompensas. Coleta 2 materiais por hora.
 yourActiveExpeditions:Suas expedições ativas
+reputation:Reputação
+reputationProgressTooltip:Colete { points } de reputação para atingir { percentage }%
+shopRefreshTooltipNextRefresh:Próxima atualização gratuita em:
+christmas-2024-badge:Distintivo de Natal 2024
+christmas-2024-badge_desc:Obtido durante o Evento de Natal 2024
+potionSameTypeActive:Você já possui uma poção de xp ativa.
+average:Média
+termsOfService:Termos de Serviço
+privacyPolicy:Política de Privacidade
+and:E
+sortBy:Ordenar Por
+date:Data
+anonymous:Anônimo
+purchaseSuccess:Obrigado pela sua compra!
+purchaseWithCreatorCode:{name} acabou de comprar {product} e te apoiou com seu código de criador: {crco}
+selected:Selecionado
+purchaseBundle:Comprar Pacote
+barberRequireSubscriptionTooltip:Você deve ter uma assinatura ativa para selecionar este penteado.
+ayetStudioAdExpired:Infelizmente, o anúncio expirou devido à inatividade.
+shopRerollInfo4:O sistema de recompensas protege os jogadores do azar ao atualizar a loja:
+shopPityMythicalInfo:Garantia Mítica
+shopPityLegendaryInfo:Garantia Lendária
+provisioner_male:Fornecedor
+provisioner_female:Fornecedora
+guardian_male:Guardião
+guardian_female:Guardião
+clickOnPresetToChange:Clique em um predefinido de equipamento para atualizar seu ícone.
+chooseIcon:Escolher Ícone
+equipPreset:Equipar Predefinido
+free:Gratuito
+purchasePreset:Comprar Predefinição
+limitFPS:Capar FPS da animação
+imageResolutionTip:(Mude para baixo apenas se as imagens estiverem carregando lentamente)
+limitFPSTip:(Reduzir o FPS pode otimizar o desempenho usando menos recursos)
+controlsTip:(Escolha desktop para usar o mouse e mobile para controles de toque)
+dangerZone:Zona de Perigo
+patreonThanks:O projeto nunca seria possível sem nossos Patreons. Muito amor para todos vocês ♥ E um agradecimento especial aos nossos:
+language:Linguagem
+newOutfitDiscovered:Roupa adicionada ao Glossário:
+dontOwnPreset:Você ainda não tem um predefinido.
+confirmGearPresetPurchase:Confirme a compra do seu conjunto de equipamentos clicando no botão abaixo.
+confirmGearPresetFreePurchase:Os dois primeiros conjuntos de equipamentos são gratuitos.
+preset:Predefinição
+cantSellItemsFromPreset:Você não pode vender este item enquanto ele fizer parte de um preset.
+youCompletedThisCategory:Você completou totalmente esta categoria.
+hideObtainedEntries:Ocultar Entradas Completas
+hideCompletedAchievements:Ocultar conquistas concluídas
+editPresetIcon:Editar Ícones
+updatePreset:Atualizar Predefinição
+resetPreset:Redefinir Predefinição

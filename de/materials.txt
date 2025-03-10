@@ -180,3 +180,17 @@ pepper_flavor:Scharf und heiß, Pfeffer ist eine Hauptzutat in vielen Gerichten 
 raw_pork_flavor:Frisch geschlachtet, dieses Schweinefleisch ist bereit, zu einer herzhaften Mahlzeit für jeden Abenteurer gekocht zu werden.
 riverland_potato_flavor:In den fruchtbaren Böden der Flusslande angebaut, sind diese Kartoffeln ein Grundnahrungsmittel für jede bescheidene Mahlzeit.
 sea_salt_flavor:Grob und geschmackvoll, Meersalz wird vom Rand des Ozeans geerntet und ist eine unverzichtbare Zutat in jeder Küche.
+infested_gardens-key_description:Stufe 10 - 30
+embervale-key_description:Level 140 - 160
+bastion_of_light-key_description:Level 130 - 150
+abandonded_wastelands-key_description:Level 100 - 120
+dried_out_riverlands-key_description:Level 20 - 40
+occupied_river_crossing-key_description:Level 30 - 50
+island_of_beasts-key_description:Level 70 - 90
+hidden_kingdom-key_description:Level 60 - 80
+eternal_ice-key_description:Level 80 - 100
+silver_mountains-key_description:Level 90 - 110
+stranded_seafire-key_description:Level 40 - 60
+deepwater_passage-key_description:Level 50 - 70
+graveyard_of_the_nameless-key_description:Level 120 - 140
+duskwood-key_description:Level 110 - 130

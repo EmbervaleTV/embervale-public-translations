@@ -180,3 +180,17 @@ pepper_flavor:Épicé et pimenté, le poivre est un ingrédient clé de nombreux
 raw_pork_flavor:Fraîchement abattu, ce porc est prêt à être cuisiné en un repas copieux pour tout aventurier.
 riverland_potato_flavor:Cultivées dans le sol fertile des terres fluviales, ces pommes de terre sont une base pour tout repas humble.
 sea_salt_flavor:Gros et savoureux, le sel de mer est récolté au bord de l'océan, un ingrédient vital dans toute cuisine.
+infested_gardens-key_description:Niveau 10 - 30
+embervale-key_description:Niveau 140 - 160
+bastion_of_light-key_description:Niveau 130 - 150
+abandonded_wastelands-key_description:Niveau 100 - 120
+dried_out_riverlands-key_description:Niveau 20 - 40
+occupied_river_crossing-key_description:Niveau 30 - 50
+island_of_beasts-key_description:Niveau 70 - 90
+hidden_kingdom-key_description:Niveau 60 - 80
+eternal_ice-key_description:Niveau 80 - 100
+silver_mountains-key_description:Niveau 90 - 110
+stranded_seafire-key_description:Niveau 40 - 60
+deepwater_passage-key_description:Niveau 50 - 70
+graveyard_of_the_nameless-key_description:Niveau 120 - 140
+duskwood-key_description:Niveau 110 - 130

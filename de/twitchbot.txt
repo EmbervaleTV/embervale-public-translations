@@ -2,7 +2,7 @@ evhelp:Du kannst alle Befehle hier finden:
 notStarted:Deine Reise hat noch nicht begonnen!
 cmdUnknownError:Ein unbekannter Fehler ist aufgetreten!
 serverOverload:Der Server ist überlastet! Bitte versuchen Sie es später erneut.
-twitchbotNoAccount:Bitte erstelle deinen Charakter in der Embervale-Erweiterung!
+twitchbotNoAccount:Bitte erstelle deinen Charakter in der Embervale-Erweiterung unter dem Stream!
 twitchbotNoActiveChar:Bitte logge dich mit deinem Charakter über die Embervale-Erweiterung ein oder füge den Namen des Charakters am Ende eines Befehls hinzu.
 adventureNotActive:Es gibt kein aktives Abenteuer!
 adventureAlreadyIn:Du bist schon in einem Abenteuer!
@@ -34,3 +34,22 @@ adventureLeaderLeaveForbidden:Der Anführer kann das Abenteuer nicht verlassen. 
 twitchbotCharNotFound:Dein Charakter wurde nicht gefunden! Bitte überprüfe die Schreibweise.
 twitchbotTargetNoAccount:Der ausgewählte Spieler hat noch keinen Embervale-Charakter erstellt!
 twitchbotTargetYourself:Du kannst dich nicht selbst angreifen!
+raidNoMonster:Wir erwarten neue Befehle von Lord Sander Klause!
+raidMonsterAlreadyDefeated:Die Gruppe hat {translated_monster_name} bereits besiegt! Wir erwarten neue Befehle von Lord Sander Klause!
+raidYouDealtDmg:{playername} traf {monster} und verursachte {amount} Schaden!
+raidYouDealtTotalDmg:{playername} griff {attackAmount} Mal an und verursachte insgesamt {amount} Schaden!
+raidMonster1:Frosty der Gefallene Titan
+raidMonster2:Pfefferminz-Schlächter
+raidMonster3:Kringlezerstörer, der Schlittenbrecher
+raidStart:{translated_monster} greift mein Reich an! Lord Sander Klause benötigt deine Hilfe. Tippe !evraid join, um an der Verteidigung teilzunehmen!
+raidNoPass:Du brauchst eine Winterliche Einladung von Lord Sander Klause, um zu helfen!
+raisePassConsumeError:Du kannst diesen Gegenstand nur im Chat verwenden. Tippe !evraid join, um an der Verteidigung teilzunehmen!
+raidMonster4:Driftschnee, der Hüter des Blizzards
+raidMonster5:Weihnachtsverwüster
+raidMonster6:Plätzchengreifer, der Kekskiller
+raidMonster7:Immerfrost-Sentinel
+raidMonster8:Mistelzorn, der Stechpalmenbote
+raidMonster9:Lamettaschrecken, der Girlandenschrecken
+raidMonster10:Carolranke, der Liedbrecher
+raidNoActiveRaid:Es findet gerade kein aktiver Überfall statt.
+adventureSurrenderConfirmation:Du kannst das Abenteuer jederzeit beenden, indem du kapitulieren, ohne Beute zu verlieren.

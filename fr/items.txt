@@ -850,7 +850,7 @@ crystalshroud_bracers:Brassards de voile cristallin
 acolythes_gloves:Gants d'Acolyte
 wandering_witches_bracers:Brassards de Sorcière Vagabonde
 exiled_scholars_gloves:Gants de savant exilé
-wondrous_healers_gloves:Gants de guérisseur merveilleux
+wondrous_healers_gloves:Gants Merveilleux du Guérisseur
 silent_bracers:Brassards silencieux
 foreststalker_hands:Mains de traqueur des forêts
 shadow_guards:Gardes ombre
@@ -999,3 +999,4 @@ thunderstrike:Foudroiement
 divine_smite:Frappe divine
 golden_order:Ordre doré
 blightreaver:Faucheur de fléau
+bronze_band:Bande de bronze

@@ -2,7 +2,7 @@ evhelp:Puedes encontrar todos los comandos aquí:
 notStarted:¡Tu viaje aún no ha empezado!
 cmdUnknownError:¡Se ha producido un error desconocido!
 serverOverload:¡El servidor está sobrecargado! Vuelva a intentarlo más tarde.
-twitchbotNoAccount:¡Crea tu personaje en la extensión de Embervale!
+twitchbotNoAccount:¡Por favor, crea tu personaje en la extensión de Embervale debajo del stream!
 twitchbotNoActiveChar:Por favor, inicia sesión con tu personaje a través de la extensión de Embervale o añade el nombre del personaje al final de cualquier comando.
 adventureNotActive:¡No hay aventura activa!
 adventureAlreadyIn:¡Ya estás en una aventura!
@@ -34,3 +34,22 @@ adventureLeaderLeaveForbidden:El líder no puede abandonar la aventura. Si selec
 twitchbotCharNotFound:¡No se encontró tu personaje! Por favor, verifica la ortografía.
 twitchbotTargetNoAccount:¡El jugador seleccionado aún no ha creado su primer personaje de Embervale!
 twitchbotTargetYourself:¡No puedes atacarte a ti mismo!
+raidNoMonster:¡Estamos esperando nuevas órdenes del Lord Sander Klause!
+raidMonsterAlreadyDefeated:¡El grupo ya ha derrotado a {translated_monster_name}! ¡Estamos esperando nuevas órdenes del Lord Sander Klause!
+raidYouDealtDmg:{playername} golpeó a {monster}, ¡infligiendo {amount} de daño!
+raidYouDealtTotalDmg:{playername} atacó {attackAmount} veces, ¡infligiendo un total de {amount} de daño!
+raidMonster1:Frosty, el Titán Renacido Gélido
+raidMonster2:Asaltador de Mentas
+raidMonster3:Kringletrituradora, el Rompesleds
+raidStart:¡{translated_monster} está atacando mi reino! Lord Sander Klause requiere tu ayuda. ¡Escribe !evraid join para participar en la defensa!
+raidNoPass:¡Necesitas una Invitación Invernal de Lord Sander Klause para ayudar!
+raisePassConsumeError:Solo puedes usar este objeto en el chat. ¡Escribe !evraid join para participar en la defensa!
+raidMonster4:Snowdrift el Guardián de la Tormenta de Nieve
+raidMonster5:Devastador Yuletide
+raidMonster6:Gingergrasp, el Devorador de Galletas
+raidMonster7:Centinela de Hielo Eterno
+raidMonster8:Mistlewrath, el Heraldo de Acebo
+raidMonster9:Terror de Espumillón, el Demonio de Guirnaldas
+raidMonster10:Carolvine, el Rompecanciones
+raidNoActiveRaid:No hay ninguna incursión activa en este momento.
+adventureSurrenderConfirmation:Puedes terminar la aventura en cualquier momento rindiéndote, sin perder ningún botín.
