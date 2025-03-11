@@ -1,0 +1,196 @@
+silver_bar:Silver Bar
+gold_bar:Gold Bar
+iron_bar:Iron Bar
+copper_bar:Copper Bar
+brass_bar:Brass Bar
+seastone_crystal:Seastone Crystal
+dwarven_silver:Dwarven Silver
+dusk_gemstones:Dusk Gemstones
+abyssalite:Abyssalite
+eerie_ore:Eerie Ore
+necrotic_vein:Necrotic Vein
+divinite:Divinite
+ember_heart:Ember Heart
+embervale-key:Embervale Key
+bastion_of_light-key:Bastion of Light Key
+infested_gardens-key:Infested Gardens Key
+abandonded_wastelands-key:Abandoned Wastelands Key
+dried_out_riverlands-key:Dried Out Riverlands Key
+occupied_river_crossing-key:Occupied River Crossing Key
+island_of_beasts-key:Island of Beasts Key
+hidden_kingdom-key:Hidden Kingdom Key
+eternal_ice-key:Eternal Ice Key
+silver_mountains-key:Silver Mountains Key
+stranded_seafire-key:Stranded Seafire Key
+deepwater_passage-key:Deepwater Passage Key
+graveyard_of_the_nameless-key:Graveyard of the Nameless Key
+duskwood-key:Duskwood Key
+distillate:Distillate
+pumpkin_soup:Pumpkin Soup
+pumpkin_soup_description:This spicy soup restores {amount} of stamina
+fruit_basket:Fruit Basket
+fruit_basket_description:Restores {amount} stamina
+salad:Salad
+salad_description:Restores {amount} stamina
+stone:Stone
+flint:Flint
+iron_ore:Iron Ore
+copper_ore:Copper Ore
+silver_ore:Silver Ore
+gold_ore:Gold Ore
+pewter:Pewter
+sapphire:Sapphire
+ruby:Ruby
+eternal_ice:Eternal Ice
+clover:Clover
+midnight_rose:Midnight Rose
+rose:Rose
+maggot:Maggot
+caterpillar:Caterpillar
+toadstool:Toadstool
+frog:Frog
+mandrake:Mandrake
+water:Water
+brain_stool:Brain Stool
+choncap:Choncap
+deeproot_truffle:Deeproot Truffle
+dragon's_breath_mint:Dragon's Breath Mint
+duskgloom_morels:Duskgloom Morels
+duskwight_berries:Duskwight Berries
+echostem_reeds:Echostem Reeds
+emberstalk_toadstool:Emberstalk Toadstool
+giant's_blood_essence:Giant's Blood Essence
+glacierthorn_flower:Glacierthorn Flower
+maple_leaves:Maple Leaves
+skytear_crystals:Skytear Crystals
+spider_root:Spider Root
+starfall_lavender:Starfall Lavender
+starlight_blossoms:Starlight Blossoms
+stormleaf_plant:Stormleaf Plant
+twilight_jasmine:Twilight Jasmine
+whisperroot_fiber:Whisperroot Fiber
+pumpkin:Pumpkin
+parsley:Parsley
+strawberry:Strawberry
+blueberries:Blueberries
+grapes:Grapes
+lettuce:Lettuce
+cucumber:Cucumber
+tomato:Tomato
+onion:Onion
+chicken_leg:Chicken Leg
+deep_sea_shrimp:Deep Sea Shrimp
+fine_rice:Fine Rice
+lime_berry:Lime Berry
+pepper:Pepper
+raw_pork:Raw Pork
+riverland_potato:Riverland Potato
+sea_salt:Sea Salt
+silver_key:Silver Key
+silver_key_description:Used to unlock something...
+mysterious_potion:Mysterious Potion
+mysterious_potion_description:A suspicious-looking potion... should I drink it?
+rare_gem:Rare Gem
+rare_gem_description:An odd gem. Could be valuable.
+stack_of_coins:Stack of Coins
+stack_of_coins_description:A handsome sum of gold coins.
+unknown_material:Unknown Material
+silver_bar_flavor:Forged in the heart of ancient forges, this silver bar holds a faint, mystical shimmer said to repel evil spirits.
+gold_bar_flavor:Gleaming with a regal glow, this gold bar is a symbol of wealth, often used in the crafting of royal artifacts and enchanted relics.
+iron_bar_flavor:Strong and reliable, this iron bar is the backbone of any blacksmith's forge, essential for crafting weapons and armor.
+copper_bar_flavor:This copper bar hums faintly with natural energy, often used by alchemists to channel the forces of nature.
+brass_bar_flavor:Brass bars are known for their unique golden hue, often utilized in ornate designs for instruments of power.
+seastone_crystal_flavor:These crystals are infused with the essence of the deep seas, glowing softly with the light of ancient marine magic.
+dwarven_silver_flavor:Dwarven silver is revered for its purity and strength, often used in runic crafts and dwarven heirlooms.
+dusk_gemstones_flavor:Said to capture the final rays of twilight, dusk gemstones are often sought by mages for their spell-enhancing properties.
+abyssalite_flavor:Mined from the deepest reaches of the earth, this dark mineral pulses with a sinister energy, perfect for cursed weaponry.
+eerie_ore_flavor:This ore emits an unsettling glow, believed to have been tainted by the presence of restless spirits.
+necrotic_vein_flavor:Veins of this ore pulse with dark energy, often used by necromancers in rituals of forbidden magic.
+divinite_flavor:A radiant ore believed to be touched by the gods themselves, used in the creation of holy artifacts.
+ember_heart_flavor:A rare, fiery core found in the depths of volcanoes, this heart burns with an eternal flame.
+embervale-key_flavor:A finely crafted key, shimmering with the essence of the Embervale itself, unlocking secrets long forgotten.
+bastion_of_light-key_flavor:This key shines brightly, said to open the gates to a place where darkness cannot tread.
+infested_gardens-key_flavor:Twisted and gnarled, this key seems alive with the corruption of the gardens it unlocks.
+abandonded_wastelands-key_flavor:Cold to the touch, this key is rumored to lead to the desolate lands where hope has long withered.
+dried_out_riverlands-key_flavor:Dust clings to this key, a relic of a once-thriving land now parched and forsaken.
+occupied_river_crossing-key_flavor:A heavy, worn key, often exchanged in the shadows, granting passage through dangerous territory.
+island_of_beasts-key_flavor:Marked with strange claw marks, this key grants access to a realm where the wildest creatures reign supreme.
+hidden_kingdom-key_flavor:Intricately carved, this key holds the power to reveal a kingdom lost to time.
+eternal_ice-key_flavor:Cold as the heart of winter, this key holds the secrets to the frozen north, where nothing thaws.
+silver_mountains-key_flavor:This key is etched with ancient runes, granting entry to the towering peaks of the Silver Mountains.
+stranded_seafire-key_flavor:Shrouded in a strange aura, this key is said to unlock the mysteries of the Seafire, a pirate ship long forgotten.
+deepwater_passage-key_flavor:Heavy and water-worn, this key once belonged to those who traversed the darkest depths of the seas.
+graveyard_of_the_nameless-key_flavor:Haunting and grim, this key is the only way to enter the cursed grounds where names are forgotten.
+duskwood-key_flavor:Crafted from blackened wood, this key grants entry into the shadowed forest where the sun never sets.
+distillate_flavor:A potent liquid extracted from rare herbs, used by alchemists to brew powerful elixirs.
+pumpkin_soup_flavor:A hearty soup that warms the soul, favored by travelers preparing for a long journey.
+fruit_basket_flavor:A vibrant assortment of fruits, bursting with natural energy and flavor, perfect for a quick recovery.
+salad_flavor:Crisp and refreshing, this salad is the go-to meal for those seeking a healthy boost of stamina.
+stone_flavor:Simple yet enduring, stone is the foundation of all great constructions, both mundane and magical.
+flint_flavor:This sharp piece of flint sparks easily, essential for starting fires in the wilderness.
+iron_ore_flavor:Raw and unrefined, this ore is the lifeblood of blacksmiths, soon to be transformed into tools of war.
+copper_ore_flavor:Warm to the touch, copper ore is often used in the crafting of conductive items and magical conduits.
+silver_ore_flavor:Glittering with a faint light, this ore is prized for its purity and its rumored ability to ward off dark magic.
+gold_ore_flavor:A shimmering nugget of gold ore, as valuable in coin as it is in the crafting of enchanted treasures.
+pewter_flavor:Soft but durable, pewter is often used for casting runes and talismans.
+sapphire_flavor:These deep blue gemstones are often sought by enchanters for their ability to focus magical energies.
+ruby_flavor:Bright and fiery, rubies are coveted for their power to enhance fire-based spells and enchantments.
+eternal_ice_flavor:Cold to the touch, eternal ice never melts, making it a prized component in powerful frost magic.
+clover_flavor:A common but potent herb, clover is often used in healing salves and simple potions.
+midnight_rose_flavor:This rare, dark bloom is said to only open under the light of the full moon, used in powerful love potions.
+rose_flavor:A symbol of beauty and passion, the rose is often used in enchanting perfumes and subtle charm spells.
+maggot_flavor:Squirming and unpleasant, maggots are a key ingredient in some of the more unsavory alchemical concoctions.
+caterpillar_flavor:This humble creature holds the potential for transformation, often used in spells of change and growth.
+toadstool_flavor:Poisonous to the untrained, toadstools are prized by alchemists for their ability to create deadly toxins.
+frog_flavor:This small amphibian is often harvested for its skin, which holds unique properties for crafting potions.
+mandrake_flavor:With roots that resemble a human form, mandrake is a powerful component in spells of protection and healing.
+water_flavor:Pure and clear, water is the foundation of all alchemy, serving as the base for most potions and elixirs.
+brain_stool_flavor:This strange fungus grows in dark, damp places, its properties linked to mental fortitude and psychic power.
+choncap_flavor:A small, round mushroom that releases spores with powerful hallucinogenic effects.
+deeproot_truffle_flavor:Found deep underground, this truffle is said to boost both stamina and magical energy when consumed.
+dragon's_breath_mint_flavor:This herb is said to grant the consumer the ability to breathe short bursts of flame.
+duskgloom_morels_flavor:Growing in the darkest corners of the forest, these morels are used in invisibility potions.
+duskwight_berries_flavor:These shadowy berries are known for their ability to enhance stealth and agility.
+echostem_reeds_flavor:These hollow reeds are prized for their ability to amplify sound, often used in wind instruments or communication spells.
+emberstalk_toadstool_flavor:A fiery fungus that burns with an inner glow, often used in fire-based alchemical recipes.
+giant's_blood_essence_flavor:Distilled from the blood of a giant, this essence imbues strength and resilience.
+glacierthorn_flower_flavor:Growing only in the coldest regions, this flower is used in frost-related potions and spells.
+maple_leaves_flavor:These leaves are often used in healing poultices, said to calm the mind and body.
+skytear_crystals_flavor:These crystals hold the power of the sky itself, crackling with electric energy.
+spider_root_flavor:Twisting and gnarled, this root is often used in potions of paralysis and entrapment.
+starfall_lavender_flavor:This fragrant herb falls from the heavens during meteor showers and is used to calm the mind.
+starlight_blossoms_flavor:Glowing faintly, these blossoms are said to grant visions of the future when brewed into a tea.
+stormleaf_plant_flavor:Pulsing with stormy energy, this plant is often used in weather-altering spells.
+twilight_jasmine_flavor:This fragrant flower blooms only in twilight, often used in potions of relaxation and dreams.
+whisperroot_fiber_flavor:Light and flexible, this fiber is often woven into enchanted clothing or used in stealth-related potions.
+pumpkin_flavor:A hearty vegetable often roasted or used in stews, bringing warmth and comfort to any meal.
+parsley_flavor:A fresh herb that enhances the flavor of any dish, often used to garnish the finest meals.
+strawberry_flavor:Sweet and juicy, strawberries are a favorite treat among travelers and nobles alike.
+blueberries_flavor:Tart and refreshing, these berries grow in abundance in the wild, a quick snack for adventurers.
+grapes_flavor:These sweet fruits are often fermented into wine, enjoyed by both peasants and royalty.
+lettuce_flavor:Crisp and refreshing, lettuce is a staple in salads, providing a light and nutritious meal.
+cucumber_flavor:Cool and hydrating, cucumbers are a refreshing addition to any dish, perfect for hot summer days.
+tomato_flavor:Juicy and tangy, tomatoes are used in a variety of dishes, from simple soups to elaborate feasts.
+onion_flavor:Sharp and savory, onions add depth to any dish, their flavor improving with heat.
+chicken_leg_flavor:A tender, roasted chicken leg, perfect for a quick meal while on the road.
+deep_sea_shrimp_flavor:These succulent shrimp are a delicacy, harvested from the deepest parts of the ocean.
+fine_rice_flavor:Soft and fragrant, fine rice is a staple in many meals, often served alongside rich meats or vegetables.
+lime_berry_flavor:Tart and sweet, lime berries are prized for their refreshing taste and use in pies and potions.
+pepper_flavor:Spicy and hot, pepper is a key ingredient in many dishes, bringing heat to even the coldest nights.
+raw_pork_flavor:Freshly butchered, this pork is ready to be cooked into a hearty meal for any adventurer.
+riverland_potato_flavor:Grown in the fertile soil of the riverlands, these potatoes are a staple for any humble meal.
+sea_salt_flavor:Coarse and flavorful, sea salt is harvested from the ocean’s edge, a vital ingredient in any kitchen.
+infested_gardens-key_description:Level 10 - 30
+embervale-key_description:Level 140 - 160
+bastion_of_light-key_description:Level 130 - 150
+abandonded_wastelands-key_description:Level 100 - 120
+dried_out_riverlands-key_description:Level 20 - 40
+occupied_river_crossing-key_description:Level 30 - 50
+island_of_beasts-key_description:Level 70 - 90
+hidden_kingdom-key_description:Level 60 - 80
+eternal_ice-key_description:Level 80 - 100
+silver_mountains-key_description:Level 90 - 110
+stranded_seafire-key_description:Level 40 - 60
+deepwater_passage-key_description:Level 50 - 70
+graveyard_of_the_nameless-key_description:Level 120 - 140
+duskwood-key_description:Level 110 - 130

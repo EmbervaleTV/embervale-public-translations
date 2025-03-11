@@ -1,0 +1,513 @@
+fire_ant:Огненный муравей
+giant_roach:Гигантский таракан
+waterstrider:Водомерка
+sickle_mantis:Богомол с серпами
+hell_mantis:Адский богомол
+green_dragonfly:Зелёная стрекоза
+blue_dragonfly:Синяя стрекоза
+abnormous_tick:Аномальный клещ
+mutated_carnivorous_plant:Мутировавшее плотоядное растение
+carnivorous_plant:Плотоядное растение
+monstrous_scarab:Чудовищный скарабей
+sand_snake:Песчаная змея
+awakened_sand:Пробуждённый песок
+grumpy_cactus:Сердитый кактус
+sand_tentacle:Песчаный щупальце
+sand_wing:Песчаное крыло
+goblin_ranger:Гоблин следопыт
+goblin_rogue:Гоблин плут
+goblin_mage:Гоблин маг
+goblin_grunt:Гоблин дуболом
+oversized_goblin:Переросток гоблин
+goblin_knight:Гоблин-рыцарь
+pirate_skeleton:Пират-скелет
+pirate_monkey:Пират-обезьяна
+pirate_bandit:Пират-бандит
+blue_slime:Синий слайм
+slime_wizard:Слайм-маг
+heroic_slime:Героический слайм
+poisonous_slime:Ядовитый слайм
+headhunter_slime:Слайм-головорез
+barbarian_slime:Варварский слайм
+royal_guard_slime:Королевский страж-слайм
+slime_protector:Защитник слайм
+slime_scout:Разведчик слайм
+black_wolf:Чёрный волк
+competitive_dodo:Соревнующийся додо
+mountain_warden:Горный страж
+peacock_sharpshooter:Павлин-стрелок
+poison_tongue:Ядовитый язык
+descended_dragon:Спустившийся дракон
+frost_spirit:Ледяной дух
+ice_turtle:Ледяная черепаха
+ice_yeti:Ледяной йети
+ice_ogre:Ледяной огр
+ice_golem:Ледяной голем
+frozen_invader:Замерзший захватчик
+frost_sickle_mantis:Ледяной богомол с серпом
+frost_wing:Ледяное крыло
+ice_avian:Ледяная птица
+berserker_dwarf:Берсерк-гном
+dwarf_captain:Капитан-гном
+miner_dwarf:Шахтер-гном
+executioner_dwarf:Палач-гном
+possessed_dwarf:Одержимый гном
+silvershield:Серебряный щит
+aiming_dwarf:Прицельный гном
+enchanted_ore:Зачарованная руда
+orc_warlock:Орк-колдун
+orc_marauder:Орк-мародер
+orc_archer:Орк-лучник
+orc_warrior:Орк Воин
+alpha_orc:Альфа Орк
+green_wyvern:Зеленый Виверн
+giant_rat:Гигантская Крыса
+ascended_duelist:Возвышенный Дуэлянт
+ascended_enforcer:Возвышенный Головорез
+ascended_gatekeeper_zephon:Возвышенный Страж Врат Зефон
+ascended_guardian:Возвышенный Страж
+ascended_sharpshooter:Возвышенный Стрелок
+blessed_archer:Благословенный Лучник
+blessed_spearman:Благословенный Копейщик
+blessed_warrior:Благословенный Воин
+chest_mimic:Сундук Мимик
+companion_of_the_nameless:Спутник Безымянного
+corpse_eater_ragnar:Пожиратель Трупов Рагнар
+corrupted_forest_heart:Искаженное Сердце Леса
+deepwater_berserk:Глубоководный Берсерк
+deepwater_crab:Глубоководный Краб
+deepwater_crab_warrior:Глубоководный Краб Воин
+deepwater_dark_star:Глубоководная Темная Звезда
+deepwater_lurker:Глубоководный Поглотитель
+deepwater_urchin:Глубоководный Ёж
+deepwater_watcher:Глубоководный Страж
+desert_rock_lizard:Пустынная Скальная Ящерица
+divine_judge_vretiel:Божественный Судья Вретиэль
+dryads_archer:Стрелок Дриад
+dryads_mage:Маг Дриад
+dryads_warrior:Воин Дриад
+dusk_root:Сумеречный Корень
+duskwood_wolf:Волк Сумеречного Леса
+flying_skull:Летающий Череп
+forest_golem:Лесной Голем
+forgotten_goblin:Забытый Гоблин
+forgotten_slime:Забытый Слизень
+gravekeeper:Сторож Кладбища
+hooded_stranger:Незнакомец в Капюшоне
+lady_of_the_passage:Дама Прохода
+light_slime:Светлый Слизень
+lost_fairy:Потерянная Фея
+lost_soul:Потерянная Душа
+overseer_crab:Смотритель Краб
+protector_of_the_forest_heart:Защитник Сердца Леса
+scavenging_mandrake:Падальщик Мандрагора
+skeleton_archer:Скелет Лучник
+skeleton_cutthroat:Скелет Головорез
+skeleton_dragon:Скелет Дракон
+skeleton_guard:Скелет Страж
+skeleton_hare:Скелет Заяц
+skeleton_knight:Скелет Рыцарь
+skeleton_marauder:Скелет Мародёр
+the_nameless:Безымянный
+thorn_cutter:Резчик Терния
+wall_mimic:Стена Мимик
+toxic_carnivorous_plant:Токсичное Хищное Растение
+spider_crab:Паук Краб
+black_ant_protector:Чёрный Муравей Защитник
+venomous_centipede:Ядовитая Сороконожка
+sand_devourer:Пожиратель Песка
+cactus_abomination:Кактус Скверна
+goblin_captain:Гоблин Капитан
+general_gogz:Генерал Гогз
+accursed_captain_hawk:Проклятый капитан Хоук
+pirate_parrot:Пиратский попугай
+god-king_hubertus_III:Бог-король Губерт III
+grandmaster_udabras:Грандмастер Удабрас
+lion_queen_melora:Королева львов Мелора
+king_leonidas:Король Леонид
+saint_of_the_cold_crux:Святой Холодного Креста
+cold_ruler:Холодный правитель
+greed_incarnation:Воплощение жадности
+moonlight_hunter:Лунный охотник
+dark_ruler_of_the_wastelands:Темный властелин пустошей
+giant_mosquito:Гигантский комар
+rain_wing:Дождевая крила
+tulip_wing:Тюльпановая крила
+inferno_wing:Адское крыло
+fire_snake:Огненная змея
+lunar_wing:Лунная крила
+fur_wing:Меховая крила
+colossal_red_snake:Колоссальная красная змея
+colossal_purple_snake:Колоссальный Фиолетовый Змей
+colossal_black_snake:Колоссальный Чёрный Змей
+gnoll_archer:Гнолл Стрелок
+gnoll_vanguard:Гнолл Вангаргд
+gnoll_swordsman:Гнолл Мечник
+goblin_reaper:Гоблин Жнец
+goblin_rider:Гоблин Всадник
+goblin_sorcerer:Гоблин Колдун
+flying_leech:Летающая Пиявка
+behemoth:Бегемот
+ice_snake:Ледяной Змей
+gnoll_shaman:Гнолл Шаман
+undead_gnoll:Нежить Гнолл
+skeleton_commander:Скелет Командир
+flaming_wolf:Пылающий Волк
+flaming_wolf_spirit:Дух Пылающего Волка
+brigand_skirmisher:Разбойник Легионер
+brigand_watcher:Разбойник Наблюдатель
+city_watch_ward:Сторожевой Городской Дозор
+city_watch_commander:Командир Городской Дозора
+city_watch_gate_keeper:Страж Врат Стражи Города
+colossal_bat:Колоссальная Летучая Мышь
+colossal_dark_crow:Колоссальный Темный Ворон
+colossal_scorpion:Колоссальный Скорпион
+forest_fox:Лесной Лис
+forest_deer:Лесной Олень
+forest_bee:Лесная Пчела
+forest_blue_flower:Синий Лесной Цветок
+forest_catermoth:Лесная Гусеница
+forest_ghost:Лесное Привидение
+forest_darkluff:Лесной Дарклуфф
+forest_fairy_dragon:Лесной Фейский Дракон
+forest_grasshopper:Лесной Кузнечик
+forest_imperial_widow:Лесная Императорская Вдова
+forest_mageshroom:Лесной Магический Гриб
+forest_panda:Лесная Панда
+forest_pink_flower:Розовый Лесной Цветок
+forest_red_flower:Красный Лесной Цветок
+forest_red_spider:Красный Лесной Паук
+forest_scorpion:Лесной Скорпион
+forest_shroom:Лесной гриб
+forest_spider:Лесной паук
+forest_spora:Лесная спора
+forest_mothy:Лесной мотылёк
+forest_sprout:Лесной росток
+forest_tree:Лесное дерево
+forest_turtle:Лесная черепаха
+forest_uzu:Лесной Узу
+forest_white_flower:Белый лесной цветок
+forest_wolf:Лесной волк
+ice_serpent:Ледяной змей
+ice_wolf:Ледяной волк
+ice_snow_golem:Ледяной снежный голем
+ice_snowman:Ледяной снеговик
+ice_wisp:Ледяной дух
+ice_spike:Ледяной шип
+plague_rat:Чумная крыса
+undead_jiangshi:Нежить Цзянши
+wind_wisp:Ветреный дух
+zombie_forest_flower:Зомби-лесной цветок
+skeleton_mage:Скелет-маг
+forest_green_spider:Лесной зелёный паук
+forest_shroomy:Лесной гриб
+abyss_wing:Крылья бездны
+frozen_mantis:Замороженная богомол
+ice_bull:Ледяной бык
+ice_kindred_glacier:Ледяной родственный ледник
+insects_swarm:Рой насекомых
+mushroom_knight:Грибной рыцарь
+rose_warrior:Розовый воин
+bone_sharpshooter:Костяной стрелок
+nightmare_spider:Паук кошмаров
+quadruraptor:Квадрураптор
+underworld_maw:Пасть подземного мира
+wyvern_bat:Виверновая летучая мышь
+majestic_boar:Величественный кабан
+dragon_lamprey:Драконий минога
+rock_golem:Каменный голем
+cursed_scimitar:Проклятый ятаган
+tridentpupa:Трехзубая куколка
+insects_dragon:Дракон-насекомое
+wood_golem:Деревянный Голем
+blazing_shroom:Пылающий Гриб
+chilling_shroom:Леденящий Гриб
+intoxicating_shroom:Опьяняющий Гриб
+snow_golem:Снежный Голем
+haunting_ghost:Преследующий Призрак
+bell_pepper_lizard:Перцовый Ящер
+darkness_crawler_azrkoth:Ползучая Тьма Азр'кот
+book_mimic:Мимик Книги
+darkness_seeker:Искатель Тьмы
+darkness_wisp:Искорка Тьмы
+bush_wisp:Кустарная Искорка
+leaf_imp:Листовой Бесенок
+earth_wisp:Земляная Искорка
+mandrake:Мандрагора
+earth_lion:Земляной Лев
+earth_snake:Земляная Змея
+earth_turtle:Земляная Черепаха
+fire_lion:Огненный Лев
+fire_turtle:Огненная Черепаха
+fox_bandit:Лис Бандит
+fox_crook:Лис Вор
+fox_rogue:Лис Разбойник
+shark_frog:Акулья Лягушка
+bull_lion:Бык Лев
+tiger_dragon:Тигровый Дракон
+gargoyle_grifos:Гаргулья Грифос
+garuda_garunix:Гаруда Гаруникс
+ghost_puppet:Призрачная Марионетка
+ghost_revelator:Призрачный Ясновидец
+storm_hawk:Штормовой Ястреб
+colossal_frog:Колоссальная Лягушка
+flightless_bird:Нелетающая Птица
+demon_critter_fox:Демон Лис
+demon_critter_rabbit:Демон Кролик
+demon_critter_squirrel:Демон Белка
+demon_imp:Демон Чертенок
+bighorn:Большерогий
+darkness_gargoyle:Тьма Гаргулья
+devilimp:Дьяволёнок
+dragon_wyrm:Дракон Вирм
+blue_wyvern:Синий Виверна
+brown_wyvern:Коричневый Виверна
+red_wyvern:Красный Виверна
+dryads_companion:Компаньон Дриад
+mountain_snail:Горный Улитка
+mountain_warthog:Горный Кабан
+mountain_wolf:Горный Волк
+mountain_winter_wolf:Горный Зимний Волк
+mountain_behemoth:Горный Бегемот
+squirrel_mage:Белка Маг
+squirrel_warrior:Белка Воин
+squirrel_defender:Белка Защитник
+root_shield:Корневой Щит
+cave_dweller_worm:Червь Пещерный Житель
+fire_vulture:Огненный Гриф
+fire_wisp:Огненное Огнеёло
+ant_knight:Муравей Рыцарь
+frozen_robber:Замороженный Грабитель
+frozen_skirmisher:Ледяной Вояка
+ant_lion:Муравьиный Лев
+black_ant_ranger:Чёрный Ант Рейнджер
+black_ant_mage:Чёрный Ант Маг
+black_ant_berserker:Чёрный Ант Берсерк
+black_ant_knight:Чёрный Ант Рыцарь
+kobold_archer:Кобольд Лучник
+kobold_armor:Кобольдская Броня
+kobolds_dagger:Кобольдский Кинжал
+unarmed_kobold:Невооружённый Кобольд
+kobolds_mage:Кобольдский Маг
+kobolds_spear:Кобольдское Копьё
+hornet_warrior:Боевой Шершень
+goblin_fairy:Гоблин Фея
+forest_goblin_axe:Лесной Гоблин Топор
+forest_goblin_dagger:Лесной Гоблин Кинжал
+forest_goblin_sword:Лесной Гоблин Меч
+hercules_bug:Жук Геркулес
+raiding_knight:Рыцарь Набега
+radiant_knight:Сияющий Рыцарь
+goblin_flag_bearer:Гоблин Знаменосец
+mysterious_white_mage:Таинственный Белый Маг
+betafish:Бета-рыба
+biofish:Био-рыба
+corrupt_executioner:Оскверненный Палач
+iron_minotaur:Железный Минотавр
+cerberus_ptolemaios:Цербер Птолемей
+mountain_griffon:Горный Грифон
+mountain_harpy:Горная Харпия
+mountain_hornet:Горный Шершень
+mountain_nanjo:Горный Нанджо
+mountain_bunny:Горный Заяц
+mountain_greathorn_goat:Горный Большерогий Козёл
+plant_snail:Растительный Улитка
+toxic_spreader:Токсичный Распространитель
+cape_sundew:Капская Росянка
+beach_spore:Пляжная Спора
+seagull:Чайка
+sea_lurker:Морской Луркер
+sea_jellyfish:Морская Медуза
+sea_horse:Морской конек
+sea_lickitoad:Морской ликитоад
+sea_shark:Морская акула
+sea_spheria:Морская сферия
+sea_tortoad:Морской тортоад
+sea_turtle:Морская черепаха
+sea_shelltacke:Морской шеллтаке
+sea_octi:Морской окти
+sea_octopus:Морской осьминог
+sea_fatoad:Морской фатоад
+sea_crab:Морской краб
+sea_blue_dragon:Морской синий дракон
+turtle_golem:Черепаший голем
+beach_pelican:Пляжный пеликан
+sea_abismos:Морской абисмос
+star_shell:Звездная раковина
+sea_star_trio:Морское звёздное трио
+arcane_slime:Арканитовая слизь
+brigand:Бандит
+undead_longshot:Неживой дальний выстрел
+undead_axe:Нежить Топор
+undead_blade:Нежить Клинок
+plant_exotic_flyer:Растение Экзотический Летун
+blood_orc_slaughterer:Кровавый Орк Убийца
+blood_orc_ravager:Кровавый Орк Разрушитель
+blood_orc_impaler:Кровавый Орк Пронзатель
+orc_war_drummer:Орк Военный Барабанщик
+knight_rose:Рыцарь Роза
+rat_gourmet:Крыса Гурман
+fork_rat:Вилка Крыса
+informed_rat:Осведомленная Крыса
+black_roc:Черный Рок
+bee:Пчела
+sand_caterpillar:Песчаная Гусеница
+caterpillar:Гусеница
+eyehopper:Глаз Прыгун
+death_worm:Червь Смерти
+lion_roach:Лев Таракан
+flame_monkey:Огненная Обезьяна
+feathered_snake:Пернатая Змея
+horn_willow:Ивовый Рог
+frost_gorilla:Ледяная Горилла
+electroctopus:Электроктопус
+silver_avian:Серебряный Авиан
+spike_hopper:Шипастый Прыгун
+spiked_caterpillar:Шипастая Гусеница
+toucan_panther:Тукановая Пантера
+rocktail_demolisher:Разрушитель Каменного Хвоста
+roaming_salamander:Бродячая Саламандра
+void_gargoyle:Пустотный Горгулий
+white_minotaur:Белый Минотавр
+avian_elephant:Птичий Слон
+black_lance_knight:Рыцарь Черного Копья
+bug_originator:Создатель Жуков
+minivolcano:Минивулкан
+fire_salamander:Огненная Саламандра
+fire_dragonspawn:Огненное Драконье Отродье
+lava_spawn:Лавовое Отродье
+fire_ogre:Огненный Огр
+dwarf_dragon:Дракон-Карлик
+darkness_fox:Темный Лис
+light_fox:Светлый Лис
+void_fox:Пустотный Лис
+stone_knight_alpha:Каменный Рыцарь Альфа
+stone_knight_zeta:Каменный Рыцарь Зета
+stone_knight_beta:Каменный Рыцарь Бета
+tree_magical:Волшебное Дерево
+melee_tree:Боевое Дерево
+tree_skirmisher:Дерево Стрелок
+arcane_tree:Арканное Дерево
+twin_snow_golem:Снежный Двойной Голем
+fire_bull:Огненный Бык
+desert_scorpion:Пустынный Скорпион
+corrupted_void_fire_wolf:Коррумпированный Пустотный Огненный Волк
+darkness_raptor:Темный Раптор
+flame_raptor:Пламенный Раптор
+cold_raptor:Холодный Раптор
+chilling_wolf_spirit:Леденящий Дух Волка
+fallen_dragon_knight:Павший Драконий Рыцарь
+fallen_winged_sword:Павший Крылатый Меч
+fallen_great_sword:Падший Великий Меч
+fire_toad:Огненная Жаба
+fire_sabretooth:Огненный Саблезуб
+ice_glacier_spawn:Отродье Ледника
+knight_spear_elite:Рыцарь Копейщик Элитный
+knight_sword_elite:Рыцарь Мечник Элитный
+knights_spear_common:Рыцарь Копейщик Обычный
+knights_sword_common:Рыцарь Мечник Обычный
+masked_demon_giant:Маскированный Демон Великан
+crocoknight:Крокорыцарь
+razortail_eagle:Бритвохвостый Орёл
+bull_dragon:Бычий Дракон
+rabbit_knight:Рыцарь-Кролик
+rabbit_bandit:Бандит-Кролик
+sea_fish:Морская Рыба
+skull_fish:Черепная Рыба
+skeleton_mage_mabon:Скелет Маг Мабон
+crocopaladin:Крокопаладин
+crocorogue:Крокоразбойник
+crocomage:Крокомаг
+ignited_bat:Огненная летучая мышь
+lava_worm:Лавовый червь
+fire_pumice_rock:Огненный пемзовый камень
+fire_pumice_sheep:Огненная пемзовая овца
+volcanic_golem:Вулканический голем
+living_armor:Живые доспехи
+two_headed_turtle:Двуголовая черепаха
+ice_cave_bat:Летучая мышь ледяной пещеры
+ice_lion:Ледяной лев
+snowball:Снежок
+yeti_wisp:Дух йети
+rabbit_stealth_archer:Кролик-скрытный лучник
+toxic_frog:Ядовитая лягушка
+toxic_horned_frog:Ядовитая рогатая лягушка
+toxic_white_frog:Ядовитая белая лягушка
+razor_tail_frog:Лягушка с лезвийным хвостом
+unifrog:Унилягушка
+toxic_root_mutation:Ядовитая корневая мутация
+toxic_root:Ядовитый корень
+undead_claw_knight:Нежить когтистый рыцарь
+undead_eastern_archer:Нежить Восточный Лучник
+undead_eastern_marauder:Нежить Восточный Мародер
+undead_eastern_plunderer:Нежить Восточный Грабитель
+voidoll_erabos:Войдолл Эрабос
+voidoll_erebia:Войдолл Эребия
+voidoll_erebus:Войдолл Эребус
+shark_bow:Лук Акулы
+dagger_shark:Кинжал Акула
+great_shark:Великая Акула
+wind_snake:Змей Ветра
+wind_avian:Птица Ветра
+wind_bunny:Кролик Ветра
+feathered_golem:Перьевой Голем
+feathered_razor:Перьевой Лезвие
+wind_harpy:Харпи Ветра
+wind_lion:Лев Ветра
+wind_mantis:Богомол Ветра
+wind_spawn:Порождение Ветров
+wooden_doll_warrior:Деревянный Кукольный Воин
+wooden_doll_ranger:Деревянный Кукольный Рейнджер
+wooden_doll_berserk:Деревянная кукла Берсерк
+spirit_boar:Дух Кабана
+spirit_wolf:Дух Волка
+spirit_baboon:Дух Павиана
+spirit_ape:Дух Обезьяны
+spirit_owl:Дух Совы
+spirit_panda:Дух Панды
+spirit_tiger:Дух Тигра
+spirit_fox:Дух Лисы
+spirit_primate:Дух Примата
+shadow_invocation_knight:Рыцарь Теневого Вызова
+sea_piranos:Морской Пиранос
+giant_grizzly:Гигантский Гризли
+darkness_behemoth:Тьма Бегемот
+darkness_imp:Тьма Имп
+earth_bull:Земной Бык
+acid_elemental:Элементаль Кислоты
+slime_earthi:Слизь Эрти
+colossal_mummy:Колоссальная Мумия
+metal_golem:Металлический Голем   
+sorceress:Чародейка
+shimmering_dragon:Мерцающий Дракон
+night_blade_assassin:Ассасин Ночного Клинка
+night_blade_commander:Командир Ночного Клинка
+shadow_beast:Теневая Тварь
+fiery_cultist:Огненный Культист
+cultist_caller:Призыватель Культистов
+novice_cultist:Новичок Культист
+loyal_wolf:Верный Волк
+consumed_hero:Поглощённый Герой
+dark_elf_healer:Лекарь Темного Эльфа
+nightmare_stalker:Преследователь Кошмаров
+headless_horseman:Всадник Без Головы
+shadow_creature:Теневое Существо
+infernal_spirit:Адский Дух
+bloodstone_minotaur:Кровавокаменный Минотавр
+sacred_vale_guardian:Страж Священной Долины
+vale_drake:Дракон Долины
+infernal_duelist:Адский Дуэлянт
+blazing_spider:Пылающий Паук
+flaming_slime:Пылающая слизь
+lady_of_the_vale:Леди из Вэйл
+volcanic_maiden:Вулканическая дева
+gemstone_fire_dragon:Дракон Огненный Самоцвет
+ignithor_the_charred_sovereign:Игнитор, обгоревший Повелитель
+blightflame_first_of_dragons:Гнилопламя, первый из Драконов
+spiky_turtle:Колючая черепаха
+rudolph:Рудольф
+big_sack_goblin:Гоблин с Большим Мешком
+angry_snowman:Злой Снеговик
+lich:Лич
+corrupted_rat:Коррумпированная Крыса
+nailguns:Гвоздеметы

@@ -1,0 +1,1002 @@
+iron_protector:Iron Protector
+wise_mens_charm:Wise Men's Charm
+amulet_of_the_unbroken:Amulet of the Unbroken
+ruby_heart:Ruby Heart
+sabretooth_talisman:Sabretooth Talisman
+miners_charm:Miner's Charm
+topaz_amulet:Topaz Amulet
+emerald_necklace:Emerald Necklace
+sealed_pearl_of_the_abyss:Sealed Pearl of the Abyss
+queens_wrath:Queen's Wrath
+the_human_jaw:The human Jaw
+blue_prism_necklace:Blue Prism Necklace
+minor_talisman:Minor Talisman
+blacksmiths_mark:Blacksmith's Mark
+ward_stone:Ward Stone
+amethyst_necklace:Amethyst Necklace
+scholars_necklace:Scholar's Necklace
+wolf_fang_talisman:Wolf Fang Talisman
+heart_of_gaia:Heart of Gaia
+petrified_shell:Petrified Shell
+unholy_cross:Unholy Cross
+spirit_tear:Spirit Tear
+jade_dragonfly:Jade Dragonfly
+ocean_shard:Ocean Shard
+silver_breeze:Silver Breeze
+sea_serpents_eye:Sea Serpent's Eye
+old_fishing_hook:Old Fishing Hook
+ancient_ruby_necklace:Ancient Ruby Necklace
+fishermens_charm:Fishermen's Charm
+scarlet_medallion:Scarlet Medallion
+amulet_of_the_water_spirit:Amulet of the Water Spirit
+darkthorn_necklace:Darkthorn Necklace
+sapphire_amulet:Sapphire Amulet
+alchemists_trump:Alchemist's Trump
+glowberry_charm:Glowberry Charm
+rune_of_ascension:Rune of Ascension
+rune_of_thunder:Rune of Thunder
+rune_of_life:Rune of Life
+gravestone_fragment:Gravestone Fragment
+blacksmiths_charm:Blacksmith's Charm
+all_seeing_eye:All Seeing Eye
+tricksters_charm:Trickster's Charm
+lucky_charm_of_the_gambler:Lucky Charm of the Gambler
+gift_from_the_reaper:Gift from the Reaper
+necklace_of_the_duchess:Necklace of the Duchess
+leviathans_eyes:Leviathan's Eyes
+protective_runes:Protective Runes
+golden_scarab:Golden Scarab
+protective_shell:Protective Shell
+shell_talisman:Shell Talisman
+insignia_of_the_sun:Insignia of the Sun
+oyster_pearl:Oyster Pearl
+insignia_of_the_moon:Insignia of the Moon
+scorpio_necklace:Scorpio Necklace
+novices_necklace:Novice's Necklace
+false_temptress:False Temptress
+lifestone_necklace:Lifestone Necklace
+amulet_of_the_vampire_queen:Amulet of the Vampire Queen
+wolf_ward:Wolf Ward
+mushroom_pickers_lucky_charm:Mushroom Picker's Lucky Charm
+golden_lizard_band:Golden Lizard Band
+lost_family_heirloom:Lost Family Heirloom
+elven_neckband:Elven Neckband
+shamans_lucky_charm:Shamans Lucky Charm
+amulet_of_the_wind_spirit:Amulet of the Wind Spirit
+amazonite_talisman:Amazonite Talisman
+pearl_necklace:Pearl Necklace
+false_abyss_stone:False Abyss Stone
+witches_eye:Witches Eye
+hunters_charm:Hunter's Charm
+heart_of_the_underworld:Heart of the Underworld
+prayer_beads:Prayer Beads
+azurite_protector:Azurite Protector
+blind_dragon_eye:Blind Dragon Eye
+prisoners_mark:Prisoner's Mark
+warlocks_necklace:Warlock's Necklace
+cultist_stone:Cultist Stone
+alchemists_token:Alchemist's Token
+foragers_orb:Forager's Orb
+medallion_of_fortune:Medallion of Fortune
+eye_of_chaos:Eye of Chaos
+golden_chain:Golden Chain
+abyssal_ore:Abyssal Ore
+gem_of_harmony:Gem of Harmony
+gem_of_nature:Gem of Nature
+ancient_collar:Ancient Collar
+paladins_honour:Paladin's Honour
+gem_of_renewal:Gem of Renewal
+archmages_necklace:Archmage's Necklace
+eye_of_the_storm:Eye of the Storm
+iron_band:Iron Band
+brass_band:Brass Band
+vanity_of_the_abyss:Vanity of the Abyss
+monks_pearls:Monk's Pearls
+bards_thread:Bard's Thread
+tortoise_heart:Tortoise Heart
+ancient_ashes:Ancient Ashes
+mystics_amulet:Mystic's Amulet
+trees_bounty:Tree's Bounty
+shield_charm:Shield Charm
+grandmasters_necklace:Grandmaster's Necklace
+rune_of_tides:Rune of Tides
+princes_amulet:Prince's Amulet
+princess_amulet:Princess' Amulet
+lunas_gift:Luna's Gift
+kings_crest:King's Crest
+queens_crest:Queen's Crest
+servants_crest:Servant's Crest
+cursed_runestone:Cursed Runestone
+gem_of_vitality:Gem of Vitality
+eye_of_pandora:Eye of Pandora
+dragons_ire:Dragon's Ire
+spirit_essence:Spirit Essence
+journeys_end:Journey's End
+pharmacists_mark:Pharmacist's Mark
+ring_of_binding:Ring of Binding
+constricting_band:Constricting Band
+apprentice_ring:Apprentice Ring
+valkyrie_ring:Valkyrie Ring
+beasts_maw:Beast's Maw
+abyssal_ring:Abyssal Ring
+channeling_ring:Channeling Ring
+engraved_gold_ring:Engraved Gold Ring
+rusted_ring:Rusted Ring
+appraised_ring:Appraised Ring
+queens_ring:Queen's Ring
+cats_eye:Cat's Eye
+cursed_ring:Cursed Ring
+amber_ring:Amber Ring
+merchants_ring:Merchant's Ring
+copper_ring:Copper Ring
+ring_of_mana:Ring of Mana
+ring_of_vitality:Ring of Vitality
+ring_of_rage:Ring of Rage
+ring_of_clairvoyance:Ring of Clairvoyance
+notched_ring:Notched Ring
+ancient_ring:Ancient Ring
+ring_of_necromancy:Ring of Necromancy
+dragonhunters_ring:Dragonhunter's Ring
+sirens_ring:Siren's Ring
+gold_band:Gold Band
+gold_ring:Gold Ring
+turquoise_ring:Turquoise Ring
+monarchs_ring:Monarch's Ring
+dance_of_the_deep:Dance of the Deep
+pharaohs_curse:Pharaoh's Curse
+ring_of_ouroboros:Ring of Ouroboros
+gargoyles_ring:Gargoyle's Ring
+fragment_of_the_abyss:Fragment of the Abyss
+sanded_serpentine_ring:Sanded Serpentine Ring
+vermillion_merchant_ring:Vermillion Merchant Ring
+snake_bite_ring:Snake Bite Ring
+living_deep_sea_ring:Living Deep Sea Ring
+forest_warden_ring:Forest Warden Ring
+anti_magic_ring:Anti Magic Ring
+shard_of_eternal_ice:Shard of Eternal Ice
+novices_ring:Novice's Ring
+scholars_ring:Scholar's Ring
+studded_bronze_ring:Studded Bronze Ring
+alchemy_ring:Alchemy Ring
+celtic_ring:Celtic Ring
+abyss_servant_ring:Abyss Servant Ring
+honeycomb_ring:Honeycomb Ring
+iron_bull_ring:Iron Bull Ring
+brass_bull_ring:Brass Bull Ring
+cobalt_bull_ring:Cobalt Bull Ring
+geode_ring:Geode Ring
+bone_ring:Bone Ring
+band_of_smithing:Band of Smithing
+claw_ring:Claw Ring
+ring_of_good_fortune:Ring of Good Fortune
+moon_aegis_ring:Moon Aegis Ring
+eclipse_ring:Eclipse Ring
+helios:Helios
+troglodyte_ring:Troglodyte Ring
+tigers_eye_ring:Tiger's Eye Ring
+turtle_shell_ring:Turtle Shell Ring
+elegant_cheese_ring:Elegant Cheese Ring
+old_spool:Old Spool
+wyvern_egg_ring:Wyvern Egg Ring
+the_awakened_abyss:The Awakened Abyss
+horseshoe_ring:Horseshoe Ring
+ruby_ring:Ruby Ring
+emerald_ring:Emerald Ring
+rough_gold_ring:Rough Gold Ring
+soul_of_nature:Soul of Nature
+void_ring:Void Ring
+ring_of_the_reaper:Ring of the Reaper
+silver_garnet_ring:Silver Garnet Ring
+ring_of_bloodlust:Ring of Bloodlust
+maw_of_the_abyss:Maw of the Abyss
+vampire_ring:Vampire Ring
+sepia_ring:Sepia Ring
+heir_of_the_abyss:Heir of the Abyss
+ring_of_nightmares:Ring of Nightmares
+ring_of_learning:Ring of Learning
+dormant_abyss_ring:Dormant Abyss Ring
+wooden_ring:Wooden Ring
+ring_of_rot:Ring of Rot
+darkstar_ring:Darkstar Ring
+old_cog:Old Cog
+ring_of_the_duchess:Ring of the Duchess
+deformed_gold_ring:Deformed Gold Ring
+lizards_eye_ring:Lizard's Eye Ring
+ring_of_embers:Ring of Embers
+kings_seal:King's Seal
+ivory_ring:Ivory Ring
+travellers_ring:Traveller's Ring
+iron_sun_ring:Iron Sun Ring
+sapphire_ring:Sapphire Ring
+ring_of_the_demon_lord:Ring of the Demon Lord
+boulder_ring:Boulder Ring
+opal_ring:Opal Ring
+symbol_of_love:Symbol of Love
+abyss_watcher:Abyss Watcher
+frost_ring:Frost Ring
+circle_of_thorns:Circle of Thorns
+ring_of_dusk:Ring of Dusk
+ring_of_dawn:Ring of Dawn
+crystal_ring:Crystal Ring
+ring_of_eternal_winter:Ring of Eternal Winter
+dead_coral_ring:Dead Coral Ring
+ring_of_divinity:Ring of Divinity
+genesis_of_life:Genesis of Life
+unyielding_defender:Unyielding Defender
+centurions_plate:Centurion's Plate
+tunic:Tunic
+mystics_robe:Mystic's Robe
+bear_pelt:Bear Pelt
+torn_tunic:Torn Tunic
+novices_robe:Novice's Robe
+scholars_robe:Scholar's Robe
+warlocks_robe:Warlock's Robe
+archmages_robe:Archmage's Robe
+cultists_robe:Cultist's Robe
+grandmasters_robe:Grandmaster's Robe
+brown_tunic:Brown Tunic
+elven_magicians_robe:Elven Magician's Robe
+shamans_robe:Shaman's Robe
+robe_of_the_healer:Robe of the Healer
+sorcerers_robe:Sorcerer's Robe
+magic_mercenarys_robe:Magic Mercenary's Robe
+elven_tunic:Elven Tunic
+cloak_of_aspiration:Cloak of Aspiration
+robe_of_deceit:Robe of Deceit
+elven_kings_armor:Elven King's Armor
+crimson_knights_plate:Crimson Knight's Plate
+dragon_scale_cuirass:Dragon Scale Cuirass
+generals_chestplate:General's Chestplate
+diplomats_robe:Diplomat's Robe
+sharpshooters_armor:Sharpshooter's Armor
+abyss_wanderers_armor:Abyss Wanderer's Armor
+vagabonds_robe:Vagabond's Robe
+brown_leather_armor:Brown Leather Armor
+barbarians_armor:Barbarian's Armor
+black_velvet_robe:Black Velvet Robe
+rogues_armor:Rogue's Armor
+iron_plackart:Iron Plackart
+priests_robe:Priest's Robe
+warriors_chestplate:Warrior's Chestplate
+crested_emerald_armor:Crested Emerald Armor
+kindled_armor:Kindled Armor
+desert_warriors_armor:Desert Warrior's Armor
+nightbringers_armor:Nightbringer's Armor
+necromancers_robe:Necromancer's Robe
+legendary_adventurers_armor:Legendary Adventurer's Armor
+iron_plate_armor:Iron Plate Armor
+kings_guard_armor:Kings Guard Armor
+worn_bronze_mail:Worn Bronze Mail
+seastone_armor:Seastone Armor
+dyed_leather_armor:Dyed Leather Armor
+executioners_armor:Executioner's Armor
+gargoyles_armor:Gargoyle's Armor
+pearl_plackart:Pearl Plackart
+suit_of_the_faded_dragon:Suit of the faded Dragon
+rangers_armor:Ranger's Armor
+occult_robe:Occult Robe
+bards_tunic:Bard's Tunic
+armor_of_the_undefeated:Armor of the Undefeated
+assassins_armor:Assassin's Armor
+composite_breastplate:Composite Breastplate
+infiltrators_armor:Infiltrator's Armor
+traitors_armor:Traitor's Armor
+lower_nobles_tunic:Lower Noble's Tunic
+emperors_protector:Emperor's Protector
+dark_steel_plate:Dark Steel Plate
+hide_armor:Hide Armor
+grey_scorpions_armor:Grey Scorpion's Armor
+reinforced_rhino_plate:Reinforced Rhino Plate
+heavy_iron_plate:Heavy Iron Plate
+reapers_skin:Reaper's Skin
+undead_knights_armor:Undead Knight's Armor
+phantom_steel_plate:Phantom Steel Plate
+coral_iron_armor:Coral Iron Armor
+scouts_armor:Scout's Armor
+archers_armor:Archer's Armor
+legionnaires_armor:Legionnaire's Armor
+shadow_blades_armor:Shadow Blade's Armor
+mercenaries_bracers:Mercenarie's Bracers
+ominous_bracelet:Ominous Bracelet
+sharpshooters_bracelet:Sharpshooter's Bracelet
+illusionists_robe:Illusionists Robe
+abyss_wanderers_bracer:Abyss Wanderer's Bracer
+gloves_of_deceit:Gloves of Deceit
+novices_bracers:Novice's Bracers
+composite_gloves:Composite Gloves
+vagabonds_gloves:Vagabond's Gloves
+grey_scorpions_gloves:Grey Scorpion's Gloves
+desert_warriors_gloves:Desert Warrior's Gloves
+phantom_steel_gloves:Phantom Steel Gloves
+scholars_gloves:Scholar's Gloves
+rhinos_crush_claw:Rhino's Crush Claw
+shadow_blades_gloves:Shadow Blade's Gloves
+warlocks_gloves:Warlock's Gloves
+mummified_hands:Mummified Hands
+grandmasters_gloves:Grandmaster's Gloves
+guardians_bracers:Guardian's Bracers
+hide_bracelet:Hide Bracelet
+iron_bracelet:Iron Bracelet
+wooden_coil:Wooden Coil
+elven_kings_bracer:Elven King's Bracer
+simple_bracer:Simple Bracer
+generals_gauntlets:General's Gauntlets
+dark_steel_gauntlets:Dark Steel Gauntlets
+elven_bracelet:Elven Bracelet
+padded_bracers:Padded Bracers
+archers_bracers:Archer's Bracers
+sunborn_bracers:Sunborn Bracers
+cultist_gloves:Cultist Gloves
+bear_grip:Bear Grip
+whisperers_gloves:Whisperer's Gloves
+archmages_gloves:Archmage's Gloves
+nightbringers_bracelet:Nightbringer's Bracelet
+copper_bracelet:Copper Bracelet
+painful_bracelet:Painful Bracelet
+crimson_bracelet:Crimson Bracelet
+mystics_bracers:Mystic's Bracers
+elven_magicians_bracers:Elven Magician's Bracers
+touch_of_nature:Touch of Nature
+combat_bracelet:Combat Bracelet
+healers_gloves:Healer's Gloves
+heavy_iron_gloves:Heavy Iron Gloves
+dyed_bracers:Dyed Bracers
+oceans_touch:Ocean's Touch
+leather_bracer:Leather Bracer
+diplomats_gloves:Diplomat's Gloves
+warriors_gloves:Warrior's Gloves
+infiltrators_gloves:Infiltrator's Gloves
+seastone_gloves:Seastone Gloves
+gloves_of_the_undefeated:Gloves of the Undefeated
+brown_gloves:Brown Gloves
+sinister_gloves:Sinister Gloves
+steel_gauntlets:Steel Gauntlets
+executioners_gauntlets:Executioner's Gauntlets
+dark_steel_gloves:Dark Steel Gloves
+gloves_of_the_temptress:Gloves of the Temptress
+fist_of_theft:Fist of Theft
+fist_of_wrath:Fist of Wrath
+fist_of_vengeance:Fist of Vengeance
+gloves_of_aspiration:Gloves of Aspiration
+gloves_of_the_scout:Gloves of the Scout
+undead_knights_claws:Undead Knight's Claws
+pearl_gauntlets:Pearl Gauntlets
+monks_gloves:Monk's Gloves
+beggars_gloves:Beggar's Gloves
+crimson_knights_gloves:Crimson Knight's Gloves
+magic_repellent_gauntlets:Magic Repellent Gauntlets
+illusionists_gloves:Illusionists Gloves
+protectors_of_the_forest:Protectors of the Forest
+bone_breakers:Bone Breakers
+noble_leather_gloves:Noble Leather Gloves
+leather_gloves:Leather Gloves
+blood_magic_gloves:Blood Magic Gloves
+sorcerers_gloves:Sorcerer's Gloves
+reinforced_bracers:Reinforced Bracers
+knights_gauntlets:Knight's Gauntlets
+yeti_paws:Yeti Paws
+iron_bracers:Iron Bracers
+illusionists_bracelets:Illusionist's Bracelets
+iron_plate_gloves:Iron Plate Gloves
+barbarians_gloves:Barbarian's Gloves
+gold_painted_gloves:Gold Painted Gloves
+heavy_iron_gauntlets:Heavy Iron Gauntlets
+thieves_gloves:Thieve's Gloves
+coral_iron_gloves:Coral Iron Gloves
+straw_bracelet:Straw Bracelet
+tormenters:Tormenters
+elven_kings_gloves:Elven King's Gloves
+decorated_bracelet:Decorated Bracelet
+legendary_adventurers_gloves:Legendary Adventurer's Gloves
+fist_of_midas:Fist of Midas
+reapers_bracelet:Reapers Bracelet
+warlocks_hood:Warlock's Hood
+novices_hat:Novice's Hat
+peasants_hat:Peasant's Hat
+elven_kings_helmet:Elven King's Helmet
+witch_hunters_hat:Witch Hunter's Hat
+beggars_cap:Beggar's Cap
+archers_cap:Archer's Cap
+gladiators_helmet:Gladiator's Helmet
+iron_helmet:Iron Helmet
+leather_helmet:Leather Helmet
+crested_emerald_helmet:Crested Emerald Helmet
+centurions_helmet:Centurion's Helmet
+barbarians_helmet:Barbarian's Helmet
+mask_of_treachery:Mask of Treachery
+spearmens_helmet:Spearmen's Helmet
+grizzly_helmet:Grizzly Helmet
+partisan_hood:Partisan Hood
+elven_magicians_hood:Elven Magician's Hood
+mask_of_stubbornness:Mask of Stubbornness
+gamblers_hat:Gambler's Hat
+dark_steel_helmet:Dark Steel Helmet
+heavy_infantry_helmet:Heavy Infantry Helmet
+diplomats_hood:Diplomat's Hood
+foot_soldier_helmet:Foot Soldier Helmet
+coral_iron_helmet:Coral Iron Helmet
+archmages_hood:Archmage's Hood
+mask_of_fear:Mask of Fear
+helmet_of_the_undefeated:Helmet of the Undefeated
+grandmasters_hat:Grandmaster's Hat
+healers_hood:Healer's Hood
+sharpshooters_hood:Sharpshooter's Hood
+miners_helmet:Miner's Helmet
+occult_hood:Occult Hood
+phantom_steel_helmet:Phantom Steel Helmet
+nightbringers_hood:Nightbringer's Hood
+composite_helmet:Composite Helmet
+merchants_hat:Merchant's Hat
+chain_hood:Chain Hood
+illusionist_hood:Illusionist's Hood
+summer_knights_helmet:Summer Knight's Helmet
+brown_wizard_hat:Brown Wizard Hat
+purple_wizard_hat:Purple Wizard Hat
+red_wizard_hat:Red Wizard Hat
+dwarven_warrior_helmet:Dwarven Warrior Helmet
+pink_cap:Pink Cap
+shamans_hood:Shaman's Hood
+hood_of_the_void:Hood of the Void
+hardened_helmet:Hardened Helmet
+scouts_helmet:Scout's Helmet
+rogues_helmet:Rogue's Helmet
+warriors_helmet:Warrior's Helmet
+knights_helmet:Knight's Helmet
+northern_helmet:Northern Helmet
+desert_warriors_turban:Desert Warrior's Turban
+legionnaires_helmet:Legionnaire's Helmet
+executioners_helmet:Executioner's Helmet
+spys_hood:Spy's Hood
+noble_turban:Noble Turban
+elven_helmet:Elven Helmet
+crushers_helmet:Crusher's Helmet
+desert_champions_crown:Desert Champion's Crown
+wasteland_helmet:Wasteland Helmet
+polished_steel_helmet:Polished Steel Helmet
+city_watch_helmet:City Watch Helmet
+crusaders_helmet:Crusader's Helmet
+vagabonds_hood:Vagabond's Hood
+hide_hood:Hide Hood
+scorpions_helmet:Scorpion's Helmet
+cultists_hood:Cultist's Hood
+grandmasters_hood:Grandmaster's Hood
+imperial_guards_helmet:Imperial Guard's Helmet
+battered_helmet:Battered Helmet
+patched_hood:Patched Hood
+fur_helmet:Fur Helmet
+generals_helmet:General's Helmet
+brawlers_helmet:Brawler's Helmet
+autumn_knights_helmet:Autumn Knight's Helmet
+spring_knights_helmet:Spring Knight's Helmet
+abyss_wanderers_hood:Abyss Wanderers Hood
+ancient_witch's_hat:Ancient Witch's Hat
+crimson_knights_helmet:Crimson Knight's Helmet
+emperors_helmet:Emperor's Helmet
+helmet_of_the_unseen:Helmet of the Unseen
+legendary_adventurers_helmet:Legendary Adventurer's Helmet
+mask_of_terror:Mask of Terror
+dusk_mages_hood:Dusk Mage's Hood
+warlords_helmet:Warlord's Helmet
+beggars_shoes:Beggar's Shoes
+novices_shoes:Novice's Shoes
+leather_boots:Leather Boots
+iron_boots:Iron Boots
+coral_iron_boots:Coral Iron Boots
+scholars_shoes:Scholar's Shoes
+rangers_boots:Ranger's Boots
+illusionists_shoes:Illusionist's Shoes
+heavy_rhino_boots:Heavy Rhino Boots
+traitors_boots:Traitor's Boots
+foot_of_midas:Foot of Midas
+boots_of_aspiration:Boots of Aspiration
+crimson_knights_boots:Crimson Knight's Boots
+necromancers_boots:Necromancer's Boots
+archers_boots:Archer's Boots
+boots_of_silence:Boots of Silence
+elven_magicians_shoes:Elven Magician's Shoes
+worn_shoes:Worn Shoes
+vagabonds_shoes:Vagabond's Shoes
+kindled_boots:Kindled Boots
+steel_boots:Steel Boots
+infiltrators_boots:Infiltrator's Boots
+gargoyles_boots:Gargoyles Boots
+cultists_boots:Cultist's Boots
+healers_boots:Healer's Boots
+knights_boots:Knight's Boots
+boots_of_the_undefeated:Boots of the Undefeated
+commoners_boots:Commoner's Boots
+dyed_leather_shoes:Dyed Leather Shoes
+heavy_iron_boots:Heavy Iron Boots
+desert_boots:Desert Boots
+grey_scorpions_boots:Grey Scorpion's Boots
+blood_magic_boots:Blood Magic Boots
+scrap_metal_boots:Scrap Metal Boots
+emperors_boots:Emperor's Boots
+undead_knights_boots:Undead Knight's Boots
+iron_plate_boots:Iron Plate Boots
+hide_boots:Hide Boots
+executioners_boots:Executioner's Boots
+mystics_boots:Mystic's Boots
+simple_leather_boots:Simple Leather Boots
+dwarven_boots:Dwarven Boots
+dark_steel_boots:Dark Steel Boots
+archmages_boots:Archmage's Boots
+captains_boots:Captain's Boots
+crushers_boots:Crusher's Boots
+elven_archers_boots:Elven Archer's Boots
+shoes_of_deceit:Shoes of Deceit
+whisperers_boots:Whisperer's Boots
+brown_boots:Brown Boots
+desert_warriors_boots:Desert Warrior's Boots
+abyss_dancers_boots:Abyss Dancer's Boots
+nightblade_boots:Nightblade Boots
+undersea_crown:Undersea Crown
+blunt_axe:Blunt Axe
+wooden_hammer:Wooden Hammer
+cutthroats_club:Cutthroat's Club
+round_wooden_hammer:Round Wooden Hammer
+soapstone_hammer:Soapstone Hammer
+handcrafted_mace:Handcrafted Mace
+wooden_club:Wooden Club
+gilded_mace:Gilded Mace
+butchers_cleaver:Butcher's Cleaver
+morning_star:Morning Star
+iron_bludgeon:Iron Bludgeon
+iron_mace:Iron Mace
+deep_sea_smiths_hammer:Deep Sea Smith's Hammer
+platecrusher_hammer:Platecrusher Hammer
+flail:Flail
+simple_war_pick:Simple War Pick
+soul_breaker:Soul Breaker
+iron_war_hammer:Iron War Hammer
+steel_war_hammer:Steel War Hammer
+dwarven_kings_companion:Dwarven King's Companion
+stone_mace:Stone Mace
+wooden_mallet:Wooden Mallet
+executioners_hammer:Executioner's Hammer
+war_gavel:War Gavel
+divine_weapon_aurora:Divine Weapon Aurora
+wooden_mace:Wooden Mace
+broadaxe:Broadaxe
+pale_broadaxe:Pale Broadaxe
+profaned_decapitater:Profaned Decapitater
+mercenary_axe:Mercenary Axe
+ivory_broadaxe:Ivory Broadaxe
+reapers_axe:Reaper's Axe
+golden_bardiche:Golden Bardiche
+moonlight_axe:Moonlight Axe
+dwarven_warhammer:Dwarven Warhammer
+amethyst_harvester:Amethyst Harvester
+emperors_judgement:Emperor's Judgement
+undead_generals_axe:Undead General's Axe
+wooden_warhammer:Wooden Warhammer
+deadly_diamond:Deadly Diamond
+ritual_dualblade:Ritual Dualblade
+bearded_twin_axe:Bearded Twin Axe
+spiderweb_twin_axe:Spiderweb Twin Axe
+demonic_reaver:Demonic Reaver
+sunshine_twin_axe:Sunshine Twin Axe
+ember_storm:Ember Storm
+engraved_axe:Engraved Axe
+elven_axe:Elven Axe
+mirror_axe:Mirror Axe
+guild_hammer:Guild Hammer
+final_crown:Final Crown
+mjolnir:Mjolnir
+bonebreaker_blossom:Bonebreaker Blossom
+blunt_iron_sword:Blunt Iron Sword
+iron_spear:Iron Spear
+goblin_spear:Goblin Spear
+cracked_spear:Cracked Spear
+wooden_spear:Wooden Spear
+lance:Lance
+infantry_spear:Infantry Spear
+handcrafted_glaive:Handcrafted Glaive
+reinforced_glaive:Reinforced Glaive
+sharktooth_balisong:Sharktooth Balisong
+stone_spear:Stone Spear
+limestone_spear:Limestone Spear
+battle_spear:Battle Spear
+orc_spear:Orc Spear
+huntsmens_gem:Huntsmen's Gem
+nomads_spear:Nomad' Spear
+arrowhead_spear:Arrowhead Spear
+frostborn_spear:Frostborn Spear
+captains_hook:Captain's Hook
+abyssal_lance:Abyssal Lance
+darksteel_spear:Darksteel Spear
+iron_pike:Iron Pike
+wooden_glaive:Wooden Glaive
+sea_ruler:Sea Ruler
+godsbane:Godsbane
+blade_of_the_undead:Blade of the Undead
+mercenary_sword:Mercenary Sword
+gladiators_sword:Gladiator's Sword
+cursed_blade:Cursed Blade
+abyssal_sword:Abyssal Sword
+blade_of_the_dark_lord:Blade of the Dark Lord
+primitive_sword:Primitive Sword
+demon_infantryman_sword:Demon Infantryman Sword
+rusty_curved_sword:Rusty Curved Sword
+iron_scimitar:Iron Scimitar
+darksteel_axe:Darksteel Axe
+dawn_blade:Dawn Blade
+barbed_sword:Barbed Sword
+army_sword:Army Sword
+training_sword:Training Sword
+city_watch_sword:City Watch Sword
+elegant_bronze_sword:Elegant Bronze Sword
+deep_sea_sword:Deep Sea Sword
+golden_protector:Golden Protector
+dragonsong_blade:Dragonsong Blade
+lightbringer:Lightbringer
+wrath_of_the_sun_god:Wrath of the Sun God
+skysunder_blade:Skysunder Blade
+carved_wooden_bow:Carved Wooden Bow
+rangers_bow:Ranger's Bow
+harmony_bow:Harmony Bow
+wooden_crossbow:Wooden Crossbow
+ebony_bow:Ebony Bow
+scouts_bow:Scout's Bow
+silver_crossbow:Silver Crossbow
+elven_bow:Elven Bow
+outworn_crossbow:Outworn Crossbow
+ivory_bow:Ivory Bow
+divine_weapon_artemis:Divine Weapon: Artemis
+orc_bow:Orc Bow
+scorpions_bow:Scorpion's Bow
+assassins_crossbow:Assassins Crossbow
+sharpshooters_bow:Sharpshooter's Bow
+frostborn_bow:Frostborn Bow
+nightbringers_bow:Nightbringer's Bow
+composite_bow:Composite Bow
+judgement:Judgement
+barbed_crossbow:Barbed Crossbow
+dreaded_bow:Dreaded Bow
+serpent_eye_bow:Serpent Eye Bow
+bison_bow:Bison Bow
+modern_crossbow:Modern Crossbow
+harp_bow:Harp Bow
+birch_bow:Birch Bow
+primitive_crossbow:Primitive Crossbow
+nightbringers_ace:Nightbringer's Ace
+demise_from_below:Demise from Below
+demon_hunter:Demon Hunter
+gilded_horizon:Gilded Horizon
+graceful_hunter:Graceful Hunter
+nightshade_whisper:Nightshade Whisper
+crimson_bolt:Crimson Bolt
+seraphims_wing:Seraphim's Wing
+stormhawk:Stormhawk
+silverwing:Silverwing
+old_wooden_staff:Old Wooden Staff
+wooden_stick:Wooden Stick
+vagabonds_staff:Vagabond's Staff
+druids_rod:Druid's Rod
+goblin_staff:Goblin Staff
+shepherds_staff:Shepherd's Staff
+carved_rod:Carved Rod
+bronze_rod:Bronze Rod
+novices_staff:Novice's Staff
+scholars_staff:Scholar's Staff
+warlocks_staff:Warlock's Staff
+grandmasters_staff:Grandmaster's Staff
+iron_staff:Iron Staff
+imperial_wizards_staff:Imperial Wizard's Staff
+broken_rod:Broken Rod
+walking_stick:Walking Stick
+cursed_ancient_rod:Cursed Ancient Rod
+golden_claw:Golden Claw
+rotten_staff:Rotten Staff
+frostborn_staff:Frostborn Staff
+lunar_rod:Lunar Rod
+rod_of_regeneration:Rod of Regeneration
+staff_of_life:Staff of Life
+volcanic_heart:Volcanic Heart
+emerald_staff:Emerald Staff
+crystal_clear_staff:Crystal Clear Staff
+staff_of_whispers:Staff of Whispers
+silver_mountain_staff:Silver Mountain Staff
+staff_of_corruption:Staff of Corruption
+abyssal_void:Abyssal Void
+amethyst_staff:Amethyst Staff
+root_staff:Root Staff
+dried_root_staff:Dried Root Staff
+frauds_staff:Fraud's Staff
+vital_staff:Vital Staff
+firefly_staff:Firefly Staff
+talisman_staff:Talisman Staff
+necromancers_staff:Necromancer's Staff
+deepsea_rod:Deepsea Rod
+# cold_ruler:Cold Ruler
+bone_staff:Bone Staff
+ember_heart_staff:Ember Heart Staff
+archmages_staff:Archmages Staff
+gold_ore_staff:Gold Ore Staff
+alchemists_staff:Alchemist's Staff
+overseer_staff:Overseer Staff
+eternal_ice_rod:Eternal Ice Rod
+unholy_desecrator staff:Unholy Desecrator Staff
+tempestforged_staff:Tempestforged Staff
+runebound_rod:Runebound Rod
+enigma_scepter:Enigma Scepter
+centurial_rod:Centurial Rod
+spear_rod:Spear Rod
+eonwoven_rod:Eonwoven Rod
+elysian_luminary_wand:Elysian Luminary Wand
+emberglow_wand:Emberglow Wand
+evershift_scepter:Evershift Scepter
+kitchen_knife:Kitchen Knife
+corkscrew:Corkscrew
+volcanic_dagger:Volcanic Dagger
+filleting_knife:Filleting Knife
+butter_knife:Butter Knife
+steel_dagger:Steel Dagger
+ancient_dagger:Ancient Dagger
+captains_knife:Captain's Knife
+rogues_dagger:Rogue's Dagger
+silver_severance:Silver Severance
+wyvern_dirk:Wyvern Dirk
+runestone_dagger:Runestone Dagger
+assassins_dagger:Assassin's Dagger
+iron_knuckles:Iron Knuckles
+golden_knuckles:Golden Knuckles
+brass_knuckles:Brass Knuckles
+horned_dagger:Horned Dagger
+cutthroats_knife:Cutthroat's Knife
+steel_shortblade:Steel Shortblade
+kindled_blade:Kindled Blade
+jagged_knife:Jagged Knife
+reavers_knife:Reaver's Knife
+brass_claws:Brass Claws
+iron_dirk:Iron Dirk
+blunt_dirk:Blunt Dirk
+razor_knife:Razor Knife
+bear_claws:Bear Claws
+fading_splendor:Fading Splendor
+profaned_doomblade:Profaned Doomblade
+lovers_gift:Lover's Gift
+elven_dagger:Elven Dagger
+predator_fang:Predator Fang
+amber_knife:Amber Knife
+iron_scalpel:Iron Scalpel
+crimson_slicer:Crimson Slicer
+twin_fang:Twin Fang
+aquamarine_carver:Aquamarine Carver
+elven_kings_insurance:Elven King's Insurance
+forkblade:forkblade
+heartbeat:Heartbeat
+forests_curse:Forest's Curse
+moonlight_blade:Moonlight Blade
+deepsea_executioner:Deepsea Executioner
+embers_edge:Ember's Edge
+moonsteel_razor:Moonsteel Razor
+hellscream_blade:Hellscream Blade
+soulreaver_talons:Soulreaver Talons
+crystalline_blade:Crystalline Blade
+starter_shield:Starter Shield
+starter_quiver:Starter Quiver
+starter_grimoire:Starter Grimoire
+starter_lifestone:Starter Lifestone
+starter_talisman:Starter Talisman
+necrotic_rune:Necrotic Rune
+fae_fire_gem:Fae Fire Gem
+dusk_pearl_amulet:Dusk Pearl Amulet
+night_cloak_talisman:Night Cloak Talisman
+duchess_glamor:Duchess Glamor
+white_pearl_necklace:White Pearl Necklace
+chain_of_frozen_time:Chain of Frozen Time
+verdant_jewel:Verdant Jewel
+cerulean_band:Cerulean Band
+hunters_talisman:Hunter's Talisman
+regalstone_pendant:Regalstone Pendant
+featherdance_charm:Featherdance Charm
+faebound_amulet:Faebound Amulet
+deathgaze_amulet:Deathgaze Amulet
+jade_tide:Jade Tide
+arcanite_grace:Arcanite Grace
+searing_eye:Searing Eye
+amethyst_ring:Amethyst Ring
+brilliant_ruby_ring:Brilliant Ruby Ring
+ocean_drop:Ocean Drop
+noble_ring:Noble Ring
+violet_blossom:Violet Blossom
+silver_band:Silver Band
+necrotic_ring:Necrotic Ring
+regal_ring:Regal Ring
+ember_glow:Ember Glow
+astral_crown_band:Astral Crown Band
+golden_serpent_ring:Golden Serpent Ring
+emeraldleaf_royal_circle:Emeraldleaf Royal Circle
+trinity_ring:Trinity Ring
+royal_sigil:Royal Sigil
+kingsguard_symbol:Kingsguard Symbol
+crystalshroud_vestments:Crystalshroud Vestments
+runewoven_initiate_robes:Runewoven Initiate Robes
+acolythes_robes:Acolyte's Robes
+wandering_witches_dress:Wandering Witch's Dress
+exiled_scholars_garment:Exiled Scholar's Garment
+wondrous_healers_robes:Wondrous Healer's Robes
+silent_jacket:Silent Jacket
+foreststalker_garb:Foreststalker Garb
+shadow_vest:Shadow Vest
+fletchers_tunic:Fletcher's Tunic
+pelt_armor:Pelt Armor
+whisper_vest:Whisper Vest
+ironwall_plate:Ironwall Plate
+battleforged_plate:Battleforged Plate
+seastone_bastion:Seastone Bastion
+silver_scale_mail:Silver Scale Mail
+bronze_mail:Bronze Mail
+winter_warden:Winter Warden
+elven_sage_garb:Elven Sage Garb
+royal_wizard_mantle:Royal Wizard Mantle
+grand_sorcerers_robes:Grand Sorcerer's Robes
+sages_robes:Sage's Robes
+arcane_sovereigns_robes:Arcane Sovereign's Robes
+highwardens_armor:Highwarden's Armor
+dragonhunter_armor:Dragonhunter Armor
+trackers_vest:Tracker's Vest
+praetors_war_harness:Praetor's War Harness
+smugglers_vest:Smuggler's Vest
+goldweave_warcoat:Goldweave Warcoat
+oceanleaf_vestments:Oceanleaf Vestments
+umbral_vanguard:Umbral Vanguard
+platinum_aegis:Platinum Aegis
+emerald_scale_armor:Emerald Scale Armor
+hellfire_plate:Hellfire Plate
+mirageforge_aegis:Mirageforge Aegis
+crystalshroud_bracers:Crystalshroud Bracers
+acolythes_gloves:Acolyte's Gloves
+wandering_witches_bracers:Wandering Witch's Bracers
+exiled_scholars_gloves:Exiled Scholar's Gloves
+wondrous_healers_gloves:Wondrous Healer's Gloves
+silent_bracers:Silent Bracers
+foreststalker_hands:Foreststalker Hands
+shadow_guards:Shadow Guards
+fletchers_braceletes:Fletcher's Braceletes
+pelt_handguards:Pelt Handguards
+whisper_gloves:Whisper Gloves
+ironwall_gauntlets:Ironwall Gauntlets
+battleforged_guards:Battleforged Guards
+seastone_grip:Seastone Grip
+silver_scale_hands:Silver Scale Hands
+bronze_fists:Bronze Fists
+steel_fists:Steel Fists
+elven_sage_guards:Elven Sage Guards
+royal_wizard_catalysts:Royal Wizard Catalysts
+grand_sorcerers_gloves:Grand Sorcerers Gloves
+sages_gloves:Sage's Gloves
+arcane_sovereigns_hands:Arcane Sovereign's Hands
+highwardens_protectors:Highwarden's Protectors
+dragonhunter_gloves:Dragonhunter Gloves
+trackers_gloves:Tracker's Gloves
+smugglers_gloves:Smuggler's Gloves
+goldweave_armguards:Goldweave Armguards
+oceanleaf_arms:Oceanleaf Arms
+umbral_claws:Umbral Claws
+platinum_protectors:Platinum Protectors
+blood_crown_gauntlets:Blood Crown Gauntlets
+hellfire_wrath:Hellfire Wrath
+mirageforge_hands:Mirageforge Hands
+crystalshroud_hat:Crystalshroud Hat
+runewoven_initiate_shroud:Runewoven Initiate Shroud
+acolythes_hat:Acolyte's Hat
+wandering_witches_hood:Wandering Witch's Hood
+exiled_scholars_hood:Exiled Scholar's Hood
+eastern_mage_hood:Eastern Mage Hood
+silent_hat:Silent Hat
+foreststalker_helmet:Foreststalker Helmet
+shadow_hat:Shadow Hat
+fletchers_helmet:Fletcher's Helmet
+hardened_leather_helmet:Hardened Leather Helmet
+whisper_shroud:Whisper Shroud
+ironwall_helmet:Ironwall Helmet
+battleforged_helmet:Battleforged Helmet
+seastone_helmet:Seastone Helmet
+silver_scale_helmet:Silver Scale Helmet
+bronze_helmet:Bronze Helmet
+protectors_helmet:Protector's Helmet
+elven_sage_hood:Elven Sage Hood
+royal_wizards_hat:Royal Wizard Hat
+grand_sorcerers_shroud:Grand Sorcerer's Shroud
+sages_shroud:Sage's Shroud
+greenseer_hood:Greenseer Hood
+highwardens_hood:Highwarden's Hood
+dragonhunter_helmet:Dragonhunter Helmet
+trackers_hat:Tracker's Hat
+praetors_helmet:Praetor's Helmet
+smugglers_turban:Smuggler's Turban
+explorers_helmet:Explorer's Helmet
+umbral_crown:Umbral Crown
+platinum_helmet:Platinum Helmet
+chain_mail_helmet:Chain Mail Helmet
+crown_of_demise:Crown of Demise
+legion_helmet:Legion Helmet
+crystalshroud_shoes:Crystalshroud Shoes
+runewoven_initiate_boots:Runewoven Initiate Boots
+acolythes_boots:Acolyte's Boots
+wandering_witches_shoes:Wandering Witch's Shoes
+exiled_scholars_boots:Exiled Scholar's Boots
+wondrous_healers_boots:Wondrous Healer's Boots
+silent_boots:Silent Boots
+foreststalker_boots:Foreststalker Boots
+shadow_boots:Shadow Boots
+fletchers_shoes:Fletcher's Shoes
+pelt_boots:Pelt Boots
+whisper_boots:Whisper Boots
+ironwall_boots:Ironwall Boots
+battleforged_boots:Battleforged Boots
+seastone_boots:Seastone Boots
+silver_scale_shoes:Silver Scale Shoes
+bronze_boots:Bronze Boots
+winter_walkers:Winter Walkers
+elven_sage_shoes:Elven Sage Shoes
+royal_wizard_shoes:Royal Wizard Shoes
+grand_sorcerers_boots:Grand Sorcerer's Boots
+sages_boots:Sage's Boots
+arcane_sovereigns_shoes:Arcane Sovereign's Shoes
+highwardens_shoes:Highwarden's Shoes
+dragonhunter_boots:Dragonhunter Boots
+trackers_boots:Tracker's Boots
+praetors_sandals:Praetor's Sandals
+smugglers_boots:Smuggler's Boots
+goldweave_boots:Goldweave Boots
+oceanleaf_shoes:Oceanleaf Shoes
+umbral_boots:Umbral Boots
+platinum_boots:Platinum Boots
+dragon_bone_boots:Dragon Bone Boots
+royal_guard_boots:Royal Guard Boots
+blood_lord_boots:Blood Lord Boots
+sharp_corkscrew:Sharp Corkscrew
+silent_edge:Silent Edge
+nightstalker:Nightstalker
+quickfang:Quickfang
+starsteel_dagger:Starsteel Dagger
+skyfeather_talon:Skyfeather Talon
+gleamstrike:Gleamstrike
+heartbreaker:Heartbreaker
+rosefeather_song:Rosefeather Song
+verdant_glory:Verdant Glory
+blood_magic_scepter:Blood Magic Scepter
+fangspire_rod:Fangspire Rod
+wildvine_scepter:Wildvine Scepter
+goldenglow_staff:Goldenglow Staff
+battlemage_staff:Battlemage Staff
+diamondflare_staff:Diamondflare Staff
+manaflow_staff:Manaflow Staff
+harmonia:Harmonia
+lunarglow_staff:Lunarglow Staff
+aetherions_eye:Aetherion's Eye
+bloodbinder:Bloodbinder
+necrotic_blade:Necrotic Blade
+leafsong_blade:Leafsong Blade
+malefic_edge:Malefic Edge
+brilliant_blade:Brilliant Blade
+obsidian_storm:Obsidian Storm
+arctic_slash:Arctic Slash
+dragon_eye_blade:Dragon Eye Blade
+first_song:First Song
+last_song:Last Song
+glyphshard:Glyphshard
+duskveil_bow:Duskveil Bow
+storm_piercer:Storm Piercer
+darkblow:Darkblow
+leafshot:Leafshot
+sunsting:Sunsting
+dragonshot:Dragonshot
+starlight_bow:Starlight Bow
+doom_bringer:Doom Bringer
+blood_wing:Blood Wing
+fae_binder:Fae Binder
+skullsplitter:Skullsplitter
+grimaxe:Grimaxe
+forgotten_axe:Forgotten Axe
+anchor_axe:Anchor Axe
+frozen_monarch:Frozen Monarch
+blood_reaver:Blood Reaver
+thunderstrike:Thunderstrike
+divine_smite:Divine Smite
+golden_order:Golden Order
+blightreaver:Blightreaver
+bronze_band:Bronze Band

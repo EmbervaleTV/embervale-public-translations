@@ -1,0 +1,515 @@
+fire_ant:Fire Ant
+giant_roach:Giant Roach
+waterstrider:Waterstrider
+sickle_mantis:Sickle Mantis
+hell_mantis:Hell Mantis
+green_dragonfly:Green Dragonfly
+blue_dragonfly:Blue Dragonfly
+abnormous_tick:Abnormous Tick
+mutated_carnivorous_plant:Mutated Carnivorous Plant
+carnivorous_plant:Carnivorous Plant
+monstrous_scarab:Monstrous Scarab
+sand_snake:Sand Snake
+awakened_sand:Awakened Sand
+grumpy_cactus:Grumpy Cactus
+sand_tentacle:Sand Tentacle
+sand_wing:Sandwing
+goblin_ranger:Goblin Ranger
+goblin_rogue:Goblin Rogue
+goblin_mage:Goblin Mage
+goblin_grunt:Goblin Grunt
+oversized_goblin:Oversized Goblin
+goblin_knight:Goblin Knight
+pirate_skeleton:Pirate Skeleton
+pirate_monkey:Pirate Monkey
+pirate_bandit:Pirate Bandit
+blue_slime:Blue Slime
+slime_wizard:Slime Wizard
+heroic_slime:Heroic Slime
+poisonous_slime:Poisonous Slime
+headhunter_slime:Headhunter Slime
+barbarian_slime:Barbarian Slime
+royal_guard_slime:Royal Guard Slime
+slime_protector:Slime Protector
+slime_scout:Slime Scout
+black_wolf:Black Wolf
+competitive_dodo:Competitive Dodo
+mountain_warden:Mountain Warden
+peacock_sharpshooter:Peacock Sharpshooter
+poison_tongue:Poison Tongue
+descended_dragon:Descended Dragon
+frost_spirit:Frost Spirit
+ice_turtle:Ice Turtle
+ice_yeti:Ice Yeti
+ice_ogre:Ice Ogre
+ice_golem:Ice Golem
+frozen_invader:Frozen Invader
+frost_sickle_mantis:Frost Sickle Mantis
+frost_wing:Frostwing
+ice_avian:Ice Avian
+berserker_dwarf:Berserker Dwarf
+dwarf_captain:Dwarf Captain
+miner_dwarf:Miner Dwarf
+executioner_dwarf:Executioner Dwarf
+possessed_dwarf:Possessed Dwarf
+silvershield:Silvershield
+aiming_dwarf:Aiming Dwarf
+enchanted_ore:Enchanted Ore
+orc_warlock:Orc Warlock
+orc_marauder:Orc Marauder
+orc_archer:Orc Archer
+orc_warrior:Orc Warrior
+alpha_orc:Alpha Orc
+green_wyvern:Green Wyvern
+giant_rat:Giant Rat
+ascended_duelist:Ascended Duelist
+ascended_enforcer:Ascended Enforcer
+ascended_gatekeeper_zephon:Ascended Gatekeeper Zephon
+ascended_guardian:Ascended Guardian
+ascended_sharpshooter:Ascended Sharpshooter
+blessed_archer:Blessed Archer
+blessed_spearman:Blessed Spearman
+blessed_warrior:Blessed Warrior
+chest_mimic:Chest Mimic
+companion_of_the_nameless:Companion of the Nameless
+corpse_eater_ragnar:Corpse Eater Ragnar
+corrupted_forest_heart:Corrupted Forest Heart
+deepwater_berserk:Deepwater Berserk
+deepwater_crab:Deepwater Crab
+deepwater_crab_warrior:Deepwater Crab Warrior
+deepwater_dark_star:Deepwater Dark Star
+deepwater_lurker:Deepwater Lurker
+deepwater_urchin:Deepwater Urchin
+deepwater_watcher:Deepwater Watcher
+desert_rock_lizard:Desert Rock Lizard
+divine_judge_vretiel:Divine Judge Vretiel
+dryads_archer:Dryad's Archer
+dryads_mage:Dryad's Mage
+dryads_warrior:Dryad's Warrior
+dusk_root:Dusk Root
+duskwood_wolf:Duskwood Wolf
+flying_skull:Flying Skull
+forest_golem:Forest Golem
+forgotten_goblin:Forgotten Goblin
+forgotten_slime:Forgotten Slime
+gravekeeper:Gravekeeper
+hooded_stranger:Hooded Stranger
+lady_of_the_passage:Lady of the Passage
+light_slime:Light Slime
+lost_fairy:Lost Fairy
+lost_soul:Lost Soul
+overseer_crab:Overseer Crab
+protector_of_the_forest_heart:Protector of the Forest Heart
+scavenging_mandrake:Scavenging Mandrake
+skeleton_archer:Skeleton Archer
+skeleton_cutthroat:Skeleton Cutthroat
+skeleton_dragon:Skeleton Dragon
+skeleton_guard:Skeleton Guard
+skeleton_hare:Skeleton Hare
+skeleton_knight:Skeleton Knight
+skeleton_marauder:Skeleton Marauder
+the_nameless:The Nameless
+thorn_cutter:Thorn Cutter
+wall_mimic:Wall Mimic
+toxic_carnivorous_plant:Toxic Carnivorous Plant
+spider_crab:Spider Crab
+black_ant_protector:Black Ant Protector
+venomous_centipede:Venomous Centipede
+sand_devourer:Sand Devourer
+cactus_abomination:Cactus Abomination
+goblin_captain:Goblin Captain
+general_gogz:General Gogz
+accursed_captain_hawk:Accursed Captain Hawk
+pirate_parrot:Pirate Parrot
+god-king_hubertus_III:God-king Hubertus III
+grandmaster_udabras:Grandmaster Udabras
+lion_queen_melora:Lion Queen Melora
+king_leonidas:King Leonidas
+saint_of_the_cold_crux:Saint of the Cold Crux
+cold_ruler:Cold Ruler
+greed_incarnation:Greed Incarnation
+moonlight_hunter:Moonlight Hunter
+dark_ruler_of_the_wastelands:Dark Ruler of the Wastelands
+giant_mosquito:Giant Mosquito
+rain_wing:Rain Wing
+tulip_wing:Tulip Wing
+inferno_wing:Inferno Wing
+fire_snake:Fire Snake
+lunar_wing:Lunar Wing
+fur_wing:Fur Wing
+colossal_red_snake:Colossal Red Snake
+colossal_purple_snake:Colossal Purple Snake
+colossal_black_snake:Colossal Black Snake
+gnoll_archer:Gnoll Archer
+gnoll_vanguard:Gnoll Vanguard
+gnoll_swordsman:Gnoll Swordsman
+goblin_reaper:Goblin Reaper
+goblin_rider:Goblin Rider
+goblin_sorcerer:Goblin Sorcerer
+flying_leech:Flying Leech
+behemoth:Behemoth
+ice_snake:Ice Snake
+gnoll_shaman:Gnoll Shaman
+undead_gnoll:Undead Gnoll
+skeleton_commander:Skeleton Commander
+flaming_wolf:Flaming Wolf
+flaming_wolf_spirit:Flaming Wolf Spirit
+brigand_skirmisher:Brigand Skirmisher
+brigand_watcher:Brigand Watcher
+city_watch_ward:City Watch Ward
+city_watch_commander:City Watch Commander
+city_watch_gate_keeper:City Watch Gate Keeper
+colossal_bat:Colossal Bat
+colossal_dark_crow:Colossal Dark Crow
+colossal_scorpion:Colossal Scorpion
+forest_fox:Forest Fox
+forest_deer:Forest Deer
+forest_bee:Forest Bee
+forest_blue_flower:Blue Forest Flower
+forest_catermoth:Forest Catermoth
+forest_ghost:Forest Ghost
+forest_darkluff:Forest Darkluff
+forest_fairy_dragon:Forest Fairy Dragon
+forest_grasshopper:Forest Grasshopper
+forest_imperial_widow:Forest Imperial Widow
+forest_mageshroom:Forest Mageshroom
+forest_panda:Forest Panda
+forest_pink_flower:Pink Forest  Flower
+forest_red_flower:Red Forest Flower
+forest_red_spider:Red Forest Spider
+forest_scorpion:Forest Scorpion
+forest_shroom:Forest Shroom
+forest_spider:Forest Spider
+forest_spora:Forest Spora
+forest_mothy:Forest Mothy
+forest_sprout:Forest Sprout
+forest_tree:Forest Tree
+forest_turtle:Forest Tortoise
+forest_uzu:Forest Uzu
+forest_white_flower:White Forest Flower
+forest_wolf:Forest Wolf
+ice_serpent:Ice Serpent
+ice_wolf:Ice Wolf
+ice_snow_golem:Ice Snow Golem
+ice_snowman:Ice Snowman
+ice_wisp:Ice Wisp
+ice_spike:Ice Spike
+plague_rat:Plague Rat
+undead_jiangshi:Undead Jiangshi
+wind_wisp:Wind Wisp
+zombie_forest_flower:Zombie Forest Flower
+skeleton_mage:Skeleton Mage
+forest_green_spider:Forest Green Spider
+forest_shroomy:Forest Shroomy
+abyss_wing:Abyss Wing
+frozen_mantis:Frozen Mantis
+ice_bull:Ice Bull
+ice_kindred_glacier:Ice Kindred Glacier
+insects_swarm:Insects Swarm
+mushroom_knight:Mushroom Knight
+rose_warrior:Rose Warrior
+bone_sharpshooter:Bone Sharpshooter
+nightmare_spider:Nightmare Spider
+quadruraptor:Quadruraptor
+underworld_maw:Underworld Maw
+wyvern_bat:Wyvern Bat
+majestic_boar:Majestic Boar
+dragon_lamprey:Dragon Lamprey
+rock_golem:Rock Golem
+cursed_scimitar:Cursed Scimitar
+tridentpupa:Tridentpupa
+insects_dragon:Insects Dragon
+wood_golem:Wood Golem
+blazing_shroom:Blazing Shroom
+chilling_shroom:Chilling Shroom
+intoxicating_shroom:Intoxicating Shroom
+snow_golem:Snow Golem
+haunting_ghost:Haunting Ghost
+bell_pepper_lizard:Bell Pepper Lizard
+darkness_crawler_azrkoth:Darkness Crawler Azr’koth
+book_mimic:Book Mimic
+darkness_seeker:Darkness Seeker
+darkness_wisp:Darkness Wisp
+bush_wisp:Bush Wisp
+leaf_imp:Leaf Imp
+earth_wisp:Earth Wisp
+mandrake:Mandrake
+earth_lion:Earth Lion
+earth_snake:Earth Snake
+earth_turtle:Earth Turtle
+fire_lion:Fire Lion
+fire_turtle:Fire Turtle
+fox_bandit:Fox Bandit
+fox_crook:Fox Crook
+fox_rogue:Fox Rogue
+shark_frog:Shark Frog
+bull_lion:Bull Lion
+tiger_dragon:Tiger Dragon
+gargoyle_grifos:Gargoyle Grifos
+garuda_garunix:Garuda Garunix
+ghost_puppet:Ghost Puppet
+ghost_revelator:Ghost Revelator
+storm_hawk:Storm Hawk
+colossal_frog:Colossal Frog
+flightless_bird:Flightless Bird
+demon_critter_fox:Demon Critter Fox
+demon_critter_rabbit:Demon Critter Rabbit
+demon_critter_squirrel:Demon Critter Squirrel
+demon_imp:Demon Imp
+bighorn:Bighorn
+darkness_gargoyle:Darkness Gargoyle
+devilimp:Devilimp
+dragon_wyrm:Dragon Wyrm
+blue_wyvern:Blue Wyvern
+brown_wyvern:Brown Wyvern
+red_wyvern:Red Wyvern
+dryads_companion:Dryads Companion
+mountain_snail:Mountain Snail
+mountain_warthog:Mountain Warthog
+mountain_wolf:Mountain Wolf
+mountain_winter_wolf:Mountain Winter Wolf
+mountain_behemoth:Mountain Behemoth
+squirrel_mage:Squirrel Mage
+squirrel_warrior:Squirrel Warrior
+squirrel_defender:Squirrel Defender
+root_shield:Root Shield
+cave_dweller_worm:Cave Dweller Worm
+fire_vulture:Fire Vulture
+fire_wisp:Fire Wisp
+ant_knight:Ant Knight
+frozen_robber:Frozen Robber
+frozen_skirmisher:Frozen Skirmisher
+ant_lion:Ant Lion
+black_ant_ranger:Black Ant Ranger
+black_ant_mage:Black Ant Mage
+black_ant_berserker: Black Ant Berserker
+black_ant_knight: Black Ant Knight
+kobold_archer:Kobold Archer
+kobold_armor:Kobold Armor
+kobolds_dagger:Kobold's Dagger
+unarmed_kobold:Unarmed Kobold
+kobolds_mage:Kobold's Mage
+kobolds_spear:Kobold's Spear
+hornet_warrior:Hornet Warrior
+goblin_fairy:Goblin Fairy
+forest_goblin_axe:Forest Goblin Axe
+forest_goblin_dagger:Forest Goblin Dagger
+forest_goblin_sword:Forest Goblin Sword
+hercules_bug:Hercules Bug
+raiding_knight:Raiding Knight
+radiant_knight:Radiant Knight
+goblin_flag_bearer:Goblin Flag Bearer
+mysterious_white_mage:Mysterious White Mage
+betafish:Betafish
+biofish:Biofish
+corrupt_executioner:Corrupt Executioner
+iron_minotaur:Iron Minotaur
+cerberus_ptolemaios:Cerberus Ptolemaios
+mountain_griffon:Mountain Griffon
+mountain_harpy:Mountain Harpy
+mountain_hornet:Mountain Hornet
+mountain_nanjo:Mountain Nanjo
+mountain_bunny:Mountain Bunny
+mountain_greathorn_goat:Mountain Greathorn Goat
+plant_snail:Plant Snail
+toxic_spreader:Toxic Spreader
+cape_sundew:Cape Sundew
+beach_spore:Beach Spore
+seagull:Seagull
+sea_lurker:Sea Lurker
+sea_jellyfish:Sea Jellyfish
+sea_horse:Sea Horse
+sea_lickitoad:Sea Lickitoad
+sea_shark:Sea Shark
+sea_spheria:Sea Spheria
+sea_tortoad:Sea Tortoad
+sea_turtle:Sea Turtle
+sea_shelltacke:Sea Shelltacke
+sea_octi:Sea Octi
+sea_octopus:Sea Octopus
+sea_fatoad:Sea Fatoad
+sea_crab:Sea Crab
+sea_blue_dragon:Sea Blue Dragon
+turtle_golem:Turtle Golem
+beach_pelican:Beach Pelican
+sea_abismos:Sea Abismos
+star_shell:Star Shell
+sea_star_trio:Sea Star Trio
+arcane_slime:Arcane Slime
+brigand:Brigand
+undead_longshot:Undead Longshot
+undead_axe:Undead Axe
+undead_blade:Undead Blade
+plant_exotic_flyer:Plant Exotic Flyer
+blood_orc_slaughterer:Blood Orc Slaughterer
+blood_orc_ravager:Blood Orc Ravager
+blood_orc_impaler:Blood Orc Impaler
+orc_war_drummer:Orc War Drummer
+knight_rose:Knight Rose
+rat_gourmet:Rat Gourmet
+fork_rat:Fork Rat
+informed_rat:Informed Rat
+black_roc:Black Roc
+bee:Bee
+sand_caterpillar:Sand Caterpillar
+caterpillar:Caterpillar
+eyehopper:Eyehopper
+death_worm:Death Worm
+lion_roach:Lion Roach
+flame_monkey:Flame Monkey
+feathered_snake:Feathered Snake
+horn_willow:Horn Willow
+frost_gorilla:Frost Gorilla
+electroctopus:Electroctopus
+silver_avian:Silver Avian
+spike_hopper:Spike Hopper
+spiked_caterpillar:Spiked Caterpillar
+toucan_panther:Toucan Panther
+rocktail_demolisher:Rocktail Demolisher
+roaming_salamander:Roaming Salamander
+void_gargoyle:Void Gargoyle
+white_minotaur:White Minotaur
+avian_elephant:Avian Elephant
+black_lance_knight:Black Lance Knight
+bug_originator:Bug Originator
+minivolcano:Minivolcano
+fire_salamander:Fire Salamander
+fire_dragonspawn:Fire Dragonspawn
+lava_spawn:Lava Spawn
+fire_ogre:Fire Ogre
+dwarf_dragon:Dwarf Dragon
+darkness_fox:Darkness Fox
+light_fox:Light Fox
+void_fox:Void Fox
+stone_knight_alpha:Stone Knight Alpha
+stone_knight_zeta:Stone Knight Zeta
+stone_knight_beta:Stone Knight Beta
+tree_magical:Tree Magical
+melee_tree:Melee Tree
+tree_skirmisher:Tree Skirmisher
+arcane_tree:Arcane Tree
+twin_snow_golem:Twin Snow Golem
+fire_bull:Fire Bull
+desert_scorpion:Desert Scorpion
+corrupted_void_fire_wolf:Corrupted Void Fire Wolf
+darkness_raptor:Darkness Raptor
+flame_raptor:Flame Raptor
+cold_raptor:Cold Raptor
+chilling_wolf_spirit:Chilling Wolf Spirit
+fallen_dragon_knight:Fallen Dragon Knight
+fallen_winged_sword:Fallen Winged Sword
+fallen_great_sword:Fallen Great Sword
+fire_toad:Fire Toad
+fire_sabretooth:Fire Sabretooth
+ice_glacier_spawn:Ice Glacier Spawn
+knight_spear_elite:Knight Spear Elite
+knight_sword_elite:Knight Sword Elite
+knights_spear_common:Knight Spear Common
+knights_sword_common:Knight Sword Common
+masked_demon_giant:Masked Demon Giant
+crocoknight:Crocoknight
+razortail_eagle:Razortail Eagle
+bull_dragon:Bull Dragon
+rabbit_knight:Rabbit Knight
+rabbit_bandit:Rabbit Bandit
+sea_fish:Sea Fish
+skull_fish:Skull Fish
+skeleton_mage_mabon:Skeleton Mage Mabon
+crocopaladin:Crocopaladin
+crocorogue:Crocorogue
+crocomage:Crocomage
+ignited_bat:Ignited Bat
+lava_worm:Lava Worm
+fire_pumice_rock:Fire Pumice Rock
+fire_pumice_sheep:Fire Pumice Sheep
+volcanic_golem:Volcanic Golem
+living_armor:Living Armor
+two_headed_turtle:Two Headed Turtle
+ice_cave_bat:Ice Cave Bat
+ice_lion:Ice Lion
+snowball:Snowball
+yeti_wisp:Yeti Wisp
+rabbit_stealth_archer:Rabbit Stealth Archer
+toxic_frog:Toxic Frog
+toxic_horned_frog:Toxic Horned Frog
+toxic_white_frog:Toxic White Frog
+razor_tail_frog:Razor Tail Frog
+unifrog:Unifrog
+toxic_root_mutation:Toxic Root Mutation
+toxic_root:Toxic Root
+undead_claw_knight:Undead Claw Knight
+undead_eastern_archer:Undead Eastern Archer
+undead_eastern_marauder:Undead Eastern Marauder
+undead_eastern_plunderer:Undead Eastern Plunderer
+voidoll_erabos:Voidoll Erabos
+voidoll_erebia:Voidoll Erebia
+voidoll_erebus:Voidoll Erebus
+shark_bow:Shark Bow
+dagger_shark:Dagger Shark
+great_shark:Great Shark
+wind_snake:Wind Snake
+wind_avian:Wind Avian
+wind_bunny:Wind Bunny
+feathered_golem:Feathered Golem
+feathered_razor:Feathered Razor
+wind_harpy:Wind Harpy
+wind_lion:Wind Lion
+wind_mantis:Wind Mantis
+wind_spawn:Winds Spawn
+wooden_doll_warrior:Wooden Doll Warrior
+wooden_doll_ranger:Wooden Doll Ranger
+wooden_doll_berserk:Wooden Doll Berserk
+spirit_boar:Spirit Boar
+spirit_wolf:Spirit Wolf
+spirit_baboon:Spirit Baboon
+spirit_ape:Spirit Ape
+spirit_owl:Spirit Owl
+spirit_panda:Spirit Panda
+spirit_tiger:Spirit Tiger
+spirit_fox:Spirit Fox
+spirit_primate:Spirit Primate
+shadow_invocation_knight:Shadow Invocation Knight
+sea_piranos:Sea Piranos
+giant_grizzly:Giant Grizzly
+darkness_behemoth:Darkness Behemoth
+darkness_imp:Darkness Imp
+earth_bull:Earth Bull
+acid_elemental:Acid Elemental
+slime_earthi:Slime Earthi
+colossal_mummy:Colossal Mummy
+metal_golem:Metal Golem
+sorceress:Sorceress
+shimmering_dragon: Shimmering Dragon
+night_blade_assassin: Night Blade Assassin
+night_blade_commander: Night Blade Commander
+shadow_beast: Shadow Beast
+fiery_cultist:Fiery Cultist
+cultist_caller:Cultist Caller
+novice_cultist: Novice Cultist
+loyal_wolf:Loyal Wolf
+consumed_hero:Consumed Hero
+dark_elf_healer:Dark Elf Healer
+nightmare_stalker:Nightmare Stalker
+headless_horseman:Headless Horseman
+shadow_creature:Shadow Creature
+infernal_spirit:Infernal Spirit
+bloodstone_minotaur:Bloodstone Minotaur
+sacred_vale_guardian:Sacred Vale Guardian
+vale_drake:Vale Drake
+infernal_duelist:Infernal Duelist
+blazing_spider:Blazing Spider
+flaming_slime:Flaming Slime
+lady_of_the_vale:Lady of the Vale
+volcanic_maiden:Volcanic Maiden
+gemstone_fire_dragon:Gemstone Fire Dragon
+ignithor_the_charred_sovereign:Ignithor, the charred Sovereign
+blightflame_first_of_dragons:Blightflame, first of Dragons
+spiky_turtle:Spiky turtle
+rudolph:Rudolph
+big_sack_goblin:Big Sack Goblin
+angry_snowman:Angry Snowman
+lich:Lich
+corrupted_rat:Corrupted Rat
+
+// special
+nailguns:Nailguns

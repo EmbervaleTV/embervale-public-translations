@@ -1,0 +1,513 @@
+fire_ant:Fourmi de Feu
+giant_roach:Cafard Géant
+waterstrider:Patineur
+sickle_mantis:Mante Faucille
+hell_mantis:Mante de l'Enfer
+green_dragonfly:Libellule Verte
+blue_dragonfly:Libellule Bleue
+abnormous_tick:Tique Anormale
+mutated_carnivorous_plant:Plante Carnivore Mutée
+carnivorous_plant:Plante Carnivore
+monstrous_scarab:Scarabée Monstrueux
+sand_snake:Serpent des Sables
+awakened_sand:Sable Éveillé
+grumpy_cactus:Cactus Grincheux
+sand_tentacle:Tentacule de Sable
+sand_wing:Aile de Sable
+goblin_ranger:Gobelin Ranger
+goblin_rogue:Gobelin Voleur
+goblin_mage:Gobelin Mage
+goblin_grunt:Gobelin Grunt
+oversized_goblin:Gobelin Surdimensionné
+goblin_knight:Gobelin Chevalier
+pirate_skeleton:Skelète Pirate
+pirate_monkey:Singe Pirate
+pirate_bandit:Bandit Pirate
+blue_slime:Slime Bleu
+slime_wizard:Slime Sorcier
+heroic_slime:Slime Héroïque
+poisonous_slime:Slime Venimeux
+headhunter_slime:Slime Chasseur de Têtes
+barbarian_slime:Slime Barbare
+royal_guard_slime:Slime Garde Royal
+slime_protector:Slime Protecteur
+slime_scout:Slime Éclaireur
+black_wolf:Loup Noir
+competitive_dodo:Dodo Compétitif
+mountain_warden:Gardien de Montagne
+peacock_sharpshooter:Paon Tireur d'Élite
+poison_tongue:Langue Empoisonnée
+descended_dragon:Dragon Descendu
+frost_spirit:Esprit de Givre
+ice_turtle:Tortue de Glace
+ice_yeti:Yéti de Glace
+ice_ogre:Ogre de Glace
+ice_golem:Golem de Glace
+frozen_invader:Envahisseur Gelé
+frost_sickle_mantis:Mante à Faucilles de Givre
+frost_wing:Aile de Givre
+ice_avian:Aviaire de Glace
+berserker_dwarf:Nain Berserker
+dwarf_captain:Capitaine Nain
+miner_dwarf:Nain Mineur
+executioner_dwarf:Nain Exécuteur
+possessed_dwarf:Nain Possédé
+silvershield:Bouclier d'Argent
+aiming_dwarf:Nain Viseur
+enchanted_ore:Minerai Enchanté
+orc_warlock:Sorcier Orc
+orc_marauder:Maraudeur Orc
+orc_archer:Archer Orc
+orc_warrior:Guerrier Orc
+alpha_orc:Orc Alpha
+green_wyvern:Wyverne Verte
+giant_rat:Rat Géant
+ascended_duelist:Dueliste Ascendant
+ascended_enforcer:Exécuteur Ascendant
+ascended_gatekeeper_zephon:Gardien de la Porte Ascendant Zephon
+ascended_guardian:Gardien Ascendant
+ascended_sharpshooter:Tireur d'Élite Ascendant
+blessed_archer:Archer Béni
+blessed_spearman:Lancier Béni
+blessed_warrior:Guerrier Béni
+chest_mimic:Mimique de Coffre
+companion_of_the_nameless:Compagnon de l'Innommé
+corpse_eater_ragnar:Dévoreur de Cadavres Ragnar
+corrupted_forest_heart:Cœur de la Forêt Corrompu
+deepwater_berserk:Berserker des Profondeurs
+deepwater_crab:Crabe des Profondeurs
+deepwater_crab_warrior:Guerrier Crabe des Profondeurs
+deepwater_dark_star:Étoile Noire des Profondeurs
+deepwater_lurker:Vigie abyssale
+deepwater_urchin:Hérisson abyssal
+deepwater_watcher:Guetteur abyssal
+desert_rock_lizard:Lézard des roches désertiques
+divine_judge_vretiel:Juge divin Vretiel
+dryads_archer:Archère des dryades
+dryads_mage:Mage des dryades
+dryads_warrior:Guerrier des dryades
+dusk_root:Racine crépusculaire
+duskwood_wolf:Loup de bois crépusculaire
+flying_skull:Crâne volant
+forest_golem:Golem forestier
+forgotten_goblin:Gobelin oublié
+forgotten_slime:Gelée oubliée
+gravekeeper:Gardien de tombe
+hooded_stranger:Étranger encapuchonné
+lady_of_the_passage:Dame du Passage
+light_slime:Gelée lumineuse
+lost_fairy:Fée perdue
+lost_soul:Âme perdue
+overseer_crab:Crabe Surveillant
+protector_of_the_forest_heart:Protecteur du Cœur de la Forêt
+scavenging_mandrake:Mandraque Fouillant
+skeleton_archer:Archer Squelette
+skeleton_cutthroat:Voleur Squelette
+skeleton_dragon:Dragon Squelette
+skeleton_guard:Garde Squelette
+skeleton_hare:Lièvre Squelette
+skeleton_knight:Chevalier Squelette
+skeleton_marauder:Maraudeur Squelette
+the_nameless:L'Innommé
+thorn_cutter:Coupe-Épines
+wall_mimic:Mimique Murale
+toxic_carnivorous_plant:Plante Carnivore Toxique
+spider_crab:Crabe Araignée
+black_ant_protector:Protecteur Fourmi Noire
+venomous_centipede:Centipède Venimeux
+sand_devourer:Dévoreur de Sable
+cactus_abomination:Abomination de Cactus
+goblin_captain:Capitaine Gobelin
+general_gogz:Général Gogz
+accursed_captain_hawk:Capitaine Maudit Hawk
+pirate_parrot:Perroquet Pirate
+god-king_hubertus_III:Dieu-roi Hubertus III
+grandmaster_udabras:Grand Maître Udabras
+lion_queen_melora:Reine Lionne Melora
+king_leonidas:Roi Leonidas
+saint_of_the_cold_crux:Saint de la Croix Froid
+cold_ruler:Souverain Froid
+greed_incarnation:Incarnation de la Cupidité
+moonlight_hunter:Chasseur de Clair de Lune
+dark_ruler_of_the_wastelands:Souverain Sombre des Terres Désolées
+giant_mosquito:Moustique Géant
+rain_wing:Aile Pluie
+tulip_wing:Aile Tulipe
+inferno_wing:Aile Inferno
+fire_snake:Serpent de Feu
+lunar_wing:Aile Lunaire
+fur_wing:Aile de Fourrure
+colossal_red_snake:Serpent Rouge Colossal
+colossal_purple_snake:Serpent Colossal Violet
+colossal_black_snake:Serpent Colossal Noir
+gnoll_archer:Archer Gnoll
+gnoll_vanguard:Avant-garde Gnoll
+gnoll_swordsman:Épéiste Gnoll
+goblin_reaper:Faucheur Gobelin
+goblin_rider:Cavalier Gobelin
+goblin_sorcerer:Sorcier Gobelin
+flying_leech:Sangsue Volante
+behemoth:Béhémoth
+ice_snake:Serpent de Glace
+gnoll_shaman:Chaman Gnoll
+undead_gnoll:Gnoll Mort-vivant
+skeleton_commander:Commandant Squelette
+flaming_wolf:Loup Enflammé
+flaming_wolf_spirit:Esprit de Loup Enflammé
+brigand_skirmisher:Brigand Éclaireur
+brigand_watcher:Brigand Guetteur
+city_watch_ward:Sentinelle de la Garde Cité
+city_watch_commander:Commandant de la Garde Cité
+city_watch_gate_keeper:Garde de la ville
+colossal_bat:Chauve-souris colossale
+colossal_dark_crow:Corbeau noir colossal
+colossal_scorpion:Scorpion colossal
+forest_fox:Renard des forêts
+forest_deer:Cerf des forêts
+forest_bee:Abeille des forêts
+forest_blue_flower:Fleur bleue des forêts
+forest_catermoth:Papimite des forêts
+forest_ghost:Spectre des forêts
+forest_darkluff:Darkluff des forêts
+forest_fairy_dragon:Dragon-fée des forêts
+forest_grasshopper:Sauterelle des forêts
+forest_imperial_widow:Veuve impériale des forêts
+forest_mageshroom:Magemousse des forêts
+forest_panda:Panda des forêts
+forest_pink_flower:Fleur rose des forêts
+forest_red_flower:Fleur rouge des forêts
+forest_red_spider:Araignée rouge des forêts
+forest_scorpion:Scorpion des forêts
+forest_shroom:Champignon de la Forêt
+forest_spider:Araignée de la Forêt
+forest_spora:Spora de la Forêt
+forest_mothy:Papillon de Nuit de la Forêt
+forest_sprout:Pousse de la Forêt
+forest_tree:Arbre de la Forêt
+forest_turtle:Tortue de la Forêt
+forest_uzu:Uzu de la Forêt
+forest_white_flower:Fleur Blanche de la Forêt
+forest_wolf:Loup de la Forêt
+ice_serpent:Serpent de Glace
+ice_wolf:Loup de Glace
+ice_snow_golem:Golem de Neige de Glace
+ice_snowman:Bonhomme de Neige de Glace
+ice_wisp:Feu Follet de Glace
+ice_spike:Pique de Glace
+plague_rat:Rat de Peste
+undead_jiangshi:Jiangshi Mort-Vivant
+wind_wisp:Feu Follet de Vent
+zombie_forest_flower:Fleur de Forêt Zombie
+skeleton_mage:Magicien Squelette
+forest_green_spider:Araignée Verte de la Forêt
+forest_shroomy:Champignon de Forêt
+abyss_wing:Aile des Abysses
+frozen_mantis:Mante Gelée
+ice_bull:Taureau de Glace
+ice_kindred_glacier:Glacier Apparenté de Glace
+insects_swarm:Nuée d'Insectes
+mushroom_knight:Chevalier Champignon
+rose_warrior:Guerrier Rose
+bone_sharpshooter:Tireur d'Élite Osseux
+nightmare_spider:Araignée Cauchemardesque
+quadruraptor:Quadruraptor
+underworld_maw:Gueule du Monde Souterrain
+wyvern_bat:Chauve-souris Dragon
+majestic_boar:Sanglier Majestueux
+dragon_lamprey:Lamproie Dragon
+rock_golem:Golem de Roche
+cursed_scimitar:Scimitar Maudite
+tridentpupa:Tridentpupa
+insects_dragon:Dragon Insectes
+wood_golem:Golem Bois
+blazing_shroom:Champi Flamboyant
+chilling_shroom:Champi Glacé
+intoxicating_shroom:Champi Enivrant
+snow_golem:Golem Neige
+haunting_ghost:Fantôme Hanté
+bell_pepper_lizard:Lézard Poivron
+darkness_crawler_azrkoth:Rôdeur des Ténèbres Azr’koth
+book_mimic:Mimique Livre
+darkness_seeker:Chercheur des Ténèbres
+darkness_wisp:Volatile des Ténèbres
+bush_wisp:Volatile Buisson
+leaf_imp:Diablotin Feuille
+earth_wisp:Volatile Terre
+mandrake:Mandragore
+earth_lion:Lion Terre
+earth_snake:Serpent Terre
+earth_turtle:Tortue Terre
+fire_lion:Lion Feu
+fire_turtle:Tortue de Feu
+fox_bandit:Bandit Renard
+fox_crook:Escroc Renard
+fox_rogue:Vaurien Renard
+shark_frog:Grenouille Requin
+bull_lion:Lion Taureau
+tiger_dragon:Dragon Tigre
+gargoyle_grifos:Gargouille Grifos
+garuda_garunix:Garuda Garunix
+ghost_puppet:Marionnette Fantôme
+ghost_revelator:Révélateur Fantôme
+storm_hawk:Faucon Tempête
+colossal_frog:Grenouille Colossale
+flightless_bird:Oiseau Sans Ailes
+demon_critter_fox:Renard Démon
+demon_critter_rabbit:Lapin Démon
+demon_critter_squirrel:Écureuil Démon
+demon_imp:Diablotin Démon
+bighorn:Grand Corne
+darkness_gargoyle:Gargouille des Ténèbres
+devilimp:Diablolet
+dragon_wyrm:Dragon Wyrm
+blue_wyvern:Wyverne Bleue
+brown_wyvern:Wyverne Brune
+red_wyvern:Wyverne Rouge
+dryads_companion:Compagnon des Dryades
+mountain_snail:Escargot de Montagne
+mountain_warthog:Sanglier de Montagne
+mountain_wolf:Loup de Montagne
+mountain_winter_wolf:Loup d'Hiver de Montagne
+mountain_behemoth:Béhémoth de Montagne
+squirrel_mage:Écureuil Mage
+squirrel_warrior:Écureuil Guerrier
+squirrel_defender:Écureuil Défenseur
+root_shield:Bouclier de Racine
+cave_dweller_worm:Ver des Cavernes
+fire_vulture:Vautour de Feu
+fire_wisp:Esprit de Feu
+ant_knight:Chevalier Fourmi
+frozen_robber:Voleur Gelé
+frozen_skirmisher:Skirmisher Gelé
+ant_lion:Lion Fourmi
+black_ant_ranger:Éclaireur Fourmi Noire
+black_ant_mage:Mage Fourmi Noire
+black_ant_berserker:Berserker Fourmi Noire
+black_ant_knight:Chevalier Fourmi Noire
+kobold_archer:Archer Kobold
+kobold_armor:Armure Kobold
+kobolds_dagger:Dague de Kobold
+unarmed_kobold:Kobold Désarmé
+kobolds_mage:Mage de Kobold
+kobolds_spear:Lance de Kobold
+hornet_warrior:Guerrier Frelon
+goblin_fairy:Fée Gobeline
+forest_goblin_axe:Hache Gobelin des Forêts
+forest_goblin_dagger:Dague Gobelin des Forêts
+forest_goblin_sword:Épée Gobelin des Forêts
+hercules_bug:Insecte Hercule
+raiding_knight:Chevalier Pilleur
+radiant_knight:Chevalier Rayonnant
+goblin_flag_bearer:Porte-étendard gobelin
+mysterious_white_mage:Mage blanc mystérieux
+betafish:Poisson bêta
+biofish:Poisson bio
+corrupt_executioner:Bourreau corrompu
+iron_minotaur:Minotaure de fer
+cerberus_ptolemaios:Cérbère Ptolémaios
+mountain_griffon:Griffon des montagnes
+mountain_harpy:Harpy des montagnes
+mountain_hornet:Frelon des montagnes
+mountain_nanjo:Nanjo des montagnes
+mountain_bunny:Lapin des montagnes
+mountain_greathorn_goat:Chèvre aux grandes cornes des montagnes
+plant_snail:Escargot végétal
+toxic_spreader:Diffuseur toxique
+cape_sundew:Drosera du Cap
+beach_spore:Spore de plage
+seagull:Mouette
+sea_lurker:Guetteur marin
+sea_jellyfish:Méduse de mer
+sea_horse:Hippocampe
+sea_lickitoad:Lickitoad des Mers
+sea_shark:Requin des Mers
+sea_spheria:Sphéria des Mers
+sea_tortoad:Tortoad des Mers
+sea_turtle:Tortue des Mers
+sea_shelltacke:Shelltacke des Mers
+sea_octi:Octi des Mers
+sea_octopus:Poulpe des Mers
+sea_fatoad:Fatoad des Mers
+sea_crab:Crabe des Mers
+sea_blue_dragon:Dragon Bleu des Mers
+turtle_golem:Golem Tortue
+beach_pelican:Pélican de Plage
+sea_abismos:Abismos des Mers
+star_shell:Coquille Étoilée
+sea_star_trio:Trio Étoile de Mer
+arcane_slime:Slime Arcanique
+brigand:Brigand
+undead_longshot:Tireur Mort-Vivant
+undead_axe:Hache des Morts-Vivants
+undead_blade:Lame des Morts-Vivants
+plant_exotic_flyer:Plante Aérienne Exotique
+blood_orc_slaughterer:Massacreur Orque de Sang
+blood_orc_ravager:Ravageur Orque de Sang
+blood_orc_impaler:Empaleur Orque de Sang
+orc_war_drummer:Tambour de Guerre Orque
+knight_rose:Chevalier Rose
+rat_gourmet:Gourmet Rat
+fork_rat:Rat Fourchu
+informed_rat:Rat Informé
+black_roc:Roc Noir
+bee:Abeille
+sand_caterpillar:Chenille de Sable
+caterpillar:Chenille
+eyehopper:Saute-œil
+death_worm:Ver de la Mort
+lion_roach:Blatte-Lion
+flame_monkey:Singe de Flamme
+feathered_snake:Serpent à Plumes
+horn_willow:Saule Cornu
+frost_gorilla:Gorille de Givre
+electroctopus:Électroctopus
+silver_avian:Avien Argenté
+spike_hopper:Sauterelle à Piquants
+spiked_caterpillar:Chenille à Piquants
+toucan_panther:Panthère Toucan
+rocktail_demolisher:Démolisseur Queue de Roche
+roaming_salamander:Salamandre Vagabonde
+void_gargoyle:Gargouille du Vide
+white_minotaur:Minotaure Blanc
+avian_elephant:Éléphant Avien
+black_lance_knight:Chevalier de Lance Noire
+bug_originator:Origine des Insectes
+minivolcano:Minivolcan
+fire_salamander:Salamandre de Feu
+fire_dragonspawn:Rejeton de Dragon de Feu
+lava_spawn:Progéniture de Lave
+fire_ogre:Ogre de Feu
+dwarf_dragon:Dragon Nain
+darkness_fox:Renard des Ténèbres
+light_fox:Renard de Lumière
+void_fox:Renard du Vide
+stone_knight_alpha:Chevalier de Pierre Alpha
+stone_knight_zeta:Chevalier de Pierre Zêta
+stone_knight_beta:Chevalier de Pierre Bêta
+tree_magical:Arbre Magique
+melee_tree:Arbre de Mêlée
+tree_skirmisher:Arbre Éclaireur
+arcane_tree:Arbre Arcane
+twin_snow_golem:Golem de Neige Jumeau
+fire_bull:Taureau de Feu
+desert_scorpion:Scorpion du Désert
+corrupted_void_fire_wolf:Loup de Feu du Vide Corrompu
+darkness_raptor:Raptor des Ténèbres
+flame_raptor:Raptor des Flammes
+cold_raptor:Raptor du Froid
+chilling_wolf_spirit:Esprit du Loup Glacial
+fallen_dragon_knight:Chevalier Dragon Déchu
+fallen_winged_sword:Épée Ailée Déchue
+fallen_great_sword:Grande Épée Déchue
+fire_toad:Crapaud de Feu
+fire_sabretooth:Saber de Feu
+ice_glacier_spawn:Progéniture du Glacier de Glace
+knight_spear_elite:Chevalier Lance Élite
+knight_sword_elite:Chevalier Épée Élite
+knights_spear_common:Chevalier Lance Commun
+knights_sword_common:Chevalier Épée Commun
+masked_demon_giant:Géant Démon Masqué
+crocoknight:Crocochevalier
+razortail_eagle:Aigle Queue-Rasoir
+bull_dragon:Dragon Taureau
+rabbit_knight:Chevalier Lapin
+rabbit_bandit:Bandit Lapin
+sea_fish:Poisson Marin
+skull_fish:Poisson Crâne
+skeleton_mage_mabon:Mage Squelette Mabon
+crocopaladin:Crocopaladin
+crocorogue:Crocorogue
+crocomage:Crocomage
+ignited_bat:Chauve-Souris Enflammée
+lava_worm:Ver de Lave
+fire_pumice_rock:Roche de Pierre Ponce de Feu
+fire_pumice_sheep:Mouton de Pierre Ponce de Feu
+volcanic_golem:Golem Volcanique
+living_armor:Armure Vivante
+two_headed_turtle:Tortue à Deux Têtes
+ice_cave_bat:Chauve-Souris de Grotte de Glace
+ice_lion:Lion de Glace
+snowball:Boule de Neige
+yeti_wisp:Âme de Yéti
+rabbit_stealth_archer:Archer Furtif Lapin
+toxic_frog:Grenouille Toxique
+toxic_horned_frog:Grenouille Cornue Toxique
+toxic_white_frog:Grenouille Blanche Toxique
+razor_tail_frog:Grenouille à Queue Tranchante
+unifrog:Unigrnouille
+toxic_root_mutation:Mutation de Racine Toxique
+toxic_root:Racine Toxique
+undead_claw_knight:Chevalier Griffu Mort-Vivant
+undead_eastern_archer:Archer oriental mort-vivant
+undead_eastern_marauder:Maraudeur oriental mort-vivant
+undead_eastern_plunderer:Pillard oriental mort-vivant
+voidoll_erabos:Voidoll Erabos
+voidoll_erebia:Voidoll Erebia
+voidoll_erebus:Voidoll Erebus
+shark_bow:Arc requin
+dagger_shark:Dague requin
+great_shark:Grand requin
+wind_snake:Serpent de vent
+wind_avian:Avien de vent
+wind_bunny:Lapin de vent
+feathered_golem:Golem emplumé
+feathered_razor:Rasoir emplumé
+wind_harpy:Harpyie de vent
+wind_lion:Lion de vent
+wind_mantis:Mante de vent
+wind_spawn:Progéniture du vent
+wooden_doll_warrior:Guerrier poupée de bois
+wooden_doll_ranger:Ranger poupée de bois
+wooden_doll_berserk:Poupée de Bois Berserker
+spirit_boar:Sanglier Spirituel
+spirit_wolf:Loup Spirituel
+spirit_baboon:Babouin Spirituel
+spirit_ape:Singe Spirituel
+spirit_owl:Hibou Spirituel
+spirit_panda:Panda Spirituel
+spirit_tiger:Tigre Spirituel
+spirit_fox:Renard Spirituel
+spirit_primate:Primate Spirituel
+shadow_invocation_knight:Chevalier d'Invocation d'Ombre
+sea_piranos:Piranos Marin
+giant_grizzly:Grizzly Géant
+darkness_behemoth:Béhémoth des Ténèbres
+darkness_imp:Diablotin des Ténèbres
+earth_bull:Taureau Terrestre
+acid_elemental:Élémentaire d'Acide
+slime_earthi:Slime Terrien
+colossal_mummy:Momie Colossale
+metal_golem:Golem Métallique
+sorceress:Sorcière
+shimmering_dragon:Dragon Scintillant
+night_blade_assassin:Assassin de la Lame Nocturne
+night_blade_commander:Commandant de la Lame Nocturne
+shadow_beast:Bête de l’Ombre
+fiery_cultist:Cultiste Enflammé
+cultist_caller:Invocateur de Cultiste
+novice_cultist:Cultiste Novice
+loyal_wolf:Loup Loyal
+consumed_hero:Héros Consumés
+dark_elf_healer:Guérisseur Elfe Noir
+nightmare_stalker:Pisteur de Cauchemar
+headless_horseman:Cavalier Sans Tête
+shadow_creature:Créature de l’Ombre
+infernal_spirit:Esprit Infernal
+bloodstone_minotaur:Minotaure de Pierre-Sang
+sacred_vale_guardian:Gardien du Val Sacré
+vale_drake:Drake du Val
+infernal_duelist:Dueliste Infernal
+blazing_spider:Araignée Flamboyante
+flaming_slime:Slime enflammé
+lady_of_the_vale:Dame du Val
+volcanic_maiden:Demoiselle volcanique
+gemstone_fire_dragon:Dragon de feu gemme
+ignithor_the_charred_sovereign:Ignithor, le Souverain carbonisé
+blightflame_first_of_dragons:Blightflame, le premier des Dragons
+spiky_turtle:Tortue piquante
+rudolph:Rudolph
+big_sack_goblin:Gobelin au grand sac
+angry_snowman:Bonhomme de neige en colère
+lich:Liche
+corrupted_rat:Rat corrompu
+nailguns:Pistolets à clous

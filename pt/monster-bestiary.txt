@@ -1,0 +1,513 @@
+abnormous_tick_bestiary:Um carrapato desse tamanho faz imaginar as criaturas das quais ele normalmente se alimenta
+accursed_captain_hawk_bestiary:Pelo menos uma parte de sua maldição deve dizer respeito ao seu senso de estilo. Você já viu aquele traje famoso e viveu para contar a história?
+aiming_dwarf_bestiary:O que esses anões perderam em pelos faciais, ganharam em habilidade como atiradores
+alpha_orc_bestiary:Uma caçada de orcs por troféus conhece apenas duas lutas: O equilíbrio entre o tamanho de seu machado e o das caveiras que carregam
+awakened_sand_bestiary:Cuidado com areia em lugares desconfortáveis
+barbarian_slime_bestiary:Seu ombreira parece ser decorativa, verdadeiros bárbaros não usam armadura
+berserker_dwarf_bestiary:A diferença para um anão normal está apenas no tamanho de seu machado
+black_ant_protector_bestiary:Formigas podem levantar muitas vezes seu peso corporal, essas folhas não vão impedir que ele o esmague
+black_wolf_bestiary:É melhor ter alguns petiscos para cães em estoque
+blue_dragonfly_bestiary:Sua cor azul camufla sua rápida aproximação
+blue_slime_bestiary:Seu assobio inocente desvia do seu potencial inato para problemas
+cactus_abomination_bestiary:A seca leva essa amálgama a buscar novas fontes de água...
+carnivorous_plant_bestiary:Isto levanta a questão, existem plantas herbívoras comparáveis?
+cold_ruler_bestiary:Apenas a capa é que torna isso realmente legal
+competitive_dodo_bestiary:Se você encontrá-lo na selva, um de vocês vai entrar em extinção
+dark_ruler_of_the_wastelands_bestiary:Com ombros tão largos quanto esses, como uma criatura poderia almejar menos que o domínio total?
+descended_dragon_bestiary:Algo tirou as asas desta criatura, ligando-a para sempre ao chão
+dwarf_captain_bestiary:Olhe aquele porte, olhe aquela barba!
+enchanted_ore_bestiary:Você vai precisar de mais de uma picareta
+executioner_dwarf_bestiary:Todo o talento dos anões com machados voltado para um único alvo: Seu pescoço
+fire_ant_bestiary:Um único formigueiro pode devastar uma floresta inteira
+frost_sickle_mantis_bestiary:Muitos tipos de insetos hibernam durante os meses frios, este fica mais ativo
+frost_spirit_bestiary:Sempre coloque uma camisa antes de se aventurar no frio, caso contrário, acabará assim
+frost_wing_bestiary:Cada asa é o floco único de uma nevasca, um enxame inteiro pode enterrar um país
+frozen_invader_bestiary:É melhor construir uma muralha para manter essas coisas fora
+general_gogz_bestiary:Matador de dragões, milionário, ícone da moda e capeador competitivo mais bem avaliado do reino, como você se compara a isso?
+giant_rat_bestiary:Uma ameaça verificada dos esgotos
+giant_roach_bestiary:Alegadamente criada pelos feitiços de radiação de um mago estranho chamado Nuclear
+goblin_captain_bestiary:Não o faça descer de sua montaria de oito patas
+goblin_grunt_bestiary:Eles querem seus valores, equipamentos, dedos e vida, nessa ordem
+goblin_knight_bestiary:Duas escudos são melhores que um, o balde é apenas a cereja no bolo
+goblin_mage_bestiary:Eles não usam apenas adagas físicas para te apunhalar pelas costas
+goblin_ranger_bestiary:Tema, fuja, a tribo goblin ainda chegará
+goblin_rogue_bestiary:Aproximadamente duas vezes mais furtivo que um goblin comum, aproximadamente duas vezes mais esfaqueador também
+god-king_hubertus_III_bestiary:Como uma gosma colocou seus apêndices informes naquela coroa?
+grandmaster_udabras_bestiary:Espere aí, gosmas não deveriam ter cérebro
+greed_incarnation_bestiary:Vagando por corredores de pedra há muito perdidos, o símbolo de uma mina cavada fundo demais
+green_dragonfly_bestiary:Quase invisível entre a vegetação
+grumpy_cactus_bestiary:Se a expressão já não dizia para manter distância, os espinhos dirão
+headhunter_slime_bestiary:Gosmas aprenderam a minimizar a superfície que oferecem como alvo, depois que estas separarem sua cabeça do corpo, você também terá aprendido
+hell_mantis_bestiary:Esses insetos são rápidos o suficiente para saltar sobre pedra derretida, cortando qualquer coisa em seu caminho
+heroic_slime_bestiary:Um justo punidor daqueles que massacram a slimekind
+ice_avian_bestiary:Camuflado com maestria entre geleira e céu
+ice_golem_bestiary:Muito mais rápido que uma geleira em combate corpo a corpo
+ice_ogre_bestiary:Seus ataques frenéticos desconhecem a calma
+ice_turtle_bestiary:Teoriza-se que são a causa de muitos navios esmagados
+ice_yeti_bestiary:Meio adorável, de uma distância segura
+king_leonidas_bestiary:Suas cicatrizes contam sobre um reinado longo e duramente conquistado
+lion_queen_melora_bestiary:Quem marcou o orgulho, quem forjou sua armadura?
+miner_dwarf_bestiary:Equipamento de mineração profissional para perfurar todos os tipos de rocha, minério e aventureiros intrometidos
+monstrous_scarab_bestiary:Já foram adorados e alimentados, o que lhes permitiu crescer até o tamanho atual
+moonlight_hunter_bestiary:A julgar por suas correntes quebradas, ferro pode não ser suficiente
+mountain_warden_bestiary:São Triceracabras ou Unigoats?
+mutated_carnivorous_plant_bestiary:Qualquer semelhança com cerejas é puramente superficial
+orc_archer_bestiary:A força do arco deles permite que a flecha perfure escudo, armadura e paredes
+orc_marauder_bestiary:Mesmo dois machados não são suficientes para acompanhar o guerreiro anão médio
+orc_warlock_bestiary:Girar aquele cajado aparentemente não era suficiente para manter a forma
+orc_warrior_bestiary:Aprenderam o suficiente para deixar os machados para trás
+oversized_goblin_bestiary:Esses caras sempre comem seus vegetais. Junto com qualquer outra coisa que consigam pegar
+peacock_sharpshooter_bestiary:Suas vestes emplumadas eram usadas apenas para rituais de acasalamento, mas o mundo é cruel lá fora
+pirate_bandit_bestiary:As listras são usadas para ocultar seus verdadeiros números.
+pirate_monkey_bestiary:Se não fosse pela perna de pau, eles seriam duas vezes melhores em escalada do que um pirata comum.
+pirate_parrot_bestiary:A física de um papagaio manejando um canhão não é completamente compreendida, assume-se que seja magia pirata.
+pirate_skeleton_bestiary:Treinaram a vida toda de perneta para isso.
+poison_tongue_bestiary:Sua língua é realmente a coisa menos assustadora sobre eles.
+poisonous_slime_bestiary:Não coma, não toque.
+possessed_dwarf_bestiary:Perderam o livre arbítrio, pelo menos ainda têm seus machados.
+royal_guard_slime_bestiary:Pura confiança escorrendo.
+saint_of_the_cold_crux_bestiary:Este urso não é mais nem sagrado nem santo.
+sand_devourer_bestiary:Devora tanto areia quanto tudo que é apanhado junto.
+sand_snake_bestiary:Não é a coisa mais perigosa à espreita nas areias, mas sua mordida ainda é letal.
+sand_tentacle_bestiary:Seus membros ágeis são facilmente confundidos com vegetação saudável.
+sand_wing_bestiary:Cada asa é o único grão de uma tempestade de areia, um enxame inteiro pode soterrar um reino.
+sickle_mantis_bestiary:Suas lâminas de braço cortam armas, rompem escudos, fazem fendas em armaduras.
+silvershield_bestiary:Protetores do grande tesouro dos anões, revestidos de metal apenas um degrau abaixo do ouro.
+slime_protector_bestiary:Sua forma amorfa os torna imunes aos perigos das suas maças.
+slime_scout_bestiary:Seu exterior blindado é quase indistinguível de rocha e pedra.
+slime_wizard_bestiary:Aprendizes de magos muitas vezes se tornam presas deles.
+spider_crab_bestiary:Elas realmente tecem teias para proteger seus ninhos.
+toxic_carnivorous_plant_bestiary:Seu comportamento também pode ser considerado tóxico.
+venomous_centipede_bestiary:Seu veneno enfraquece sua presa para depois esmagá-la
+green_wyvern_bestiary:Apenas um ramo distante dos lendários dragões, mas ainda assim mortal
+waterstrider_bestiary:Você precisará de mais do que uma gota de óleo para fazê-los afundar
+ascended_duelist_bestiary:Aqueles que desafiam os céus enfrentarão sua espada
+ascended_enforcer_bestiary:Erga sua lança para a glória do juiz celestial e rejubile-se em cumprir sua vontade
+ascended_gatekeeper_zephon_bestiary:Distinguiu-se pela habilidade de luta e fé, mesmo além de seus dias mortais, ele defenderá o reino divino
+ascended_guardian_bestiary:...pois o Céu não cairá facilmente
+ascended_sharpshooter_bestiary:Essas flechas não perfuram com amor e felicidade
+blessed_archer_bestiary:Sempre vigilante contra os inimigos da humanidade, mas às vezes o conflito ignóbil é inevitável
+blessed_spearman_bestiary:Sua lança geralmente é direcionada a oponentes muito mais monstruosos
+blessed_warrior_bestiary:Tempos desesperados exigem medidas desonrosas
+chest_mimic_bestiary:Muitos esperavam sua justa recompensa, apenas para serem pegos no guloso tesouro traiçoeiro
+companion_of_the_nameless_bestiary:O que chamaria essas criaturas de companheiro?
+corpse_eater_ragnar_bestiary:Empanturrado com as mortes de centenas, essa criatura ainda busca mais
+corrupted_forest_heart_bestiary:Escapando de todos os seus protetores, uma única adaga foi suficiente para um veneno infeccioso
+deepwater_berserk_bestiary:Um peixe tingido de vermelho pela fúria, sua mordida feroz rompe escamas e escudos
+deepwater_crab_bestiary:Esses crustáceos permanecem letárgicos até serem perturbados
+deepwater_crab_warrior_bestiary:Caranguejos territoriais defendendo seu reino aquático
+deepwater_dark_star_bestiary:Tentativas de capturá-los em gaiolas em forma de bola foram suspensas por medo de repercussões legais
+deepwater_lurker_bestiary:Um predador de emboscada atacando de peixes a humanos
+deepwater_urchin_bestiary:Estes ouriços comem qualquer coisa que não evite seus espinhos paralisantes.
+deepwater_watcher_bestiary:Em contraste com o espreitador, o vigia usa sua incrível velocidade para atravessar distâncias rapidamente.
+desert_rock_lizard_bestiary:Camuflados em planaltos quentes, esses lagartos comem qualquer coisa que consigam morder.
+divine_judge_vretiel_bestiary:Encarregado do julgamento final de todas as coisas na criação.
+dryads_archer_bestiary:Uma imitação floral da civilização, disparando espinhos semelhantes a flechas com precisão mortal.
+dryads_mage_bestiary:Uma abundância excessiva de vida resulta em uma abundância excessiva de magia.
+dryads_warrior_bestiary:A ironia de uma ferramenta de fazendeiro ceifando vidas em vez de colheitas.
+dusk_root_bestiary:Plantas animadas assombrando a noite, lutando para criar raízes novamente ao amanhecer.
+duskwood_wolf_bestiary:Uma combinação quimérica de flora e fauna, exibindo as forças de ambas.
+flying_skull_bestiary:Pelo menos duas vezes mais mortal que o comum crânio rastejante.
+forest_golem_bestiary:Braços como troncos de carvalhos centenários e um corpo como uma rocha tornam esta criatura um oponente formidável.
+forgotten_goblin_bestiary:Quando a barreira entre aqui e lá se enfraquece, aqueles do outro lado chamam você para se juntar a eles.
+forgotten_slime_bestiary:Poder-se-ia supor que um slime simples não tem senso de identidade para legar uma sombra.
+gravekeeper_bestiary:Em tempos de problema, os ceifeiros se tornam zelosos em sua ânsia de colher os vivos.
+hooded_stranger_bestiary:Marca e estilo são tudo quando se trata de assalto de estrada.
+lady_of_the_passage_bestiary:Antes uma sacerdotisa da terra, agora uma sentinela solitária do reino sem sol abaixo das ondas.
+light_slime_bestiary:Leve pela definição de peso e iluminação, não necessariamente em relação à dificuldade.
+lost_fairy_bestiary:Ei, ouça!
+lost_soul_bestiary:Seu valor de uma (1) alma pode não valer o problema.
+overseer_crab_bestiary:As hierarquias sociais dos caranguejos são mal exploradas, mas estudos preliminares confirmam que os caranguejos supervisores podem ver por cima de seus irmãos menores apenas pelo tamanho, sim.
+protector_of_the_forest_heart_bestiary:É melhor dobrar como um salgueiro antes de quebrar diante deste carvalho
+scavenging_mandrake_bestiary:O comedor de fundo da floresta, sempre em busca de solo nutritivo, luz solar e fertilizante à base de sangue
+skeleton_archer_bestiary:Área de superfície mínima para contra-ataque.
+skeleton_cutthroat_bestiary:Na morte-viva como na vida, a espinha dorsal do exército deles
+skeleton_dragon_bestiary:Não deixe esta luta se arrastar
+skeleton_guard_bestiary:Paus e pedras costumavam quebrar seus ossos, mas agora estão suficientemente protegidos contra tais ataques triviais
+skeleton_hare_bestiary:Coelhos produzem um grande número de corpos descartáveis… embora não sejam realmente ameaçadores
+skeleton_knight_bestiary:Eles morreram sem quebrar sua honra… então agora tudo é jogo justo
+skeleton_marauder_bestiary:Guerreiros saqueadores que matam e mutilam para roubar uma vestimenta que seja mais do que farrapos
+the_nameless_bestiary:Todos o encontraremos no final, sem necessidade de títulos pomposos
+thorn_cutter_bestiary:Espinhos são geralmente mais úteis para perfurar, embora isso não impeça esta planta de tentar
+wall_mimic_bestiary:Próxima geração no design de masmorras à prova de aventureiros
+rain_wing_bestiary:Teorizam que muda sua forma dependendo do nível de umidade em seu ambiente
+tulip_wing_bestiary:Geralmente considerada o tipo mais básico de borboleta, desprovida de infusão elementar
+inferno_wing_bestiary:Temidas durante os meses de verão árido, pois suas asas incendeiam fazendas, campos e florestas
+fire_snake_bestiary:Sua infusão ígnea compensa sua frieza reptiliana
+lunar_wing_bestiary:Essas borboletas parecem preferir corpos celestes a flores
+fur_wing_bestiary:Que diabos eu devo classificar isso como?!
+colossal_red_snake_bestiary:Seu porte erguido mascara um alcance surpreendentemente longo de sua mordida
+colossal_purple_snake_bestiary:Se ela morder você e você morrer, é venenosa. Se você morder ela e morrer, é venenosa. Esta é ambas
+colossal_black_snake_bestiary:Não confie na visão no escuro para avistar este réptil
+gnoll_archer_bestiary:Sua expressão desmente seu papel de combatente focado em distância
+gnoll_vanguard_bestiary:Suas mordidas continuam perigosas, mesmo após você ultrapassar suas lanças
+gnoll_swordsman_bestiary:Eu... meio que quero acariciá-lo, mas provavelmente não vale nem a facada nem a raiva
+goblin_reaper_bestiary:E o que vem a seguir, um ceifador de ratos?
+goblin_rider_bestiary:Sua armadura é saqueada de ataques passados e indica seu posto e experiência
+goblin_sorcerer_bestiary:Seu hábito de domesticar pássaros os torna batedores perigosos
+flying_leech_bestiary:Algum médico empreendedor quis utilizar esses sugadores, mas seu pote quebrou e os libertou em uma cidade vizinha.
+behemoth_bestiary:Pele grossa, presas perigosas... cauda serpentina e uma juba de cabelo flamejante?
+ice_snake_bestiary:Essas cobras parecem usar o pedaço de gelo que sobressai de suas cabeças como chifre
+gnoll_shaman_bestiary:Suas poções potentes parecem ser a causa da expressão maníaca de sua tribo
+undead_gnoll_bestiary:Argh, não tão acariciável agora
+skeleton_commander_bestiary:Sua armadura e equipamento indicam que muito esforço foi colocado na criação deste morto-vivo
+flaming_wolf_bestiary:Círculos druidicos criam essas manifestações para caçar seus inimigos
+flaming_wolf_spirit_bestiary:Esta manifestação perdeu a maior parte de sua forma, embora nem sua determinação nem seu propósito
+colossal_bat_bestiary:O Colossal Bat habita nas cavernas mais profundas, usando suas imensas asas para criar rajadas poderosas de vento.
+colossal_dark_crow_bestiary:Um presságio de desgraça, o Colossal Dark Crow voa através de céus tempestuosos, lançando sombras sobre as terras abaixo.
+colossal_scorpion_bestiary:Com ferrão venenoso e pinças esmagadoras, o Colossal Scorpion instila medo nos corações daqueles que o encontram.
+forest_fox_bestiary:O esquivo Forest Fox navega pela floresta com astúcia e graça, seus sentidos apurados o tornando um caçador habilidoso.
+forest_deer_bestiary:Uma criatura elegante, o Forest Deer pastoreia pacificamente no coração da floresta, sempre alerta para ameaças potenciais.
+forest_bee_bestiary:As Abelhas da Floresta ajudam a manter o ecossistema com sua polinização, mas seus ferrões ainda são um doloroso impedimento.
+forest_blue_flower_bestiary:As Flores Azuis da Floresta são conhecidas pela sua cor vibrante e aroma doce, atraindo uma variedade de criaturas.
+forest_catermoth_bestiary:As Lagarmotas da Floresta, uma mistura única de lagarta e mariposa, são criaturas fascinantes que habitam bosques densos.
+forest_ghost_bestiary:Fantasmas da Floresta assombram as profundezas dos bosques, aparecendo como espectros translúcidos que arrepiam qualquer viajante.
+forest_darkluff_bestiary:Os Darkluffs da Floresta são criaturas evasivas que se misturam perfeitamente ao escuro chão da floresta, tornando-se uma visão rara e misteriosa.
+forest_fairy_dragon_bestiary:Dragões-Fada da Floresta são criaturas caprichosas com escamas iridescentes e um comportamento brincalhão, frequentemente vistas entre as árvores.
+forest_grasshopper_bestiary:Gafanhotos da Floresta são conhecidos por suas patas traseiras poderosas e incrível habilidade de salto, tornam-se habitantes ágeis do chão da floresta.
+forest_imperial_widow_bestiary:Viúvas Imperiais da Floresta são aranhas grandes e impressionantes com padrões intrincados no abdômen e uma reputação de serem altamente venenosas.
+forest_mageshroom_bestiary:Mageshelves da Floresta são cogumelos mágicos e sencientes que possuem propriedades místicas e a habilidade de se comunicar com outros habitantes da floresta.
+forest_panda_bestiary:Pandas da Floresta são criaturas gentis, amantes de bambu, que preferem uma existência tranquila e pacífica no coração da floresta.
+forest_pink_flower_bestiary:Flores Cor-de-Rosa da Floresta são delicadas flores com um tom rosa suave, frequentemente encontradas perto de clareiras e relvados na floresta.
+forest_red_flower_bestiary:Flores Vermelhas da Floresta são flores vibrantes com uma cor vermelha marcante, conhecidas por atrair polinizadores e oferecer um toque de cor na floresta.
+forest_red_spider_bestiary:Aranhas Vermelhas da Floresta são aracnídeos ágeis com uma distinta tonalidade vermelha, conhecidas por suas habilidades impressionantes na construção de teias e instintos apurados de caça.
+forest_scorpion_bestiary:Escorpiões da Floresta são predadores formidáveis com pinças poderosas e um ferrão venenoso, adeptos na camuflagem e furtividade nos sub-bosques da floresta.
+forest_shroom_bestiary:Cogumelos da Floresta são fungos comuns encontrados por toda a floresta, facilmente reconhecíveis por sua distinta estrutura de chapéu e caule.
+forest_spider_bestiary:Aranhas da Floresta são aracnídeos versáteis, conhecidos por suas impressionantes habilidades de construção de teia e capacidade de caçar presas em variados ambientes florestais.
+forest_spora_bestiary:Esporas da Floresta são criaturas únicas, semelhantes a plantas, com uma relação simbiótica com a floresta, dispersando esporos e nutrientes para ajudar o ecossistema a prosperar.
+forest_mothy_bestiary:Mariposas da Floresta são insetos noturnos com asas grandes e padronizadas, atraídos por fontes de luz e essenciais à ecossistema da floresta como polinizadores.
+forest_sprout_bestiary:Brotações da Floresta são pequenas plantas sencientes que emergem do chão da floresta, exibindo curiosidade e brincadeira enquanto exploram seu entorno.
+forest_tree_bestiary:Árvores da Floresta são os guardiões antigos e imponentes da floresta, proporcionando abrigo, alimento e lares para inúmeras espécies em seus galhos e raízes.
+forest_turtle_bestiary:Tartarugas da Floresta são répteis de movimento lento com uma carapaça forte e protetora, frequentemente encontrados perto de corpos d'água e conhecidos por sua longa vida útil e comportamento gentil.
+forest_uzu_bestiary:Uzus da Floresta são pequenas criaturas elusivas com uma aura mágica inata, tornando-as difíceis de localizar e muito procuradas por suas propriedades mágicas.
+forest_white_flower_bestiary:Flores Brancas da Floresta são flora raras e delicadas, conhecidas por sua beleza e as propriedades únicas que possuem, frequentemente usadas em poções e remédios.
+forest_wolf_bestiary:Lobos da Floresta são caninos inteligentes e sociáveis, formando matilhas coesas e caçando cooperativamente para abater presas em seu território florestal.
+ice_serpent_bestiary:Serpentes de Gelo são répteis maciços e frios que prosperam nas terras congeladas, usando suas habilidades baseadas em gelo para congelar suas presas e defender seu território.
+ice_wolf_bestiary:Lobos de Gelo são uma subespécie única de lobos adaptados a ambientes frios, com pelagens grossas e um instinto de caça aguçado para navegar e sobreviver em paisagens geladas.
+ice_snow_golem_bestiary:Golems de Neve de Gelo são construtos poderosos criados por magia potente, feitos inteiramente de gelo e neve e dotados da capacidade de manipular e controlar os elementos ao seu redor.
+ice_snowman_bestiary:Bonecos de Neve de Gelo são criaturas mágicas formadas de neve e gelo, frequentemente parecendo amigáveis e inofensivas, mas capazes de se defender com feitiços gelados quando provocadas.
+ice_wisp_bestiary:Wisps de Gelo são criaturas etéreas compostas de energia mágica condensada, frequentemente encontradas em ambientes frios. São conhecidas por emitir uma aura gelada, tornando o ar ao redor congelante.
+ice_spike_bestiary:Espinhos de Gelo são formações de gelo perigosas e conscientes com uma estrutura afiada e cristalina. São capazes de se lançar contra suas presas com incrível velocidade e precisão.
+plague_rat_bestiary:Ratos da Praga são roedores carregados de doenças que habitam ambientes escuros e úmidos. Eles carregam e espalham várias doenças através de suas mordidas, tornando-os particularmente perigosos de encontrar.
+undead_jiangshi_bestiary:Jiangshis Zumbis são cadáveres reanimados que surgiram de seus túmulos devido à magia negra ou a um espírito inquieto. São conhecidos por se moverem pulando e possuem força sobrenatural poderosa.
+wind_wisp_bestiary:Wisps de Vento são criaturas etéreas feitas de energia mágica condensada, tipicamente encontradas em áreas com fortes correntes de vento. São capazes de manipular o ar ao redor, criando rajadas e redemoinhos à vontade.
+zombie_forest_flower_bestiary:Flores Zumbis da Floresta são versões mortas-vivas de uma flora outrora vibrante que foram reanimadas através de magia negra. Elas têm uma presença sinistra e podem liberar esporos que infectam plantas e criaturas vivas.
+skeleton_mage_bestiary:Magos Esqueletos são restos animados de poderosos conjuradores que foram reanimados através da necromancia. Eles usam magia negra e comandam os mortos, tornando-os oponentes formidáveis de se encontrar.
+giant_mosquito_bestiary:Mosquitos Gigantes são insetos enormes e sedentos de sangue que habitam ambientes úmidos. Têm um apetite insaciável por sangue e podem transmitir várias doenças com seu probóscide semelhante a uma agulha.
+forest_green_spider_bestiary:Aranhas Verdes da Floresta são grandes aracnídeos venenosos que residem em bosques densos. São aptas a tecer teias intrincadas para capturar suas presas e podem injetar veneno que causa paralisia ou morte.
+forest_shroomy_bestiary:Cogumelos da Floresta são curiosas criaturas fúngicas que habitam áreas úmidas e arborizadas. Possuem uma relação simbiótica com a flora circundante e podem liberar esporos para se comunicar ou se defender.
+abyss_wing_bestiary:Estas criaturas sombrias e sinistras assombram as profundezas do abismo, espalhando medo em qualquer um que ouse se aventurar lá.
+frozen_mantis_bestiary:Este inseto gelado é tão frio quanto mortal, perseguindo paisagens congeladas e caçando os desavisados.
+ice_bull_bestiary:Massivo, poderoso e coberto de gelo, o Touro de Gelo investe contra seus inimigos com uma fúria tão fria quanto sua pele gelada.
+insects_swarm_bestiary:Um incansável enxame de insetos zumbindo e mordendo, este enxame submerge sua presa com o puro número.
+mushroom_knight_bestiary:Guardião do reino fúngico, este guerreiro cogumelo ergue-se alto e ataca com fúria infundida de esporos.
+rose_warrior_bestiary:Com espinhos tão afiados quanto sua determinação, este lutador botânico defende seu jardim com devoção inabalável.
+bone_sharpshooter_bestiary:Um atirador morto-vivo, este sniper esquelético é tão preciso quanto inquietante.
+nightmare_spider_bestiary:Nascido dos medos mais sombrios, este aracnídeo monstruoso espreita nas sombras, capturando sua presa em um véu de terror.
+quadruraptor_bestiary:Uma temível combinação de proeza predatória, esta besta de quatro patas caça com agilidade incomparável e garras afiadas.
+underworld_maw_bestiary:Escondido nas profundezas do submundo, esta massiva bocarra devora todos que ousam adentrar seu domínio.
+wyvern_bat_bestiary:Uma horrenda fusão de morcego e wyvern, este pesadelo aéreo mergulha para capturar sua presa com suas presas venenosas.
+majestic_boar_bestiary:Regal e feroz, este poderoso javali investe contra seus inimigos com uma fúria inflexível, perfurando-os com suas poderosas presas.
+dragon_lamprey_bestiary:Uma terrível amalgamação de dragão e lampreia, este leviatã rasga os céus enquanto devora a essência vital de sua presa.
+rock_golem_bestiary:Forjado da própria terra, este colossal guardião de pedra mantém-se firme diante de qualquer um que ameace seu domínio.
+cursed_scimitar_bestiary:Uma vez uma arma orgulhosa, esta lâmina encantada agora anseia por sangue, atacando por conta própria para reivindicar as almas dos desavisados.
+tridentpupa_bestiary:No meio de sua metamorfose, esta pupa armadurada se defende com suas apêndices em forma de tridente, apenas insinuando o poder que em breve desencadeará.
+insects_dragon_bestiary:Uma monstruosidade quimérica, esta besta combina a pura força de um dragão com o enxame incansável de insetos que compõem sua forma.
+wood_golem_bestiary:Um colosso de madeira que defende a floresta com seus membros massivos.
+blazing_shroom_bestiary:Um fungo flamejante que carboniza tudo ao seu redor.
+chilling_shroom_bestiary:Um cogumelo gélido que pode congelar seu entorno.
+intoxicating_shroom_bestiary:Um fungo psicodélico que emite uma nuvem de esporos que altera a mente.
+darkness_seeker_bestiary:Esta criatura evasiva prospera nas sombras, alimentando-se dos medos daqueles que ousam adentrar na escuridão.
+darkness_wisp_bestiary:Uma pequena entidade flutuante que absorve e emana escuridão, tornando-se um inimigo a não subestimar.
+bush_wisp_bestiary:Este minúsculo espírito semelhante à folhagem esconde-se em matagais densos, à espera do momento perfeito para apanhar os distraídos.
+leaf_imp_bestiary:Um habitante da floresta travesso que usa folhas como camuflagem, essas criaturas pregam peças nos viajantes e defendem seu território.
+earth_wisp_bestiary:Enraizado e robusto, o Earth Wisp canaliza o poder da terra para proteger seu domínio dos invasores.
+mandrake_bestiary:Uma planta mágica com uma raiz semelhante a um humano, conhecida por suas propriedades potentes e grito estarrecedor.
+earth_lion_bestiary:Um leão majestoso imbuído com a força da terra, causando tremores a cada poderoso salto.
+earth_snake_bestiary:Uma criatura serpentina com a habilidade de escavar o chão, deixando terremotos em seu rastro.
+earth_turtle_bestiary:Uma tartaruga resiliente com uma carapaça encrustada de terra, capaz de suportar uma força tremenda.
+fire_lion_bestiary:Um leão feroz envolto em chamas, capaz de incinerar tudo em seu caminho.
+fire_turtle_bestiary:Uma tartaruga formidável com uma carapaça flamejante, capaz de emitir calor abrasador e projéteis de fogo.
+fox_bandit_bestiary:Uma raposa astuta com uma inclinação para o roubo, conhecida por sua agilidade e furtividade.
+fox_crook_bestiary:Uma raposa dissimulada especializada em enganos, usando seu charme e sagacidade para ludibriar vítimas incautas.
+fox_rogue_bestiary:Uma raposa evasiva perita tanto em combate quanto em subterfúgio, frequentemente buscada para missões clandestinas.
+shark_frog_bestiary:Uma criatura anfíbia incomum com o apetite voraz de um tubarão e a agilidade de um sapo.
+bull_lion_bestiary:Um híbrido feroz com a força de um touro e a agilidade de um leão, temido por sua carga implacável.
+tiger_dragon_bestiary:Uma criatura majestosa que combina o poder de um tigre e o misticismo de um dragão, capaz de desencadear ataques devastadores.
+gargoyle_grifos_bestiary:Um gárgula formidável com as asas de um grifo, renomado por sua habilidade em defender estruturas antigas.
+garuda_garunix_bestiary:Uma criatura mítica semelhante a um pássaro com a postura feroz de um Garuda, comandando os céus com sua imensa envergadura.
+ghost_puppet_bestiary:Um fantoche sobrenatural imbuído de energia sombria, capaz de manipular os desavisados com suas cordas assustadoras.
+ghost_revelator_bestiary:Uma entidade espectral que revela segredos ocultos e possui o poder de expor a verdade, tanto temida quanto reverenciada.
+storm_hawk_bestiary:Uma poderosa ave de rapina que comanda o poder da tempestade, capaz de desencadear rajadas ferozes e relâmpagos.
+colossal_frog_bestiary:Um anfíbio enorme com um apetite voraz, engolindo qualquer coisa em seu caminho enquanto salta pela terra.
+flightless_bird_bestiary:Uma grande ave terrestre com pernas poderosas e um bico forte, surpreendentemente ágil e feroz apesar de sua falta de voo.
+demon_critter_fox_bestiary:Uma raposa astuta e malévola imbuída de energia demoníaca, usando seu charme e sagacidade para enganar e manipular sua presa.
+demon_critter_rabbit_bestiary:Um coelho sinistro infundido com energia demoníaca, usando sua agilidade e furtividade para causar estragos e travessuras.
+demon_critter_squirrel_bestiary:Um esquilo ardiloso possuído por forças sombrias, manipulando seu ambiente com astúcia e velocidade sobrenaturais.
+demon_imp_bestiary:Um pequeno demônio travesso com propensão a causar caos e atormentar aqueles que cruzam seu caminho.
+bighorn_bestiary:Uma poderosa besta com chifres, de força e resistência incríveis, frequentemente encontrada em ambientes de alta altitude.
+darkness_gargoyle_bestiary:Um gárgula malévolo nascido das sombras, capaz de espalhar escuridão e medo onde quer que vá.
+devilimp_bestiary:Um imp perverso com asas de morcego, com propensão ao engano e manipulação, muitas vezes causando discórdia entre aqueles que encontra.
+dragon_wyrm_bestiary:Um dragão colossal e serpentino com poder imenso e uma fome insaciável por destruição.
+blue_wyvern_bestiary:Um wyvern formidável com escamas azuis brilhantes, conhecido por seu domínio do gelo e de ambientes frios.
+brown_wyvern_bestiary:Um wyvern resistente com escamas marrons robustas, ostentando resistência excepcional e afinidade com terra e pedra.
+red_wyvern_bestiary:Um wyvern feroz com escamas vermelhas flamejantes, capaz de desencadear torrentes de chamas sobre seus inimigos.
+dryads_companion_bestiary:Uma criatura mágica e senciente que serve como aliada fiel das dríades, protegendo e nutrindo as florestas que habitam.
+mountain_snail_bestiary:Um caracol grande e de movimento lento, adaptado aos ambientes montanhosos rigorosos, ostentando uma concha durável para proteção.
+mountain_warthog_bestiary:Um javali robusto e agressivo que prospera em terrenos montanhosos, ostentando presas impressionantes e uma pele resistente.
+mountain_wolf_bestiary:Um predador astuto, adaptado às encostas rochosas e condições duras das regiões montanhosas, conhecido por sua perseguição implacável à presa.
+mountain_winter_wolf_bestiary:Um poderoso lobo branco-neve que prospera nos climas frios das montanhas, capaz de se misturar com seus arredores gelados.
+mountain_behemoth_bestiary:Uma criatura gigantesca que habita os picos de montanha mais remotos, possuindo força imensa e uma pele quase impenetrável.
+squirrel_mage_bestiary:Um esquilo altamente inteligente com uma afinidade natural para a magia, habilidoso em lançar feitiços e manipular os elementos.
+squirrel_warrior_bestiary:Um esquilo feroz e ágil treinado na arte do combate, utilizando seu pequeno tamanho e reflexos rápidos a seu favor.
+squirrel_defender_bestiary:Um esquilo resiliente que dedicou sua vida a proteger sua terra natal, exibindo notável resistência e habilidades defensivas.
+root_shield_bestiary:Um escudo vivo e senciente feito das raízes entrelaçadas de árvores ancestrais, capaz de regenerar e fornecer proteção excepcional.
+dwarf_dragon_bestiary:Este dragão de tamanho diminuto compensa sua falta de altura com uma dose extra de atitude incendiária.
+darkness_fox_bestiary:Esta raposa é tão escura e misteriosa que poderia escrever sua própria série de romances juvenis sombrios.
+light_fox_bestiary:Com uma cauda fofa que também serve como uma tocha, esta raposa sempre sabe como iluminar o ambiente.
+void_fox_bestiary:Esta raposa dominou a arte das crises existenciais, deixando você questionando se ela realmente estava lá.
+stone_knight_alpha_bestiary:Este guerreiro de rocha sólida tem um coração de pedra, mas não se preocupe, é apenas uma fase.
+cave_dweller_worm_bestiary:Este verme prefere as cavernas escuras e úmidas, onde pode se aproximar silenciosamente de aventureiros desavisados para uma refeição grátis.
+fire_vulture_bestiary:O amor deste abutre por comida picante evoluiu para sua habilidade de cuspir fogo, tornando-o a ave mais ardente do céu.
+fire_wisp_bestiary:Essas bolas de fogo flutuantes podem parecer inofensivas, mas são conhecidas por entrar em combustão espontânea quando menos se espera.
+ant_knight_bestiary:Esses insetos nobres trocaram suas tarefas habituais de formiga por espadas minúsculas e armaduras, tornando-os os defensores mais adoráveis de sua colônia.
+frozen_robber_bestiary:Este criminoso gelado tem uma reputação gelada por roubar roupas quentes, deixando as vítimas tremendo em seu rastro.
+frozen_skirmisher_bestiary:Este guerreiro gelado está sempre pronto para uma batalha impiedosa.
+ant_lion_bestiary:Não é exatamente uma formiga, nem exatamente um leão, mas igualmente feroz como ambos.
+black_ant_ranger_bestiary:Essas formigas começaram a praticar arco e flecha, tornando-se duplamente irritantes.
+black_ant_mage_bestiary:Utilizando o poder de feitiços mágicos, essas formigas podem arruinar seu piquenique e seu dia.
+black_ant_knight_bestiary:Vestida em uma armadura quitinosa, esta formiga assumiu o papel de cavaleiro e agora lidera suas companheiras formigas em cruzadas contra o reino das migalhas.
+black_ant_berserker_bestiary:Os problemas de controle de raiva desta formiga a tornam um inimigo formidável, capaz de levantar vinte vezes o seu peso corporal em pura fúria.
+kobold_archer_bestiary:Pequenos em tamanho, mas uma grande ameaça, suas flechas são tão afiadas quanto sua astúcia.
+kobold_armor_bestiary:Esses kobolds vestem armaduras pesadas para se proteger e proteger seu clã.
+kobolds_dagger_bestiary:Ágeis e silenciosos, os kobolds armados com adagas atacam antes de você perceber que estão lá.
+unarmed_kobold_bestiary:Apesar de não possuírem armamentos, esses kobolds ainda são adversários astutos.
+kobolds_mage_bestiary:Pequenos em tamanho, mas poderosos em magia, esses magos kobold podem lançar uma variedade de feitiços.
+kobolds_spear_bestiary:Armados com lanças e precisão, esses kobolds são hábeis tanto na ofensiva quanto na defensiva.
+hornet_warrior_bestiary:Esses insetos ferozes são implacáveis em batalha, manejando seus ferrões com precisão mortal.
+goblin_fairy_bestiary:Pequenas, mas astutas, as fadas goblin são especialistas em travessuras mágicas e manipulação.
+forest_goblin_axe_bestiary:Empunhando machados com habilidade, esses goblins da floresta são uma força a ser reconhecida na natureza.
+forest_goblin_dagger_bestiary:Ágeis e furtivos, esses goblins da floresta atacam com precisão mortal usando suas adagas.
+forest_goblin_sword_bestiary:Armados com espadas, esses goblins da floresta são guerreiros versáteis com inclinação para o combate corpo a corpo.
+hercules_bug_bestiary:Esses insetos colossais possuem imensa força e são capazes de causar danos significativos.
+raiding_knight_bestiary:Cavaleiros invasores são guerreiros habilidosos que saqueiam e pilham, buscando tomar o que desejam pela força.
+radiant_knight_bestiary:Esses guerreiros nobres e poderosos empunham energia divina para proteger e guiar aqueles ao seu redor.
+goblin_flag_bearer_bestiary:Encumbidos de carregar a bandeira na batalha, esses goblins reúnem seus aliados e inspiram medo em seus inimigos.
+mysterious_white_mage_bestiary:Envoltos em mistério, esses magos enigmáticos manejam poderosa magia de cura e bênçãos divinas.
+betafish_bestiary:Criaturas aquáticas ágeis e vibrantes, os betafish são conhecidos por seu deslumbrante display de cores e natureza territorial.
+biofish_bestiary:Os biofish são organismos geneticamente modificados, projetados para uma variedade de propósitos, desde pesquisa avançada até limpeza de poluição.
+corrupt_executioner_bestiary:Antes defensores da justiça, esses executores seguiram por caminhos sombrios e agora usam suas habilidades para fins nefastos.
+iron_minotaur_bestiary:Forjados de ferro encantado, esses construtos temíveis possuem a força e ferocidade de um minotauro combinadas com a resistência do metal.
+cerberus_ptolemaios_bestiary:Esta besta monstruosa de três cabeças, um híbrido de magia antiga e tecnologia avançada, guarda a entrada de uma instalação secreta.
+mountain_griffon_bestiary:Uma mistura majestosa de leão e águia, o grifo da montanha é conhecido por sua presença régia e ocasionais momentos de indecisão sobre rugir ou gritar.
+mountain_harpy_bestiary:Estas criaturas briguentas, meio-humanas, meio-pássaro, são conhecidas por seus belos e ao mesmo tempo inquietantes cantos, que podem fazer qualquer aventureiro repensar sua escolha de carreira.
+mountain_hornet_bestiary:Estes insetos voadores gigantes são notórios por seu péssimo temperamento e ferrões ainda piores. São conhecidos por acabar com o clima de qualquer piquenique na montanha.
+mountain_nanjo_bestiary:Os Nanjos da montanha são criaturas misteriosas, raramente vistas, que inspiram lendas e contos incríveis entre os locais. Alguns dizem que eles são apenas muito bons em esconde-esconde.
+mountain_bunny_bestiary:Não se deixe enganar pela aparência adorável; coelhos da montanha são criaturas temíveis e engenhosas, conhecidas por derrubar seus inimigos com chutes bem direcionados e uma fofura inesperada.
+sea_shark_bestiary:Se você acha que sua banheira é um refúgio seguro, pense novamente; esses tubarões evoluíram para desfrutar de banhos de espuma.
+sea_spheria_bestiary:Apesar de sua aparência esférica, essas criaturas não são adequadas para jogos de vôlei de praia.
+sea_tortoad_bestiary:Parte sapo, parte tartaruga e completamente desinteressado em se mover mais rápido do que um rastejo lento.
+sea_turtle_bestiary:Estas tartarugas se tornaram mestres navegadores, muitas vezes superando navegadores em precisão – e ocasionalmente em velocidade.
+sea_shelltacke_bestiary:Conhecido por sua capacidade de aguentar golpes, essa criatura frequentemente trabalha como segurança de celebridades subaquáticas.
+sea_octi_bestiary:Não é a quantidade de tentáculos que importa, mas como você os utiliza.
+sea_octopus_bestiary:Tentaculamente talentoso em camuflagem e caligrafia subaquática.
+sea_fatoad_bestiary:Quando se trata de Fatoads do mar, há mais para amar e mais para temer.
+sea_crab_bestiary:Prova viva de que pensar lateralmente pode te levar a lugares.
+sea_blue_dragon_bestiary:Mistura-se perfeitamente com o oceano, mas realmente se destaca em uma competição de dança.
+turtle_golem_bestiary:Devagar e sempre ganha a corrida, mas uma carapaça sólida como uma rocha ajuda também.
+beach_pelican_bestiary:Mestre dos céus e notório ladrão de sanduíches.
+sea_abismos_bestiary:Escondido nas profundezas mais escuras, é o material dos pesadelos.
+star_shell_bestiary:Beleza celestial por fora, resistente como aço por dentro.
+sea_star_trio_bestiary:Três vezes o charme, e três vezes o problema.
+arcane_slime_bestiary:A magia gelatinosa exsuda desta criatura imprevisível.
+brigand_bestiary:Foras-da-lei da terra, eles roubam seu ouro e seu coração.
+undead_longshot_bestiary:Espíritos inquietos com uma pontaria infalível, mesmo na vida após a morte.
+undead_axe_bestiary:Guerreiros imortais com uma pegada esmagadora em sua arma de escolha.
+undead_blade_bestiary:Espadachins eternos, sua habilidade e tenacidade transcendem a própria morte.
+plant_exotic_flyer_bestiary:Planando pelo ar, estas vibrantes flora trazem uma beleza mortal aos céus.
+blood_orc_slaughterer_bestiary:Implacáveis em sua sede de sangue, esses orcs deixam apenas carnificina em seu rastro.
+blood_orc_ravager_bestiary:Com uma inclinação para a destruição, esses orcs destroem tudo em seu caminho.
+blood_orc_impaler_bestiary:Habilidosos na arte do empalamento, esses orcs garantem que seus inimigos tenham uma morte lenta e agonizante.
+orc_war_drummer_bestiary:O bater de seus tambores inspira medo e fúria nos corações dos seus camaradas.
+knight_rose_bestiary:Cavalheirescos e elegantes, esses cavaleiros florais lutam com a graça e beleza de uma rosa em flor.
+rat_gourmet_bestiary:Estes roedores refinados desenvolveram um paladar sofisticado e uma predileção por jantar requintado.
+fork_rat_bestiary:Armados com garfos improvisados, esses ratos estão prontos para defender seu território e reivindicar sua próxima refeição.
+informed_rat_bestiary:Com um ouvido atento para informações, esses ratos correm pelas sombras, reunindo segredos e conhecimentos.
+black_roc_bestiary:Majestoso e poderoso, o Black Roc projeta uma sombra formidável enquanto voa pelos céus.
+bee_bestiary:Esses pequenos insetos zumbidores são essenciais para a polinização e podem dar uma picada dolorosa se ameaçados.
+sand_caterpillar_bestiary:Adaptadas a ambientes áridos, essas lagartas escavam a areia e se alimentam de vegetação escassa.
+caterpillar_bestiary:As lagartas são devoradoras vorazes e consomem folhas e folhagens antes de se transformarem em borboletas ou mariposas.
+eyehopper_bestiary:Essas criaturas peculiares possuem um único e grande olho e usam suas poderosas pernas para dar grandes saltos.
+death_worm_bestiary:Vermes da Morte são temidos por sua mordida venenosa e sua habilidade de se mover despercebidos sob o solo.
+lion_roach_bestiary:Esses grandes e formidáveis insetos têm a astúcia e ferocidade de um leão combinadas com a resistência de uma barata.
+flame_monkey_bestiary:Esses primatas travessos adaptaram-se a ambientes vulcânicos e empunham um poder flamejante em suas caudas.
+feathered_snake_bestiary:Esta criatura serpentina é adornada com penas vibrantes, combinando a elegância de um pássaro com a furtividade de uma cobra.
+horn_willow_bestiary:Uma planta rara e mágica, o Chorão Chifrudo tem um mecanismo de defesa único – protuberâncias afiadas, semelhantes a chifres, que afastam predadores.
+frost_gorilla_bestiary:Habitando regiões gélidas, esses macacos maciços e poderosos desenvolveram um domínio aguçado sobre o gelo e o frio.
+electroctopus_bestiary:Esses cefalópodes altamente inteligentes evoluíram para gerar e controlar eletricidade, tornando-os predadores formidáveis.
+silver_avian_bestiary:Essas aves majestosas são conhecidas por suas penas prateadas cintilantes e incrível velocidade, tornando-as uma visão deslumbrante nos céus.
+spike_hopper_bestiary:Esses insetos ágeis possuem um exoesqueleto espinhoso e têm uma habilidade incrível de saltar grandes distâncias em um único salto.
+spiked_caterpillar_bestiary:Essas lagartas perigosas são cobertas de espinhos venenosos afiados que servem como uma defesa eficaz contra predadores.
+toucan_panther_bestiary:Uma criatura híbrida rara, a Pantera Tucano exibe a plumagem vibrante de um tucano e a furtividade e agilidade de uma pantera.
+rocktail_demolisher_bestiary:Essas enormes bestas reptilianas são conhecidas por suas caudas poderosas, que usam para demolir quaisquer obstáculos em seu caminho.
+roaming_salamander_bestiary:A Salamandra Errante é conhecida por sua habilidade impressionante de mudar a decoração de sua sala de estar à vontade, apenas para confundir predadores.
+void_gargoyle_bestiary:O Gárgula do Vazio passa a maior parte do tempo questionando se é um gárgula preso no vazio ou um vazio preso em um gárgula.
+white_minotaur_bestiary:O Minotauro Branco gosta de longos passeios na praia e, surpreendentemente, é um excelente chef vegano.
+avian_elephant_bestiary:O Elefante Aviário é o resultado de uma tentativa fracassada de cientista louco de criar um elefante voador, resultando em uma criatura que só é muito boa em bater as orelhas.
+black_lance_knight_bestiary:O Cavaleiro da Lança Negra passa seu tempo livre aperfeiçoando suas habilidades de justas e se perguntando por que seu cavalo nunca parece ficar mais rápido.
+minivolcano_bestiary:O Minivulcão é uma pequena criatura vulcânica móvel que expele cinzas e pequenos jorros de lava. É conhecido por causar pequenas perturbações e incendiar pequenos focos onde quer que vá.
+fire_salamander_bestiary:A Salamandra de Fogo é um anfíbio feroz com a capacidade de resistir e gerar calor, tornando-o um oponente formidável em ambientes vulcânicos.
+fire_dragonspawn_bestiary:Filhotes de Dragão de Fogo são descendentes de dragões poderosos. Embora não sejam tão formidáveis quanto seus pais, possuem uma afinidade inata com a magia do fogo e podem soltar pequenos jorros de chama.
+lava_spawn_bestiary:O Lava Spawn é uma criatura feita inteiramente de rocha derretida. Pode suportar calor extremo e utiliza seu corpo semelhante a lava para queimar inimigos e incendiar a área ao redor.
+fire_ogre_bestiary:O Fire Ogre é uma criatura enorme e poderosa com um temperamento inflamado. Sua força só é igualada por seu amor pela destruição e afinidade pela magia do fogo.
+bug_originator_bestiary:O Bug Originator é uma criatura única que tem a capacidade de gerar e controlar várias espécies de insetos. Frequentemente encontrado em florestas densas ou cavernas escuras, usa sua conexão inata com insetos para sobrecarregar seus inimigos e defender seu território.
+ice_kindred_glacier_bestiary:Uma criatura majestosa de gelo e neve, o ice kindred glacier é uma força da natureza que incorpora a selva congelada. Seu tamanho enorme e força glacial fazem dele um adversário formidável, enquanto seu sopro gelado pode congelar inimigos instantaneamente.
+mountain_greathorn_goat_bestiary:Sobe penhascos tão facilmente quanto cabeceia aspirantes a alpinistas.
+plant_snail_bestiary:Embora pareça inocente, secretamente está julgando seu jardim.
+toxic_spreader_bestiary:Se suas cores vibrantes não avisarem sobre sua toxicidade, você saberá em breve.
+cape_sundew_bestiary:Uma planta tão carismática que até os insetos não resistem a dar um "high-five".
+beach_spore_bestiary:O maior intruso da praia—não convidado e sempre deixa uma bagunça.
+seagull_bestiary:A verdadeira razão pela qual você nunca deve comer seu sanduíche na praia.
+sea_lurker_bestiary:Este mestre do esconde-esconde espreita sob as ondas, só emergindo para aparecer em suas selfies de praia.
+sea_jellyfish_bestiary:É surpreendente o quanto esses seres marinhos gelatinosos podem causar problemas com suas personalidades eletrizantes.
+sea_horse_bestiary:Este pequeno cavaleiro do mar é provavelmente o único cavalo que você não deve tentar montar.
+sea_lickitoad_bestiary:Um anfíbio escorregadio que sempre parece saber as fofocas mais suculentas das profundezas do oceano.
+stone_knight_zeta_bestiary:Zeta é a última letra do alfabeto grego, mas este cavaleiro está longe de ser o último em combate.
+stone_knight_beta_bestiary:Não é exatamente o alfa, mas não subestime a capacidade deste guerreiro de pedra de sacudir o seu mundo.
+tree_magical_bestiary:Finalmente, uma árvore que aprendeu a lançar feitiços em vez de apenas proporcionar sombra.
+melee_tree_bestiary:Ramificando-se de suas raízes estacionárias, esta árvore adotou o combate corpo a corpo para abalar seus inimigos.
+tree_skirmisher_bestiary:Rápida em suas raízes, esta árvore tem talento para a guerra de guerrilha e para se misturar novamente na floresta.
+arcane_tree_bestiary:Uma árvore imbuída de energias mágicas, canalizando o antigo poder arcano para proteger seu domínio.
+twin_snow_golem_bestiary:Um par de golems gelados, inseparáveis e unidos em sua gélida fúria.
+fire_bull_bestiary:Um touro furioso com um temperamento ardente, seu hálito escaldante e cascos flamejantes podem reduzir inimigos a cinzas.
+desert_scorpion_bestiary:Este aracnídeo venenoso prospera nas areias escaldantes, perseguindo sua presa com precisão implacável.
+corrupted_void_fire_wolf_bestiary:Uma criatura outrora nobre retorcida por energias sombrias, sua fúria ardente é igualada apenas pelo frio abraço do vazio.
+darkness_raptor_bestiary:Um predador temível que persegue sua presa nas sombras, o Raptor das Trevas se mistura perfeitamente com a noite.
+flame_raptor_bestiary:Um raptor envolvido em chamas, ele caça sua presa rapidamente, deixando um rastro de terra queimada em seu rastro.
+cold_raptor_bestiary:Adaptado a ambientes gélidos, o Raptor Frio congela seus inimigos com seu sopro gelado e afiadas garras de gelo.
+chilling_wolf_spirit_bestiary:Um lobo espectral nascido das profundezas mais geladas do reino espiritual, seus uivos assombrosos anunciam uma condenação gelada.
+fallen_dragon_knight_bestiary:Um cavaleiro outrora orgulhoso corrompido pela escuridão, agora obrigado a servir os próprios dragões que antes combatiam.
+fallen_winged_sword_bestiary:Uma lâmina outrora nobre corrompida por forças sombrias, a Espada Alada Caída agora busca trazer destruição a tudo em seu caminho.
+fallen_great_sword_bestiary:Uma arma imensa e poderosa, a Grande Espada Caída foi retorcida pela escuridão e agora semeia caos onde quer que golpeie.
+fire_toad_bestiary:Um anfíbio ardente que habita regiões vulcânicas, o Sapo de Fogo tem um temperamento explosivo igualado apenas por suas habilidades explosivas.
+fire_sabretooth_bestiary:Um predador pré-histórico imbuído do poder do fogo, o Dente-de-Sabre de Fogo é um caçador feroz e formidável.
+ice_glacier_spawn_bestiary:Nascido do coração de uma geleira congelada, o Filho da Geleira de Gelo é uma criatura gélida que congela todos que se aproximam muito.
+knight_spear_elite_bestiary:Um membro altamente habilidoso e bem-treinado da ordem dos cavaleiros, o Cavaleiro de Lança de Elite maneja sua arma com precisão e força letal.
+knight_sword_elite_bestiary:Um especialista em combate de espada, o Cavaleiro de Espada de Elite é um oponente formidável, servindo como um modelo de virtude e força cavalheiresca.
+knights_spear_common_bestiary:Embora menos experientes que seus equivalentes de elite, os Cavaleiros de Lança Comuns ainda são guerreiros capazes e dedicados por direito próprio.
+knights_sword_common_bestiary:Embora não sejam tão habilidosos quanto os elite, os Cavaleiros de Espada Comuns estão, no entanto, comprometidos em defender seu povo com suas lâminas de confiança.
+masked_demon_giant_bestiary:Envolto em mistério e escuridão, o Gigante Demônio Mascarado é um ser enorme e malévolo que provoca medo nos corações de seus inimigos.
+crocoknight_bestiary:Parte crocodilo e parte cavaleiro, o Crocoknight é um oponente imponente e implacável, combinando a força e ferocidade de um crocodilo com a destreza marcial de um guerreiro habilidoso.
+razortail_eagle_bestiary:Com uma cauda tão afiada quanto uma navalha, a Águia Caudarrocha é um formidável predador aéreo que mergulha sobre sua presa de grandes alturas, infligindo danos devastadores.
+bull_dragon_bestiary:Uma temível criatura híbrida, o Dragão Touro combina o poder bruto de um touro com a ferocidade e as habilidades míticas de um dragão, tornando-se um oponente formidável.
+rabbit_knight_bestiary:Ágil e corajoso, o Coelho Cavaleiro é um guerreiro habilidoso que desafia as expectativas. Embora pequeno, é rápido e mortal com uma espada.
+rabbit_bandit_bestiary:Rápido e astuto, o Coelho Bandido usa sua velocidade e agilidade excepcionais para roubar vítimas desavisadas antes de desaparecer nas sombras.
+sea_fish_bestiary:Uma criatura aquática simples, o Peixe do Mar é uma visão comum em oceanos e rios, frequentemente viajando em cardumes e servindo de alimento para predadores maiores.
+skull_fish_bestiary:Uma criatura aquática ameaçadora, o Peixe Caveira possui uma cabeça em forma de caveira e dentes afiados, tornando-se um inimigo perigoso para quem se aproxima demais.
+skeleton_mage_mabon_bestiary:O Mago Esqueleto Mabon é um feiticeiro morto-vivo que maneja magia negra. Seus feitiços poderosos e sua forma esquelética fazem dele um adversário formidável.
+crocopaladin_bestiary:Parte crocodilo e parte paladino, o Crocopaladino é um guerreiro justo e poderoso que usa magia divina para derrotar seus inimigos e proteger seus aliados.
+crocorogue_bestiary:Um híbrido furtivo e astuto, o Crocorogue combina os atributos físicos de um crocodilo com as habilidades enganosas e elusivas de um ladino.
+crocomage_bestiary:Uma criatura híbrida que combina as características de um crocodilo com as habilidades arcanas de um mago, o Crocomago usa feitiços poderosos para enganar e superar seus inimigos.
+ignited_bat_bestiary:Uma espécie de morcego infundida com fogo que habita regiões vulcânicas, o Morcego Incendiado tem a capacidade de manipular fogo e lançar ataques flamejantes sobre seus inimigos.
+lava_worm_bestiary:Residindo nas profundezas de áreas vulcânicas, o Verme de Lava é uma criatura massiva que se alimenta de rocha derretida e pode causar erupções devastadoras quando perturbado.
+fire_pumice_rock_bestiary:Esta criatura elemental única é composta de fogo e pedra-pomes. A Rocha de Pumice de Fogo pode lançar projéteis flamejantes e suportar calor intenso.
+fire_pumice_sheep_bestiary:Um híbrido bizarro de ovelha e pumice de fogo, a Ovelha de Pumice de Fogo é uma criatura perigosa capaz de criar chamas abrasadoras que podem queimar qualquer coisa em seu caminho.
+volcanic_golem_bestiary:Forjado de rocha derretida, o Gólem Vulcânico é um inimigo formidável com a capacidade de suportar calor extremo e lançar ataques devastadores de lava.
+living_armor_bestiary:Uma armadura assombrada, a Armadura Viva move-se e luta por conta própria. Seu metal encantado oferece durabilidade e força excepcionais.
+two_headed_turtle_bestiary:Esta rara tartaruga de duas cabeças é altamente agressiva e conhecida por sua mordida poderosa e defesas fortes.
+ice_cave_bat_bestiary:Uma espécie de morcego adaptado a ambientes gelados, o Morcego de Caverna de Gelo usa ataques baseados em gelo para congelar seus inimigos e proteger seu território.
+ice_lion_bestiary:Um predador de topo em regiões geladas, o Leão de Gelo possui um poderoso hálito de gelo e incrível velocidade, tornando-o um oponente temível.
+snowball_bestiary:Uma criatura brincalhona, mas perigosa, a Bola de Neve pode crescer em tamanho à medida que rola, tornando-se um adversário formidável com seu toque congelante e ataques de gelo.
+yeti_wisp_bestiary:Um espírito misterioso e evasivo, acredita-se que o Yeti Wisp guia viajantes perdidos nas montanhas nevadas enquanto possui poderes gélidos.
+rabbit_stealth_archer_bestiary:Esses coelhos astutos são mestres da furtividade e da arqueria, usando sua agilidade e velocidade para superar inimigos enquanto atacam de longe.
+toxic_frog_bestiary:Um pequeno anfíbio com um veneno potente, o Sapo Tóxico pode incapacitar inimigos com um único toque ou lançando projéteis venenosos.
+toxic_horned_frog_bestiary:Um primo agressivo do Sapo Tóxico, o Sapo Chifrudo Tóxico possui um chifre mortal e veneno mais forte, tornando-o um adversário mais perigoso.
+toxic_white_frog_bestiary:Uma variante rara e altamente perigosa do Sapo Tóxico, o Sapo Branco Tóxico possui veneno muito mais potente e sua pele o camufla em ambientes nevados.
+razor_tail_frog_bestiary:Um anfíbio agressivo com uma cauda afiada como navalha, o Sapo Cauda de Navalha a usa como uma arma letal para cortar e empalar seus inimigos.
+unifrog_bestiary:Um sapo mágico e único, o Unifrog diz-se ter um único chifre na testa, concedendo-lhe poderes misteriosos e tornando-o altamente cobiçado.
+toxic_root_mutation_bestiary:Uma planta corrompida, a Mutação de Raiz Tóxica libera gás venenoso e possui tentáculos mutados capazes de estrangular e envenenar suas presas.
+toxic_root_bestiary:Uma planta perigosa com espinhos venenosos, a Raiz Tóxica pode atacar e prender viajantes desavisados, injetando neles seu veneno mortal.
+undead_claw_knight_bestiary:Um guerreiro reanimado, o Cavaleiro das Garras Morto-vivo empunha manoplas com garras mortais e infunde medo nos corações de seus inimigos com seus ataques implacáveis.
+undead_eastern_archer_bestiary:Um arqueiro caído do leste, o Arqueiro Oriental Morto-vivo continua a assombrar campos de batalha, disparando flechas em inimigos desavisados.
+undead_eastern_marauder_bestiary:Um saqueador reanimado, o Saqueador Oriental Morto-vivo percorre a terra, buscando pilhar e destruir tudo em seu caminho.
+undead_eastern_plunderer_bestiary:Uma vez um saqueador temido, o Saqueador Oriental Morto-vivo agora serve como uma ameaça morta-viva, espalhando caos e destruição.
+voidoll_erabos_bestiary:Uma criatura sinistra em forma de boneca do vazio, Voidoll Erabos usa sua aparência perturbadora e poderes sombrios para atormentar suas vítimas.
+voidoll_erebia_bestiary:Outra criatura perturbadora do vazio, Voidoll Erebia manipula sombras e escuridão para subjugar suas presas e espalhar terror.
+voidoll_erebus_bestiary:Voidoll Erebus, uma criatura de pesadelo do vazio, usa seu domínio sobre a escuridão e ilusões para atormentar e confundir aqueles que encontra.
+shark_bow_bestiary:Um predador raro e mortal, o Arco Tubarão combina a agilidade de um tubarão com a precisão letal de um arqueiro habilidoso.
+dagger_shark_bestiary:Uma ameaça feroz subaquática, o Tubarão Adaga usa suas barbatanas afiadas como lâminas para cortar tudo em seu caminho.
+great_shark_bestiary:Um predador enorme e poderoso, o Grande Tubarão é temido em todos os mares por seu apetite insaciável e natureza feroz.
+wind_snake_bestiary:Ágil e evasiva, a Cobra do Vento desliza pelo ar com facilidade, usando seu controle sobre as correntes de ar para atacar e evadir.
+wind_avian_bestiary:Com asas poderosas e domínio do vento, o Wind Avian é um oponente formidável capaz de lançar ataques aéreos devastadores.
+wind_bunny_bestiary:Não se deixe enganar pela sua aparência fofa; o Wind Bunny pode manipular correntes de ar para criar redemoinhos e superar seus inimigos.
+feathered_golem_bestiary:Uma fusão de ar elemental e forma sólida, o Golem de Penas usa seu exterior plumado para gerar redemoinhos e se proteger de ataques.
+feathered_razor_bestiary:Com penas afiadas como lâminas e agilidade incrível, o Feathered Razor é um adversário perigoso que pode cortar inimigos com facilidade.
+wind_harpy_bestiary:A Harpia do Vento é uma predadora ágil e impiedosa, usando suas garras afiadas e domínio do ar para derrubar inimigos de cima.
+wind_lion_bestiary:Gracioso e poderoso, o Leão do Vento é uma força a ser reconhecida. Seu domínio do ar permite que salte distâncias incríveis e convoque rajadas de vento.
+wind_mantis_bestiary:A Mantis do Vento usa sua estrutura esguia e asas poderosas para atravessar o ar, atacando inimigos com golpes rápidos e cortantes.
+wind_spawn_bestiary:Uma manifestação elemental do ar, o Spawn do Vento pode manipular rajadas poderosas para atacar inimigos e evadir ataques rapidamente.
+wooden_doll_warrior_bestiary:Apesar de sua aparência modesta, o Guerreiro Boneco de Madeira é um oponente temível, capaz de manejar uma variedade de armas com precisão mortal.
+wooden_doll_ranger_bestiary:O Ranger Boneco de Madeira é um arqueiro habilidoso, capaz de atingir alvos à distância com grande precisão e furtividade.
+wooden_doll_berserk_bestiary:Com um estilo de luta frenético, o Berserk Boneco de Madeira pode sobrepujar oponentes com sua barragem implacável de golpes poderosos.
+spirit_boar_bestiary:O Javali Espiritual é uma criatura sobrenatural, impregnado com a essência da natureza. Ele pode usar seu poder para investir contra inimigos com força imensa.
+spirit_wolf_bestiary:Etereo e astuto, o Lobo Espiritual é um guardião da selva, usando seus sentidos aprimorados e agilidade para caçar inimigos.
+spirit_baboon_bestiary:Brincalhão, mas perigoso, o Babuíno Espiritual usa sua agilidade e força para superar inimigos e desferir golpes poderosos.
+spirit_ape_bestiary:O Macaco Espiritual é um ser poderoso e inteligente, usando sua grande força e agilidade para dominar inimigos e proteger seu território.
+spirit_owl_bestiary:Sábia e silenciosa, a Coruja Espiritual é uma mestre do disfarce, usando seus sentidos aguçados e voo silencioso para emboscar inimigos de cima.
+spirit_panda_bestiary:Gentil, mas formidável, o Panda Espiritual é um guardião do equilíbrio, usando sua imensa força e resistência para manter a harmonia.
+spirit_tiger_bestiary:Incorporando a essência da ferocidade, o Tigre Espiritual é um predador feroz que caça inimigos com sua velocidade incrível e garras poderosas.
+spirit_fox_bestiary:Elusiva e inteligente, a Raposa Espiritual é uma mestre da enganação, usando sua astúcia e agilidade para superar inimigos e evitar a captura.
+spirit_primate_bestiary:O Primata Espiritual é uma criatura altamente inteligente e habilidosa, combinando força, agilidade e astúcia para superar seus inimigos.
+shadow_invocation_knight_bestiary:O Shadow Invocation Knight é um guerreiro sombrio, que utiliza o poder das sombras para causar medo e sobrepujar inimigos.
+sea_piranos_bestiary:Sea Piranos é um temido predador aquático, combinando a ferocidade de um tubarão com a astúcia de um pirata.
+giant_grizzly_bestiary:Giant Grizzly é um urso imenso e poderoso, capaz de esmagar adversários com suas patas enormes e força incrível.
+darkness_behemoth_bestiary:O Darkness Behemoth é uma besta colossal e sombria que usa seu tamanho e poder imensos para devastar todos que se opõem.
+darkness_imp_bestiary:Darkness Imps são pequenas criaturas travessas que usam seus poderes sombrios para causar caos e confusão entre seus inimigos.
+earth_bull_bestiary:O Earth Bull é uma criatura poderosa com pele semelhante a rocha e força incomparável, capaz de tremer o chão com sua investida.
+acid_elemental_bestiary:Acid Elementals são criaturas corrosivas que podem dissolver seus inimigos com ataques altamente ácidos.
+slime_earthi_bestiary:Slime Earthi é um lodo lamacento baseado em terra que pode absorver e neutralizar ataques físicos com seu corpo maleável.
+colossal_mummy_bestiary:A Colossal Mummy é uma criatura imensa e antiga, seu poder mágico sombrio e tamanho impressionante a tornam um oponente formidável.
+metal_golem_bestiary:Metal Golems são construtos robustos e quase indestrutíveis feitos de vários metais, capazes de suportar danos imensos.
+snow_golem_bestiary:Um enigmático construto gelado, o Snow Golem exala uma presença gelada e se defende com poderes gélidos, dominando paisagens invernais.
+sorceress_bestiary:Uma feiticeira que se voltou contra seu grupo durante uma aventura. Não é a melhor lembrança!
+shimmering_dragon_bestiary:Com escamas brancas radiantes que brilham à luz, este dragão exala uma aura mística, habitando santuários nas altas montanhas.
+night_blade_assassin_bestiary:O Night Blade Assassin é uma criatura sombria e ágil, habilidosa em furtividade e armada com lâminas mortais, espreitando na escuridão para realizar suas missões sinistras e clandestinas.
+night_blade_commander_bestiary:O Night Blade Commander, um líder temido entre os Night Blade Assassins, possui destreza de combate inigualável e genialidade tática, exercendo autoridade nas sombras.
+shadow_beast_bestiary:O Shadow Beast é uma criatura misteriosa, com semelhança assustadora a goblins, que habita os cantos mais escuros, perambulando e assombrando com propósito inescrutável.
+fiery_cultist_bestiary:Vestidos em chamas, manejam o fogo com fervor zeloso, seus cânticos inflamando infernos.
+cultist_caller_bestiary:Habitantes das sombras que invocam seres estranhos, seus cânticos assustadores manipulam a realidade.
+novice_cultist_bestiary:Inexperientes nas artes sombrias, exploram tentativamente poderes proibidos, ansiosos por aprender.
+brigand_skirmisher_bestiary:Brigand Skirmishers são lutadores ágeis e impiedosos, habilidosos em ataques rápidos e na retirada antes que seus inimigos possam retaliar.
+brigand_watcher_bestiary:Os Vigias Brigand são os olhos de seu bando, habilidosos em detectar ameaças à distância e avisar seus camaradas do perigo iminente.
+city_watch_ward_bestiary:O Guarda da Cidade patrulha as ruas, sempre vigilante, mantendo a ordem e a paz nos movimentados bairros da cidade.
+city_watch_commander_bestiary:Um Comandante da Guarda da Cidade lidera com autoridade e estratégia, supervisionando a segurança e a aplicação da lei de toda a cidade.
+city_watch_gate_keeper_bestiary:O Guardião dos Portões da Cidade é a primeira linha de defesa da cidade, escrutinando todos os que procuram entrada com um olhar aguçado.
+haunting_ghost_bestiary:Inquietos e esquecidos, eles vagam pelos reinos entre a vida e a morte, movidos por angústias não resolvidas e uma sede de paz final.
+bell_pepper_lizard_bestiary:Uma criatura rara e elusiva com escamas que lembram vibrantes pimentões, sua presença é dita trazer os sabores mais requintados a qualquer prato. Muitos a procuram, mas poucos conseguem capturar o rastro apimentado que deixa para trás.
+darkness_crawler_azrkoth_bestiary:Uma fusão grotesca de homem e aranha, Azr’koth vaga pela sombria Floresta do Crepúsculo. Sabe-se que tanto guia aventureiros perdidos para a segurança quanto os enreda em suas teias para um cruel banquete. Sua natureza imprevisível o torna temido e procurado por aqueles corajosos—ou tolos—o suficiente para entrar em seu domínio.
+book_mimic_bestiary:Um predador enganador posando como um livro, pronto para se fechar sobre qualquer um que o abra.
+loyal_wolf_bestiary:Um dia um nobre companheiro, o Lobo Leal seguiu seu mestre até o coração de um antigo mal. Agora, seus olhos outrora brilhantes tremeluzem com sombras, eternamente ligados a um mestre corrompido.
+consumed_hero_bestiary:Um herói que sacrificou sua alma para salvar seu companheiro lobo, o Herói Consumido agora vagueia como um reflexo distorcido de seu antigo eu. Seu coração nobre corrompido, ele serve à própria escuridão que uma vez procurou destruir.
+dark_elf_healer_bestiary:Um curandeiro habilidoso com intenções obscuras.
+nightmare_stalker_bestiary:Uma monstruosidade nascida no mundo físico por um pesadelo.
+headless_horseman_bestiary:Um cavaleiro sinistro vagando pela noite. Vê-lo é considerado um mau presságio.
+shadow_creature_bestiary:Uma criatura sombria de profundezas desconhecidas.
+infernal_spirit_bestiary:Um espírito forjado em chamas, sussurra promessas de poder—se apenas você puder suportar o calor.
+bloodstone_minotaur_bestiary:Cada cicatriz gravada em sua pele é um conto de batalha; seus chifres adornados com pedras de sangue e sua fúria é inflexível.
+sacred_vale_guardian_bestiary:Este guardião solene incorpora o poder antigo do vale, sua presença é suficiente para acalmar ou devastar.
+vale_drake_bestiary:Forjado no calor infernal de Embervale, este draco percorre rochas derretidas e cinzas, com escamas que se mesclam perfeitamente ao seu ardente entorno.
+infernal_duelist_bestiary:Armado com lâminas ardentes, dança pelo combate como se tivesse nascido para a batalha, deixando terra chamuscada em seu rastro.
+blazing_spider_bestiary:Sua teia é tecida de brasas e cinzas; cuidado, pois um passo muito próximo e você sentirá suas presas ardentes.
+flaming_slime_bestiary:Mais do que apenas uma massa de ameaça derretida, deixa rastros de chamas em seu caminho, um perigo mesmo depois de ter partido.
+volcanic_maiden_bestiary:Envolta em rocha derretida e lava, ela se ergue como um vulcão, sua fúria capaz de transformar pedra em cinzas.
+gemstone_fire_dragon_bestiary:Uma visão rara, as escamas deste dragão brilham como joias, irradiando calor que derrete todos que ousam se aproximar.
+lady_of_the_vale_bestiary:Diferente de sua irmã serena, a Dama da Passagem, ela é tão feroz quanto as terras vulcânicas que governa. Seu espírito incendiário a torna tanto cativante quanto perigosa, incorporando a ira indomada de Embervale.
+ignithor_the_charred_sovereign_bestiary:Outrora um deus guardião, Ignithor sucumbiu às chamas de Embervale, tornando-se um soberano derretido de fúria. Sua ira estremece a terra, e toda criatura infernal se curva diante de seu domínio abrasador.
+blightflame_first_of_dragons_bestiary:Em tempos, o pai dos dragões, Blightflame é agora um servo esquelético do Soberano da Chama. Seu nome original, como seu poder anterior, está perdido no tempo.
+spiky_turtle_bestiary:Uma fortaleza viva revestida por uma carapaça espinhosa, a Tartaruga Espinhosa é lenta, mas quase indestrutível. Poucos predadores ousam desafiar sua paciência, pois quando ataca, o faz com força esmagadora.
+lich_bestiary:Um poderoso mago das trevas que transcendeu os limites da mortalidade e manipula os poderes da vida e da morte, colhendo almas para alimentar seu temido reinado.
+corrupted_rat_bestiary:Torcido por forças sombrias, este rato é mais do que um carroceiro—é um arauto da decadência. Seus olhos brilhantes e forma em decomposição são avisos para todos que cruzam seu caminho.
+rudolph_bestiary:-
+big_sack_goblin_bestiary:-
+angry_snowman_bestiary:-
+nailguns_bestiary:Um mímico que finge ser Pneumáticas.

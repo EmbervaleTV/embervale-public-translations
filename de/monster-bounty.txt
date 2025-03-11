@@ -1,0 +1,362 @@
+abnormous_tick_bounty:Ein übergroßer Parasit, der mehr als nur ein wenig Blut saugen wird
+berserker_dwarf_bounty:Ein traditioneller Krieger des Zwergenvolks
+blue_dragonfly_bounty:Raubtier von Teichen und Flüssen
+carnivorous_plant_bounty:Der Wald schlägt zurück
+competitive_dodo_bounty:Territorialer Vogel
+frost_sickle_mantis_bounty:Ein Insekt, das die Kraft des Eises nutzt
+frost_wing_bounty:Ein Schmetterling aus Eis
+giant_rat_bounty:Überwucherte Ungeziefer
+giant_roach_bounty:Angeblich unmöglich zu töten
+goblin_grunt_bounty:Klein, grün, hinterlistig
+goblin_ranger_bounty:Bogenschütze des Stammes
+green_dragonfly_bounty:Raubtier der Ebene und des Waldes
+hell_mantis_bounty:Zorn hat diese Gottesanbeterin rot gefärbt
+monstrous_scarab_bounty:Symbol eines Sonnengottes
+mountain_warden_bounty:Griesgrämiger Beschützer steiler Klippen
+poison_tongue_bounty:Keine echte Zunge
+sickle_mantis_bounty:Insekt von erstaunlicher Schnelligkeit
+slime_scout_bounty:Harte Schale, weicher Kern
+toxic_carnivorous_plant_bounty:Gestärkt durch verseuchten Boden
+green_wyvern_bounty:Jäger des Himmels
+waterstrider_bounty:Ein Insekt, das ruhige Teiche überquert
+deepwater_crab_warrior_bounty:Rote Schalen wie Rüstungen, Scheren wie Klingen
+deepwater_lurker_bounty:Zwischen Korallen, Algen und aufgewühltem Schlamm ist die Sicht eingeschränkt
+deepwater_urchin_bounty:Ein stacheliger Ball, der an Meerespflanzen knabbert
+desert_rock_lizard_bounty:Zwischen trockenem Sand und Stein kann erstaunlich viel Leben gedeihen
+dusk_root_bounty:Ein Rascheln der Blätter zwischen den Bäumen
+forgotten_goblin_bounty:Ein Schatten in der Dunkelheit, klammert sich an eine vergessene Existenz
+forgotten_slime_bounty:Eine Gestalt in der Dunkelheit, klammert sich an eine vergessene Existenz
+lost_fairy_bounty:Eine Bedrohung aus dem Feenreich
+scavenging_mandrake_bounty:Pflanze unheimlich menschenähnlich
+skeleton_hare_bounty:Späher der untoten Legion
+rain_wing_bounty:Ein ungewöhnlicher Schmetterling, der selbst bei Starkregen gedeiht
+tulip_wing_bounty:Sein farbenfrohes Aussehen tarnt es fast perfekt in blühenden Feldern
+inferno_wing_bounty:Jeder Flügel ein einziger Funke, ein Schwarm gleich einem lodernden Inferno
+fire_snake_bounty:Hüte dich vor zischenden Geräuschen in vulkanischen Umgebungen
+lunar_wing_bounty:Tanzend über Wiesen in mondhellen Nächten
+fur_wing_bounty:Ein nächtlicher Jäger, der auf mottenähnlichen Flügeln gleitet
+colossal_red_snake_bounty:Zischen und leuchtende Schuppen warnen vor den Fängen dieser übergroßen Schlange
+colossal_purple_snake_bounty:Eine Varianten-Schlange, die in gefährlichen Umgebungen lebt
+colossal_black_snake_bounty:Eine Varianten-Schlange, die in dunklen Höhlen und Zwielichtgebieten jagt
+gnoll_archer_bounty:Ein Jäger der Ebenenstämme
+gnoll_vanguard_bounty:Ein Krieger der Ebenenstämme
+gnoll_swordsman_bounty:Ein erfahrener Krieger der Ebenenstämme
+goblin_reaper_bounty:Psychopomp des Stammes
+goblin_rider_bounty:Reiter, der seinem Hauptmann in die Schlacht folgt
+goblin_sorcerer_bounty:Bestienmeister des Stammes
+flying_leech_bounty:Überfällt warmblütige Kreaturen in Sümpfen und Teichen.
+behemoth_bounty:Jäger von Großwildjägern
+ice_snake_bounty:Hüte dich vor Zischgeräuschen in tundrischen Gebieten
+gnoll_shaman_bounty:Schamane der Ebenenstämme
+undead_gnoll_bounty:Gefallener Krieger des Ebenenstammes
+skeleton_commander_bounty:Erfahrener Anführer untoter Legionen
+flaming_wolf_bounty:Eine Flamme in Gestalt eines Jagdtieres
+flaming_wolf_spirit_bounty:Eine flackernde Flamme am Rand des Erlöschens
+colossal_bat_bounty:Eine höhlenbewohnende Bedrohung mit mächtigen Flügeln.
+colossal_dark_crow_bounty:Bringer von Schatten und Stürmen.
+colossal_scorpion_bounty:Tödlicher Stachel und zerschmetternde Kraft.
+forest_fox_bounty:Gerissener Jäger im Wald.
+forest_deer_bounty:Anmutige, aber wachsame Beute.
+forest_bee_bounty:Kleine, aber mächtige Bestäuber mit einem schmerzhaften Stich.
+forest_blue_flower_bounty:Zarte, lebendige Blüten mit einem fesselnden Duft.
+forest_catermoth_bounty:Rätselhafte Waldbewohner, die sowohl kriechen als auch fliegen können.
+forest_ghost_bounty:Unheimliche Erscheinungen, die im Waldschatten lauern.
+forest_darkluff_bounty:Verborgene Meister der Waldtarnung.
+forest_fairy_dragon_bounty:Bezaubernde, irisierende Waldelfen mit einem Hang zu Streichen.
+forest_grasshopper_bounty:Gewandte Springer und Meister des Waldbodens.
+forest_imperial_widow_bounty:Schön, aber gefährlich, diese giftigen Spinnen verlangen Respekt.
+forest_mageshroom_bounty:Weise, mystische Pilze mit einem Hauch von Magie.
+forest_panda_bounty:Santfte, bambusfressende Riesen des Waldes.
+forest_pink_flower_bounty:Zarte rosa Blüten, die den Waldbereichen Schönheit verleihen.
+forest_red_flower_bounty:Lebendige rote Blüten, die Bestäuber anziehen und den Wald erhellen.
+forest_red_spider_bounty:Geschickte Jäger und Netzweber mit auffälligem roten Erscheinungsbild.
+forest_scorpion_bounty:Heimliche, giftige Raubtiere mit kräftigen Scheren.
+forest_shroom_bounty:Allgegenwärtige Waldpilze mit vertrauter Kappen- und Stängelstruktur.
+forest_spider_bounty:Anpassungsfähige Jäger und Netzbauer, die in verschiedenen Waldumgebungen gedeihen.
+forest_spora_bounty:Einzigartige, pflanzenähnliche Wesen, die das Waldökosystem mit Sporen und Nährstoffen unterstützen.
+forest_mothy_bounty:Nächtliche Bestäuber mit komplexen Flügeln, die von Lichtquellen angezogen werden.
+forest_sprout_bounty:Verspielte Pflanzenwesen, die vom Waldboden emporwachsen, um ihre Umgebung zu erkunden.
+forest_tree_bounty:Hochragende Wächter, die unzähligen Waldbewohnern Schutz, Nahrung und Heim bieten.
+ice_serpent_bounty:Kaltblütige Reptilien mit Eisfähigkeiten in den gefrorenen Landschaften.
+ice_wolf_bounty:Kälteangepasste Wölfe mit dicken Pelzmänteln und scharfem Jagdinstinkt.
+ice_snow_golem_bounty:Konstrukte aus Eis und Schnee, die die Elemente um sich herum kontrollieren.
+ice_snowman_bounty:Schnee- und Eiskreaturen mit frostigen Zaubern zur Selbstverteidigung.
+ice_wisp_bounty:Etherische Kreaturen mit einer eisigen Aura, die die Luft um sich herum gefrieren.
+ice_spike_bounty:Fühlende Eisformationen, die ihre Beute mit Geschwindigkeit und Präzision angreifen.
+plague_rat_bounty:Krankheitsübertragende Nagetiere, die Krankheiten durch Bisse verbreiten.
+undead_jiangshi_bounty:Wiederbelebte Leichen mit übernatürlicher Stärke.
+wind_wisp_bounty:Etherische Kreaturen, die Luft manipulieren, um Böen und Wirbelwinde zu erzeugen.
+zombie_forest_flower_bounty:Untote Flora, die infektiöse Sporen freisetzt.
+skeleton_mage_bounty:Wiederbelebte Zauberer, die dunkle Magie wirken und die Toten befehligen.
+giant_mosquito_bounty:Riesige Insekten mit unersättlichem Blutdurst, die Krankheiten übertragen.
+forest_green_spider_bounty:Große, giftige Spinnentiere, die Netze weben und Gift injizieren.
+forest_shroomy_bounty:Pilzkreaturen mit einer symbiotischen Beziehung zur Flora, die Sporen freisetzen.
+forest_turtle_bounty:Sanfte, langsame Reptilien, bekannt für ihre Langlebigkeit, Geduld und schützende Panzer.
+forest_uzu_bounty:Gewandte Kreaturen mit Naturmagie, die ihr Territorium und dessen Bewohner schützen.
+forest_white_flower_bounty:Seltene Blüten mit starken heilenden Eigenschaften und betörendem Duft.
+forest_wolf_bounty:Gerissene Jäger, bekannt für scharfe Sinne, Beweglichkeit und Loyalität gegenüber Rudelkameraden.
+abyss_wing_bounty:Tauche in die Dunkelheit, um diesem lauernden Schrecken zu begegnen.
+frozen_mantis_bounty:Trotze der Kälte, um diesen eisigen Jäger aufzuspüren.
+ice_bull_bounty:Stelle dich diesem gefrorenen Koloss und brich seinen eisigen Griff.
+ice_kindred_glacier_bounty:Fordere den frostigen Wächter heraus und überlebe seinen eisigen Zorn.
+insects_swarm_bounty:Zerstreue den unerbittlichen Schwarm und beende ihre Schreckensherrschaft.
+mushroom_knight_bounty:Besiege den Pilzwächter und beanspruche deine Beute.
+rose_warrior_bounty:Stelle dich dem floralen Kämpfer und beweise dein Können.
+bone_sharpshooter_bounty:Bring den skelettierten Scharfschützen zum Schweigen und beende sein tödliches Ziel.
+nightmare_spider_bounty:Stelle dich deinen Ängsten und besiege die Albtraumspinne.
+wyvern_bat_bounty:Bringe den geflügelten Schrecken zu Fall und befreie den Himmel von seiner schrecklichen Präsenz.
+dragon_lamprey_bounty:Stelle dich der gefürchteten Drachenneunauge und beende ihre vampirische Herrschaft.
+rock_golem_bounty:Zerschmettere den mächtigen Steingolem und befreie das Land von seinem steinigen Griff.
+tridentpupa_bounty:Vereitle die Verwandlung der Tridentpupa und verhindere die Geburt eines neuen Schreckens.
+insects_dragon_bounty:Zerstreue den entsetzlichen Schwarm und stürze den Insektendrachen, der den Himmel plagt.
+wood_golem_bounty:Wächter des Waldes mit unnachgiebiger Stärke.
+blazing_shroom_bounty:Feurige Flora, die mit Rachsucht brennt.
+intoxicating_shroom_bounty:Wahrnehmungsverwandelnder Pilz, der Feinde verwirrt.
+darkness_seeker_bounty:Jage den lauernden Räuber in den Schatten.
+darkness_wisp_bounty:Besiege den von Dunkelheit durchdrungenen Wisp.
+bush_wisp_bounty:Finde und eliminiere den verborgenen Busch-Wisp.
+leaf_imp_bounty:Neutralisiere den schelmischen Blattkobold.
+earth_wisp_bounty:Stelle dich dem Erdwisp-Wächter und besiege ihn.
+mandrake_bounty:Berge die wertvolle Alraunenwurzel, aber hüte dich vor ihrem ohrenbetäubenden Schrei.
+earth_lion_bounty:Zähme den furchterregenden Erd-Löwen, bevor er mehr Zerstörung anrichtet.
+earth_snake_bounty:Stoppe den erderschütternden Amoklauf der Erdscharlange.
+earth_turtle_bounty:Knacke den unbeugsamen Panzer der Erdschildkröte.
+fire_lion_bounty:Lösche den brennenden Zorn des Feuerlöwen.
+fire_turtle_bounty:Kühle den sengenden Zorn der Feuerschildkröte ab.
+fox_bandit_bounty:Fasse den flüchtigen Fuchsbanditen und bringe die gestohlenen Waren zurück.
+fox_crook_bounty:Führe den verschlagenen Fuchsgauner der Gerechtigkeit zu.
+fox_rogue_bounty:Zerschlage das Spionagenetzwerk des Fuchs-Schurken.
+shark_frog_bounty:Stoppe die Bedrohung des Ökosystems durch den Haifrosch.
+bull_lion_bounty:Bezwinge den Bull-Löwen und stelle den Frieden auf dem Land wieder her.
+tiger_dragon_bounty:Verhindere die Schreckensherrschaft des Tigerdrachens.
+gargoyle_grifos_bounty:Verjage die Gargoyle-Grifos und schütze die heiligen Ruinen.
+garuda_garunix_bounty:Beende die Lufthoheit der Garuda Garunix.
+ghost_puppet_bounty:Befreie die Gefangenen aus der Kontrolle der Geistermarionette.
+ghost_revelator_bounty:Bringe den ruhelosen Geist des Offengeist-Erweckers zur Ruhe.
+storm_hawk_bounty:Schütze das Dorf vor den Stürmen des Sturmfalken.
+colossal_frog_bounty:Rette das Ökosystem vor dem Ansturm des kolossalen Froschs.
+flightless_bird_bounty:Bringe den flugunfähigen Vogel in seinen Lebensraum zurück.
+demon_critter_fox_bounty:Befreie die Opfer aus dem Griff des Dämonen-Fuchs-Kreaturen.
+demon_critter_rabbit_bounty:Stelle die Ordnung aus dem Chaos des Dämonen-Hasen-Kreaturen wieder her.
+demon_critter_squirrel_bounty:Beende das Unheil des Dämonenkreatur-Eichhörnchens.
+demon_imp_bounty:Befreie die Opfer von den Qualen des Dämonenwichtels.
+darkness_gargoyle_bounty:Vertreibe den schattenhaften Einfluss des Dunkelheits-Gargoyles.
+devilimp_bounty:Stelle die durch den Teufelwichtel gestörte Harmonie wieder her.
+dragon_wyrm_bounty:Schütze das Land vor der Zerstörung durch den Drachenwyrm.
+blue_wyvern_bounty:Zerschlage den eisigen Griff des Blauen Wyverns.
+brown_wyvern_bounty:Stabilisiere das durch den Braunen Wyvern gestörte Terrain.
+red_wyvern_bounty:Rette Siedlungen vor den Flammen des Roten Wyverns.
+dryads_companion_bounty:Gewinne das Vertrauen des Begleiters der Dryaden.
+mountain_snail_bounty:Sammle Schneckenhäuser, um das Gleichgewicht des Ökosystems zu wahren.
+mountain_wolf_bounty:Fange den für Viehbedrohlichen Bergwolf ein.
+mountain_winter_wolf_bounty:Verteidige das Dorf vor den Berg-Winterwölfen.
+mountain_behemoth_bounty:Stelle dich dem Bergbehemoth, um das Artefakt zu bergen.
+squirrel_mage_bounty:Überzeuge den Eichhörnchen-Magier, sein arkanes Wissen zu teilen.
+squirrel_warrior_bounty:Helfe dem Eichhörnchen-Krieger, sein Zuhause zu verteidigen.
+squirrel_defender_bounty:Unterstütze den Eichhörnchen-Verteidiger bei der Abwehr von Eindringlingen.
+root_shield_bounty:Entdecke das Geheimnis des uralten Wurzelschildes.
+cave_dweller_worm_bounty:Dieser glitschige Höhlenbewohner hat Hunger auf mehr als nur Erde.
+fire_vulture_bounty:Besiege den feurigen Vogel mit einer Vorliebe für Hitze.
+fire_wisp_bounty:Lösche diese unberechenbare Flammenkugel, bevor sie dich verbrennt.
+frozen_robber_bounty:Bring diesen kaltblütigen Dieb zur Strecke und stelle die gestohlene Wärme wieder her.
+frozen_skirmisher_bounty:Wage eine Scharmützel im Schnee, wenn du dich traust.
+kobold_archer_bounty:Stelle dich dem Zorn eines winzigen Bogenschützen mit großer Einstellung.
+kobold_armor_bounty:Teste deinen Mut gegen in Metall gehüllte Kobolde.
+kobolds_dagger_bounty:Stelle dich den schnellen und tödlichen Schlägen der Kobold-Assassinen.
+unarmed_kobold_bounty:Nimm es in einem unbewaffneten Duell mit diesen einfallsreichen Gegnern auf.
+kobolds_mage_bounty:Stelle dich den magischen Fähigkeiten eines Kobold-Zauberers.
+kobolds_spear_bounty:Herausforderung die scharfen Fähigkeiten der speertragenden Kobolde.
+hornet_warrior_bounty:Tritt den furchterregenden Hornissenkriegern und ihren tödlichen Stacheln entgegen.
+forest_goblin_axe_bounty:Herausforderung die Stärke und Geschicklichkeit der axtschwingenden Waldgoblins.
+forest_goblin_dagger_bounty:Prüfe deine Geschwindigkeit und Gerissenheit gegen dolchführende Waldgoblins.
+forest_goblin_sword_bounty:Teste dein Schwertkampfgeschick gegen die erfahrenen Waldgoblin-Schwertkämpfer.
+hercules_bug_bounty:Kämpfe gegen den Hercules-Käfer, ein gigantisches Insekt mit unglaublicher Stärke und Ausdauer.
+raiding_knight_bounty:Verteidige dich gegen den Ansturm der unerbittlichen raubenden Ritter und ihre rücksichtslosen Taktiken.
+radiant_knight_bounty:Nimm an einem Kampf des Lichts und der Macht gegen die beeindruckenden strahlenden Ritter teil.
+mysterious_white_mage_bounty:Löse das Rätsel des geheimnisvollen weißen Magiers und fordere seine göttliche Macht heraus.
+betafish_bounty:Beweise dein Können im Wasser, indem du es mit dem schnellen und territorialen Betafisch aufnimmst.
+biofish_bounty:Tritt gegen den Biofisch, ein genetisch konstruiertes Wunder, in einem Kampf um Klugheit und Beweglichkeit an.
+corrupt_executioner_bounty:Bringe einem ehemals edlen Henker, der von der Dunkelheit verdorben und verdreht ist, Gerechtigkeit.
+iron_minotaur_bounty:Kämpfe gegen den mächtigen Eisen-Minotaur-Konstrukt.
+cerberus_ptolemaios_bounty:Stelle dich Cerberus Ptolemaios, dem Wächter der Geheimnisse.
+mountain_griffon_bounty:Besiege den majestätischen Berggriffon und beanspruche deine Belohnung.
+mountain_harpy_bounty:Fange oder besiege eine Bergharpyie, um Frieden in die Berge zu bringen.
+mountain_hornet_bounty:Eliminiere die Bergwespe, eine summende Bedrohung für Reisende.
+mountain_nanjo_bounty:Bezwinge den flüchtigen Bergnanjo und entschlüssele seine geheimnisvolle Natur.
+mountain_bunny_bounty:Fange das schelmische Bergkaninchen, einen überraschend anspruchsvollen Gegner.
+mountain_greathorn_goat_bounty:Jage eine Berg-Großhorn-Ziege, um ihre wertvollen Hörner zu sammeln.
+plant_snail_bounty:Fange eine Pflanzenschnecke, um die Symbiose mit Pflanzen zu erforschen.
+toxic_spreader_bounty:Besiege einen toxischen Verbreiter, um die lokale Tierwelt vor seinem schädlichen Gift zu schützen.
+cape_sundew_bounty:Sammle einen Kap-Sonnentau, um seine fleischfressenden Fähigkeiten zu erforschen.
+sea_lurker_bounty:Jage einen Seelauerer, um die Sicherheit von Fischern und Schwimmern zu gewährleisten.
+sea_jellyfish_bounty:Sammle Proben von Seewespen, um die Entwicklung von Gegenmitteln zu unterstützen.
+sea_horse_bounty:Fange ein Seepferdchen für einen Meeresbiologen, der ihre einzigartigen Fortpflanzungsgewohnheiten erforscht.
+sea_lickitoad_bounty:Bringe einen Seelicki-Kröte für einen Ökologen, der ihren Einfluss auf lokale Ökosysteme untersucht.
+sea_shark_bounty:Haie, die Jacuzzis offenen Gewässern vorziehen.
+sea_tortoad_bounty:Langsame, amphibische Hybride mit einer Vorliebe für Schläfchen.
+sea_turtle_bounty:Weise Ozeannavigatoren mit einem eingebauten Kompass in ihren Panzern.
+sea_shelltacke_bounty:Unterwasser-Türsteher mit undurchdringlichen Schalen.
+sea_octi_bounty:Achtarmig und gefährlich schlau.
+sea_crab_bounty:Knackig, schnippisch und schwer zu fangen.
+sea_blue_dragon_bounty:Ein flüchtiger, serpentiner Schrecken der Meere.
+turtle_golem_bounty:Felsenfeste Resilienz mit einer sanften Seele.
+beach_pelican_bounty:Geflügelter Strandbandit mit einem Hang zur Unruhe.
+star_shell_bounty:Ein brillanter Fang, der schwer zu knacken ist.
+sea_star_trio_bounty:Dreifache Bedrohung aus der salzigen Tiefe.
+arcane_slime_bounty:Fange die Magie dieses glitschigen Zauberers ein.
+undead_longshot_bounty:Bringe diese ruhelosen Scharfschützen zur letzten Ruhe.
+undead_axe_bounty:Trenne das untote Band und befreie diese heimgesuchten Krieger.
+undead_blade_bounty:Lass diese ewigen Schwertkämpfer endgültig zur Ruhe kommen.
+plant_exotic_flyer_bounty:Beschneide die Flügel dieser tödlichen Luftflora.
+blood_orc_slaughterer_bounty:Beende ihren gnadenlosen Blutrausch.
+blood_orc_ravager_bounty:Stelle Ordnung wieder her, indem du diese Agenten des Chaos beseitigst.
+blood_orc_impaler_bounty:Sorge für Gerechtigkeit bei diesen grausamen Mördern.
+orc_war_drummer_bounty:Silence die Trommeln und brich den Schlacht-Rhythmus der Orks.
+knight_rose_bounty:Herausforderung diese edlen Ritter und beweise deine Tapferkeit.
+rat_gourmet_bounty:Unterbreche ihr Gourmetfest und jage sie davon.
+fork_rat_bounty:Entwaffne diese Besteck-schwingenden Ratten und beende ihre ungezogenen Streiche.
+informed_rat_bounty:Schneide ihren Informationsfluss ab und bewahre deine Geheimnisse.
+bee_bounty:Schütze dein Territorium vor diesen lästigen Bestäubern.
+caterpillar_bounty:Verhindere, dass diese Blattfresser die lokale Flora verschlingen.
+eyehopper_bounty:Halt die Augen offen und die Reflexe scharf, um diese schwer fassbaren Kreaturen zu fangen.
+death_worm_bounty:Stell dich deinen Ängsten und besiege den tödlichen Death Worm.
+lion_roach_bounty:Zeig diesen furchteinflößenden Insekten, dass sie auf würdige Gegner getroffen sind.
+flame_monkey_bounty:Lösch diese feurigen Trickser, bevor sie das lokale Fauna durcheinanderbringen.
+feathered_snake_bounty:Fang die schwer fassbare Feathered Snake und lern die Geheimnisse ihrer einzigartigen Hybridnatur.
+horn_willow_bounty:Ernte den verzauberten Horn Willow, ohne sein empfindliches Ökosystem zu beschädigen.
+electroctopus_bounty:Überliste den gerissenen Electroctopus und nutze seine elektrischen Fähigkeiten für das Gute.
+silver_avian_bounty:Fang den schwer fassbaren Silver Avian, um seine bemerkenswerte Geschwindigkeit und Beweglichkeit zu studieren.
+spike_hopper_bounty:Beseitige die Spike Hopper Plage, bevor sie die lokalen Ernten zerstören.
+spiked_caterpillar_bounty:Stoppe die Spiked Caterpillars und schütze die Fauna vor Gift.
+rocktail_demolisher_bounty:Verhindere, dass Rocktail Demolishers die Infrastruktur zerstören.
+roaming_salamander_bounty:Fang die schwer fassbare Salamander, bevor sie Möbel verschiebt.
+void_gargoyle_bounty:Bring das philosophische Wesen aus der existenziellen Krise zurück.
+white_minotaur_bounty:Schließ Freundschaft mit dem sanften Wesen bei einem veganen Mahl.
+avian_elephant_bounty:Hilf dem fluggescheiten Wesen, in den Himmel zurückzukehren.
+black_lance_knight_bounty:Übertrumpfe den Ritter im Tjost und enthülle das Geheimnis der Unsterblichkeit.
+minivolcano_bounty:Halte den Minivolcano in Schach und entdecke die Geheimnisse seiner explosiven Kraft.
+fire_salamander_bounty:Fang die schwer fassbare Fire Salamander und entdecke das Geheimnis der Hitzeresistenz.
+fire_dragonspawn_bounty:Besiege den Fire Dragonspawn und beanspruche eine magische Feuerschuppe.
+lava_spawn_bounty:Zähme den Lava Spawn und löse die Geheimnisse des geschmolzenen Kerns.
+fire_ogre_bounty:Bezwinge den Feueroger, um mächtige Feuermagietechniken zu erlangen.
+bug_originator_bounty:Jage den schwer fassbaren Insektenursprung und erhalte insektenkontrollierende Pheromone.
+dwarf_dragon_bounty:Fange diesen winzigen Feueratemspender für eine kleine, aber starke Belohnung.
+darkness_fox_bounty:Fange diesen schattenhaften Fuchs und sei das Stadtgespräch.
+light_fox_bounty:Ergreife diesen leuchtenden Fuchs, um dein Leben zu erhellen.
+void_fox_bounty:Fange den schwer fassbaren Void Fuchs oder versuche es zumindest.
+stone_knight_alpha_bounty:Besiege diesen steinernen Krieger für einen felsenfesten Ruf.
+stone_knight_zeta_bounty:Bereite dich auf eine felsige Begegnung mit diesem stoischen Krieger vor.
+stone_knight_beta_bounty:Dieser Steinkrieger ist bereit, die Konkurrenz zu zerschmettern.
+tree_magical_bounty:Ein mystischer Baum mit einer Rinde, die schlimmer ist als sein Biss.
+melee_tree_bounty:Die Äste dieses Baumes haben einen kräftigen Schlag.
+tree_skirmisher_bounty:Finde und besiege diesen schwer fassbaren Baumgegner.
+arcane_tree_bounty:Jage diesen magischen Baum und lasse die Arkanmacht, die er entfesselt, schwinden.
+twin_snow_golem_bounty:Stelle dich dem eisigen Zorn dieser frostigen Gefährten und schmelze ihre kalte Entschlossenheit.
+fire_bull_bounty:Teste dein Können gegen diesen brennenden Stier und vermeide es, verbrannt zu werden.
+desert_scorpion_bounty:Überlebe die Wüstenhitze und den Stich dieses tödlichen Skorpions.
+corrupted_void_fire_wolf_bounty:Verbanne die Dunkelheit, um das Gleichgewicht des Biests wiederherzustellen.
+darkness_raptor_bounty:Jage den schwer fassbaren Dunkelraptor, bringe Licht in die Schatten.
+flame_raptor_bounty:Lösche den Zorn des Flammenraptors und beende die Feuerherrschaft.
+cold_raptor_bounty:Stelle dich dem Kaltraptor und zerschmettere seine eisigen Verteidigungen.
+chilling_wolf_spirit_bounty:Finde den Chilling Wolf Spirit, beende den ewigen Frost.
+fallen_dragon_knight_bounty:Besiege den Gefallenen Drachenritter, befreie ihn von der dunklen Knechtschaft.
+fallen_winged_sword_bounty:Besiege das Gefallene Geflügelte Schwert, stelle das Gleichgewicht wieder her.
+fallen_great_sword_bounty:Stelle dich dem Gefallenen Großschwert, stoppe den chaotischen Wüten.
+fire_toad_bounty:Beruhige die Natur der Feuerkröte, sichere die umliegende Sicherheit.
+fire_sabretooth_bounty:Stelle dich dem furchterregenden Fire Sabretooth, beseitige die feurige Bedrohung.
+ice_glacier_spawn_bounty:Besiege den Ice Glacier Spawn, stoppe das Weltgefrieren.
+knight_spear_elite_bounty:Beweise deine Stärke, besiege den furchterregenden Knight Spear Elite.
+knight_sword_elite_bounty:Herausforderung an den Knight Sword Elite, zeige Klingenbeherrschung.
+knights_spear_common_bounty:Teste deine Fähigkeiten gegen den hingebungsvollen Knight Spear Common.
+knights_sword_common_bounty:Stelle dich dem treuen Knight Sword Common, schärfe deine Fähigkeiten.
+masked_demon_giant_bounty:Entlarve den Dämonenriesen, besiege seine Bosheit.
+crocoknight_bounty:Kämpfe gegen den furchterregenden Crocoknight, fordere deine Kampffähigkeiten heraus.
+razortail_eagle_bounty:Jage den schwer fassbaren Razortail Eagle, tödlicher Luftgegner.
+bull_dragon_bounty:Stelle dich dem Bull Dragon, mächtiges Hybridenwesen.
+rabbit_knight_bounty:Miss deine Fähigkeiten mit dem agilen Rabbit Knight Krieger.
+rabbit_bandit_bounty:Überliste den listigen Rabbit Bandit, nutze deine Beweglichkeit.
+sea_fish_bounty:Fange den gewöhnlichen Sea Fish, einfaches Wasserwesen.
+skull_fish_bounty:Stelle dich dem Skull Fish, bedrohlicher Unterwasser-Räuber.
+skeleton_mage_mabon_bounty:Fordere den untoten Skeleton Mage Mabon, dunkler Zauberer.
+crocopaladin_bounty:Stelle dich Crocopaladin, göttlichem Kriegerbeschützer.
+crocorogue_bounty:Überliste den schwer fassbaren Crocorogue, eine listige Kombination.
+crocomage_bounty:Besiege Crocomage, mächtigen arkanen Hybrid.
+ignited_bat_bounty:Stelle dich der Feuerfledermaus, einer feurigen Vulkanspezies.
+lava_worm_bounty:Herausforderung des Lavawurms, der die Eruption bedroht, indem er Magma frisst.
+fire_pumice_rock_bounty:Überwinde den elementaren Feuerbimsstein.
+fire_pumice_sheep_bounty:Kämpfe gegen das gefährliche Feuerbimsschaf-Hybrid.
+volcanic_golem_bounty:Fordere den mächtigen Vulkan-Golem heraus, Lava-Angreifer.
+living_armor_bounty:Stelle dich der verzauberten Lebenden Rüstung, widerstandsfähige Stärke.
+two_headed_turtle_bounty:Bekämpfe die seltene Zweiköpfige Schildkröte, starke Verteidigung.
+ice_cave_bat_bounty:Stelle dich der Eis-Höhlen-Fledermaus, einer frostwandelnden Spezies.
+ice_lion_bounty:Bekämpfe den furchterregenden Eislöwen, Spitzenprädator mit Frostatem.
+snowball_bounty:Bekämpfe den trügerischen Schneeball, eine Kreatur mit eisigen Angriffen und wachsender Fähigkeit.
+yeti_wisp_bounty:Suche nach dem schwer fassbaren Yeti Wisp, einem mysteriösen Geist mit eisigen Kräften.
+rabbit_stealth_archer_bounty:Fordere den agilen Kaninchen-Stealth-Bogenschützen heraus, Experte in Bogenschießen und Heimlichkeit.
+toxic_frog_bounty:Stelle dich dem giftigen Frosch, einem kleinen aber gefährlichen Feind.
+toxic_horned_frog_bounty:Stelle dich dem aggressiven Hornfrosch, einer tödlicheren Variante des Giftigen Frosches.
+toxic_white_frog_bounty:Erjage den schwer fassbaren Giftigen Weißen Frosch, eine seltene und tödliche Variante des Giftigen Frosches.
+razor_tail_frog_bounty:Kämpfe gegen den aggressiven Rasier-Schwanz-Frosch, ein furchterregender Amphibie mit einem messerscharfen Schwanz.
+unifrog_bounty:Suche nach dem mystischen Einhornfrosch, einem einzigartigen und magischen Geschöpf mit geheimnisvollen Kräften.
+toxic_root_mutation_bounty:Stelle dich der bedrohlichen Toxic Root Mutation, einer verdorbenen Pflanze mit giftigen Fähigkeiten.
+toxic_root_bounty:Begegne der gefährlichen Toxic Root, einer giftigen Pflanze, die ihre Beute umschlingt und vergiftet.
+undead_claw_knight_bounty:Jage den furchterregenden Undead Claw Knight, einen unerbittlichen untoten Krieger.
+undead_eastern_archer_bounty:Kämpfe gegen den Undead Eastern Archer, einen gefallenen Bogenschützen, der weiterhin Schlachtfelder heimsucht.
+undead_eastern_marauder_bounty:Stelle dich dem Undead Eastern Marauder, einer wiederbelebten Bedrohung, die plündern und zerstören will.
+undead_eastern_plunderer_bounty:Konfrontiere den Undead Eastern Plunderer, eine chaotische untote Zerstörungskraft.
+voidoll_erabos_bounty:Fordere den finsteren Voidoll Erabos heraus, ein puppenartiges Wesen aus der Leere mit dunklen Kräften.
+voidoll_erebia_bounty:Besiege den schrecklichen Voidoll Erebia, ein Kreatur aus der Leere, die Schatten manipuliert.
+voidoll_erebus_bounty:Stelle dich dem albtraumhaften Voidoll Erebus, einem Wesen der Dunkelheit und Illusionen aus der Leere.
+shark_bow_bounty:Begegne dem tödlichen Shark Bow, einem geschickten Jäger und Bogenschützen.
+dagger_shark_bounty:Jage den wilden Dagger Shark, eine gefährliche Meeresbedrohung mit rasiermesserscharfen Flossen.
+great_shark_bounty:Fordere den furchterregenden Great Shark heraus, den mächtigen Herrscher der Meere.
+wind_snake_bounty:Jage die schwer fassbare Wind Snake, einen schnellen Luftjäger.
+wind_avian_bounty:Begegne dem mächtigen Wind Avian und seinen verheerenden Luftangriffen.
+wind_bunny_bounty:Stelle dich dem täuschenden Wind Bunny, einem kleinen, aber heftigen Luftmanipulator.
+feathered_golem_bounty:Konfrontiere den Feathered Golem, eine einzigartige Verschmelzung von elementarer Luft und fester Form.
+feathered_razor_bounty:Kämpfe gegen den tödlichen Feathered Razor, bekannt für seine rasiermesserscharfen Federn und Agilität.
+wind_harpy_bounty:Jage die Wind Harpy, eine wilde Jägerin mit Beherrschung der Luft.
+wind_lion_bounty:Begegne dem anmutigen und mächtigen Wind Lion, einer Bedrohung aus der Luft.
+wind_mantis_bounty:Fordere die Wind Mantis heraus, bekannt für ihre schnellen, schneidenden Angriffe.
+wind_spawn_bounty:Bekämpfe die Winds Spawn, eine elementare Manifestation der Luft.
+wooden_doll_warrior_bounty:Stelle dich dem trügerischen Wooden Doll Warrior, einem geschickten und vielseitigen Kämpfer.
+wooden_doll_ranger_bounty:Jage den Wooden Doll Ranger, einen geschickten und heimlichen Bogenschützen.
+wooden_doll_berserk_bounty:Kämpfe gegen den erbarmungslosen Wooden Doll Berserk, einen furchterregenden Kämpfer.
+spirit_boar_bounty:Stelle dich dem Spirit Boar, einer übernatürlichen Kreatur mit immensem Ansturmvermögen.
+spirit_wolf_bounty:Stelle dich dem ätherischen Spirit Wolf, einem listigen Wächter der Wildnis.
+spirit_baboon_bounty:Bekämpfe den agilen und starken Spirit Baboon, einen verspielten, aber gefährlichen Gegner.
+spirit_ape_bounty:Herausforderung: der mächtige und kluge Spirit Ape, ein furchteinflößender Wächter.
+spirit_owl_bounty:Jage die lautlose und weise Spirit Owl, eine Meisterin der Heimlichkeit und des Hinterhalts.
+spirit_panda_bounty:Begegne dem sanften, aber starken Spirit Panda, einem Beschützer von Gleichgewicht und Harmonie.
+spirit_tiger_bounty:Stelle dich dem wilden Spirit Tiger, einem unermüdlichen Jäger mit unglaublicher Geschwindigkeit.
+spirit_fox_bounty:Bekämpfe den schwer fassbaren und cleveren Spirit Fox, einen Meister der Täuschung und des Entkommens.
+spirit_primate_bounty:Herausforderung: der intelligente und geschickte Spirit Primate in einem Kampf der List und Stärke.
+shadow_invocation_knight_bounty:Stelle dich dem dunklen und furchteinflößenden Shadow Invocation Knight, einem Meister der schattigen Kräfte.
+sea_piranos_bounty:Begegne Sea Piranos, einem gerissenen aquatischen Räuber.
+giant_grizzly_bounty:Jage den massiven und mächtigen Giant Grizzly-Bären.
+darkness_behemoth_bounty:Besiege den riesigen Darkness Behemoth, ein Mut-Test.
+darkness_imp_bounty:Störe die chaotischen Missetaten des Darkness Imp.
+earth_bull_bounty:Herausforderung: der mächtige, starke Earth Bull.
+acid_elemental_bounty:Neutralisiere den Acid Elemental, eine ätzende Kreatur.
+slime_earthi_bounty:Zähme den formbaren Slime Earthi, einen kniffligen Gegner.
+colossal_mummy_bounty:Stelle dich der uralten, massiven Kolossalen Mumie.
+metal_golem_bounty:Teste dein Können gegen den Metall Golem, eine harte Konstruktion.
+snow_golem_bounty:Kämpfe gegen den eisigen Schnee Golem und stoppe seine frostige Herrschaft.
+sorceress_bounty:Eine Zauberin, die sich während eines Abenteuers gegen deine Gruppe wandte. Keine schöne Erinnerung!
+shimmering_dragon_bounty:Ein listiger Schimmernder Drache mit schillernden weißen Schuppen, bekannt für seine schwer fassbare Natur und angeblich mit uralter Weisheit.
+night_blade_assassin_bounty:Flüchtig und tödlich, der Night Blade Assassin wird wegen diskreter Eliminierungen gesucht – Vorsicht geboten.
+night_blade_commander_bounty:Hunt den Night Blade Commander, einen gerissenen Mastermind, der die tödlichsten Schatten anführt, und beanspruche die beträchtliche Belohnung.
+shadow_beast_bounty:Erfasse oder neutralisiere das schwer fassbare Schattenbiest und biete eine Belohnung für diejenigen, die seine rätselhafte Natur enthüllen können.
+fiery_cultist_bounty:Ein Pyromant in Feuer gehüllt, gesucht für das Entfesseln tödlicher Infernos.
+cultist_caller_bounty:Geheimnisvoller Beschwörer dunkler Entitäten, gesucht wegen Manipulation unsichtbarer Kräfte.
+novice_cultist_bounty:Ein Neuling in dunklen Ritualen, gesucht wegen Einmischung in verbotene Kräfte.
+brigand_skirmisher_bounty:Brigand Skirmisher bekannt für Blitzüberfälle auf Händlerkarawanen. Belohnung für Gefangennahme oder Beweis der Erledigung.
+brigand_watcher_bounty:Brigand Watcher nahe den östlichen Wäldern gesichtet, gefährdet Reisende. Kopfgeld für die Sicherung des Gebiets.
+city_watch_commander_bounty:Gesucht für die Orchestrierung eines korrupten Plans unter dem Deckmantel der Strafverfolgung.
+haunting_ghost_bounty:Stelle dich dem Spukgespenst, einer gequälten Seele zwischen den Welten, die Rache sucht.
+bell_pepper_lizard_bounty:Jage den mythischen Paprikaeidechse, Schlüssel zur Schaffung des ultimativen kulinarischen Meisterwerks.
+nightmare_stalker_bounty:Ein Ungeheuer, geboren in der physischen Welt durch einen Albtraum.
+headless_horseman_bounty:Ein unheimlicher Reiter, der durch die Nacht streift. Ihn zu sehen gilt als schlechtes Omen.
+shadow_creature_bounty:Ein schattenhaftes Geschöpf aus unbekannten Tiefen.
+spiky_turtle_bounty:Eine laufende Wand aus Stacheln—sei vorsichtig, denn sogar ihr Panzer ist eine Waffe.
+nailguns_bounty:Ein Mimikry, das vorgibt, Nailguns zu sein.

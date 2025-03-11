@@ -1,0 +1,51 @@
+BountyHumanMage0:Shady acolyte guilty of using black magic. Last seen roaming through the riverlands.
+BountyHumanMage1:On Notice: The Alchemist of Dark Arts, dabbling in forbidden magic and sought for the theft of ancient tomes from the Royal Library.
+BountyHumanMage2:Mage who tried to illegally fuse light and dark magic.
+BountyHumanMage3:Magician who illegally tried to fuse fire and ice magic.
+BountyHumanMage4:Necromancer trying to summon an undead army.
+BountyHumanMage5:Unlicensed witch, turning people into frogs.
+BountyHumanMage6:Wizard, harassing villages with magical snowstorms.
+BountyHumanMage7:Wizard, harassing communities with their storm magic.
+BountyHumanMage8:Wizard, guilty of paying with fake gold coins.
+BountyHumanMage9:Trickster mage, ripping people off with illusory wares.
+BountyHumanRogue0:Sentenced bandit. Extraordinarily dangerous.
+BountyHumanRogue1:A petty thief suspected of stealing supplies.
+BountyHumanRogue2:A petty thief who stole a holy artifact.
+BountyHumanRogue3:A petty thief who stole a wizard's staff.
+BountyHumanRogue4:Leader of bandit group, attacking merchants.
+BountyHumanRogue5:A scoundrel, stealing wallets at the market.
+BountyHumanRogue6:Thief, stealing gold at the city gate.
+BountyHumanRogue7:The Scarlet Bandit, a master of disguise known for plundering merchant caravans on the King's Road.
+BountyHumanRogue8:Wanted: The Shadow Thief, notorious for vanishing with the royal jewels under the cover of night.
+BountyHumanRogue9:Immediate Capture: The Nightingale, a famed bard with a talent for espionage, sought for leaking royal secrets.
+BountyHumanKnight0:The Iron Revenant, a dishonored knight roaming the lands, challenging any to duel for their lands and titles.
+BountyHumanKnight1:Deserted knight and former commander of the royal army.
+BountyHumanKnight2:A deserted soldier of King's army, who has turned to plundering
+BountyHumanKnight3:The Fallen Paladin, sought for heresy and the dark rituals that have cursed the lands he was bound to safeguard.
+BountyHumanKnight4:Former city guard, abused position to rob people's money
+BountyHumanKnight5:The Renegade Templar, known for plundering sacred relics and wielding their power against the church.
+BountyHumanKnight6:The Silver Knight, a legend turned traitor, accused of assassinating a high-ranking noble under the guise of peace.
+BountyHumanKnight7:The Warlord of the Wastelands, rallying exiles and criminals to carve out a kingdom of their own, defying royal authority.
+BountyHumanKnight8:The Oathbreaker, once a guardian of the realm, now its most feared adversary, sought for breaking sacred vows and inciting rebellion.
+BountyHumanKnight9:The Twilight Vanguard, vanished from their post on the eve of battle, now leading a shadow army against their former comrades.
+BountyHumanRanger0:Burglar, robbing people in forest.
+BountyHumanRanger1:For Justice: The Phantom Archer, who strikes from the shadows, leaving a trail of chaos in the city's heart.
+BountyHumanRanger2:Assassin, working as a false forest guide.
+BountyHumanRanger3:Wanted Dead or Alive: The Wolf of the Wilds, a lone ranger accused of leading a rebellion against the crown.
+BountyHumanRanger4:High Reward: The Ghost of Duskwood, an elusive figure stealing from the rich and disappearing without a trace.
+BountyHumanRanger5:The Arrow of the North, famed for deadly precision from unseen distances, disrupting royal patrols.
+BountyHumanRanger6:Guardian of the Hidden Vale, accused of protecting forbidden lands with lethal force against intruders.
+BountyHumanRanger7:The Wandering Bow, a nomadic archer accused of felling a noble's prized game in a forbidden hunt.
+BountyHumanRanger8:The Silent Step, a ghost in the forests, stealing from the rich and eluding capture with unmatched stealth.
+BountyHumanRanger9:Whisperwind, a ranger with the ability to move like the breeze, involved in espionage against the crown.
+BountyHumanRanger999:Nailguns, former hero of Embervale.
+BountyHumanWarrior0:Seek and Detain: The Siren of the Seas, a pirate captain with a voice that lures sailors to their doom.
+BountyHumanWarrior1:Urgent Bounty: The Iron Fist, a merciless mercenary leaving a path of destruction in their wake, wanted for crimes against the realm.
+BountyHumanWarrior2:The Axe of the East, wielding a weapon that has cleaved through the ranks of many armies, now turned against the realm.
+BountyHumanWarrior3:The Iron Colossus, a mercenary of immense strength, accused of toppling a fortress single-handedly for gold.
+BountyHumanWarrior4:The Stormcaller, invoking the fury of nature in battle, wanted for unleashing a tempest on a naval fleet.
+BountyHumanWarrior5:The Gladiator of the Forsaken Arena, escaped from the pits, now proving their mettle by challenging the realm's mightiest.
+BountyHumanWarrior6:The Mountain's Fist, known for their unbreakable will and strength, sought for crushing a battalion with a landslide.
+BountyHumanWarrior7:The Bloodthirsty Reaver, a pirate turned warlord, terrorizing the coasts with brutal raids.
+BountyHumanWarrior8:The Crimson Marauder, leading a band of deserters, plundering across the countryside, leaving devastation in their wake.
+BountyHumanWarrior9:The Berserker of the Boreal Forest, known for a rage that can turn the tide of battle, wanted for defying the king's conscription.

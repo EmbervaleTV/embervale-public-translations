@@ -1,0 +1,513 @@
+fire_ant:Feuerameise
+giant_roach:Riesenschabe
+waterstrider:Wasserläufer
+sickle_mantis:Sense-Mantis
+hell_mantis:Höllen-Mantis
+green_dragonfly:Grüne Libelle
+blue_dragonfly:Blaue Libelle
+abnormous_tick:Abnorme Zecke
+mutated_carnivorous_plant:Mutierte Fleischfressende Pflanze
+carnivorous_plant:Fleischfressende Pflanze
+monstrous_scarab:Monströser Skarabäus
+sand_snake:Sandnatter
+awakened_sand:Erwachter Sand
+grumpy_cactus:Miesepetriger Kaktus
+sand_tentacle:Sandtentakel
+sand_wing:Sandflügel
+goblin_ranger:Goblin-Waldläufer
+goblin_rogue:Goblin-Schurke
+goblin_mage:Goblin-Magier
+goblin_grunt:Goblin-Schläger
+oversized_goblin:Übergroßer Goblin
+goblin_knight:Goblin-Ritter
+pirate_skeleton:Piraten-Skelett
+pirate_monkey:Piraten-Affe
+pirate_bandit:Piraten-Bandit
+blue_slime:Blaue Schleim
+slime_wizard:Schleim-Zauberer
+heroic_slime:Heroischer Schleim
+poisonous_slime:Giftiger Schleim
+headhunter_slime:Kopfgeldjäger-Schleim
+barbarian_slime:Barbarenschleim
+royal_guard_slime:Königsgardeschleim
+slime_protector:Schleim-Beschützer
+slime_scout:Schleim-Späher
+black_wolf:Schwarzer Wolf
+competitive_dodo:Kampfdodo
+mountain_warden:Bergwärter
+peacock_sharpshooter:Pfauen-Zielscharfschütze
+poison_tongue:Giftschleuder
+descended_dragon:Abstammender Drache
+frost_spirit:Frostgeist
+ice_turtle:Eisschildkröte
+ice_yeti:Eis-Yeti
+ice_ogre:Eisoger
+ice_golem:Eisgolem
+frozen_invader:Gefrorener Eindringling
+frost_sickle_mantis:Frostsicheln-Mantide
+frost_wing:Frostflügel
+ice_avian:Eisvogelwesen
+berserker_dwarf:Berserker-Zwerg
+dwarf_captain:Zwergenhauptmann
+miner_dwarf:Minenzwerg
+executioner_dwarf:Henker-Zwerg
+possessed_dwarf:Besessener Zwerg
+silvershield:Silberschild
+aiming_dwarf:Zielender Zwerg
+enchanted_ore:Verzaubertes Erz
+orc_warlock:Orkhexenmeister
+orc_marauder:Orkmarodeur
+orc_archer:Orkbogenschütze
+orc_warrior:Ork-Krieger
+alpha_orc:Alpha-Ork
+green_wyvern:Grüner Wyvern
+giant_rat:Riesenratte
+ascended_duelist:Erhabener Duellant
+ascended_enforcer:Erhabener Vollstrecker
+ascended_gatekeeper_zephon:Erhabener Torwächter Zephon
+ascended_guardian:Erhabener Wächter
+ascended_sharpshooter:Erhabener Scharfschütze
+blessed_archer:Gesegneter Bogenschütze
+blessed_spearman:Gesegneter Speerträger
+blessed_warrior:Gesegneter Krieger
+chest_mimic:Truhen-Nachahmer
+companion_of_the_nameless:Gefährte des Namenlosen
+corpse_eater_ragnar:Leichenfresser Ragnar
+corrupted_forest_heart:Korrumpiertes Waldherz
+deepwater_berserk:Tiefwasser-Berserker
+deepwater_crab:Tiefwasser-Krabbler
+deepwater_crab_warrior:Tiefwasser-Krabbler-Krieger
+deepwater_dark_star:Tiefwasser-Dunkelstern
+deepwater_lurker:Tiefwasserlurker
+deepwater_urchin:Tiefwasserseeigel
+deepwater_watcher:Tiefwasserbeobachter
+desert_rock_lizard:Wüstenfelsenechse
+divine_judge_vretiel:Klerikaler Richter Vretiel
+dryads_archer:Dryadenbogenschütze
+dryads_mage:Dryadenmagier
+dryads_warrior:Dryadenkrieger
+dusk_root:Dämmerwurzel
+duskwood_wolf:Dämmerwaldwolf
+flying_skull:Fliegender Schädel
+forest_golem:Waldgolem
+forgotten_goblin:Vergessener Goblin
+forgotten_slime:Vergessener Schleim
+gravekeeper:Grabwächter
+hooded_stranger:Vermummter Fremder
+lady_of_the_passage:Dame des Durchgangs
+light_slime:Leuchtschleim
+lost_fairy:Verlorene Fee
+lost_soul:Verlorene Seele
+overseer_crab:Aufseher-Krabbe
+protector_of_the_forest_heart:Beschützer des Waldherzens
+scavenging_mandrake:Plündernde Alraune
+skeleton_archer:Skelettbogenschütze
+skeleton_cutthroat:Skelettschlächter
+skeleton_dragon:Skelettdrache
+skeleton_guard:Skelettwächter
+skeleton_hare:Skelett-Hase
+skeleton_knight:Skelett-Ritter
+skeleton_marauder:Skelettplünderer
+the_nameless:Der Namenlose
+thorn_cutter:Dornenjäger
+wall_mimic:Wand-Mimik
+toxic_carnivorous_plant:Toxische Fleischfressende Pflanze
+spider_crab:Spinnenkrabbe
+black_ant_protector:Schwarze Ameisenwächter
+venomous_centipede:Giftiger Tausendfüßler
+sand_devourer:Sandverschlinger
+cactus_abomination:Kaktusabomination
+goblin_captain:Goblincaptain
+general_gogz:General Gogz
+accursed_captain_hawk:Verfluchter Kapitän Hawk
+pirate_parrot:Piratenpapagei
+god-king_hubertus_III:Gottkönig Hubertus III
+grandmaster_udabras:Großmeister Udabras
+lion_queen_melora:Löwenkönigin Melora
+king_leonidas:König Leonidas
+saint_of_the_cold_crux:Heilige des Kalten Kreuzes
+cold_ruler:Kalter Herrscher
+greed_incarnation:Verkörperung der Gier
+moonlight_hunter:Mondlichtjäger
+dark_ruler_of_the_wastelands:Dunkler Herrscher der Einöde
+giant_mosquito:Riesenmücke
+rain_wing:Regenflügel
+tulip_wing:Tulpenflügel
+inferno_wing:Inferno Flügel
+fire_snake:Feuerschlange
+lunar_wing:Lunarflügel
+fur_wing:Fellflügel
+colossal_red_snake:Kolossale Rote Schlange
+colossal_purple_snake:Kolossale violette Schlange
+colossal_black_snake:Kolossale schwarze Schlange
+gnoll_archer:Gnoll Bogenschütze
+gnoll_vanguard:Gnoll Vorhut
+gnoll_swordsman:Gnoll Schwertkämpfer
+goblin_reaper:Goblin Sensenmann
+goblin_rider:Goblin Reiter
+goblin_sorcerer:Goblin Zauberer
+flying_leech:Fliegender Blutegel
+behemoth:Ungetüm
+ice_snake:Eisschlange
+gnoll_shaman:Gnoll Schamane
+undead_gnoll:Untoter Gnoll
+skeleton_commander:Skelettkommandant
+flaming_wolf:Brennender Wolf
+flaming_wolf_spirit:Brennender Wolfgeist
+brigand_skirmisher:Brigand Scharmützler
+brigand_watcher:Brigand Beobachter
+city_watch_ward:Stadtwache Schutz
+city_watch_commander:Stadtwache Kommandant
+city_watch_gate_keeper:Stadtwache-Torwächter
+colossal_bat:Kolossale Fledermaus
+colossal_dark_crow:Kolossale Dunkelkrähe
+colossal_scorpion:Kolossaler Skorpion
+forest_fox:Waldfuchs
+forest_deer:Waldhirsch
+forest_bee:Waldbiene
+forest_blue_flower:Blaue Waldblume
+forest_catermoth:Waldraupenfalter
+forest_ghost:Waldgeist
+forest_darkluff:Wald-Darkluff
+forest_fairy_dragon:Wald-Fee Drache
+forest_grasshopper:Waldgrashüpfer
+forest_imperial_widow:Wald-Kaiserwitwe
+forest_mageshroom:Waldmagierpilz
+forest_panda:Waldpanda
+forest_pink_flower:Rosa Waldblume
+forest_red_flower:Rote Waldblume
+forest_red_spider:Rote Waldspinne
+forest_scorpion:Waldskorpion
+forest_shroom:Waldpilz
+forest_spider:Waldspinne
+forest_spora:Waldspora
+forest_mothy:Waldfalter
+forest_sprout:Waldbusch
+forest_tree:Waldbäume
+forest_turtle:Waldschildkröte
+forest_uzu:Wald-Uzu
+forest_white_flower:Weiße Waldbume
+forest_wolf:Waldwolf
+ice_serpent:Eisnatter
+ice_wolf:Eiswolf
+ice_snow_golem:Eisschneegolem
+ice_snowman:Eisschneemann
+ice_wisp:Eisgeister
+ice_spike:Eisnagel
+plague_rat:Pesteratte
+undead_jiangshi:Unwichtiger Jiangshi
+wind_wisp:Windgeister
+zombie_forest_flower:Zombiewaldblume
+skeleton_mage:Skelett-Magier
+forest_green_spider:Waldgrüne Spinne
+forest_shroomy:Wald-Schwammi
+abyss_wing:Abyssflügel
+frozen_mantis:Gefrorene Gottesanbeterin
+ice_bull:Eisbulle
+ice_kindred_glacier:Eisverwandter Gletscher
+insects_swarm:Insektenschwarm
+mushroom_knight:Pilzritter
+rose_warrior:Rosenkrieger
+bone_sharpshooter:Knochen-Scharfschütze
+nightmare_spider:Albtraumspinne
+quadruraptor:Quadruraptor
+underworld_maw:Unterweltfresser
+wyvern_bat:Wyvern-Fledermaus
+majestic_boar:Majestätisches Wildschwein
+dragon_lamprey:Drachenneunauge
+rock_golem:Felsgolem
+cursed_scimitar:Verfluchter Krummsäbel
+tridentpupa:Dreizackpuppe
+insects_dragon:Insekten-Drache
+wood_golem:Holzgolem
+blazing_shroom:Feuriger Pilz
+chilling_shroom:Eisiger Pilz
+intoxicating_shroom:Rauschpilz
+snow_golem:Schneegolem
+haunting_ghost:Spukgeist
+bell_pepper_lizard:Paprika-Echse
+darkness_crawler_azrkoth:Dunkelheitskriecher Azr’koth
+book_mimic:Bücher-Mimik
+darkness_seeker:Dunkelheitssucher
+darkness_wisp:Dunkelheitswisp
+bush_wisp:Buschwisp
+leaf_imp:Blattkobold
+earth_wisp:Erdwisp
+mandrake:Alraune
+earth_lion:Erdlöwe
+earth_snake:Erdschlange
+earth_turtle:Erdkröte
+fire_lion:Feuerlöwe
+fire_turtle:Feuerschildkröte
+fox_bandit:Fuchsbandit
+fox_crook:Fuchsschurke
+fox_rogue:Fuchsfreibeuter
+shark_frog:Hai-Frosch
+bull_lion:Stierlöwe
+tiger_dragon:Tigerdrachen
+gargoyle_grifos:Gargoyle Grifos
+garuda_garunix:Garuda Garunix
+ghost_puppet:Geisterpuppe
+ghost_revelator:Geisteroffenbarer
+storm_hawk:Sturmfalke
+colossal_frog:Kolossaler Frosch
+flightless_bird:Flugunfähiger Vogel
+demon_critter_fox:Dämonen-Kritzel-Fuchs
+demon_critter_rabbit:Dämonen-Kritzel-Hase
+demon_critter_squirrel:Dämonen-Kritzel-Eichhörnchen
+demon_imp:Dämonen-Wichtel
+bighorn:Großhorn
+darkness_gargoyle:Dunkelheitsgargoyle
+devilimp:Devilimp
+dragon_wyrm:Drachenwyrm
+blue_wyvern:Blaue Wyvern
+brown_wyvern:Braune Wyvern
+red_wyvern:Rote Wyvern
+dryads_companion:Dryadenbegleiter
+mountain_snail:Bergschnecke
+mountain_warthog:Bergwildschwein
+mountain_wolf:Bergwolf
+mountain_winter_wolf:Bergwinterwolf
+mountain_behemoth:Bergbehemoth
+squirrel_mage:Eichhörnchenmagier
+squirrel_warrior:Eichhörnchenkrieger
+squirrel_defender:Eichhörnchenverteidiger
+root_shield:Wurzelschild
+cave_dweller_worm:Höhlenbewohnerwurm
+fire_vulture:Feuervogel
+fire_wisp:Feuerwisp
+ant_knight:Ameisenritter
+frozen_robber:Gefrorener Räuber
+frozen_skirmisher:Gefrorener Scharmützler
+ant_lion:Ameisenlöwe
+black_ant_ranger:Schwarze Ameisen-Waldläufer
+black_ant_mage:Schwarze Ameisen-Magier
+black_ant_berserker:Schwarze Ameisen-Berserker
+black_ant_knight:Schwarze Ameisen-Ritter
+kobold_archer:Kobold-Bogenschütze
+kobold_armor:Kobold-Rüstung
+kobolds_dagger:Kobold-Dolch
+unarmed_kobold:Unbewaffneter Kobold
+kobolds_mage:Kobold-Magier
+kobolds_spear:Kobold-Speer
+hornet_warrior:Hornissenkrieger
+goblin_fairy:Goblinsfee
+forest_goblin_axe:Wald-Goblinaxt
+forest_goblin_dagger:Wald-Goblinmesser
+forest_goblin_sword:Wald-Goblinschwert
+hercules_bug:Herkuleskäfer
+raiding_knight:Plündernder Ritter
+radiant_knight:Strahlender Ritter
+goblin_flag_bearer:Goblin Bannerträger
+mysterious_white_mage:Mysteriöser Weißmagier
+betafish:Betafisch
+biofish:Biofisch
+corrupt_executioner:Korrupter Henker
+iron_minotaur:Eisen-Minotaurus
+cerberus_ptolemaios:Cerberus Ptolemaios
+mountain_griffon:Berggriffon
+mountain_harpy:Berg-Harpyie
+mountain_hornet:Berg-Hornisse
+mountain_nanjo:Berg-Nanjo
+mountain_bunny:Bergkaninchen
+mountain_greathorn_goat:Berg-Großhornziege
+plant_snail:Pflanzenschnecke
+toxic_spreader:Toxische Verbreiter
+cape_sundew:Kap-Sonnentau
+beach_spore:Strandspore
+seagull:Möwe
+sea_lurker:Meereslurker
+sea_jellyfish:Meeresqualle
+sea_horse:Meeres-Pferd
+sea_lickitoad:Meeres-Lickitoad
+sea_shark:Meeres-Hai
+sea_spheria:Meeres-Spheria
+sea_tortoad:Meeres-Tortoad
+sea_turtle:Meeres-Schildkröte
+sea_shelltacke:Meeres-Shelltacke
+sea_octi:Meeres-Octi
+sea_octopus:Meeres-Oktopus
+sea_fatoad:Meeres-Fatoad
+sea_crab:Meeres-Krabbe
+sea_blue_dragon:Meeres-Blauer Drache
+turtle_golem:Schildkröten-Golem
+beach_pelican:Strand-Pelikan
+sea_abismos:Meeres-Abismos
+star_shell:Sternen-Schale
+sea_star_trio:Meeres-Sternen-Trio
+arcane_slime:Arkaner Schleim
+brigand:Straßenräuber
+undead_longshot:Untoter Meisterschütze
+undead_axe:Untote Axt
+undead_blade:Untote Klinge
+plant_exotic_flyer:Pflanze Exotischer Flieger
+blood_orc_slaughterer:Blut-Ork-Schlachter
+blood_orc_ravager:Blut-Ork-Verwüster
+blood_orc_impaler:Blut-Ork-Pfähler
+orc_war_drummer:Ork-Kriegstrommler
+knight_rose:Ritter Rose
+rat_gourmet:Feinschmecker-Ratte
+fork_rat:Gabel-Ratte
+informed_rat:Informierte Ratte
+black_roc:Schwarzer Roc
+bee:Biene
+sand_caterpillar:Sandraupe
+caterpillar:Raupe
+eyehopper:Augenhüpfer
+death_worm:Todeswurm
+lion_roach:Löwenschabe
+flame_monkey:Flammenaffe
+feathered_snake:Gefiederte Schlange
+horn_willow:Horn-Weide
+frost_gorilla:Frostgorilla
+electroctopus:Elektrokrake
+silver_avian:Silbervogel
+spike_hopper:Stachelhüpfer
+spiked_caterpillar:Stachelraupe
+toucan_panther:Tukanpanther
+rocktail_demolisher:Felsenschwanzzerstörer
+roaming_salamander:Wandersalamander
+void_gargoyle:Leere-Gargoyle
+white_minotaur:Weißer Minotaurus
+avian_elephant:Vogelelefant
+black_lance_knight:Schwarzlanzenritter
+bug_originator:Insektenerschaffer
+minivolcano:Minivulkan
+fire_salamander:Feuersalamander
+fire_dragonspawn:Feuerdrachebrut
+lava_spawn:Lavabrut
+fire_ogre:Feuerogre
+dwarf_dragon:Zwergdrache
+darkness_fox:Dunkelheitsfuchs
+light_fox:Lichtfuchs
+void_fox:Leerefuchs
+stone_knight_alpha:Steinritter Alpha
+stone_knight_zeta:Steinritter Zeta
+stone_knight_beta:Steinritter Beta
+tree_magical:Magischer Baum
+melee_tree:Nahkampfbaum
+tree_skirmisher:Baum-Scharmützler
+arcane_tree:Arkaner Baum
+twin_snow_golem:Zwillings-Schneegolem
+fire_bull:Feuerstier
+desert_scorpion:Wüstenskorpion
+corrupted_void_fire_wolf:Korrumpierter Leer-Feuerwolf
+darkness_raptor:Dunkelheitsraptor
+flame_raptor:Flammenraptor
+cold_raptor:Kälteraptor
+chilling_wolf_spirit:Frostiger Wolfgeist
+fallen_dragon_knight:Gefallener Drachenritter
+fallen_winged_sword:Gefallenes geflügeltes Schwert
+fallen_great_sword:Gefallenes Großschwert
+fire_toad:Feuerkröte
+fire_sabretooth:Feuer-Säbelzahn
+ice_glacier_spawn:Eisgletscherspawn
+knight_spear_elite:Ritter Speer Elite
+knight_sword_elite:Ritter Schwert Elite
+knights_spear_common:Ritter Speer Gemein
+knights_sword_common:Ritter Schwert Gemein
+masked_demon_giant:Maskierter Dämonenriese
+crocoknight:Krokoknight
+razortail_eagle:Schweifschneidender Adler
+bull_dragon:Bulldrache
+rabbit_knight:Hasenritter
+rabbit_bandit:Hasenbandit
+sea_fish:Meerfisch
+skull_fish:Schädelfisch
+skeleton_mage_mabon:Skelettmagier Mabon
+crocopaladin:Krokopaladin
+crocorogue:Krokorogue
+crocomage:Krokomagier
+ignited_bat:Entzündete Fledermaus
+lava_worm:Lavawurm
+fire_pumice_rock:Feuerbimsstein
+fire_pumice_sheep:Feuerbimsschaf
+volcanic_golem:Vulkanischer Golem
+living_armor:Lebende Rüstung
+two_headed_turtle:Zweiköpfige Schildkröte
+ice_cave_bat:Eishöhlenfledermaus
+ice_lion:Eislöwe
+snowball:Schneeball
+yeti_wisp:Yetigeist
+rabbit_stealth_archer:Kaninchen Schleichbogenschütze
+toxic_frog:Toxische Kröte
+toxic_horned_frog:Toxische Hornkröte
+toxic_white_frog:Toxische Weißkröte
+razor_tail_frog:Rasierklingenschwanzkröte
+unifrog:Unikröte
+toxic_root_mutation:Toxische Wurzelmutation
+toxic_root:Toxische Wurzel
+undead_claw_knight:Untoter Klauenritter
+undead_eastern_archer:Untoter Östlicher Bogenschütze
+undead_eastern_marauder:Untoter Östlicher Marodeur
+undead_eastern_plunderer:Untoter Östlicher Plünderer
+voidoll_erabos:Voidoll Erabos
+voidoll_erebia:Voidoll Erebia
+voidoll_erebus:Voidoll Erebus
+shark_bow:Hai-Bogen
+dagger_shark:Dolchhai
+great_shark:Großer Hai
+wind_snake:Windschlange
+wind_avian:Windvogel
+wind_bunny:Windhase
+feathered_golem:Feder-Golem
+feathered_razor:Feder-Rasierer
+wind_harpy:Windharpyie
+wind_lion:Windlöwe
+wind_mantis:Windmantis
+wind_spawn:Windgezücht
+wooden_doll_warrior:Holzpuppenkrieger
+wooden_doll_ranger:Holzpuppen-Waldläufer
+wooden_doll_berserk:Holzpuppe Berserker
+spirit_boar:Geisterwildschwein
+spirit_wolf:Geisterwolf
+spirit_baboon:Geisterpavian
+spirit_ape:Geistergorilla
+spirit_owl:Geistereule
+spirit_panda:Geisterpanda
+spirit_tiger:Geistertiger
+spirit_fox:Geisterfuchs
+spirit_primate:Geisterprimat
+shadow_invocation_knight:Schattenbeschwörungsritter
+sea_piranos:Meerespiranos
+giant_grizzly:Riesengrizzly
+darkness_behemoth:Finsternisbehemoth
+darkness_imp:Finsterniswichtel
+earth_bull:Erdstier
+acid_elemental:Säureelementar
+slime_earthi:Schleim Earthi
+colossal_mummy:Kolossale Mumie
+metal_golem:Metallgolem
+sorceress:Zauberin
+shimmering_dragon:Schimmernder Drache
+night_blade_assassin:Nachtklingen-Assassine
+night_blade_commander:Nachtklingen-Kommandant
+shadow_beast:Schattenbestie
+fiery_cultist:Feuriger Kultist
+cultist_caller:Kultistenrufer
+novice_cultist:Novizen-Kultist
+loyal_wolf:Loyaler Wolf
+consumed_hero:Verzehrter Held
+dark_elf_healer:Dunkelelfen-Heiler
+nightmare_stalker:Albtraum-Pirscher
+headless_horseman:Kopfloser Reiter
+shadow_creature:Schattenkreatur
+infernal_spirit:Höllengeist
+bloodstone_minotaur:Blutstein-Minotaurus
+sacred_vale_guardian:Hüter des Heiligen Tals
+vale_drake:Taldrache
+infernal_duelist:Höllenduellant
+blazing_spider:Glühende Spinne
+flaming_slime:Brennender Schleim
+lady_of_the_vale:Dame des Tals
+volcanic_maiden:Vulkanische Maid
+gemstone_fire_dragon:Edelstein-Feuerdrache
+ignithor_the_charred_sovereign:Ignithor, der verkohlte Souverän
+blightflame_first_of_dragons:Seuchenflamme, Erste der Drachen
+spiky_turtle:Dornige Schildkröte
+rudolph:Rudolph
+big_sack_goblin:Gobel mit großem Sack
+angry_snowman:Wütender Schneemann
+lich:Lich
+corrupted_rat:Korrumpierte Ratte
+nailguns:Nagelkanonen
