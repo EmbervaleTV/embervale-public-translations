@@ -1,14 +1,27 @@
-thought this might be useful to pin somewhere? or is the github link a bad idea
 
-How to submit events:
+### 📝 What to Include in Your Submission  
+1. **State that you're submitting an event.**  
+2. **Describe your event idea.** You can submit just an idea, but providing more details helps:  
+   - What is the **scenario**?  
+   - What **options** do players have?  
+   - What **text** follows each option?  
+3. **Specify outcomes.** Each option should mention its effects, such as:  
+   - Gained/lost **morale**, **chests**, **effects**, or **tools**  
+   - How long effects last  
+   - Suggested **skill rolls** and difficulty levels  
+   - Multiple possible outcomes for the same choice  
 
-To submit an event, open a bug ticket in report-a-bug https://discord.com/channels/840176928984268811/840499984209149992/1255560170080047117 
-This will give you a persistent ticket that you can go back and edit, add to, and that staff can easily contact you on.
+Even if you're not confident in writing, a rough draft of how you imagine it will help ensure the final event fits your vision.  
 
-From there, you should say that you're submitting an event, and then post the event in question. It's enough to share an idea for an event, but it helps to write out what the scenario is, what the options will be, and what text follows those options. Even if you don't think you're a very good writer, giving an example of how you want it to look will help make sure the final event matches how you imagined it. Each outcome should mention what effects you want it to have – gained/lost morale, chests, effects and how long they last, tools, and so on. You can suggest skill rolls, what difficulty you want those skill rolls to be, and even suggest multiple outcomes for the same option.
+### 📚 Useful Resources  
+- **List of effects & tools:**  
+  [adventureData.txt](https://github.com/EmbervaleTV/embervale-public-translations/blob/main/base-en/adventureData.txt)  
 
-A list of all effects and tools in the game can be found here: https://github.com/EmbervaleTV/embervale-public-translations/blob/main/base-en/adventureData.txt
+### ⚡ Faster Implementation  
+Events that use existing game mechanics can be added much quicker than those requiring new features, effects, or filters.  
 
-Events that use the existing functionality of the game can be added much faster than events that would need to add new features, effects, and filters.
+### ✅ Ticket Status  
+- **Seen:** Your ticket will be labeled **adventure-ideas** once reviewed.  
+- **Ready for the game:** When marked **solved**, your event is good to go!  
 
-You'll know your ticket was seen when it gets labeled adventure-ideas. Once it's marked solved, its ready to be added to the game!
+We appreciate your contributions! 🚀  

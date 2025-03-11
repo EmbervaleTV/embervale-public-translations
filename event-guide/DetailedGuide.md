@@ -112,3 +112,6 @@ PlayerCondition
 ```
 
 All conditions can be combined, for example you can require a previous event and additionally 80 more or higher. 
+
+
+A list of all effects and tools in the game can be found here: https://github.com/EmbervaleTV/embervale-public-translations/blob/main/base-en/adventureData.txt

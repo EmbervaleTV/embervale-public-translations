@@ -2,7 +2,8 @@
 
 We appreciate your help in shaping our events! There are two ways to contribute:
 
-### 💡 Submit Ideas  
+
+### 💡  Ideas  
 If you just want to suggest ideas, use **[SimpleGuide.md](SimpleGuide.md)**.  
 Keep it concise—focus on the core concept rather than full implementation details.
 
@@ -11,6 +12,13 @@ If you want to build a complete, ready-to-implement event, use **[DetailedGuide.
 This should include all necessary details, making it easy to integrate into the project.
 
 Thanks for contributing! 🚀
+
+## 📜 How to Submit Events  
+
+To submit an event, open a **bug ticket** in **#report-a-bug**:  
+🔗 [Open a Ticket](https://discord.com/channels/840176928984268811/840499984209149992/1255560170080047117)  
+
+This will create a **persistent ticket** that you can edit later, add more details to, and allow staff to contact you easily.  
 
 
 
