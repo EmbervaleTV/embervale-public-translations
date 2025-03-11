@@ -1,3 +1,240 @@
+// Effects Temporary
+effect_drunk:The player is drunk. // 33% chance to hurt yourself
+drunk:Drunk
+effect_hungover:The player is hungover. // -50% evasion
+hungover:Hungover
+effect_drowsy:The player feels drowsy. // Always goes second
+drowsy:Drowsy
+effect_agile:The player feels agile. // Always goes first
+agile:Agile
+effect_silenced:The player is silenced. // Disables abilities
+silenced:Silenced
+effect_shaky:The player is shaky. // +20% miss chance
+shaky:Shaky
+effect_precise:The player has advanced precision. // Your opponent can't dodge attacks
+precise:Precise
+effect_furious:The player is furious. // +25% damage, 33% chance to hurt self
+furious:Furious
+effect_healthy:The player feels exceptionally healthy. // +25% max health
+healthy:Healthy
+effect_lucky:The player is feeling lucky. // +25% luck
+lucky:Lucky
+effect_regenerating:The player is regenerating health and cannot join battles until fully healed. // +25% health per round
+regenerating:Regenerating
+effect_astral_healing:The player is receiving magical healing from another player. // +50% health per round
+astral_healing:Astral Healing
+effect_astral_stasis:The player is using magic to heal a companion. // Can't fight
+astral_stasis:Astral Stasis
+effect_ambushed:The player was recently ambushed. // Takes 2x damage
+ambushed:Ambushed
+effect_healer:The player recently cured a terrible disease. // All party members are healed for 10% each turn
+healer:Healer
+effect_upset:The player is upset about the leader's decisions. // -1 morale per round
+upset:Upset
+effect_terrified:The player has seen something highly unsettling. // -2 morale per round
+terrified:Terrified
+effect_vigilant:The player is extra vigilant. // +5% evasion
+vigilant:Vigilant
+effect_transparent:This player is hard to detect. // +10% evasion
+transparent:Transparent
+effect_thief:The player is a known thief and watched with suspicion. // +30% dexterity, -3 morale per round
+thief:Thief
+effect_blacksmith:The player has proven to be a capable blacksmith. // Priority for smithing checks, 10x smithing skill for adventure
+blacksmith:Blacksmith
+effect_chef:The player has demonstrated exceptional culinary skills. // Gains priority in cooking checks and a 10x boost to cooking skill during adventures.
+chef:Chef
+effect_ancient_knowledge:The player is inspired by long-lost knowledge. // +30% wisdom
+ancient_knowledge:Ancient Knowledge
+effect_cursed:The player is affected by a mysterious curse. // -100% luck
+cursed:Cursed
+effect_enhanced_magic:The player has an enhanced understanding of magic. // +20% magic damage, -20% magic damage taken
+enhanced_magic:Enhanced Magic
+effect_empathic:The player has heightened empathy and understanding. // +1 morale per round, +15% wisdom
+empathic:Empathic
+effect_uncomfortable:The player feels uneasy or out of place. // -50% fame
+uncomfortable:Uncomfortable
+effect_diplomatic:The player excels in negotiation and conflict resolution. // +30% fame, +5 on all fame rolls
+diplomatic:Diplomatic
+unavailable:Unavailable
+effect_unavailable:The player is currently busy elsewhere and temporarily can't participate in battles. // Can't battle
+dark_blessing:Dark Blessing
+effect_dark_blessing:The player was blessed by a sinister deity. // +20% all stats, +10% damage taken
+sick:Sick
+effect_sick:The player is suffering from sickness. // -10% all stats
+enlightened:Enlightened
+effect_enlightened:The player achieved a deeper understanding of the divines and everything sacred. // +4 to all wisdom rolls
+famished:Famished
+effect_famished:The player is weakened from not having a proper meal in a while. // -50% strength, -2 to all strength rolls
+plagued:Plagued
+effect_plagued:Suffering from an unknown plague, the player's vitality and strength are greatly reduced. // -50% vitality, -30% strength
+guardian_angel:Guardian Angel
+effect_guardian_angel:Protected by a divine deity, the player is bound to return once more after falling in combat.
+guardian_angel_activated:Guardian Angel [ACTIVATED]
+effect_guardian_angel_activated:A divine presence intervenes, restoring the fallen player for one last stand.
+protective_blessing:Protective Blessing
+effect_protective_blessing:A minor blessing protecting the affected from harm. // -5% damage taken
+dragon_slayer:Dragon Slayer
+effect_dragon_slayer:The player is renowned for slaying a dragon in single combat. // 500% damage vs dragons
+berserk:Berserk
+effect_berserk:Heavily injured, the player fell into an ancient rage. // +200% damage as long as badly wounded or maimed
+ambivalent:Ambivalent
+effect_ambivalent:The character is known for their contradictory ideas, leading to mixed results in their actions. // -10 to +10 on any roll
+8aeher_dt_hqjr:8aeher dt Hqjr
+effect_8aeher_dt_hqjr: 8aek ndr hqou shqlt fndj.
+seeker_of_egir:Seeker of Egir
+effect_seeker_of_egir:I seek for treasure in the deep abyss's cold, Be warned of the watchers, their gaze uncontrolled. Egirs give, but with caution, they weave their snare, In the depths, you’ll find what you might dare.
+haunted_by_egir:Haunted by Egir
+effect_haunted_by_egir:Haunted by an ancient, dark presence.
+strong:Strong
+effect_strong:The player possesses exceptional physical strength. // +10% strength, +1 to all strength rolls
+wise:Wise
+effect_wise:The player has profound wisdom and insight. // +10% wisdom, +1 to all wisdom rolls
+dexterous:Dexterous
+effect_dexterous:The player has exceptional agility and coordination. // +10% dexterity, +1 to all dexterity rolls
+
+effect_drained:The player feels drained and won't be able to fully recover anymore. // -25% max health
+drained:Drained
+effect_shattered:The player's armor is shattered. // -75% armor and magic resistance
+shattered:Shattered
+effect_overloaded:The player is weighed down by the collected treasure. // -25% dexterity
+overloaded:Overloaded
+effect_damaged_weapon:The player's weapon has seen better days and needs to be repaired. // -25% damage
+damaged_weapon:Damaged Weapon
+effect_improved_weapon:The player's weapon was recently improved. // +25% damage
+improved_weapon:Improved Weapon
+effect_disarmed:The player's weapon is in terrible shape. // -75% damage
+disarmed:Disarmed
+effect_vampiristic:The player is suspected to be a vampire. // Heal for 75% damage dealt, -10 morale for every battle, -50% health
+vampiristic:Vampiristic
+effect_banished:The player was banished from the party. // No longer part of the adventure
+banished:Banished
+effect_sacrificed:The player was sacrificed. // No longer part of the adventure
+sacrificed:Sacrificed
+effect_training:The player is training. // No longer part of the adventure
+training:Training
+effect_deserter:The player left the party. // No longer part of the adventure
+deserter:Deserter
+strong_leader:Strong Leader
+effect_strong_leader:The leader has proven exceptional strength. // +25% all stats
+usurper:Usurper
+effect_usurper:The player overthrew their leader and commands the group now. // 3x Voting Power
+bonded_friendship:Bonded Friendship
+effect_bonded_friendship:The player has formed a close friendship with another party member, enhancing their teamwork and morale. // +50% to all stats and +1 morale when in the same battle with their bonded friend
+major_blessing:Major Blessing
+effect_major_blessing:A major divine blessing. // +20% all stats
+profaned:Profaned
+effect_profaned:Abandoned by the divines for trying to commune with an outer god. // -20% all stats
+denounced:Denounced
+effect_denounced:The player is branded as an enemy of the crown. // -10 on all fame rolls
+divine_staff:Divine Staff
+effect_divine_staff:The player wields an ancient staff designed to smite all abominations. // +500% damage vs abominations
+destined_death:Destined Death
+effect_destined_death: A blade imbued with forbidden magic. // Death
+strong_armor:Strong Armor
+effect_strong_armor:This player's armor has proven to be extraordinarily sturdy.  // +25% armor
+transformed:Transformed
+effect_transformed:The player is transformed into a creature. // ???
+effect_shadow_remains:The player's form is now a shadow. // Takes double magic damage, 50% less physical damage.
+shadow_remains:Shadow Remains
+effect_petrified:The player is transformed into stone. // Unable to move or take actions
+petrified:Petrified
+
+// Health
+effect_wounded:The player is wounded. // -25% max health
+wounded:Wounded
+effect_badly_wounded:The player is badly wounded. // -50% max health
+badly_wounded:Badly Wounded
+effect_maimed:The player is maimed. // -75% max health
+maimed:Maimed
+effect_fainted:The player has fainted. // Can't battle anymore.
+fainted:Fainted
+
+
+// Tools
+arcane_armor_enchantment:Arcane Armor
+arcane_armor_enchantment_description:Negates 50% of incoming Arcane damage during the next battle.
+arcane_hex:Arcane Hex
+arcane_hex_description:Opponent receives 500% increased Arcane damage during the next battle.
+magical_surge:Magical Surge
+magical_surge_description:Magic attacks ignore Magic Resistance during the next battle.
+arcane_weapon_enchantment:Arcane Weapon Enchantment
+arcane_weapon_enchantment_description: Imbues weapons with Arcane power, changing their elemental damage and adding 25% bonus Arcane damage.
+ballista_bolt:Ballista Bolt
+ballista_bolt_description:Deals 10% of the opponent's current health as damage immediately.
+bewilderbrew:Bewilderbrew
+bewilderbrew_description:Strong alcohol that confuses the opponent, adding a 10% chance for them to harm themselves.
+blood_curse:Blood Curse
+blood_curse_description:Prevents the opponent from healing.
+bloody_knife:Bloody Knife
+bloody_knife_description:Adds a bleed effect to the opponent, reducing healing and dealing damage.
+brilliant_lifegem:Brilliant Lifegem
+brilliant_lifegem_description:Slows down the lifedrain decay of Warriors significantly.
+divine_armor_enchantment:Divine Armor
+divine_armor_enchantment_description:Negates 50% of incoming Divine damage during the next battle.
+divine_seal:Divine Seal
+divine_seal_description:Opponent receives 500% increased Divine damage during the next battle.
+divine_weapon_enchantment:Divine Weapon Enchantment
+divine_weapon_enchantment_description:Imbues weapons with Divine power, changing their elemental damage and adding 25% bonus Divine damage.
+elven_quiver:Elven Quiver
+elven_quiver_description:The Ranger now has a 15% chance to call upon a relic of the past: their former ability, Quickdraw.
+executioner:Executioner
+executioner_description:Executes opponents that drop below 10% HP.
+fire_sling:Fire Sling
+fire_sling_description:Adds a burn effect to the opponent, reducing melee damage and harming them.
+flash:Flash
+flash_description:The opponent becomes 10% more likely to miss.
+freezing_breath:Freezing Breath
+freezing_breath_description:Opponent receives 500% increased Frost damage during the next battle.
+frost_armor_enchantment:Frost Armor Enchantment
+frost_armor_enchantment_description:Negates 50% of incoming Frost damage during the next battle.
+frost_weapon_enchantment:Frost Weapon Enchantment
+frost_weapon_enchantment_description:Imbues weapons with Frost power, changing their elemental damage and adding 25% bonus Frost damage.
+fumes_of_agility:Fumes of Agility
+fumes_of_agility_description:Party members always go first in the next battle.
+heavy_chain:Heavy Chain
+heavy_chain_description:Stops the enemy from evading.
+icicle:Icicle
+icicle_description:Adds a freeze effect to the opponent, reducing ranged damage and harming them.
+illusion_cloak:Illusion Cloak
+illusion_cloak_description:Guarantees critical hits for Rogues after stealth is used.
+infernal_armor_enchantment:Infernal Armor Enchantment
+infernal_armor_enchantment_description:Negates 50% of incoming Infernal damage during the next battle.
+infernal_weapon_enchantment:Infernal Weapon Enchantment
+infernal_weapon_enchantment_description:Imbues weapons with Infernal power, changing their elemental damage and adding 25% bonus Infernal damage.
+love_potion:Love Potion
+love_potion_description:20% chance for the opponent to skip their attack. Only works on Humanoids.
+lucky_foot:Lucky Foot
+lucky_foot_description:Raises loot quality by 1 for the next combat.
+monster_mirror:Monster Mirror
+monster_mirror_description:A weaker copy of the opponent will fight for you in the next battle.
+mood_resonator:Mood Resonator
+mood_resonator_description:Doubles all morale gains and losses for the next battle.
+necrotic_armor_enchantment:Necrotic Armor Enchantment
+necrotic_armor_enchantment_description:Negates 50% of incoming Necrotic damage during the next battle.
+necrotic_weapon_enchantment:Necrotic Weapon Enchantment
+necrotic_weapon_enchantment_description:Imbues weapons with Necrotic power, changing their elemental damage and adding 25% bonus Necrotic damage.
+oil_pot:Oil Pot
+oil_pot_description:Opponent receives 500% increased Infernal damage during the next battle.
+plank_shield:Plank Shield
+plank_shield_description:Protects the party from the first 500 incoming damage.
+poison_flask:Poison Flask
+poison_flask_description:Poisons the enemy, dealing damage after every attack.
+polished_shield:Polished Shield
+polished_shield_description:+10% block chance for Knights in the next battle.
+revival_blessing:Revival Blessing
+revival_blessing_description:Revives the first to fall in battle.
+smoke_bomb:Smoke Bomb
+smoke_bomb_description:The opponent becomes 5% more likely to miss.
+strong_bones:Strong Bones
+strong_bones_description:Prevents injuries during the next battle.
+summoning_book:Summoning Book
+summoning_book_description:Summons a skeleton to join the next battle.
+undead_mark:Undead Mark
+undead_mark_description:Opponent receives 500% increased Necrotic damage during the next battle.
+vampire_bite:Vampire Bite
+vampire_bite_description:All players have a 20% chance to heal 20% of damage dealt during the next battle.
+
+
 // General
 morale:Morale
 changeWindowSize:Please increase the size of the window.
@@ -127,161 +364,6 @@ moraleMinus:Morale -
 effect_moraleMinus:todo
 remainingTurns:Remaining turns:
 
-// Effects Temporary
-effect_drunk:The player is drunk. // 33% chance to hurt yourself
-drunk:Drunk
-effect_hungover:The player is hungover. // -50% evasion
-hungover:Hungover
-effect_drowsy:The player feels drowsy. // Always goes second
-drowsy:Drowsy
-effect_agile:The player feels agile. // Always goes first
-agile:Agile
-effect_silenced:The player is silenced. // Disables abilities
-silenced:Silenced
-effect_shaky:The player is shaky. // +20% miss chance
-shaky:Shaky
-effect_precise:The player has advanced precision. // Your opponent can't dodge attacks
-precise:Precise
-effect_furious:The player is furious. // +25% damage, 33% chance to hurt self
-furious:Furious
-effect_healthy:The player feels exceptionally healthy. // +25% max health
-healthy:Healthy
-effect_lucky:The player is feeling lucky. // +25% luck
-lucky:Lucky
-effect_regenerating:The player is regenerating health and cannot join battles until fully healed. // +25% health per round
-regenerating:Regenerating
-effect_astral_healing:The player is receiving magical healing from another player. // +50% health per round
-astral_healing:Astral Healing
-effect_astral_stasis:The player is using magic to heal a companion. // Can't fight
-astral_stasis:Astral Stasis
-effect_ambushed:The player was recently ambushed. // Takes 2x damage
-ambushed:Ambushed
-effect_healer:The player recently cured a terrible disease. // All party members are healed for 10% each turn
-healer:Healer
-effect_upset:The player is upset about the leader's decisions. // -1 morale per round
-upset:Upset
-effect_terrified:The player has seen something highly unsettling. // -2 morale per round
-terrified:Terrified
-effect_vigilant:The player is extra vigilant. // +5% evasion
-vigilant:Vigilant
-effect_transparent:This player is hard to detect. // +10% evasion
-transparent:Transparent
-effect_thief:The player is a known thief and watched with suspicion. // +30% dexterity, -3 morale per round
-thief:Thief
-effect_blacksmith:The player has proven to be a capable blacksmith. // Priority for smithing checks, 10x smithing skill for adventure
-blacksmith:Blacksmith
-effect_chef:The player has demonstrated exceptional culinary skills. // Gains priority in cooking checks and a 10x boost to cooking skill during adventures.
-chef:Chef
-effect_ancient_knowledge:The player is inspired by long-lost knowledge. // +30% wisdom
-ancient_knowledge:Ancient Knowledge
-effect_cursed:The player is affected by a mysterious curse. // -100% luck
-cursed:Cursed
-effect_enhanced_magic:The player has an enhanced understanding of magic. // +20% magic damage, -20% magic damage taken
-enhanced_magic:Enhanced Magic
-effect_empathic:The player has heightened empathy and understanding. // +1 morale per round, +15% wisdom
-empathic:Empathic
-effect_uncomfortable:The player feels uneasy or out of place. // -50% fame
-uncomfortable:Uncomfortable
-effect_diplomatic:The player excels in negotiation and conflict resolution. // +30% fame, +5 on all fame rolls
-diplomatic:Diplomatic
-unavailable:Unavailable
-effect_unavailable:The player is currently busy elsewhere and temporarily can't participate in battles. // Can't battle
-dark_blessing:Dark Blessing
-effect_dark_blessing:The player was blessed by a sinister deity. // +20% all stats, +10% damage taken
-sick:Sick
-effect_sick:The player is suffering from sickness. // -10% all stats
-enlightened:Enlightened
-effect_enlightened:The player achieved a deeper understanding of the divines and everything sacred. // +4 to all wisdom rolls
-famished:Famished
-effect_famished:The player is weakened from not having a proper meal in a while. // -50% strength, -2 to all strength rolls
-plagued:Plagued
-effect_plagued:Suffering from an unknown plague, the player's vitality and strength are greatly reduced. // -50% vitality, -30% strength
-guardian_angel:Guardian Angel
-effect_guardian_angel:Protected by a divine deity, the player is bound to return once more after falling in combat.
-guardian_angel_activated:Guardian Angel [ACTIVATED]
-effect_guardian_angel_activated:A divine presence intervenes, restoring the fallen player for one last stand.
-protective_blessing:Protective Blessing
-effect_protective_blessing:A minor blessing protecting the affected from harm. // -5% damage taken
-dragon_slayer:Dragon Slayer
-effect_dragon_slayer:The player is renowned for slaying a dragon in single combat. // 500% damage vs dragons
-berserk:Berserk
-effect_berserk:Heavily injured, the player fell into an ancient rage. // +200% damage as long as badly wounded or maimed
-ambivalent:Ambivalent
-effect_ambivalent:The character is known for their contradictory ideas, leading to mixed results in their actions. // -10 to +10 on any roll
-8aeher_dt_hqjr:8aeher dt Hqjr
-effect_8aeher_dt_hqjr: 8aek ndr hqou shqlt fndj.
-seeker_of_egir:Seeker of Egir
-effect_seeker_of_egir:I seek for treasure in the deep abyss's cold, Be warned of the watchers, their gaze uncontrolled. Egirs give, but with caution, they weave their snare, In the depths, you’ll find what you might dare.
-haunted_by_egir:Haunted by Egir
-effect_haunted_by_egir:Haunted by an ancient, dark presence.
-
-strong:Strong
-effect_strong:The player possesses exceptional physical strength. // +10% strength, +1 to all strength rolls
-wise:Wise
-effect_wise:The player has profound wisdom and insight. // +10% wisdom, +1 to all wisdom rolls
-dexterous:Dexterous
-effect_dexterous:The player has exceptional agility and coordination. // +10% dexterity, +1 to all dexterity rolls
-
-
-// Effects Permanent
-effect_drained:The player feels drained and won't be able to fully recover anymore. // -25% max health
-drained:Drained
-effect_shattered:The player's armor is shattered. // -75% armor and magic resistance
-shattered:Shattered
-effect_overloaded:The player is weighed down by the collected treasure. // -25% dexterity
-overloaded:Overloaded
-effect_damaged_weapon:The player's weapon has seen better days and needs to be repaired. // -25% damage
-damaged_weapon:Damaged Weapon
-effect_improved_weapon:The player's weapon was recently improved. // +25% damage
-improved_weapon:Improved Weapon
-effect_disarmed:The player's weapon is in terrible shape. // -75% damage
-disarmed:Disarmed
-effect_vampiristic:The player is suspected to be a vampire. // Heal for 75% damage dealt, -10 morale for every battle, -50% health
-vampiristic:Vampiristic
-effect_banished:The player was banished from the party. // No longer part of the adventure
-banished:Banished
-effect_sacrificed:The player was sacrificed. // No longer part of the adventure
-sacrificed:Sacrificed
-effect_training:The player is training. // No longer part of the adventure
-training:Training
-effect_deserter:The player left the party. // No longer part of the adventure
-deserter:Deserter
-strong_leader:Strong Leader
-effect_strong_leader:The leader has proven exceptional strength. // +25% all stats
-usurper:Usurper
-effect_usurper:The player overthrew their leader and commands the group now. // 3x Voting Power
-bonded_friendship:Bonded Friendship
-effect_bonded_friendship:The player has formed a close friendship with another party member, enhancing their teamwork and morale. // +50% to all stats and +1 morale when in the same battle with their bonded friend
-major_blessing:Major Blessing
-effect_major_blessing:A major divine blessing. // +20% all stats
-profaned:Profaned
-effect_profaned:Abandoned by the divines for trying to commune with an outer god. // -20% all stats
-denounced:Denounced
-effect_denounced:The player is branded as an enemy of the crown. // -10 on all fame rolls
-divine_staff:Divine Staff
-effect_divine_staff:The player wields an ancient staff designed to smite all abominations. // +500% damage vs abominations
-destined_death:Destined Death
-effect_destined_death: A blade imbued with forbidden magic. // Death
-strong_armor:Strong Armor
-effect_strong_armor:This player's armor has proven to be extraordinarily sturdy.  // +25% armor
-
-effect_transformed:The player is transformed into a creature. // ???
-transformed:Transformed
-
-effect_shadow_remains:The player's form is now a shadow. // Takes double magic damage, 50% less physical damage.
-shadow_remains:Shadow Remains
-effect_petrified:The player is transformed into stone. // Unable to move or take actions
-petrified:Petrified
-
-// Health
-effect_wounded:The player is wounded. // -25% max health
-wounded:Wounded
-effect_badly_wounded:The player is badly wounded. // -50% max health
-badly_wounded:Badly Wounded
-effect_maimed:The player is maimed. // -75% max health
-maimed:Maimed
-effect_fainted:The player has fainted. // Can't battle anymore.
-fainted:Fainted
 
 // Checks
 check_strength:A lot of physical strength is required.
@@ -345,87 +427,3 @@ adventureCooldownRoyal:50% shorter adventure cooldown.
 adventureCooldownMythical:50% shorter adventure cooldown.
 adventureCooldownLegendary:25% shorter adventure cooldown.
 adventureCooldownEpic:10% shorter adventure cooldown.
-
-// Tools
-arcane_armor_enchantment:Arcane Armor
-arcane_armor_enchantment_description:Negates 50% of incoming Arcane damage during the next battle.
-arcane_hex:Arcane Hex
-arcane_hex_description:Opponent receives 500% increased Arcane damage during the next battle.
-magical_surge:Magical Surge
-magical_surge_description:Magic attacks ignore Magic Resistance during the next battle.
-arcane_weapon_enchantment:Arcane Weapon Enchantment
-arcane_weapon_enchantment_description: Imbues weapons with Arcane power, changing their elemental damage and adding 25% bonus Arcane damage.
-ballista_bolt:Ballista Bolt
-ballista_bolt_description:Deals 10% of the opponent's current health as damage immediately.
-bewilderbrew:Bewilderbrew
-bewilderbrew_description:Strong alcohol that confuses the opponent, adding a 10% chance for them to harm themselves.
-blood_curse:Blood Curse
-blood_curse_description:Prevents the opponent from healing.
-bloody_knife:Bloody Knife
-bloody_knife_description:Adds a bleed effect to the opponent, reducing healing and dealing damage.
-brilliant_lifegem:Brilliant Lifegem
-brilliant_lifegem_description:Slows down the lifedrain decay of Warriors significantly.
-divine_armor_enchantment:Divine Armor
-divine_armor_enchantment_description:Negates 50% of incoming Divine damage during the next battle.
-divine_seal:Divine Seal
-divine_seal_description:Opponent receives 500% increased Divine damage during the next battle.
-divine_weapon_enchantment:Divine Weapon Enchantment
-divine_weapon_enchantment_description:Imbues weapons with Divine power, changing their elemental damage and adding 25% bonus Divine damage.
-elven_quiver:Elven Quiver
-elven_quiver_description:The Ranger now has a 15% chance to call upon a relic of the past: their former ability, Quickdraw.
-executioner:Executioner
-executioner_description:Executes opponents that drop below 10% HP.
-fire_sling:Fire Sling
-fire_sling_description:Adds a burn effect to the opponent, reducing melee damage and harming them.
-flash:Flash
-flash_description:The opponent becomes 10% more likely to miss.
-freezing_breath:Freezing Breath
-freezing_breath_description:Opponent receives 500% increased Frost damage during the next battle.
-frost_armor_enchantment:Frost Armor Enchantment
-frost_armor_enchantment_description:Negates 50% of incoming Frost damage during the next battle.
-frost_weapon_enchantment:Frost Weapon Enchantment
-frost_weapon_enchantment_description:Imbues weapons with Frost power, changing their elemental damage and adding 25% bonus Frost damage.
-fumes_of_agility:Fumes of Agility
-fumes_of_agility_description:Party members always go first in the next battle.
-heavy_chain:Heavy Chain
-heavy_chain_description:Stops the enemy from evading.
-icicle:Icicle
-icicle_description:Adds a freeze effect to the opponent, reducing ranged damage and harming them.
-illusion_cloak:Illusion Cloak
-illusion_cloak_description:Guarantees critical hits for Rogues after stealth is used.
-infernal_armor_enchantment:Infernal Armor Enchantment
-infernal_armor_enchantment_description:Negates 50% of incoming Infernal damage during the next battle.
-infernal_weapon_enchantment:Infernal Weapon Enchantment
-infernal_weapon_enchantment_description:Imbues weapons with Infernal power, changing their elemental damage and adding 25% bonus Infernal damage.
-love_potion:Love Potion
-love_potion_description:20% chance for the opponent to skip their attack. Only works on Humanoids.
-lucky_foot:Lucky Foot
-lucky_foot_description:Raises loot quality by 1 for the next combat.
-monster_mirror:Monster Mirror
-monster_mirror_description:A weaker copy of the opponent will fight for you in the next battle.
-mood_resonator:Mood Resonator
-mood_resonator_description:Doubles all morale gains and losses for the next battle.
-necrotic_armor_enchantment:Necrotic Armor Enchantment
-necrotic_armor_enchantment_description:Negates 50% of incoming Necrotic damage during the next battle.
-necrotic_weapon_enchantment:Necrotic Weapon Enchantment
-necrotic_weapon_enchantment_description:Imbues weapons with Necrotic power, changing their elemental damage and adding 25% bonus Necrotic damage.
-oil_pot:Oil Pot
-oil_pot_description:Opponent receives 500% increased Infernal damage during the next battle.
-plank_shield:Plank Shield
-plank_shield_description:Protects the party from the first 500 incoming damage.
-poison_flask:Poison Flask
-poison_flask_description:Poisons the enemy, dealing damage after every attack.
-polished_shield:Polished Shield
-polished_shield_description:+10% block chance for Knights in the next battle.
-revival_blessing:Revival Blessing
-revival_blessing_description:Revives the first to fall in battle.
-smoke_bomb:Smoke Bomb
-smoke_bomb_description:The opponent becomes 5% more likely to miss.
-strong_bones:Strong Bones
-strong_bones_description:Prevents injuries during the next battle.
-summoning_book:Summoning Book
-summoning_book_description:Summons a skeleton to join the next battle.
-undead_mark:Undead Mark
-undead_mark_description:Opponent receives 500% increased Necrotic damage during the next battle.
-vampire_bite:Vampire Bite
-vampire_bite_description:All players have a 20% chance to heal 20% of damage dealt during the next battle.
