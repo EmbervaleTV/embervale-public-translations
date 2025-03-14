@@ -28,7 +28,8 @@ This will create a **persistent ticket** that you can edit later, add more detai
 - **Text must be original** – It cannot be copied or just rewritten from any source.  
 - **Must fit the game theme** – Events should align with the world, lore, and atmosphere of the game.  
 - **References to other game series** – Subtle references can be fun, but avoid direct mentions. Instead, transcribe the essence of the reference—most players will recognize it.  
-
+- **No references to real players or streamers** – Avoid any mentions that could directly reference individuals.
+- **Avoid content that could upset a large number of players** – Events should be engaging and fun, not divisive and cause discussions. For example, avoid topics like religion, game balancing, explicit or adult-themed content, or real-world events.
 
 ### ⚖️ Balancing Events and Rewards  
 
