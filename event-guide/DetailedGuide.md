@@ -47,7 +47,8 @@ Available groupActions with parameters:
     -------
     # You can add monsters as companion. The parameter monster can also be used for the name of a predefined NPC. If you don't specify a monster you get a random human companion
     add_companion(monster=None, classification:str, gender:str, effects=[]) # effects is here the same as playerEffects below but added on creation.
-    
+    remove_companion(players: list) # remove companion.
+
     -------
     # trigger a specific event in x rooms
     queue_event(name: str, room_offset_min: int, room_offset_max: int)
