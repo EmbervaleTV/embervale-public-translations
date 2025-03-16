@@ -28,7 +28,10 @@ Available groupActions with parameters:
     
     -------
     add_tool(name: str)
-    
+
+    -------
+    add_fame(players: list, value: int)
+
     -------
     start_pvp_battle(team_1: list, team_2: list, difficulty_multiplier: float, faint=True)
     
