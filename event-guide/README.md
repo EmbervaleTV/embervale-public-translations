@@ -30,6 +30,7 @@ This will create a **persistent ticket** that you can edit later, add more detai
 - **References to other game series** – Subtle references can be fun, but avoid direct mentions. Instead, transcribe the essence of the reference—most players will recognize it.  
 - **No references to real players or streamers** – Avoid any mentions that could directly reference individuals.
 - **Avoid content that could upset a large number of players** – Events should be engaging and fun, not divisive and cause discussions. For example, avoid topics like religion, game balancing, explicit or adult-themed content, or real-world events.
+- **No violence against children** – This includes any harm, suffering, or dark themes involving children or childlike characters (e.g., vampire children).
 
 ### ⚖️ Balancing Events and Rewards  
 
