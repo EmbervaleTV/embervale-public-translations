@@ -96,7 +96,7 @@ Adventure events are triggered based on specific conditions. By default, events 
 
 Possible Conditions:
 ```
-{"lobbySize": 30}: Triggers only if more than 30 people joined an adventure
+{"lobby_size": 30}: Triggers only if more than 30 people joined an adventure
 {"morale_below": 20}: Triggers when morale is between 0 and 19.
 {"morale_above": 60}: Triggers when morale is 61 or higher.
 {"monster_lvl_below": 50}: Triggers when the monster's level is below 50.
@@ -104,7 +104,11 @@ Possible Conditions:
 {"items": {"coin_stack": 1}} # Triggers the event if at least the specified amount of items or more are in the current Adventure inventory
 {"all_previous_events": ["a_dire_prediction", "arena_betting_spectacle"]}: Triggers only if both specified events have occurred in this adventure. You can specify an unlimited number of prerequisite events, allowing for complex sequences.
 {"any_previous_events": ["a_dire_prediction", "arena_betting_spectacle"]}: Triggers if any of the specified events have occurred in this adventure.
-{"leaderEffect": ["deserter", "training",  "banished", 'unavailable', 'petrified', "fainted"]}: Event only triggers when the leader has any of these effects
+{"not_previous_events": ["a_dire_prediction", "arena_betting_spectacle"]}: Triggers if not a single one of the specified events have occurred in this adventure.
+{"all_global_effects": ["kingdom_in_peril", "bright_hair"]}: Triggers only if both (or more) specified effects are in this adventure.
+{"any_global_effects": ["kingdom_in_peril", "bright_hair"]}: Triggers if any of the specified effects are in this adventure.
+{"not_global_effects": ["kingdom_in_peril", "bright_hair"]}: Triggers if none of the specified effects are in this adventure.
+
 ```
 
 PlayerCondition
