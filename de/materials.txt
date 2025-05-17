@@ -80,8 +80,6 @@ riverland_potato:Flussland-Kartoffel
 sea_salt:Meersalz
 silver_key:Silberschlüssel
 silver_key_description:Wird verwendet, um etwas zu öffnen...
-mysterious_potion:Mysteriöser Trank
-mysterious_potion_description:Ein verdächtig aussehender Trank... soll ich ihn trinken?
 rare_gem:Seltener Edelstein
 rare_gem_description:Ein seltsamer Edelstein. Könnte wertvoll sein.
 stack_of_coins:Stapel Münzen
@@ -194,3 +192,10 @@ stranded_seafire-key_description:Level 40 - 60
 deepwater_passage-key_description:Level 50 - 70
 graveyard_of_the_nameless-key_description:Level 120 - 140
 duskwood-key_description:Level 110 - 130
+dragons_breath_mint:Drachenodem-Minze
+giants_blood_essence:Riesenblut-Essenz
+dragons_breath_mint_flavor:Dieses Kraut soll dem Verbraucher die Fähigkeit verleihen, kurze Flammenstöße zu atmen.
+giants_blood_essence_flavor:Destilliert aus dem Blut eines Riesen, verleiht diese Essenz Stärke und Widerstandskraft.
+milk:Milch
+wheat:Weizen
+wood:Holz

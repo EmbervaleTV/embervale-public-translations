@@ -62,6 +62,7 @@ salad_description:Restores {amount} stamina
 // Smithing
 
 stone:Stone
+wood:Wood
 flint:Flint
 iron_ore:Iron Ore
 copper_ore:Copper Ore
@@ -87,11 +88,13 @@ brain_stool:Brain Stool
 choncap:Choncap
 deeproot_truffle:Deeproot Truffle
 dragon's_breath_mint:Dragon's Breath Mint
+dragons_breath_mint:Dragon's Breath Mint
 duskgloom_morels:Duskgloom Morels
 duskwight_berries:Duskwight Berries
 echostem_reeds:Echostem Reeds
 emberstalk_toadstool:Emberstalk Toadstool
 giant's_blood_essence:Giant's Blood Essence
+giants_blood_essence:Giant's Blood Essence
 glacierthorn_flower:Glacierthorn Flower
 maple_leaves:Maple Leaves
 skytear_crystals:Skytear Crystals
@@ -121,13 +124,14 @@ pepper:Pepper
 raw_pork:Raw Pork
 riverland_potato:Riverland Potato
 sea_salt:Sea Salt
+milk:Milk
+wheat:Wheat
 
 // Misc
 
 silver_key:Silver Key
 silver_key_description:Used to unlock something...
-mysterious_potion:Mysterious Potion
-mysterious_potion_description:A suspicious-looking potion... should I drink it?
+
 rare_gem:Rare Gem
 rare_gem_description:An odd gem. Could be valuable.
 stack_of_coins:Stack of Coins
@@ -206,11 +210,13 @@ brain_stool_flavor: This strange fungus grows in dark, damp places, its properti
 choncap_flavor: A small, round mushroom that releases spores with powerful hallucinogenic effects.
 deeproot_truffle_flavor: Found deep underground, this truffle is said to boost both stamina and magical energy when consumed.
 dragon's_breath_mint_flavor: This herb is said to grant the consumer the ability to breathe short bursts of flame.
+dragons_breath_mint_flavor: This herb is said to grant the consumer the ability to breathe short bursts of flame.
 duskgloom_morels_flavor: Growing in the darkest corners of the forest, these morels are used in invisibility potions.
 duskwight_berries_flavor: These shadowy berries are known for their ability to enhance stealth and agility.
 echostem_reeds_flavor: These hollow reeds are prized for their ability to amplify sound, often used in wind instruments or communication spells.
 emberstalk_toadstool_flavor: A fiery fungus that burns with an inner glow, often used in fire-based alchemical recipes.
 giant's_blood_essence_flavor: Distilled from the blood of a giant, this essence imbues strength and resilience.
+giants_blood_essence_flavor: Distilled from the blood of a giant, this essence imbues strength and resilience.
 glacierthorn_flower_flavor: Growing only in the coldest regions, this flower is used in frost-related potions and spells.
 maple_leaves_flavor: These leaves are often used in healing poultices, said to calm the mind and body.
 skytear_crystals_flavor: These crystals hold the power of the sky itself, crackling with electric energy.

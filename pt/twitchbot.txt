@@ -53,3 +53,5 @@ raidMonster9:Terror de Fita, o Demônio das Guirlandas
 raidMonster10:Carolvine, o Quebra-canções
 raidNoActiveRaid:Não há incursão ativa agora.
 adventureSurrenderConfirmation:Você pode encerrar a aventura a qualquer momento rendendo-se, sem perder nenhum saque.
+monsterDiscovered:Monstros Descobertos
+ascendedBossesDiscovered:Chefes Ascendidos Descobertos

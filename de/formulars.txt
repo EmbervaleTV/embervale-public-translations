@@ -1,107 +1,107 @@
 statDMG-mage:Der Bereich des magischen Schadens, den du verursachen kannst.
-statDMG-F-mage:Schaden = Waffenschaden * ((Weisheit / 60) + 1)
+statDMG-F-mage:Schaden = Waffenschaden * 0,9 * (Weisheit * 0,015 + 1)
 statDMG-knight:Der Bereich des physischen Schadens, den du verursachen kannst.
-statDMG-F-knight:Schaden = (Waffenschaden / 2,66) * ((Stärke / 60) + 1)
+statDMG-F-knight:Schaden = Waffenschaden * 0,425 * (Stärke * 0,015 + 1)
 statDMG-ranger:Der Bereich des physischen Schadens, den du verursachen kannst.
-statDMG-F-ranger:Schaden = (Waffenschaden / 1,54) * ((Geschicklichkeit / 60) + 1)
+statDMG-F-ranger:Schaden = Waffenschaden * 0,75 * (Gewandtheit * 0,015 + 1)
 statDMG-warrior:Der Bereich des physischen Schadens, den du verursachen kannst.
-statDMG-F-warrior:Schaden = (Waffenschaden / 2) * ((Stärke / 60) + 1)
+statDMG-F-warrior:Schaden = Waffenschaden * 0,5 * (Stärke * 0,015 + 1)
 statDMG-rogue:Der Bereich des physischen Schadens, den du verursachen kannst.
-statDMG-F-rogue:Schaden = (Waffenschaden / 1,66) * ((Geschicklichkeit / 60) + 1)
+statDMG-F-rogue:Schaden = Waffenschaden * 0,625 * (Gewandtheit * 0,015 + 1)
 statVIT-mage:Die Menge an Schaden, die du einstecken kannst.
-statVIT-F-mage:(1 + Vit * 0.1) * (1 + 0.01 * lvl) * 11.5 + 10
+statVIT-F-mage:(vit * 0.015) * (1.5 * Level+10) * 2.7 + 15
 statVIT-knight:Die Menge an Schaden, die du einstecken kannst.
-statVIT-F-knight:((1 + vit * 0,1) * (1 + 0,01 * lvl) * 22 + 10) * 1,15
+statVIT-F-knight:(vit * 0.015) * (1.5 * Level+10) * 4.5 * 1.15 + 15
 statVIT-ranger:Die Menge an Schaden, die du einstecken kannst.
-statVIT-F-ranger:(1 + Vit * 0.1) * (1 + 0.01 * lvl) * 15 + 10
+statVIT-F-ranger:(vit * 0.015) * (1.5 * Level+10) * 3.1 + 15
 statVIT-warrior:Die Menge an Schaden, die du einstecken kannst.
-statVIT-F-warrior:(1 + Vit * 0.1) * (1 + 0.01 * lvl) * 18 + 10
+statVIT-F-warrior:(vit * 0.015) * (1.5 * Level+10) * 4.0 + 15
 statVIT-rogue:Die Menge an Schaden, die du einstecken kannst.
-statVIT-F-rogue:(1 + vit * 0,1) * (1 + 0,01 * lvl) * 16 + 10
+statVIT-F-rogue:(vit * 0.015) * (1.5 * Level+10) * 3.6 + 15
 statArmor-mage:Reduziert allen physischen Schaden.
 statArmor-M-mage:Maximalwert 50%.
-statArmor-F-mage:((Rüstung + Stärke/3) / lvl * 0,08) * 100
+statArmor-F-mage:((Rüstung + Stärke/3) / Level * 0.08) * 100
 statArmor-knight:Reduziert allen physischen Schaden.
-statArmor-F-knight:((Rüstung / lvl) * 0,08) * 100
+statArmor-F-knight:((Rüstung / Level) * 0.08) * 100
 statArmor-M-knight:Maximalwert 50%.
 statArmor-ranger:Reduziert allen physischen Schaden.
-statArmor-F-ranger:((Rüstung + Stärke/3) / lvl * 0,08) * 100
+statArmor-F-ranger:((Rüstung + Stärke/3) / Level * 0.08) * 100
 statArmor-M-ranger:Maximalwert 50%.
 statArmor-warrior:Reduziert allen physischen Schaden.
 statArmor-M-warrior:Maximalwert 50%.
 statArmor-rogue:Reduziert allen physischen Schaden.
-statArmor-F-rogue:((Rüstung + Stärke/3) / lvl * 0,08) * 100
+statArmor-F-rogue:((Rüstung + Stärke/3) / Level * 0.08) * 100
 statArmor-M-rogue:Maximalwert 50%.
 statMagRes-mage:Reduziert allen magischen Schaden.
-statMagRes-F-mage:(Magieresistenz / (lvl * 10)) * 100
+statMagRes-F-mage:(2 * Magische Resistenz + Weisheit/4) / (Level * 10)) * 100
 statMagRes-M-mage:Maximalwert 50%.
 statMagRes-knight:Reduziert allen magischen Schaden.
-statMagRes-F-knight:((Magieresistenz + Weisheit/3) / (lvl * 10)) * 100
+statMagRes-F-knight:((Magischer Widerstand + Weisheit/3) / (Level * 10)) * 100
 statMagRes-M-knight:Maximalwert 50 %.
 statMagRes-ranger:Reduziert allen magischen Schaden.
-statMagRes-F-ranger:((Magieresistenz + Weisheit/3) / (lvl * 10)) * 100
+statMagRes-F-ranger:((Magischer Widerstand + Weisheit/3) / (Level * 10)) * 100
 statMagRes-M-ranger:Maximalwert 50 %.
 statMagRes-warrior:Reduziert allen magischen Schaden.
-statMagRes-F-warrior:((Magieresistenz + Weisheit/3) / (lvl * 10)) * 100
+statMagRes-F-warrior:((Magischer Widerstand + Weisheit/3) / (Level * 10)) * 100
 statMagRes-M-warrior:Maximalwert 50 %.
 statMagRes-rogue:Reduziert allen magischen Schaden.
-statMagRes-F-rogue:((Magieresistenz + Weisheit/3) / (lvl * 10)) * 100
+statMagRes-F-rogue:((Magischer Widerstand + Weisheit/3) / (Level * 10)) * 100
 statMagRes-M-rogue:Maximalwert 50 %.
 statCritMod-mage:Bestimmt die Stärke von kritischen Treffern.
-statCritMod-F-mage:(Glück / ((lvl + 1) * 2)) + 1.2
-statCritMod-M-mage:Maximalwert x3,0.
+statCritMod-F-mage:(Glück / Level / 2.25) + 1.2
+statCritMod-M-mage:Maximalwert x2,8.
 statCritMod-knight:Bestimmt die Stärke von kritischen Treffern.
-statCritMod-F-knight:(Glück / ((lvl + 1) * 2)) + 1.1
-statCritMod-M-knight:Maximalwert x1,8.
+statCritMod-F-knight:(Glück / Level / 2.25) + 1.1
+statCritMod-M-knight:Maximalwert x1.75.
 statCritMod-ranger:Bestimmt die Stärke von kritischen Treffern.
-statCritMod-F-ranger:(Glück / ((lvl + 1) * 2)) + 1.1
+statCritMod-F-ranger:(Glück / Level / 2.25) + 1.1
 statCritMod-M-ranger:Maximalwert x1,8.
 statCritMod-warrior:Bestimmt die Stärke von kritischen Treffern.
-statCritMod-F-warrior:(Glück / ((lvl + 1) * 2)) + 1.1
+statCritMod-F-warrior:(Glück / Level / 2.25) + 1.1
 statCritMod-M-warrior:Maximaler Wert x1.8.
 statCritMod-rogue:Bestimmt die Stärke von kritischen Treffern.
-statCritMod-F-rogue:(Glück / ((lvl + 1) * 2)) + 1.1
-statCritMod-M-rogue:Maximaler Wert x1.8.
+statCritMod-F-rogue:(Glück / Stufe / 2,25) + 1,1
+statCritMod-M-rogue:Maximalwert x2,0.
 statCritPerc-mage:Bestimmt die Chance auf einen kritischen Treffer.
-statCritPerc-F-mage:((Genauigkeit / lvl) * 0,25) * 100
+statCritPerc-F-mage:(Genauigkeit / Stufe) * 20
 statCritPerc-M-mage:Maximaler Wert 50%
 statCritPerc-knight:Bestimmt die Chance, einen kritischen Treffer zu landen.
-statCritPerc-F-knight:((Genauigkeit / lvl) * 0,25) * 100
+statCritPerc-F-knight:(Genauigkeit / Stufe) * 20
 statCritPerc-M-knight:Maximaler Wert 50%
 statCritPerc-ranger:Bestimmt die Chance, einen kritischen Treffer zu landen.
-statCritPerc-F-ranger:((Genauigkeit / lvl) * 0,25) * 100 + 10
-statCritPerc-M-ranger:Maximaler Wert 80%
+statCritPerc-F-ranger:((Genauigkeit / Stufe) * 20) + 10
+statCritPerc-M-ranger:Maximalwert 75 %
 statCritPerc-warrior:Bestimmt die Chance, einen kritischen Treffer zu landen.
-statCritPerc-F-warrior:((Genauigkeit / lvl) * 0,25) * 100
+statCritPerc-F-warrior:(Genauigkeit / Stufe) * 20
 statCritPerc-M-warrior:Maximaler Wert 50%
 statCritPerc-rogue:Bestimmt die Chance, einen kritischen Treffer zu landen.
-statCritPerc-F-rogue:((Genauigkeit / lvl) * 0,25) * 100
+statCritPerc-F-rogue:(Genauigkeit / Stufe) * 20
 statCritPerc-M-rogue:Maximaler Wert 50%
 statEvasion-mage:Chance einen physischen Schlag zu vermeiden.
-statEvasion-F-mage:((Beweglichkeit + Geschicklichkeit/3) / lvl * 0,075) * 100
+statEvasion-F-mage:((Beweglichkeit + Geschicklichkeit/3) / Stufe * 0,075) * 100
 statEvasion-M-mage:Maximalwert 20%.
 statEvasion-knight:Chance einen physischen Schlag zu vermeiden.
-statEvasion-F-knight:((Beweglichkeit + Geschicklichkeit/3) / lvl * 0,025) * 100
+statEvasion-F-knight:((Beweglichkeit + Geschicklichkeit/3) / Stufe * 0,025) * 100
 statEvasion-M-knight:Maximalwert 10%.
 statEvasion-ranger:Chance einen physischen Schlag zu vermeiden.
-statEvasion-F-ranger:((Beweglichkeit / lvl) * 0,1) * 100
-statEvasion-M-ranger:Maximalwert 30%.
+statEvasion-F-ranger:((Beweglichkeit / Stufe) * 0,0875) * 100
+statEvasion-M-ranger:Maximalwert 32,5 %.
 statEvasion-warrior:Chance einen physischen Schlag zu vermeiden.
-statEvasion-F-warrior:((Beweglichkeit + Geschicklichkeit/3) / lvl * 0,05) * 100
+statEvasion-F-warrior:((Beweglichkeit + Geschicklichkeit/3) / Stufe * 0,05) * 100
 statEvasion-M-warrior:Maximalwert 15%.
 statEvasion-rogue:Chance, jedem Angriff auszuweichen.
-statEvasion-F-rogue:((Beweglichkeit / lvl) * 0,1) * 100
-statEvasion-M-rogue:Maximalwert 40%.
-statArmor-F-warrior:((Rüstung / lvl) * 0,08) * 100
+statEvasion-F-rogue:((Agility / Level) * 0,1) * 100 + 7,5
+statEvasion-M-rogue:Maximalwert 37,5%.
+statArmor-F-warrior:((Rüstung / Level) * 0.08) * 100
 skillMenuClassAbilityKnight:Die Standhaftigkeit des Ritters gewährt ihm 15% maximale Gesundheit.
 skillMenuClassAbilityRanger:Das ausgezeichnete Ziel des Rangers gewährt ihm eine 10% erhöhte kritische Trefferchance.
-skillMenuClassAbilityMage:Die Fähigkeit des Magiers, sich auf sein Ziel zu konzentrieren, ermöglicht es ihm, nie zu verfehlen.
-skillMenuClassAbilityWarrior:Die überlegenen körperlichen Fähigkeiten des Kriegers ermöglichen es ihm, 20% mehr Nahkampfschaden zuzufügen.
-skillMenuClassAbilityRogue:Der Schurke nutzt Heimlichkeit anstelle von Ausweichmanövern, was ihm erlaubt, physischen und magischen Angriffen auszuweichen.
-skillMenuExtraAbilityKnight:Rüste einen Schild aus, der eine 30% Chance bietet, eingehenden Schaden zu verringern: 75% bei Nahkampfangriffen und 25% bei Fernangriffen.
-skillMenuExtraAbilityRanger:Die Widerhakenpfeile des Waldläufers verursachen bei kritischen Treffern einen Blutungseffekt für zwei Runden.
-skillMenuExtraAbilityMage:Ausgestattet mit einem antiken Grimoire kann der Magier bis zu 120% stärkere kritische Angriffe ausführen.
-skillMenuExtraAbilityWarrior:Der Lebensstein gewährt dir 30% zerfallenden Lebensentzug.
-skillMenuExtraAbilityRogue:Der Schurke trägt einen speziellen Glücksbringer bei sich, der ihm eine 10%ige Bonuschance für den Einsatz von Heimlichkeit verleiht.
+skillMenuClassAbilityMage:Die präzise Fokussierung des Magiers gewährt einen +0,1 kritischen Multiplikator und stellt sicher, dass seine Angriffe nie verfehlen.
+skillMenuClassAbilityWarrior:Die überlegenen physischen Fähigkeiten des Kriegers ermöglichen es ihm, 15% erhöhten Nahkampfschaden zu verursachen.
+skillMenuClassAbilityRogue:Der Schurke verlässt sich mehr auf Heimlichkeit als auf Ausweichen, was es ihm ermöglicht, sowohl physischen Angriffen als auch 50% der magischen Angriffe zu entgehen. Wenn ein Schurke einem Nahkampfangriff durch Heimlichkeit ausweicht, wird sein nächster Treffer ein kritischer Schlag sein.
+skillMenuExtraAbilityKnight:Rüste ein Schild aus, das eine 30% Chance gewährt, eingehenden Schaden zu verringern: 70% bei Nahkampfangriffen und 30% bei Fernkampfangriffen.
+skillMenuExtraAbilityRanger:Die Pfeile des Waldläufers verursachen bei kritischen Treffern zwei Runden lang einen Blutungseffekt, der 3 % der max. HP des Ziels als Schaden pro Runde zufügt und jegliche Heilung um zwei Drittel verringert.
+skillMenuExtraAbilityMage:Ausgerüstet mit einem antiken Grimoire kann der Magier bis zu 100% stärkere kritische Angriffe ausführen.
+skillMenuExtraAbilityWarrior:Der Lebensstein gewährt dir 33% zerfallender Lebensentzug.
+skillMenuExtraAbilityRogue:Der Schurke trägt einen besonderen Glücksbringer, der ihm eine 7,5%-ige Bonuschance auf den Einsatz von Heimlichkeit gibt.
 yourCurrentSkills:Deine aktuellen Fähigkeiten
 moreSkillsComingSoon:Weitere bald erhältlich

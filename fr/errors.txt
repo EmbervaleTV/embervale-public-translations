@@ -72,3 +72,5 @@ errGameDesynced:Action impossible à terminer. Cela se produit généralement si
 errArcaniteDesync:La quantité d'Arcanite envoyée par le jeu ne correspond pas au nombre calculé par notre serveur. Veuillez réessayer.
 errNotAllowed:Cette action n'est pas autorisée.
 errDungeonInventoryIsFull:Vous ne pouvez pas emporter d'objets supplémentaires dans ce donjon !
+errRateLimitHeadline:Trop de demandes
+errRateLimit:Vous interagissez un peu trop rapidement. Veuillez patienter un moment et réessayer. Si cela continue, contactez-nous sur Discord : https://discord.com/invite/Gum9bS2dyw

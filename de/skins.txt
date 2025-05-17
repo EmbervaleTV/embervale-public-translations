@@ -45,26 +45,13 @@ skin_phantom:Phantom
 skin_batwing:Fledermausflügel
 skin_vampire_hunter:Vampirjäger
 skin_profaned:Entweiht
-alreadyOwnsSkin:Der Spieler besitzt diesen Skin bereits.
-eventShopClosesIn:Eventladen schließt in
-eventEndsIn:Event endet in
 skin_arctic_stalker:Arktischer Pirschjäger
 skin_elk_hide:Elchhaut
 skin_polar_bear:Eisbär
 skin_festive_protector:Festlicher Beschützer
 skin_christmas_spirit:Weihnachtlicher Geist
-accountBundle:Account-Paket
-eventName:Weihnachten 2024
-eventBackground:Weihnachts-Hintergrund
-eventWeapon:Weihnachts-Waffe
-eventUserWillReceive:{user} wird erhalten
-eventOutfit:Weihnachtsoutfit
-eventCollection:Alles aus der Weihnachtskollektion 2024 für alle Charaktere und kommenden Charaktere
-eventSkinBundleMsg:{character_name} hat dir das Weihnachts-Skin-Bundle 2024 geschenkt!
-eventSkinAccountBundleMsg:{character_name} hat dir das Weihnachts-Skin-Bundle 2024 für all deine Charaktere geschenkt!
-eventRaidRewardTxt:{character_name} erhielt: {reward} - Schaden: {dmg} ({perc}%) - Angriffe: {amount} ({chance}%)
-thorn_knight:Dornritter
-twilight_rogue:Dämmerungs-Schurke
-tempest_ranger:Sturmwächter
-druid_mage:Druiden-Magier
-skytear_warrior:Skytear-Krieger
+skin_thorn_knight:Dornritter
+skin_twilight_rogue:Schattenwesen
+skin_tempest_ranger:Sturmwächter
+skin_druid_mage:Druidenmagier
+skin_skytear_warrior:Skytear-Krieger

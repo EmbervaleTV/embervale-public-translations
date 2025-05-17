@@ -134,7 +134,7 @@ legendary_patreon:Patreon Lendário
 epic_patreon:Patreon Épico
 great_patreon:Patreon Excelente
 patreon:Patreon
-material_sack:Pilha de Materiais
+material_sack:Saco de Materiais
 material_sack_description:Use isto para ganhar um punhado de materiais. Nível {level}
 second_chance:Segunda Chance
 second_chance_description:Use isto para rolar um dado novamente.
@@ -176,3 +176,111 @@ potion_of_elvenkind_description:Beba esta poção para se tornar um elfo.
 potion_of_demonhood:Potion de Condição Demoníaca
 potion_of_demonhood_description:Beba esta poção para se tornar um demônio.
 alreadyOwnThatPotion:Você já possui essa poção. Você pode comprar outra após usar a que você tem.
+forged_egg:Ovo Forjado
+mysterious_egg:Ovo Misterioso
+dragon_egg:Ovo de Dragão
+dragon_egg_description:Um ovo de dragão misterioso... Ele emite uma leve vibração mágica, como se um mago tivesse tocado nele. Que segredos poderá conter se eu ousar abri-lo? Nível: {level}
+secondChancePurchaseMaximumReached:Você já atingiu o limite de Segundas Chances que pode comprar durante esta aventura.
+uncommon_bundle:Pacote Incomum
+uncommon_bundle_description:Ativa a assinatura incomum por {dayPlaceholder} dias.
+rare_bundle:Pacote Raro
+rare_bundle_description:Ativa a assinatura rara por {dayPlaceholder} dias.
+benefit_shorter_adventure_cooldown:{value} redução no tempo de espera para aventura
+benefit_consumable_carry_limit:{value} aumento no limite de transporte de consumíveis
+benefit_ingredient_carry_limit:{value} aumento no limite de transporte de ingredientes
+benefit_inventory_size:{value} aumento no tamanho do inventário
+small_infernal_potion:Pequena Poção Infernal
+small_infernal_potion_craft_description:Aumenta o dano infernal e a resistência de {amount_min1}% até {amount_max1}%.
+small_infernal_potion_description:Aumenta o dano infernal e a resistência em {amount_min1}% por {time}.
+medium_infernal_potion:Média Poção Infernal
+medium_infernal_potion_craft_description:Aumenta o dano infernal e a resistência de {amount_min1}% até {amount_max1}%.
+medium_infernal_potion_description:Aumenta o dano infernal e a resistência em {amount_min1}% por {time}.
+large_infernal_potion:Grande Poção Infernal
+large_infernal_potion_craft_description:Aumenta muito o dano infernal e a resistência de {amount_min1}% até {amount_max1}%.
+large_infernal_potion_description:Aumenta muito o dano infernal e a resistência em {amount_min1}% por {time}.
+small_divine_potion:Pequena Poção Divina
+small_divine_potion_craft_description:Aumenta o dano divino e a resistência de {amount_min1}% até {amount_max1}%.
+small_divine_potion_description:Aumenta o dano divino e a resistência em {amount_min1}% por {time}.
+medium_divine_potion:Média Poção Divina
+medium_divine_potion_craft_description:Aumenta o dano divino e a resistência de {amount_min1}% até {amount_max1}%.
+medium_divine_potion_description:Aumenta o dano divino e a resistência em {amount_min1}% por {time}.
+large_divine_potion:Grande Poção Divina
+large_divine_potion_craft_description:Aumenta muito o dano divino e a resistência de {amount_min1}% até {amount_max1}%.
+large_divine_potion_description:Aumenta muito o dano divino e a resistência em {amount_min1}% por {time}.
+small_necrotic_potion:Pequena Poção Necrótica
+small_necrotic_potion_craft_description:Aumenta o dano necrótico e a resistência de {amount_min1}% até {amount_max1}%.
+small_necrotic_potion_description:Aumenta o dano e a resistência necrótica em {amount_min1}% por {time}.
+medium_necrotic_potion:Poção Necrótica Média
+medium_necrotic_potion_craft_description:Amplia o dano e a resistência necrótica em {amount_min1}% a {amount_max1}%.
+medium_necrotic_potion_description:Amplia o dano e a resistência necrótica em {amount_min1}% por {time}.
+large_necrotic_potion:Poção Necrótica Grande
+large_necrotic_potion_craft_description:Aumenta significativamente o dano e a resistência necrótica em {amount_min1}% a {amount_max1}%.
+large_necrotic_potion_description:Aumenta significativamente o dano e a resistência necrótica em {amount_min1}% por {time}.
+small_frost_potion:Poção de Gelo Pequena
+small_frost_potion_craft_description:Aumenta o dano e a resistência ao gelo em {amount_min1}% a {amount_max1}%.
+small_frost_potion_description:Aumenta o dano e a resistência ao gelo em {amount_min1}% por {time}.
+medium_frost_potion:Poção de Gelo Média
+medium_frost_potion_craft_description:Amplia o dano e a resistência ao gelo em {amount_min1}% a {amount_max1}%.
+medium_frost_potion_description:Amplia o dano e a resistência ao gelo em {amount_min1}% por {time}.
+large_frost_potion:Poção de Gelo Grande
+large_frost_potion_craft_description:Aumenta significativamente o dano e a resistência ao gelo em {amount_min1}% a {amount_max1}%.
+large_frost_potion_description:Aumenta significativamente o dano e a resistência ao gelo em {amount_min1}% por {time}.
+small_arcane_potion:Poção Arcana Pequena
+small_arcane_potion_craft_description:Aumenta o dano e a resistência arcana em {amount_min1}% a {amount_max1}%.
+small_arcane_potion_description:Aumenta o dano e a resistência arcana em {amount_min1}% por {time}.
+medium_arcane_potion:Poção Arcana Média
+medium_arcane_potion_craft_description:Aumenta o dano arcano e a resistência em {amount_min1}% a {amount_max1}%.
+medium_arcane_potion_description:Aumenta o dano arcano e a resistência em {amount_min1}% por {time}.
+large_arcane_potion:Poção Arcana Grande
+large_arcane_potion_craft_description:Aumenta muito o dano arcano e a resistência em {amount_min1}% a {amount_max1}%.
+large_arcane_potion_description:Aumenta muito o dano arcano e a resistência em {amount_min1}% por {time}.
+cooked_egg:Ovo Cozido
+cooked_egg_craft_description:Recupera de {amount_min1} a {amount_max1} de resistência. A receita desaparecerá após o Evento de Páscoa de 2025.
+cooked_egg_description:Recupera {amount_min1} de resistência.
+mysterious_liquid:Líquido Misterioso
+mysterious_liquid_description:Um líquido estranho e turvo... ouso bebê-lo? (Aumenta ou reduz aleatoriamente uma estatística em até 10% por 3 horas)
+small_brew:Pequena Infusão
+small_brew_description:Pequena Infusão... Use para descobrir qual poção você obterá! Nível: {level}
+medium_brew:Média Infusão
+medium_brew_description:Média Infusão... Use para descobrir qual poção você obterá! Nível: {level}
+large_brew:Grande Infusão
+large_brew_description:Grande Infusão... Use para descobrir qual poção você obterá! Nível: {level}
+chicken_fried_rice:Arroz Frito com Frango
+chicken_fried_rice_craft_description:Reabastece de {amount_min1} a {amount_max1} de resistência.
+chicken_fried_rice_description:Reabastece {amount_min1} de resistência.
+smoothie:Smoothie
+smoothie_craft_description:Reabastece de {amount_min1} a {amount_max1} de resistência.
+smoothie_description:Reabastece {amount_min1} de resistência.
+pork_skewer:Espetinho de Porco
+pork_skewer_craft_description:Reabastece de {amount_min1} a {amount_max1} de resistência.
+pork_skewer_description:Reabastece {amount_min1} de resistência.
+fruit_pie:Torta de Frutas
+fruit_pie_craft_description:Reabastece de {amount_min1} a {amount_max1} de resistência.
+fruit_pie_description:Reabastece {amount_min1} de resistência.
+bread:Pão
+bread_craft_description:Reabastece de {amount_min1} a {amount_max1} de resistência.
+bread_description:Reabastece {amount_min1} de resistência.
+chicken_fried_rice_recipe:Receita de Arroz Frito com Frango
+smoothie_recipe:Receita de Smoothie
+pork_skewer_recipe:Receita de Espetinho de Porco
+fruit_pie_recipe:Receita de Torta de Frutas
+bread_recipe:Receita de Pão
+small_infernal_potion_recipe:Receita de Poção Infernal Pequena
+medium_infernal_potion_recipe:Receita de Poção Infernal Média
+large_infernal_potion_recipe:Receita de Poção Infernal Grande
+small_divine_potion_recipe:Receita de Poção Divina Pequena
+medium_divine_potion_recipe:Receita de Poção Divina Média
+large_divine_potion_recipe:Receita de Poção Divina Grande
+small_necrotic_potion_recipe:Receita de Poção Necrótica Pequena
+medium_necrotic_potion_recipe:Receita de Poção Necrótica Média
+large_necrotic_potion_recipe:Receita de Poção Necrótica Grande
+small_frost_potion_recipe:Receita de Poção de Gelo Pequena
+medium_frost_potion_recipe:Receita de Poção de Gelo Média
+large_frost_potion_recipe:Receita de Poção de Gelo Grande
+small_arcane_potion_recipe:Receita de Poção Arcana Pequena
+medium_arcane_potion_recipe:Receita de Poção Arcana Média
+large_arcane_potion_recipe:Receita de Poção Arcana Grande
+spicy_pork_bowl:Tigela de Porco Apimentado
+spicy_pork_bowl_craft_description:Reabastece {amount_min1} a {amount_max1} de vigor. Seu sabor marcante concede um rápido aumento de velocidade.
+spicy_pork_bowl_description:Reabastece {amount_min1} de vigor. Seu sabor marcante concede um rápido aumento de velocidade.
+healthPotionOnlyInDungeonError:Você só pode usar poções de saúde dentro de uma masmorra.

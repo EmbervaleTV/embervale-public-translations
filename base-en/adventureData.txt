@@ -27,7 +27,7 @@ effect_astral_stasis:The player is using magic to heal a companion. // Can't fig
 astral_stasis:Astral Stasis
 effect_ambushed:The player was recently ambushed. // Takes 2x damage
 ambushed:Ambushed
-effect_healer:The player recently cured a terrible disease. // All party members are healed for 10% each turn
+effect_healer:The player recently cured a terrible disease. // Those not in combat regain 10% health each round.
 healer:Healer
 effect_upset:The player is upset about the leader's decisions. // -1 morale per round
 upset:Upset
@@ -138,6 +138,24 @@ effect_shadow_remains:The player's form is now a shadow. // Takes double magic d
 shadow_remains:Shadow Remains
 effect_petrified:The player is transformed into stone. // Unable to move or take actions
 petrified:Petrified
+effect_beginners_luck:The player just discovered Embervale and is surrounded by a lucky aura. // +2 to all rolls
+beginners_luck:Beginners Luck
+
+effect_champion_of_light:The player is renowned for purging the undead with divine fury. // 500% damage vs undead
+champion_of_light:Champion of Light
+effect_explosive:The player is unstable and will detonate upon being used in combat. // faints player and opponent
+explosive:Explosive
+effect_incapacitated:No one knows where they went… or if they’ll return. // ???
+incapacitated:Incapacitated
+effect_profane_might:This person embraced a horrible power that corrupted them completely. // +100% to all stats, 0 Physical Defense, -4 morale for every battle
+profane_might:Profane Might
+one_eyed:One Eyed
+effect_one_eyed:The player has lost an eye, but strikes ruthless. // +100% damage -50% crit
+
+effect_lycanthropic:This player carries a dangerous curse…// Upon falling in combat, they don’t lose a health state. Instead, the curse takes over, turning them into a werewolf.
+lycanthropic:Lycanthropic Curse
+effect_werewolf:This player has transformed into a werewolf! // Gains powerful stats (TBD), suffers -10 morale when used in combat. If they fall, they lose a health state as normal and revert to their cursed form.
+werewolf:Werewolf
 
 // Health
 effect_wounded:The player is wounded. // -25% max health
@@ -157,6 +175,8 @@ arcane_hex:Arcane Hex
 arcane_hex_description:Opponent receives 500% increased Arcane damage during the next battle.
 magical_surge:Magical Surge
 magical_surge_description:Magic attacks ignore Magic Resistance during the next battle.
+corrosive_imbuement:Corrosive Imbuement
+corrosive_imbuement_description:Physical attacks ignore Physical Resistance during the next battle.
 arcane_weapon_enchantment:Arcane Weapon Enchantment
 arcane_weapon_enchantment_description: Imbues weapons with Arcane power, changing their elemental damage and adding 25% bonus Arcane damage.
 ballista_bolt:Ballista Bolt
@@ -255,6 +275,8 @@ selectRandomPlayer:Select random player
 treasureOf:Treasure of
 banishConfirmation:Are you sure you want to send {{ playerToBanish }} back to training? (They will be unavailable for the rest of this adventure but will still receive loot)
 alreadyBanished:{{ playerToBanish.char.username }} is already training.
+cantSendToTraining:Training is too risky right now—the group’s morale is too low!
+cantSendToTrainingInParty:This player is currently participating in the event and can't be sent to training!
 areYouSure:Are you sure?
 banish:Banish
 youCanStartNewAdventureIn:You can start a new Adventure in:
@@ -262,6 +284,7 @@ partyInventory:Party Inventory
 noLootObtained:Your group hasn't obtained loot yet.
 chooseRewardRecipient:Choose reward recipient
 voting:Voting
+votes:Votes
 alreadyReceivedDailyAdventureRewards:This player has already received their daily adventure drops. Please assign them to someone else.
 adventureNotLive:You need to be live on Twitch to start the adventure!
 manipulateVoting:Manipulate voting
@@ -272,7 +295,7 @@ youReceivedFromManipulationEnd:You earned from vote manipulation:
 adventureSettingAllowArcaniteVotes:Enable players to vote using Arcanites
 adventureSettingAllowEveryoneToVote:Enable voting from players outside your adventure
 adventureSettingRaffleAnimation:Raffle Animation
-adventureSettingFullscreen:[Experimental] Play Adventures in Fullscreen Mode [This will reload your game]
+adventureSettingFullscreen:Play Adventures in Fullscreen Mode [This will reload your game]
 adventureEndMessageMoraleZero:The morale of the group is too low to continue the adventure. You decide to return home.
 adventureEndMessageAllDead:The group can no longer continue to fight. You decide to return home.
 adventureEndMessageSurrender:You decided to return home with your group.
@@ -291,12 +314,18 @@ alreadyVoted:You already voted.
 invalidChoice:Invalid Choice.
 vote:Vote
 roll:Roll
+nextDice:next Dice
 choose:Choose
 votingStartCountdown:Start countdown
 votingEndsIn:Voting ends in
 adventureLootReceivedToday:Loot collected from adventures today:
+adventureJoinTooWeak:You’re not quite strong enough for this stage. The group is currently facing a level {mLevel} monster, and you need to be at least level {reqLevel} to join this adventure. Try leveling up a bit, or jump in when the streamer starts the next adventure!
+adventureJoinRestrictionHeadline:Limit who can join. (Only applies if the monster is above level 30)
+adventureAnyoneCanJoin:Anyone can join
+adventureJoinRestrictions:Min. level: {percentage}% of opponent (e.g. {monsterLVL} vs. level 200)
 
 adventures:Adventures
+adventureResults:Adventure Results
 adventureHighscore:Adventure Highscore
 adventureHosted:Adventures Hosted
 adventureBestiaryRequired:You must defeat this monster at least once to unlock their bestiary entry and view their stats!
@@ -305,6 +334,7 @@ active:Active
 inactive:Inactive
 unlock:Unlock
 noToolsExplanation:You don't have any tool currently. You can receive tools randomly during adventures if you have voted at least once!
+noToolsError:You don't have any tool currently.
 beforeAdventureStartsText1:Adventures is a game mode specifically designed for streamers.
 beforeAdventureStartsText2:Your community can join your adventure using the command "!ev join".
 beforeAdventureStartsText3:The adventure ends when the group's Morale reaches zero or if you choose to surrender.
@@ -313,8 +343,10 @@ beforeAdventureStartsText5:Your community can actively engage in the adventure b
 beforeAdventureStartsText6:The current maximum participant limit is 50.
 toolLimitReached:You can activate up to 5 tools for a single fight.
 toolAlreadyEnabled:This tool has already been enabled.
+toolNotOwned:{ toolname } isn’t in your possession right now.
+yourTools:You have: { toolname }
 toolActivatedForNextFight:The tool has been activated for the upcoming fight!
-requiredUnlocksTool:Required victories for next unlock
+requiredUnlocksTool:Required victories as host for next unlock
 requiredUnlocksToolTooltip:Only battles with a loot indicator of "Low" or higher are counted.
 
 // merchant
@@ -403,6 +435,10 @@ fame:Fame
 // Global Adventure Effects
 bright_hair:Everyone's hair is colored brightly.
 effect_bright_hair:Bright Hair
+kingdom_in_peril:Kingdom In Peril
+effect_kingdom_in_peril:An undead menace has been unleashed upon the land.
+captains_commendation:Captain’s Commendation
+effect_captains_commendation:The party fights with renewed confidence. Everyone gains +5 to all rolls.
 
 check_coin_stack:This option requires a coin stack.
 coin_stack:Coin
@@ -427,3 +463,18 @@ adventureCooldownRoyal:50% shorter adventure cooldown.
 adventureCooldownMythical:50% shorter adventure cooldown.
 adventureCooldownLegendary:25% shorter adventure cooldown.
 adventureCooldownEpic:10% shorter adventure cooldown.
+
+selectQuest:Select a Quest
+
+// statistics
+battles:Battles
+totalDamage:Total Damage
+wins:Wins
+losses:Losses
+rating:Rating
+events:Events
+votes:Votes
+diceRolled:Dice rolled
+succeeded:Succeeded
+failed:Failed
+toolsUsed:Tools Used

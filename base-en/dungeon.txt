@@ -22,3 +22,8 @@ dungeonAutoSell:There are still some items in your dungeon inventory! If you lea
 selectConsumablesForDungeon:Select the potions you wish to take into the dungeon. Please note that all items brought into the dungeon will be lost if you are defeated.
 youDontHaveHealPotions:You don’t have any health potions available to add to your dungeon bag.
 recommendedLevel:Recommended Level
+
+
+// ascended bosses
+ascendedBossHpBarTooltip:Each defeat reduces your health by 25% for the next fight. You can use health potions to recover.
+ascendedBossCantJoinHp:You must have at least 25% of your health to face an Ascended Boss.

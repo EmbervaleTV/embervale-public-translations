@@ -1,5 +1,6 @@
 // guild
 createGuild:Create Guild
+findGuild:Find Guild
 joinGuild:Join Guild
 save:Save
 saved:Saved
@@ -25,6 +26,8 @@ guildName:Guild name
 guildless:Guildless
 memberSince:Member Since
 lastActivity:Last Activity
+youHave:You have
+join:Join
 
 PERMISSION_ADMIN:Leader
 PERMISSION_CO_ADMIN:Vize Leader
@@ -41,6 +44,7 @@ showSystemMsg:Show system messages
 createYourGuild:Create your guild
 acceptInvite:Accept invite
 invite:Invite
+invitedBy:Invited By
 applications:Applications
 apply:Apply
 accept:Accept
@@ -48,6 +52,7 @@ decline:Decline
 revoke:Revoke
 kick:Kick
 applicationSent:Your application has been sent successfully!
+applicationAlreadySent:You already have a pending application for this guild!
 invitationSent:Your invitation has been sent successfully!
 inviteConfirmation:Are you sure you want to accept {name} into your guild?
 rejectConfirmation:Are you sure you want to reject {name} from joining?

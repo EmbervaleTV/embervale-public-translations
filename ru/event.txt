@@ -1,0 +1,15 @@
+eventShop:Магазин Событий
+eventName:Пасха 2025
+eventBundleName:Пасхальный Набор 2025
+eventEndsIn:Событие заканчивается через
+alreadyOwnsSkin:У игрока уже есть этот облик.
+eventShopClosesIn:Магазин Событий закрывается через
+eventUserWillReceive:{user} получит
+accountBundle:Набор Учетной Записи
+eventCollection:Все из коллекции Пасхи 2025 для всех персонажей и будущих персонажей
+eventOutfit:Пасхальный наряд
+eventWeapon:Пасхальное оружие
+eventBackground:Пасхальный фон
+eventSkinBundleMsg:{character_name} подарил(а) вам набор скинов Пасха 2025!
+eventSkinAccountBundleMsg:{character_name} подарил(а) вам набор скинов Пасха 2025 для всех ваших персонажей!
+eventRaidRewardTxt:{character_name} получил: {reward} - Урон: {dmg} ({perc}%) - Атаки: {amount} ({chance}%)

@@ -36,6 +36,8 @@ achievements:Achievements
 rank:Rank
 itemsDiscovered:Items Discovered
 materialDiscovered:Materials Discovered
+monsterDiscovered:Monsters Discovered
+ascendedBossesDiscovered:Ascended Bosses Discovered
 bestiary:Bestiary
 
 // Bestiary

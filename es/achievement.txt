@@ -138,3 +138,9 @@ repeatable:Repetible
 win_in_the_arena:Gana en la arena {amount} veces
 repeatable__host_adventures__public:Acoge {amount} aventuras, progresa a través de la Sala 25, y hazlo bajo la categoría Embervale.TV con chat sin restricciones.
 repeatable__activate_tools__public:Activa {amount} herramientas en aventuras con más de 10 jugadores activos
+wear_full_set_of_armor:Usa un conjunto completo de armadura
+gear_preset_1:+1 ranura adicional para equipo preestablecido
+reset_skill_points:[Actualización de Equilibrio] Restablece tus puntos de habilidad.
+10_arcanite:10 Arcanite
+open_dragon_eggs:Rompe {amount} huevos de dragón.
+defeat_ascended_bosses:Derrota a {amount} jefes ascendidos

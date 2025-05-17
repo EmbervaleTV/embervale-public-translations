@@ -111,6 +111,7 @@ wear_full_set_of_rare:Wear a full set of rare items
 wear_full_set_of_epic:Wear a full set of epic items
 wear_full_set_of_legendary:Wear a full set of legendary items
 wear_full_set_of_mythical:Wear a full set of mythical items
+wear_full_set_of_armor:Wear a full set of armor
 
 // Adventurer
 participate_in_adventures:Participate in {amount} adventures
@@ -132,7 +133,7 @@ reachMaxReputation:Reach maximum reputation with the shopkeeper.
 // Extra
 claim_daily_bonus:Claim {amount} daily bonuses on our Discord
 claim_daily_bonus_row:Claim {amount} daily bonuses in a row on our Discord
-
+gear_preset_1:+1 additional gear preset slot
 // Dungeon
 attempt_dungeon:Attempt {amount} dungeons
 
@@ -151,7 +152,7 @@ complete_dungeon_12:Clear 'Graveyard Of The Nameless'
 complete_dungeon_13:Clear 'Bastion Of Light'
 complete_dungeon_14:Clear 'Embervale'
 
-
+defeat_ascended_bosses:Defeat {amount} ascended bosses
 
 // Crafting
 craft_alchemist:Craft {amount} alchemical items
@@ -169,6 +170,8 @@ use_food:Eat {amount} meals
 // event
 complete_all_event_missions:Complete and claim rewards for all {amount} event missions
 join_raid:Help Lord Sander Klause in {amount} Raids
+open_dragon_eggs:Crack open {amount} dragon eggs.
+
 
 // repeatable
 repeatable__refer_a_streamer:Refer new streamers to Embervale.TV
@@ -184,3 +187,8 @@ referStreamerReq3:The streamer must reach level 10 in Embervale.
 referStreamerReq4:The streamer must host at least 3 adventures.
 referStreamerWhenDone:Once all steps are completed, you'll receive your reward within 24 hours:
 referFirstStreamer:The first referral grants you the adventurer armor skin for all your characters!
+
+
+// for balancing updates
+reset_skill_points:[Balancing Update] Reset your skill points.
+10_arcanite:10 Arcanite

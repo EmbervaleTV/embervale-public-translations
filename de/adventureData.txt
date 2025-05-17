@@ -68,7 +68,7 @@ effect_astral_stasis:Der Spieler benutzt Magie, um einen Gefährten zu heilen. /
 astral_stasis:Astrale Stase
 effect_ambushed:Der Spieler wurde kürzlich überfallen. // Erhält doppelten Schaden
 ambushed:Hinterhalt
-effect_healer:Der Spieler hat kürzlich eine schreckliche Krankheit geheilt. // Alle Gruppenmitglieder erhalten jede Runde 10% Heilung
+effect_healer:Der Spieler hat kürzlich eine schreckliche Krankheit geheilt. // Diejenigen, die nicht im Kampf sind, regenerieren jede Runde 10 % Gesundheit.
 healer:Heiler
 effect_upset:Der Spieler ist über die Entscheidungen des Anführers verärgert. // -1 Moral pro Runde
 upset:Verärgert
@@ -166,7 +166,7 @@ check_morale:Ist die Moral in der Gruppe hoch genug, um dieses Hindernis zu übe
 check_fame:Die erfahrensten Abenteurer werden die Lösung kennen.
 fame:Ruhm
 bright_hair:Jedes Haar ist leuchtend gefärbt.
-effect_bright_hair:Leuchtendes Haar
+effect_bright_hair:Helle Haare
 check_coin_stack:Diese Option erfordert einen Münzstapel.
 adventurePlayerCheck:Prüfen
 errNotEnoughVotings:Du kannst nicht fortfahren, ohne für etwas zu stimmen!
@@ -334,11 +334,11 @@ inactive:Inaktiv
 adventureSettingRaffleAnimation:Raffel-Animation
 toolLimitReached:Du kannst bis zu 5 Werkzeuge für einen einzelnen Kampf aktivieren.
 toolAlreadyEnabled:Dieses Werkzeug wurde bereits aktiviert.
-requiredUnlocksTool:Benötigte Siege für die nächste Freischaltung
+requiredUnlocksTool:Erforderliche Siege als Gastgeber für nächste Freischaltung
 requiredUnlocksToolTooltip:Es werden nur Kämpfe mit einem Beuteindikator von „Niedrig“ oder höher gezählt.
 adventureBestiaryRequired:Du musst dieses Monster mindestens einmal besiegen, um seinen Bestiarieneintrag freizuschalten und seine Werte anzusehen!
 toolActivatedForNextFight:Das Werkzeug wurde für den bevorstehenden Kampf aktiviert!
-adventureSettingFullscreen:[Experimentell] Spiele Abenteuer im Vollbildmodus [Dies wird dein Spiel neu laden]
+adventureSettingFullscreen:Spiele Abenteuer im Vollbildmodus [Dadurch wird dein Spiel neu geladen]
 strong_armor:Starke Rüstung
 effect_strong_armor:Die Rüstung dieses Spielers hat sich als außergewöhnlich robust erwiesen. // +25 % Rüstung
 allPlayersReceivedTheirDailyLimit:Alle Spieler in deiner Lobby haben bereits ihr tägliches Abenteuertruhen-Limit erreicht. Möchtest du auf die Beute verzichten?
@@ -380,3 +380,47 @@ merchantDevilTooltip:Ich hungere nach den Seelen deiner Gruppenmitglieder. Wirst
 merchantMoraleTooltip:Ich gedeihe durch die Verzweiflung anderer. Wirst du trotzdem wagen, mit mir zu handeln?
 effect_sacrificed:Der Spieler wurde geopfert. // Nicht mehr Teil des Abenteuers
 sacrificed:Geopfert
+selectQuest:Wähle eine Quest aus
+cantSendToTraining:Das Training ist momentan zu riskant, die Moral der Gruppe ist zu niedrig!
+votes:Stimmen
+nextDice:nächster Würfel
+toolNotOwned:{ toolname } befindet sich im Moment nicht in deinem Besitz.
+yourTools:Du hast: { toolname }
+adventureResults:Abenteuerergebnisse
+noToolsError:Du hast momentan kein Werkzeug.
+corrosive_imbuement:Korrosive Durchdringung
+corrosive_imbuement_description:Physische Angriffe ignorieren im nächsten Kampf die physische Resistenz.
+effect_beginners_luck:Der Spieler hat gerade Embervale entdeckt und ist von einer glücklichen Aura umgeben. // +2 auf alle Würfe
+beginners_luck:Anfängerglück
+adventureJoinTooWeak:Du bist nicht ganz stark genug für diese Etappe. Die Gruppe steht derzeit vor einem Stufe-{mLevel}-Monster, und du musst mindestens Stufe {reqLevel} sein, um an diesem Abenteuer teilzunehmen. Versuche, ein wenig aufzusteigen, oder spring rein, wenn der Streamer das nächste Abenteuer startet!
+adventureAnyoneCanJoin:Jedermann kann beitreten
+adventureJoinRestrictions:Min. Stufe: {percentage}% des Gegners (z.B. {monsterLVL} vs. Stufe 200)
+adventureJoinRestrictionHeadline:Beschränke, wer beitreten kann. (Gilt nur, wenn das Monster über Level 30 ist)
+cantSendToTrainingInParty:Dieser Spieler nimmt derzeit an dem Ereignis teil und kann nicht zum Training geschickt werden!
+battles:Schlachten
+totalDamage:Gesamtschaden
+wins:Siege
+losses:Niederlagen
+rating:Bewertung
+events:Ereignisse
+diceRolled:Würfel geworfen
+succeeded:Erfolgreich
+toolsUsed:Werkzeuge benutzt
+effect_champion_of_light:Der Spieler ist berühmt dafür, die Untoten mit göttlicher Wut zu säubern. // 500% Schaden gegen Untote
+champion_of_light:Champion des Lichts
+effect_explosive:Der Spieler ist instabil und wird explodieren, wenn er im Kampf eingesetzt wird. // betäubt Spieler und Gegner
+explosive:Explosiv
+effect_incapacitated:Niemand weiß, wohin sie gegangen sind... oder ob sie zurückkehren werden. // ???
+incapacitated:Außer Gefecht
+effect_profane_might:Diese Person hat eine schreckliche Macht angenommen, die sie völlig verderbt hat. // +100% auf alle Werte, 0 körperliche Verteidigung, -4 $moraleMinus$ für jeden Kampf
+profane_might:Unheilige Macht
+one_eyed:Einäugig
+effect_one_eyed:Der Spieler hat ein Auge verloren, schlägt jedoch gnadenlos zu. // +100% Schaden -50% Krit
+kingdom_in_peril:Königreich in Gefahr
+effect_kingdom_in_peril:Eine untote Bedrohung wurde über das Land entfesselt.
+captains_commendation:Captain's Lob
+effect_captains_commendation:Die Gruppe kämpft mit neuem Selbstvertrauen. Jeder erhält +5 auf alle Würfe.
+effect_lycanthropic:Dieser Spieler trägt einen gefährlichen Fluch...// Beim Fallen im Kampf verlieren sie keinen Gesundheitszustand. Stattdessen übernimmt der Fluch und verwandelt sie in einen Werwolf.
+lycanthropic:Lykanthropischer Fluch
+effect_werewolf:Dieser Spieler hat sich in einen Werwolf verwandelt! // Erhält mächtige Werte (TBD), erleidet jedoch -10 Moral, wenn im Kampf eingesetzt. Wenn sie fallen, verlieren sie wie gewohnt einen Gesundheitszustand und kehren in ihre verfluchte Form zurück.
+werewolf:Werwolf

@@ -19,3 +19,5 @@ selectConsumablesForDungeon:Sélectionne les potions que tu souhaites emporter d
 youDontHaveHealPotions:Tu n'as pas de potions de santé disponibles à ajouter à ton sac de donjon.
 recommendedLevel:Niveau Recommandé
 enterDungeon:Entrer dans le donjon
+ascendedBossHpBarTooltip:Chaque défaite réduit votre santé de 25 % pour le prochain combat. Vous pouvez utiliser des potions de santé pour récupérer.
+ascendedBossCantJoinHp:Tu dois avoir au moins 25% de ta santé pour affronter un Boss Élevé.

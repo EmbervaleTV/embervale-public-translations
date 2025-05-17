@@ -80,8 +80,6 @@ riverland_potato:Batata do Vale do Rio
 sea_salt:Sal Marinho
 silver_key:Chave de Prata
 silver_key_description:Usada para destrancar algo...
-mysterious_potion:Potion Misteriosa
-mysterious_potion_description:Uma poção de aparência suspeita... devo bebê-la?
 rare_gem:Gema Rara
 rare_gem_description:Uma gema estranha. Pode ser valiosa.
 stack_of_coins:Pilha de Moedas
@@ -194,3 +192,10 @@ stranded_seafire-key_description:Nível 40 - 60
 deepwater_passage-key_description:Nível 50 - 70
 graveyard_of_the_nameless-key_description:Nível 120 - 140
 duskwood-key_description:Nível 110 - 130
+dragons_breath_mint:Hortelã do Bafo de Dragão
+giants_blood_essence:Essência de Sangue de Gigante
+dragons_breath_mint_flavor:Dizem que esta erva concede ao consumidor a habilidade de expelir breves rajadas de chamas.
+giants_blood_essence_flavor:Destilada do sangue de um gigante, esta essência confere força e resistência.
+milk:Leite
+wheat:Trigo
+wood:Madeira

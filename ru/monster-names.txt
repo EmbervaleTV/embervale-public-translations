@@ -174,7 +174,7 @@ forest_grasshopper:Лесной Кузнечик
 forest_imperial_widow:Лесная Императорская Вдова
 forest_mageshroom:Лесной Магический Гриб
 forest_panda:Лесная Панда
-forest_pink_flower:Розовый Лесной Цветок
+forest_pink_flower:Розовый лесной цветок
 forest_red_flower:Красный Лесной Цветок
 forest_red_spider:Красный Лесной Паук
 forest_scorpion:Лесной Скорпион
@@ -258,7 +258,7 @@ demon_critter_squirrel:Демон Белка
 demon_imp:Демон Чертенок
 bighorn:Большерогий
 darkness_gargoyle:Тьма Гаргулья
-devilimp:Дьяволёнок
+devilimp:Демон-имп
 dragon_wyrm:Дракон Вирм
 blue_wyvern:Синий Виверна
 brown_wyvern:Коричневый Виверна
@@ -384,7 +384,7 @@ void_fox:Пустотный Лис
 stone_knight_alpha:Каменный Рыцарь Альфа
 stone_knight_zeta:Каменный Рыцарь Зета
 stone_knight_beta:Каменный Рыцарь Бета
-tree_magical:Волшебное Дерево
+tree_magical:Магическое дерево
 melee_tree:Боевое Дерево
 tree_skirmisher:Дерево Стрелок
 arcane_tree:Арканное Дерево
@@ -511,3 +511,150 @@ angry_snowman:Злой Снеговик
 lich:Лич
 corrupted_rat:Коррумпированная Крыса
 nailguns:Гвоздеметы
+angry_chicken:Сердитая курица
+earth_horse:Земляной Конь
+crystal_mimic:Кристальный Мимик
+crag_worm:Скалистый Червь
+cavern_hydra:Пещерная Гидра
+crystalback:Кристалличник
+burrower:Зарывщик
+embervale_raptor:Embervale Раптор
+deep_naga_warrior:Воин Глубокой Наги
+earth_dragon:Земной Дракон
+the_deep_one:Глубинный
+cerberus_the_gate_guard:Цербер, Охранник Врат
+demon_soldier:Демон-Солдат
+demon_crawler:Демон-Ползун
+the_sacrificed:Жертвенный
+infernal_harpy:Инфернальная Гарпия
+hellhound:Адская Гончая
+the_tormented:Терзаемый
+brimstone_elemental:Стихия Серного Камня
+crystal_drake:Кристальный Дрейк
+crimson_lindwyrm:Багровый Линдверн
+radiant_dragon:Сияющий Дракон
+frost_hydra:Ледяная Гидра
+darkness_dragon:Дракон Тьмы
+magma_dragon:Магмовый Дракон
+dragon_mage:Дракон-Маг
+dragon_paladin:Дракон-Паладин
+granthar_the_warrior:Грантар, Воин
+the_golden_sovereign:Золотой Суверен
+cultist_priestess:Культистка Жрица
+eldritch_portal:Элдритч Портал
+corrupted_boar:Порченный Кабан
+corrupted_serpent:Порченная Змея
+corrupted_knight:Порченный Рыцарь
+corrupted_dragon:Порченный Дракон
+herald_of_corruption:Вестник Порчи
+nyarlathotep:Ньярлатотеп
+azathoth:Азатот
+cthulhu:Ктулху
+skeleton_soldier:Скелет-солдат
+skeleton_samurai:Скелет-самурай
+frost_lich:Лич морозный
+consumed_dragon:Поглощенный дракон
+death_knight:Рыцарь смерти
+blazing_reaper:Пылающий жнец
+the_dread_lord:Грозный лорд
+odin:Один
+mummified_brute:Мумифицированный Ветеран
+skeleton_bowmaster:Скелет-Мастер Луков
+the_profaned_one:Оскверненный
+silver_roc:Серебряный Рок
+alicorn:Аликорн
+great_brown_roc:Великий Бурый Рок
+regal_griffon:Королевский Грифон
+shadow_griffon:Теневой Грифон
+quetzalcoatl:Кецалькотль
+sky_dragon:Небесный Дракон
+kirin:Кирин
+bearer_of_rainbows:Носитель Радуг
+the_phoenix:Феникс
+succubus_archer:Суккуб-лучница
+hell_manticore:Адов мантикора
+dryad_defender:Дриада-защитница
+dryad_mage:Дриада-маг
+sylvan_bear:Сильванский медведь
+sylvan_unicorn:Сильванский единорог
+queen_bee:Пчелиная королева
+mischevious_pixie:Озорная пикси
+mythical_stag:Мифический олень
+feral_satyr:Дикий сатир
+fairy_queen_titania:Королева фей Титания
+fairy_king_oberon:Король фей Оберон
+son_of_valhalla:Сын Вальхаллы
+valhalla_berserker:Берсерк Вальхаллы
+hati_the_moon_devourer:Хати, Пожиратель Луны
+skoll_the_sun_chaser:Сколль, Преследователь Солнца
+valkyrie_rider:Ездок Валькирии
+fenris_wolf:Волк Фенрир
+loki:Локи
+thor:Тор
+jormungandr:Йормунганд
+hellhound_guard:Страж Адской Гончей
+vakan_the_wretched:Вакан, Убогое Создание
+endrekan_warden_of_the_pits:Эндрекан, Страж Ям
+grish_the_hungering:Гриш, Голодный
+xandor_the_schemer:Ксандр, Интриган
+kefkor_the_tainted:Кефкор, Осквернённый
+temengoth_the_many_headed:Теменгот, Многоголовый
+ankailin_the_tempter:Анкаилин, Искуситель
+baphomet_lord_of_traitors:Баффомет, Повелитель Предателей
+lucifer_the_fallen:Люцифер, Падший
+giant_tiger:Гигантский Тигр
+common_drake:Обычный Дрейк
+boar_gorilla:Кабано-горилла
+crocotiger:Крокотигр
+kappa:Каппа
+titanoboa:Титанобоа
+jungle_dryad:Джунглевая Дриада
+manticore:Мантикора
+venomous_hydra:Ядовитая Гидра
+phantasmagoria_the_mantis_priestess:Фантасмагория, Жрица Богомола
+invader_grunt:Захватчик-Новобранец
+invader_stalker:Захватчик-Преследователь
+invader_challenger:Захватчик-Испытатель
+invader_hunter:Захватчик-Охотник
+invader_raptor:Захватчик-Хищник
+invader_brawler:Захватчик-Борец
+flying_chaos:Летающий Хаос
+mind_flayer:Пожиратель Разума
+invader_queen:Королева Захватчиков
+infinity:Бесконечность
+the_first_minotaur:Первый Минотавр
+the_cyclops:Циклоп Полифем
+achilles:Ахиллес
+heracles:Геракл
+odysseus:Одиссей
+apollo:Аполлон
+ares:Арес
+hades:Аид
+poseidon:Посейдон
+zeus:Зевс
+water_elemental:Водный элементаль
+jellyfish_mermaid:Медуза-сирена
+seahorse_king:Морской конек-король
+ancient_coelacanth:Древний целакант
+toxic_jellyfish:Токсичная медуза
+megalodile:Мегалодил
+deep_mermaid:Глубинная сирена
+angler_fish:Удильщик
+nightmare_whale:Кошмарный кит
+leviathan:Левиафан
+spectral_apparition:Спектральное Явление
+fungus_golem:Грибной Голем
+blood_golem:Кровавый Голем
+hunting_gargoyle:Охотящийся Гаргулья
+watching_wall:Смотрящая Стена
+undead_mage:Нежить Маг
+jackalope:Джакалоп
+shadow_witch:Теневая Ведьма
+the_webspinner:Ткач Паутин
+heart_of_darkness:Сердце Тьмы
+beetbunny:Свекольный Кролик
+radishrat:Редисовая Крыса
+vampire_lord:Владыка вампиров
+black_dragon:Черный дракон
+the_kraken:Кракен
+the_captain:Капитан

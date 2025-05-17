@@ -79,7 +79,7 @@ effect_astral_stasis:O jogador está usando magia para curar um companheiro. // 
 astral_stasis:Estase Astral
 effect_ambushed:O jogador foi recentemente emboscado. // Recebe o dobro de dano
 ambushed:Emboscado
-effect_healer:O jogador recentemente curou uma doença terrível. // Todos os membros do grupo são curados em 10% a cada turno
+effect_healer:O jogador recentemente curou uma terrível doença. // Quem não estiver em combate recupera 10% da saúde a cada rodada.
 healer:Curandeiro
 effect_upset:O jogador está chateado com as decisões do líder. // -1 moral por rodada
 upset:Chateado
@@ -334,11 +334,11 @@ inactive:Inativo
 adventureSettingRaffleAnimation:Animação de Sorteio
 toolLimitReached:Você pode ativar até 5 ferramentas para uma única luta.
 toolAlreadyEnabled:Esta ferramenta já foi ativada.
-requiredUnlocksTool:Vitórias necessárias para o próximo desbloqueio
+requiredUnlocksTool:Vitórias necessárias como anfitrião para o próximo desbloqueio
 requiredUnlocksToolTooltip:Apenas batalhas com um indicador de saque "Baixo" ou superior são contadas.
 adventureBestiaryRequired:Você deve derrotar este monstro pelo menos uma vez para desbloquear sua entrada no bestiário e ver suas estatísticas!
 toolActivatedForNextFight:A ferramenta foi ativada para a próxima luta!
-adventureSettingFullscreen:[Experimental] Jogue Aventuras em Modo Tela Cheia [Isso irá recarregar seu jogo]
+adventureSettingFullscreen:Jogue Aventuras em Modo Tela Cheia [Isso recarregará seu jogo]
 strong_armor:Armadura Forte
 effect_strong_armor:A armadura deste jogador provou ser extraordinariamente resistente. // +25% armadura
 allPlayersReceivedTheirDailyLimit:Todos os jogadores em seu lobby já atingiram o limite diário de baús de aventura. Deseja abdicar do saque?
@@ -380,3 +380,47 @@ merchantDevilTooltip:Tenho fome das almas dos membros da sua equipe. Você os sa
 merchantMoraleTooltip:Eu prospero no desespero dos outros. Você ainda ousa negociar comigo?
 effect_sacrificed:O jogador foi sacrificado. // Não faz mais parte da aventura
 sacrificed:Sacrificado
+selectQuest:Selecione uma Missão
+cantSendToTraining:Treinar é muito arriscado agora—o moral do grupo está muito baixo!
+votes:Votos
+nextDice:próximo dado
+toolNotOwned:{ toolname } não está em sua posse agora.
+yourTools:Você tem: { toolname }
+adventureResults:Resultados da Aventura
+noToolsError:Você não tem nenhuma ferramenta no momento.
+corrosive_imbuement:Imbuimento Corrosivo
+corrosive_imbuement_description:Os ataques físicos ignoram a Resistência Física durante a próxima batalha.
+effect_beginners_luck:O jogador acabou de descobrir Embervale e está cercado por uma aura de sorte. // +2 em todos os lançamentos
+beginners_luck:Sorte de Principiante
+adventureJoinTooWeak:Você não é forte o suficiente para esta etapa. O grupo está enfrentando um monstro de nível {mLevel} no momento, e você precisa estar pelo menos no nível {reqLevel} para participar desta aventura. Tente subir de nível um pouco ou participe quando o streamer começar a próxima aventura!
+adventureAnyoneCanJoin:Qualquer um pode participar
+adventureJoinRestrictions:Nível mín.: {percentage}% do oponente (ex.: {monsterLVL} vs. nível 200)
+adventureJoinRestrictionHeadline:Limite quem pode se juntar. (Aplica-se apenas se o monstro estiver acima do nível 30)
+cantSendToTrainingInParty:Este jogador está participando do evento e não pode ser enviado para o treinamento!
+battles:Batalhas
+totalDamage:Dano Total
+wins:Vitórias
+losses:Derrotas
+rating:Classificação
+events:Eventos
+diceRolled:Dados lançados
+succeeded:Bem-sucedido
+toolsUsed:Ferramentas Usadas
+effect_champion_of_light:O jogador é renomado por purgar os mortos-vivos com fúria divina. // 500% de dano vs mortos-vivos
+champion_of_light:Campeão da Luz
+effect_explosive:O jogador está instável e detonará ao ser usado em combate. // desmaia jogador e oponente
+explosive:Explosivo
+effect_incapacitated:Ninguém sabe para onde foram... ou se voltarão. // ???
+incapacitated:Incapacitado
+effect_profane_might:Esta pessoa abraçou um poder horrível que a corrompeu completamente. // +100% a todos os atributos, 0 Defesa Física, -4 $moraleMinus$ por cada batalha.
+profane_might:Poder Profano
+one_eyed:Um Olho Só
+effect_one_eyed:O jogador perdeu um olho, mas ataca com ferocidade. // +100% de dano -50% crit
+kingdom_in_peril:Reino em Perigo
+effect_kingdom_in_peril:Uma ameaça de mortos-vivos foi desencadeada sobre a terra.
+captains_commendation:Comenda do Capitão
+effect_captains_commendation:O grupo luta com confiança renovada. Todos ganham +5 em todas as jogadas.
+effect_lycanthropic:Este jogador carrega uma maldição perigosa…// Ao cair em combate, não perde um estado de saúde. Em vez disso, a maldição assume o controle, transformando-o em um lobisomem.
+lycanthropic:Maldição Licantropa
+effect_werewolf:Este jogador se transformou em um lobisomem! // Ganha estatísticas poderosas (TBD), sofre -10 em moral quando usado em combate. Se cair, perde um estado de saúde como de costume e retorna à sua forma amaldiçoada.
+werewolf:Licantropo

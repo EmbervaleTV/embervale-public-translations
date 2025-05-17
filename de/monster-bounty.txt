@@ -1,4 +1,4 @@
-abnormous_tick_bounty:Ein übergroßer Parasit, der mehr als nur ein wenig Blut saugen wird
+abnormous_tick_bounty:Ein übergroßer Parasit, der mehr als nur ein wenig Blut saugen wird.
 berserker_dwarf_bounty:Ein traditioneller Krieger des Zwergenvolks
 blue_dragonfly_bounty:Raubtier von Teichen und Flüssen
 carnivorous_plant_bounty:Der Wald schlägt zurück
@@ -141,7 +141,7 @@ demon_critter_rabbit_bounty:Stelle die Ordnung aus dem Chaos des Dämonen-Hasen-
 demon_critter_squirrel_bounty:Beende das Unheil des Dämonenkreatur-Eichhörnchens.
 demon_imp_bounty:Befreie die Opfer von den Qualen des Dämonenwichtels.
 darkness_gargoyle_bounty:Vertreibe den schattenhaften Einfluss des Dunkelheits-Gargoyles.
-devilimp_bounty:Stelle die durch den Teufelwichtel gestörte Harmonie wieder her.
+devilimp_bounty:Stelle die durch den Teufelskobold gestörte Harmonie wieder her.
 dragon_wyrm_bounty:Schütze das Land vor der Zerstörung durch den Drachenwyrm.
 blue_wyvern_bounty:Zerschlage den eisigen Griff des Blauen Wyverns.
 brown_wyvern_bounty:Stabilisiere das durch den Braunen Wyvern gestörte Terrain.

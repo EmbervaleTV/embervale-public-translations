@@ -434,7 +434,7 @@ beast:Bestie
 plant:Pflanze
 undead:Untoter
 construct:Konstrukt
-abomination:Monstrosität
+abomination:Abscheulichkeit
 dragon:Drache
 mimic:Mimik
 embervale:Embervale
@@ -484,7 +484,7 @@ loadingTip30:Kämpfst du mit einer bestimmten Art von Feind? Finde ihre elementa
 loadingTip31:Der Sieg in der Arena belohnt dich mit Ruhm, zusammen mit einem Bonus an XP und Gold!
 loadingTip32:Empfehle einen Streamer für Embervale und verdiene 1000 Arcanites! Sieh im Errungenschaften-Tab nach, um mehr Details zu erfahren.
 loadingTip33:Nutze Werkzeuge in Abenteuern, um deinen Ruhm zu steigern!
-loadingTip34:Du kannst den Shop alle 24 Stunden kostenlos neu würfeln!
+loadingTip34:Du kannst den Laden alle 20 Stunden kostenlos neu würfeln!
 loadingTip35:Beim ersten Abschließen eines Dungeons ist eine Mythische Truhe garantiert und erweitert deine Inventarkapazität!
 loadingTip36:Dungeons haben einzigartige Pools von Monstern; sammle sie alle, um dein Bestiarium zu füllen!
 chrono-badge:Chrono-Abzeichen
@@ -521,7 +521,6 @@ yourMaximumInventorySize:Du hast momentan eine maximale Inventargröße von {inv
 eachUpgradeCostsMore:Jedes Upgrade kostet mehr. Dieses Upgrade kostet
 fullyUpgradedInventory:Du hast dein Inventar vollständig aufgerüstet!
 info:Infos
-eventShop:Event-Laden
 shopRerollInfo1:Sobald dein Ruf 100% erreicht, wird der Händler keine gewöhnlichen Gegenstände mehr anbieten.
 shopRerollInfo2:Die unten aufgeführten Chancen stellen die Wahrscheinlichkeit für jeden Gegenstand bei einem einzelnen Wurf dar. Wenn du 8 Ladenplätze freigeschaltet hast, gelten die Chancen 8 Mal, je einmal für jeden Platz.
 shopRerollInfo3:Die Chancen werden auf drei Dezimalstellen gerundet.
@@ -621,8 +620,47 @@ confirmGearPresetFreePurchase:Die ersten zwei Ausrüstungs-Presets sind kostenlo
 preset:Voreinstellung
 cantSellItemsFromPreset:Du kannst diesen Gegenstand nicht verkaufen, solange er Teil eines Presets ist.
 youCompletedThisCategory:Du hast diese Kategorie vollständig abgeschlossen.
-hideObtainedEntries:Vollständige Einträge ausblenden
-hideCompletedAchievements:Verstecke abgeschlossene Erfolge
+hideObtainedEntries:Abgeschlossene Einträge ausblenden
+hideCompletedAchievements:Abgeschlossene Erfolge ausblenden
 editPresetIcon:Symbole bearbeiten
 updatePreset:Voreinstellung aktualisieren
 resetPreset:Zurücksetzen Voreinstellung
+confirmResetPreset:Bist du sicher, dass du diese Voreinstellung zurücksetzen möchtest?
+craftsman:Handwerker
+fiend:Unhold
+glossaryTipAscended:Besiege vergeistigte Bosse, um dein Bestiarium zu vervollständigen!
+ashfall_hollows:Aschfallhöhlen
+the_twisted_lands:Die Verdorbenen Lande
+elysium:Elysium
+wildwood_glade:Wildholzlichtung
+ashfall_depths:Aschefällentiefen
+meteorite_crater:Meteoritkrater
+the_infernal_pits:Die Infernalischen Gruben
+throne_of_the_demon_lords:Thron der Dämonenlords
+cursed_mausoleum:Verfluchtes Mausoleum
+dragons_nest:Drachennest
+ritual_altar:Ritualaltar
+valhalla:Walhalla
+cradle_of_myths:Wiege der Mythen
+olympus:Olymp
+seat_of_elysium:Sitz von Elysium
+darkbough_jungle:Dunkelzweigdschungel
+the_lightless_depths:Die Lichtlosen Tiefen
+the_fae_realm:Das Feenreich
+haunting_grounds:Spukgründe
+type:Typ
+yes:Ja
+no:Nein
+remove:Entfernen
+easter-2025-badge:Osterabzeichen 2025
+easter-2025-badge_desc:Erhältlich während des Osterereignisses 2025
+extensionUsedCreatorCode:Verwendet deinen Erstellercode
+confirmResetOverwrite:Möchtest du dieses Preset wirklich überschreiben?
+overwritePreset:Voreinstellung überschreiben
+conversionSuccess:Deine Partnerpunkte wurden erfolgreich in Arcanites umgewandelt!
+downForMaintenance:Embervale.TV wird derzeit gewartet, um die Stabilität zu verbessern. Wir sind in Kürze wieder da—danke für deine Geduld!
+loading:Laden
+graphicsScale:Grafik-Skalierung
+graphicsScaleTip:Passt die Schärfe und Leistung von Animationen an.
+restartEmbervaleForUpdate:Du verwendest eine veraltete Version von Embervale. Bitte lade deinen Browser neu, starte die App neu oder aktualisiere auf die neueste Version auf Steam.
+rewards:Belohnungen

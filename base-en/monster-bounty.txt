@@ -1,4 +1,4 @@
-abnormous_tick_bounty:An oversized parasite thet will draw more than a bit of blood
+abnormous_tick_bounty:An oversized parasite that will draw more than a bit of blood
 berserker_dwarf_bounty:A traditional warrior of the dwarven folk
 blue_dragonfly_bounty:Predator of ponds and rivers
 carnivorous_plant_bounty:The forest bites back
@@ -141,7 +141,7 @@ demon_critter_rabbit_bounty: Restore order from the demon critter rabbit's chaos
 demon_critter_squirrel_bounty: End the demon critter squirrel's mischief.
 demon_imp_bounty: Free victims from the demon imp's torment.
 darkness_gargoyle_bounty: Dispel darkness gargoyle's shadowy influence.
-devilimp_bounty: Restore harmony disrupted by the devilimp.
+devilimp_bounty: Restore harmony disrupted by the devil imp.
 dragon_wyrm_bounty: Protect the land from the dragon wyrm's destruction.
 blue_wyvern_bounty: Break the blue wyvern's icy grip.
 brown_wyvern_bounty: Stabilize terrain disrupted by the brown wyvern.

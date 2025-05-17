@@ -1,104 +1,104 @@
 statDMG-mage:The range of magical damage you can deal.
-statDMG-F-mage:Damage = Weapon damage * ((wisdom / 60) + 1)
+statDMG-F-mage:Damage = Weapon damage * 0.9 * (wisdom * 0.015 + 1)
 statDMG-knight:The range of physical damage you can deal.
-statDMG-F-knight:Damage = (Weapon damage / 2.66) * ((strength / 60) + 1)
+statDMG-F-knight:Damage = Weapon damage * 0.425 * (strength * 0.015 + 1)
 statDMG-ranger:The range of physical damage you can deal.
-statDMG-F-ranger:Damage = (Weapon damage / 1.54) * ((dexterity / 60) + 1)
+statDMG-F-ranger:Damage = Weapon damage * 0.75 * (dexterity * 0.015 + 1)
 statDMG-warrior:The range of physical damage you can deal.
-statDMG-F-warrior:Damage = (Weapon damage / 2) * ((strength / 60) + 1)
+statDMG-F-warrior:Damage = Weapon damage * 0.5 * (strength * 0.015 + 1)
 statDMG-rogue:The range of physical damage you can deal.
-statDMG-F-rogue:Damage = (Weapon damage / 1.66) * ((dexterity / 60) + 1)
+statDMG-F-rogue:Damage = Weapon damage * 0.625 * (dexterity * 0.015 + 1)
 
 statVIT-mage:The amount of damage you can take.
-statVIT-F-mage:(1 + vit * 0.1) * (1 + 0.01 * lvl) * 11.5 + 10
+statVIT-F-mage:(vit * 0.015) * (1.5 * Level+10) * 2.7 + 15
 statVIT-knight:The amount of damage you can take.
-statVIT-F-knight:((1 + vit * 0.1) * (1 + 0.01 * lvl) * 22 + 10) * 1.15
+statVIT-F-knight:(vit * 0.015) * (1.5 * Level+10) * 4.5 * 1.15 + 15
 statVIT-ranger:The amount of damage you can take.
-statVIT-F-ranger:(1 + vit * 0.1) * (1 + 0.01 * lvl) * 15 + 10
+statVIT-F-ranger:(vit * 0.015) * (1.5 * Level+10) * 3.1 + 15
 statVIT-warrior:The amount of damage you can take.
-statVIT-F-warrior:(1 + vit * 0.1) * (1 + 0.01 * lvl) * 18 + 10
+statVIT-F-warrior:(vit * 0.015) * (1.5 * Level+10) * 4.0 + 15
 statVIT-rogue:The amount of damage you can take.
-statVIT-F-rogue:(1 + vit * 0.1) * (1 + 0.01 * lvl) * 16 + 10
+statVIT-F-rogue:(vit * 0.015) * (1.5 * Level+10) * 3.6 + 15
 
 statArmor-mage:Reduces all physical damage.
 statArmor-M-mage:Maximum value 50%.
-statArmor-F-mage:((Armor + Strength/3) / lvl * 0.08) * 100
+statArmor-F-mage:((Armor + Strength/3) / Level * 0.08) * 100
 statArmor-knight:Reduces all physical damage.
-statArmor-F-knight:((Armor / lvl) * 0.08) * 100
+statArmor-F-knight:((Armor / Level) * 0.08) * 100
 statArmor-M-knight:Maximum value 50%.
 statArmor-ranger:Reduces all physical damage.
-statArmor-F-ranger:((Armor + Strength/3) / lvl * 0.08) * 100
+statArmor-F-ranger:((Armor + Strength/3) / Level * 0.08) * 100
 statArmor-M-ranger:Maximum value 50%.
 statArmor-warrior:Reduces all physical damage.
-statArmor-F-warrior:((Armor / lvl) * 0.08) * 100
+statArmor-F-warrior:((Armor / Level) * 0.08) * 100
 statArmor-M-warrior:Maximum value 50%.
 statArmor-rogue:Reduces all physical damage.
-statArmor-F-rogue:((Armor + Strength/3) / lvl * 0.08) * 100
+statArmor-F-rogue:((Armor + Strength/3) / Level * 0.08) * 100
 statArmor-M-rogue:Maximum value 50%.
 
 statMagRes-mage:Reduces all magical damage.
-statMagRes-F-mage:(Magical Resistance / (lvl * 10)) * 100
+statMagRes-F-mage:(2 * Magical Resistance +  Wisdom/4) / (Level * 10)) * 100
 statMagRes-M-mage:Maximum value 50%.
 statMagRes-knight:Reduces all magical damage.
-statMagRes-F-knight:((Magical Resistance +  Wisdom/3) / (lvl * 10)) * 100
+statMagRes-F-knight:((Magical Resistance +  Wisdom/3) / (Level * 10)) * 100
 statMagRes-M-knight:Maximum value 50%.
 statMagRes-ranger:Reduces all magical damage.
-statMagRes-F-ranger:((Magical Resistance +  Wisdom/3) / (lvl * 10)) * 100
+statMagRes-F-ranger:((Magical Resistance +  Wisdom/3) / (Level * 10)) * 100
 statMagRes-M-ranger:Maximum value 50%.
 statMagRes-warrior:Reduces all magical damage.
-statMagRes-F-warrior:((Magical Resistance +  Wisdom/3) / (lvl * 10)) * 100
+statMagRes-F-warrior:((Magical Resistance +  Wisdom/3) / (Level * 10)) * 100
 statMagRes-M-warrior:Maximum value 50%.
 statMagRes-rogue:Reduces all magical damage.
-statMagRes-F-rogue:((Magical Resistance +  Wisdom/3) / (lvl * 10)) * 100
+statMagRes-F-rogue:((Magical Resistance +  Wisdom/3) / (Level * 10)) * 100
 statMagRes-M-rogue:Maximum value 50%.
 
 statCritMod-mage:Determines the power of critical hits.
-statCritMod-F-mage:(Luck / ((lvl + 1) * 2)) + 1.2
-statCritMod-M-mage:Maximum value x3.0.
+statCritMod-F-mage:(Luck / Level / 2.25) + 1.2
+statCritMod-M-mage:Maximum value x2.8.
 statCritMod-knight:Determines the power of critical hits.
-statCritMod-F-knight:(Luck / ((lvl + 1) * 2)) + 1.1
-statCritMod-M-knight:Maximum value x1.8.
+statCritMod-F-knight:(Luck / Level / 2.25) + 1.1
+statCritMod-M-knight:Maximum value x1.75.
 statCritMod-ranger:Determines the power of critical hits.
-statCritMod-F-ranger:(Luck / ((lvl + 1) * 2)) + 1.1
+statCritMod-F-ranger:(Luck / Level / 2.25) + 1.1
 statCritMod-M-ranger:Maximum value x1.8.
 statCritMod-warrior:Determines the power of critical hits.
-statCritMod-F-warrior:(Luck / ((lvl + 1) * 2)) + 1.1
+statCritMod-F-warrior:(Luck / Level / 2.25) + 1.1
 statCritMod-M-warrior:Maximum value x1.8.
 statCritMod-rogue:Determines the power of critical hits.
-statCritMod-F-rogue:(Luck / ((lvl + 1) * 2)) + 1.1
-statCritMod-M-rogue:Maximum value x1.8.
+statCritMod-F-rogue:(Luck / Level / 2.25) + 1.1
+statCritMod-M-rogue:Maximum value x2.0.
 
 statCritPerc-mage:Determines chance to land a critical hit.
-statCritPerc-F-mage:((Accuracy / lvl) * 0.25) * 100
+statCritPerc-F-mage:(Accuracy / Level) * 20
 statCritPerc-M-mage:Maximum value 50%
 statCritPerc-knight:Determines chance to land a critical hit.
-statCritPerc-F-knight:((Accuracy / lvl) * 0.25) * 100
+statCritPerc-F-knight:(Accuracy / Level) * 20
 statCritPerc-M-knight:Maximum value 50%
 statCritPerc-ranger:Determines chance to land a critical hit.
-statCritPerc-F-ranger:((Accuracy / lvl) * 0.25) * 100 + 10
-statCritPerc-M-ranger:Maximum value 80%
+statCritPerc-F-ranger:((Accuracy / Level) * 20) + 10
+statCritPerc-M-ranger:Maximum value 75%
 statCritPerc-warrior:Determines chance to land a critical hit.
-statCritPerc-F-warrior:((Accuracy / lvl) * 0.25) * 100
+statCritPerc-F-warrior:(Accuracy / Level) * 20
 statCritPerc-M-warrior:Maximum value 50%
 statCritPerc-rogue:Determines chance to land a critical hit.
-statCritPerc-F-rogue:((Accuracy / lvl) * 0.25) * 100
+statCritPerc-F-rogue:(Accuracy / Level) * 20
 statCritPerc-M-rogue:Maximum value 50%
 
 statEvasion-mage:Chance to dodge a physical strike.
-statEvasion-F-mage:((Agility + dexterity/3) / lvl * 0.075) * 100
+statEvasion-F-mage:((Agility + dexterity/3) / Level * 0.075) * 100
 statEvasion-M-mage:Maximum value 20%.
 statEvasion-knight:Chance to dodge a physical strike.
-statEvasion-F-knight:((Agility + dexterity/3) / lvl * 0.025) * 100
+statEvasion-F-knight:((Agility + dexterity/3) / Level * 0.025) * 100
 statEvasion-M-knight:Maximum value 10%.
 statEvasion-ranger:Chance to dodge a physical strike.
-statEvasion-F-ranger:((Agility / lvl) * 0.1) * 100
-statEvasion-M-ranger:Maximum value 30%.
+statEvasion-F-ranger:((Agility / Level) * 0.0875) * 100
+statEvasion-M-ranger:Maximum value 32.5%.
 statEvasion-warrior:Chance to dodge a physical strike.
-statEvasion-F-warrior:((Agility + dexterity/3) / lvl * 0.05) * 100
+statEvasion-F-warrior:((Agility + dexterity/3) / Level * 0.05) * 100
 statEvasion-M-warrior:Maximum value 15%.
 statEvasion-rogue:Chance to dodge any attack.
-statEvasion-F-rogue:((Agility / lvl) * 0.1) * 100
-statEvasion-M-rogue:Maximum value 40%.
+statEvasion-F-rogue:((Agility / Level) * 0.1) * 100 + 7.5
+statEvasion-M-rogue:Maximum value 37.5%.
 
 
 // Skill menu
@@ -106,13 +106,16 @@ yourCurrentSkills:Your current skills
 moreSkillsComingSoon:More to obtain coming soon
 
 skillMenuClassAbilityKnight:The knight's steadfastness grants them 15% maximum health.
-skillMenuClassAbilityRanger:The ranger's excellent aim grants them a 10% increased critical strike chance.
-skillMenuClassAbilityMage:The mage's ability to focus on their target allows them to never miss.
-skillMenuClassAbilityWarrior:The warrior's superior physical abilities allow them to deal increased 20% melee damage.
-skillMenuClassAbilityRogue:The rogue uses stealth instead of evasion allowing them to dodge physical and magical attacks.
+skillMenuExtraAbilityKnight:Equip a shield that grants a 30% chance to reduce incoming damage: 70% for melee attacks and 30% for ranged attacks.
 
-skillMenuExtraAbilityKnight:Equip a shield that grants a 30% chance to reduce incoming damage: 75% for melee attacks and 25% for ranged attacks.
-skillMenuExtraAbilityRanger:The ranger's barbed arrows apply a bleed effect on critical strikes for two turns.
-skillMenuExtraAbilityMage:Equipped with an ancient grimoire the mage can strike with up to 120% more powerful critical attacks.
-skillMenuExtraAbilityWarrior:The lifestone grants you 30% decaying life drain.
-skillMenuExtraAbilityRogue:The Rogue carries a special luck charm giving them a 10% bonus chance to use stealth.
+skillMenuClassAbilityRanger:The ranger's excellent aim grants them a 10% increased critical strike chance.
+skillMenuExtraAbilityRanger:The Ranger's barbed arrows apply a bleed effect on critical strikes for two turns, dealing 3% of the target's max HP as damage each turn and reducing all healing received by two-thirds during its duration.
+
+skillMenuClassAbilityMage:The Mage’s focused precision grants a +0.1 critical multiplier and ensures their attacks never miss.
+skillMenuExtraAbilityMage:Equipped with an ancient grimoire the mage can strike with up to 100% more powerful critical attacks.
+
+skillMenuClassAbilityWarrior:The warrior's superior physical abilities allow them to deal increased 15% melee damage.
+skillMenuExtraAbilityWarrior:The lifestone grants you 33% decaying life drain.
+
+skillMenuClassAbilityRogue:The Rogue relies on stealth instead of evasion, allowing them to dodge both physical and 50% of magical attacks. When a rogue dodges a melee attack by entering stealth, their next hit will be a critical strike.
+skillMenuExtraAbilityRogue:The Rogue carries a special luck charm giving them a 7.5% bonus chance to use stealth.

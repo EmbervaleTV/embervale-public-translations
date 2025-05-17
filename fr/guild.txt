@@ -60,3 +60,8 @@ revokeConfirmation:Es-tu sûr de vouloir révoquer l'invitation de {name} à rej
 chatNoPermission:Tu n'as pas la permission...
 hideSystemMsg:Masquer les messages système
 showSystemMsg:Afficher les messages système
+findGuild:Trouver une guilde
+invitedBy:Invité par
+youHave:Tu as
+join:Rejoindre
+applicationAlreadySent:Vous avez déjà une demande en attente pour cette guilde !

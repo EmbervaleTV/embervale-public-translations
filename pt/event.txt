@@ -1,0 +1,15 @@
+eventShop:Loja de Evento
+eventName:Páscoa 2025
+eventBundleName:Pacote de Páscoa 2025
+eventEndsIn:Evento termina em
+alreadyOwnsSkin:O jogador já possui esta skin.
+eventShopClosesIn:Loja de Evento fecha em
+eventUserWillReceive:{user} receberá
+accountBundle:Pacote de Conta
+eventCollection:Tudo da Coleção de Páscoa 2025 para todos os personagens e personagens futuros
+eventOutfit:Traje de Páscoa
+eventWeapon:Arma de Páscoa
+eventBackground:Fundo de Páscoa
+eventSkinBundleMsg:{character_name} te presenteou com o Pacote de Skins de Páscoa 2025!
+eventSkinAccountBundleMsg:{character_name} te presenteou com o Pacote de Skins de Páscoa 2025 para todos os seus personagens!
+eventRaidRewardTxt:{character_name} recebeu: {reward} - Dano: {dmg} ({perc}%) - Ataques: {amount} ({chance}%)

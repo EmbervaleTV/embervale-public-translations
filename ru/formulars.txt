@@ -1,107 +1,107 @@
 statDMG-mage:Диапазон магического урона, который вы можете нанести.
-statDMG-F-mage:Урон = Урон оружия * ((мудрость / 60) + 1)
+statDMG-F-mage:Урон = Урон оружия * 0.9 * (мудрость * 0.015 + 1)
 statDMG-knight:Диапазон физического урона, который вы можете нанести.
-statDMG-F-knight:Урон = (Урон оружия / 2.66) * ((сила / 60) + 1)
+statDMG-F-knight:Урон = Урон оружия * 0.425 * (сила * 0.015 + 1)
 statDMG-ranger:Диапазон физического урона, который вы можете нанести.
-statDMG-F-ranger:Урон = (Урон оружия / 1.54) * ((ловкость / 60) + 1)
+statDMG-F-ranger:Урон = Урон оружия * 0.75 * (ловкость * 0.015 + 1)
 statDMG-warrior:Диапазон физического урона, который вы можете нанести.
-statDMG-F-warrior:Урон = (Урон оружия / 2) * ((сила / 60) + 1)
+statDMG-F-warrior:Урон = Урон оружия * 0.5 * (сила * 0.015 + 1)
 statDMG-rogue:Диапазон физического урона, который вы можете нанести.
-statDMG-F-rogue:Урон = (Урон оружия / 1.66) * ((ловкость / 60) + 1)
+statDMG-F-rogue:Урон = Урон оружия * 0.625 * (ловкость * 0.015 + 1)
 statVIT-mage:Количество урона, который вы можете принять.
-statVIT-F-mage:(1 + вит * 0.1) * (1 + 0.01 * ур) * 11.5 + 10
+statVIT-F-mage:(вит * 0.015) * (1.5 * Уровень+10) * 2.7 + 15
 statVIT-knight:Количество урона, который вы можете принять.
-statVIT-F-knight:((1 + vit * 0.1) * (1 + 0.01 * lvl) * 22 + 10) * 1.15
+statVIT-F-knight:(вит * 0.015) * (1.5 * Уровень+10) * 4.5 * 1.15 + 15
 statVIT-ranger:Количество урона, который вы можете принять.
-statVIT-F-ranger:(1 + вит * 0.1) * (1 + 0.01 * ур) * 15 + 10
+statVIT-F-ranger:(вит * 0.015) * (1.5 * Уровень+10) * 3.1 + 15
 statVIT-warrior:Количество урона, который вы можете принять.
-statVIT-F-warrior:(1 + вит * 0.1) * (1 + 0.01 * ур) * 18 + 10
+statVIT-F-warrior:(вит * 0.015) * (1.5 * Уровень+10) * 4.0 + 15
 statVIT-rogue:Количество урона, который вы можете принять.
-statVIT-F-rogue:(1 + vit * 0.1) * (1 + 0.01 * lvl) * 16 + 10
+statVIT-F-rogue:(вит * 0.015) * (1.5 * Уровень+10) * 3.6 + 15
 statArmor-mage:Уменьшает весь физический урон.
 statArmor-M-mage:Максимальное значение 50%.
-statArmor-F-mage:((Броня + Сила/3) / ур * 0.08) * 100
+statArmor-F-mage:((Броня + Сила/3) / Уровень * 0.08) * 100
 statArmor-knight:Уменьшает весь физический урон.
-statArmor-F-knight:((Броня / ур) * 0.08) * 100
+statArmor-F-knight:((Броня / Уровень) * 0.08) * 100
 statArmor-M-knight:Максимальное значение 50%.
 statArmor-ranger:Уменьшает весь физический урон.
-statArmor-F-ranger:((Броня + Сила/3) / ур * 0.08) * 100
+statArmor-F-ranger:((Броня + Сила/3) / Уровень * 0.08) * 100
 statArmor-M-ranger:Максимальное значение 50%.
 statArmor-warrior:Уменьшает весь физический урон.
 statArmor-M-warrior:Максимальное значение 50%.
 statArmor-rogue:Уменьшает весь физический урон.
-statArmor-F-rogue:((Броня + Сила/3) / ур * 0.08) * 100
+statArmor-F-rogue:((Броня + Сила/3) / Уровень * 0.08) * 100
 statArmor-M-rogue:Максимальное значение 50%.
 statMagRes-mage:Уменьшает весь магический урон.
-statMagRes-F-mage:(Сопротивление магии / (lvl * 10)) * 100
+statMagRes-F-mage:(2 * Сопротивление магии + Мудрость/4) / (Уровень * 10)) * 100
 statMagRes-M-mage:Максимальное значение 50%.
 statMagRes-knight:Уменьшает весь магический урон.
-statMagRes-F-knight:((Сопротивление магии +  Мудрость/3) / (lvl * 10)) * 100
+statMagRes-F-knight:((Магическая Защита + Мудрость/3) / (Уровень * 10)) * 100
 statMagRes-M-knight:Максимальное значение 50%.
 statMagRes-ranger:Уменьшает весь магический урон.
-statMagRes-F-ranger:((Сопротивление магии +  Мудрость/3) / (lvl * 10)) * 100
+statMagRes-F-ranger:((Магическая Защита + Мудрость/3) / (Уровень * 10)) * 100
 statMagRes-M-ranger:Максимальное значение 50%.
 statMagRes-warrior:Уменьшает весь магический урон.
-statMagRes-F-warrior:((Сопротивление магии +  Мудрость/3) / (lvl * 10)) * 100
+statMagRes-F-warrior:((Магическая Защита + Мудрость/3) / (Уровень * 10)) * 100
 statMagRes-M-warrior:Максимальное значение 50%.
 statMagRes-rogue:Уменьшает весь магический урон.
-statMagRes-F-rogue:((Сопротивление магии +  Мудрость/3) / (lvl * 10)) * 100
+statMagRes-F-rogue:((Магическая Защита + Мудрость/3) / (Уровень * 10)) * 100
 statMagRes-M-rogue:Максимальное значение 50%.
 statCritMod-mage:Определяет силу критических ударов.
-statCritMod-F-mage:(Удача / ((уровень + 1) * 2)) + 1.2
-statCritMod-M-mage:Максимальное значение x3.0.
+statCritMod-F-mage:(Удача / Уровень / 2.25) + 1.2
+statCritMod-M-mage:Максимальное значение x2.8.
 statCritMod-knight:Определяет силу критических ударов.
-statCritMod-F-knight:(Удача / ((уровень + 1) * 2)) + 1.1
-statCritMod-M-knight:Максимальное значение x1.8.
+statCritMod-F-knight:(Удача / Уровень / 2.25) + 1.1
+statCritMod-M-knight:Максимальное значение x1.75.
 statCritMod-ranger:Определяет силу критических ударов.
-statCritMod-F-ranger:(Удача / ((уровень + 1) * 2)) + 1.1
+statCritMod-F-ranger:(Удача / Уровень / 2.25) + 1.1
 statCritMod-M-ranger:Максимальное значение x1.8.
 statCritMod-warrior:Определяет силу критических ударов.
-statCritMod-F-warrior:(Удача / ((уровень + 1) * 2)) + 1.1
+statCritMod-F-warrior:(Удача / Уровень / 2.25) + 1.1
 statCritMod-M-warrior:Максимальное значение x1.8.
 statCritMod-rogue:Определяет силу критических ударов.
-statCritMod-F-rogue:(Удача / ((уровень + 1) * 2)) + 1.1
-statCritMod-M-rogue:Максимальное значение x1.8.
+statCritMod-F-rogue:(Удача / Уровень / 2.25) + 1.1
+statCritMod-M-rogue:Максимальное значение x2.0.
 statCritPerc-mage:Определяет шанс на критический удар.
-statCritPerc-F-mage:((Точность / ур) * 0.25) * 100
+statCritPerc-F-mage:(Точность / Уровень) * 20
 statCritPerc-M-mage:Максимальное значение 50%
 statCritPerc-knight:Определяет шанс нанести критический удар.
-statCritPerc-F-knight:((Точность / ур) * 0.25) * 100
+statCritPerc-F-knight:(Точность / Уровень) * 20
 statCritPerc-M-knight:Максимальное значение 50%
 statCritPerc-ranger:Определяет шанс нанести критический удар.
-statCritPerc-F-ranger:((Точность / уровень) * 0,25) * 100 + 10
-statCritPerc-M-ranger:Максимальное значение 80%
+statCritPerc-F-ranger:((Точность / Уровень) * 20) + 10
+statCritPerc-M-ranger:Максимальное значение 75%
 statCritPerc-warrior:Определяет шанс нанести критический удар.
-statCritPerc-F-warrior:((Точность / ур) * 0.25) * 100
+statCritPerc-F-warrior:(Точность / Уровень) * 20
 statCritPerc-M-warrior:Максимальное значение 50%
 statCritPerc-rogue:Определяет шанс нанести критический удар.
-statCritPerc-F-rogue:((Точность / ур) * 0.25) * 100
+statCritPerc-F-rogue:(Точность / Уровень) * 20
 statCritPerc-M-rogue:Максимальное значение 50%
 statEvasion-mage:Шанс уклониться от физического удара.
-statEvasion-F-mage:((Ловкость + проворство/3) / ур * 0.075) * 100
+statEvasion-F-mage:((Ловкость + ловкость/3) / Уровень * 0.075) * 100
 statEvasion-M-mage:Максимальное значение 20%.
 statEvasion-knight:Шанс уклониться от физического удара.
-statEvasion-F-knight:((Ловкость + проворство/3) / ур * 0.025) * 100
+statEvasion-F-knight:((Ловкость + ловкость/3) / Уровень * 0.025) * 100
 statEvasion-M-knight:Максимальное значение 10%.
 statEvasion-ranger:Шанс уклониться от физического удара.
-statEvasion-F-ranger:((Ловкость / ур) * 0.1) * 100
-statEvasion-M-ranger:Максимальное значение 30%.
+statEvasion-F-ranger:((Ловкость / Уровень) * 0,0875) * 100
+statEvasion-M-ranger:Максимальное значение 32,5%.
 statEvasion-warrior:Шанс уклониться от физического удара.
-statEvasion-F-warrior:((Ловкость + проворство/3) / ур * 0.05) * 100
+statEvasion-F-warrior:((Ловкость + ловкость/3) / Уровень * 0.05) * 100
 statEvasion-M-warrior:Максимальное значение 15%.
 statEvasion-rogue:Шанс уклониться от любой атаки.
-statEvasion-F-rogue:((Ловкость / ур) * 0.1) * 100
-statEvasion-M-rogue:Максимальное значение 40%.
-statArmor-F-warrior:((Броня / ур) * 0.08) * 100
+statEvasion-F-rogue:((Agility / Level) * 0.1) * 100 + 7.5
+statEvasion-M-rogue:Максимальное значение 37.5%.
+statArmor-F-warrior:((Броня / Уровень) * 0.08) * 100
 skillMenuClassAbilityKnight:Стойкость рыцаря дает ему 15% к максимальному здоровью.
 skillMenuClassAbilityRanger:Отличный прицел рейнджера дает ему 10% увеличение шанса критического удара.
-skillMenuClassAbilityMage:Способность мага сосредоточиться на цели позволяет ему никогда не промахиваться.
-skillMenuClassAbilityWarrior:Превосходные физические способности воина позволяют ему наносить на 20% больше урона в ближнем бою.
-skillMenuClassAbilityRogue:Разбойник использует скрытность вместо уклонения, позволяя избегать физических и магических атак.
-skillMenuExtraAbilityKnight:Экипируйте щит, который дает 30% шанс уменьшить входящий урон: 75% для атаки ближнего боя и 25% для дальнего боя.
-skillMenuExtraAbilityRanger:Колючие стрелы рейнджера накладывают эффект кровотечения при критических ударах на два хода.
-skillMenuExtraAbilityMage:Вооружённый древним гримуаром, маг может наносить критические удары с до 120% большей мощью.
-skillMenuExtraAbilityWarrior:Камень жизни дает 30% затухающего похищения жизни.
-skillMenuExtraAbilityRogue:Разбойник носит особый амулет удачи, дающий 10% бонусного шанса использовать скрытность.
+skillMenuClassAbilityMage:Точная проницательность Мага дает +0.1 к критическому множителю и гарантирует, что их атаки никогда не промахнутся.
+skillMenuClassAbilityWarrior:Превосходные физические способности воина позволяют ему наносить на 15% больше урона в ближнем бою.
+skillMenuClassAbilityRogue:Разбойник полагается на скрытность вместо уклонения, что позволяет ему избегать как физических атак, так и 50% магических. Когда разбойник уклоняется от ближней атаки, переходя в скрытность, его следующий удар станет критическим.
+skillMenuExtraAbilityKnight:Экипируйте щит, который даёт 30% шанс уменьшить входящий урон: 70% для атак ближнего боя и 30% для дальних атак.
+skillMenuExtraAbilityRanger:Колючие стрелы Рейнджера накладывают эффект кровотечения при критических ударах на два хода, нанося ущерб в размере 3% от максимального здоровья цели каждый ход и уменьшая все получаемое лечение на две трети на время действия эффекта.
+skillMenuExtraAbilityMage:Экипировавшись древним гримуаром, маг может наносить до 100% более мощные критические удары.
+skillMenuExtraAbilityWarrior:Камень жизни дарует вам 33% истощения жизни.
+skillMenuExtraAbilityRogue:Разбойник носит специальный амулет удачи, дающий ему бонус в 7,5% на использование скрытности.
 yourCurrentSkills:Ваши текущие навыки
 moreSkillsComingSoon:Скоро будет доступно больше навыков

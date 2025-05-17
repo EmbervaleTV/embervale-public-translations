@@ -79,7 +79,7 @@ effect_astral_stasis:El jugador está usando magia para sanar a un compañero. /
 astral_stasis:Estasis Astral
 effect_ambushed:El jugador fue emboscado recientemente. // Recibe el doble de daño
 ambushed:Emboscado
-effect_healer:El jugador curó recientemente una enfermedad terrible. // Todos los miembros del grupo se sanan un 10% por turno
+effect_healer:El jugador recientemente curó una enfermedad terrible. // Aquellos que no están en combate recuperan 10% de salud cada ronda.
 healer:Sanador
 effect_upset:El jugador está molesto por las decisiones del líder. // -1 moral por ronda
 upset:Molesto
@@ -177,7 +177,7 @@ check_morale:¿Es la moral del grupo lo suficientemente alta para superar este o
 check_fame:Los aventureros más experimentados sabrán la solución.
 fame:Fama
 bright_hair:El cabello de todos está teñido de colores brillantes.
-effect_bright_hair:Cabello Brillante
+effect_bright_hair:Pelo Brillante
 check_coin_stack:Esta opción requiere una pila de monedas.
 adventurePlayerCheck:Chequeo
 errNotEnoughVotings:¡No puedes continuar sin votar por algo!
@@ -334,11 +334,11 @@ inactive:Inactivo
 adventureSettingRaffleAnimation:Animación de sorteo
 toolLimitReached:Puedes activar hasta 5 herramientas para una sola pelea.
 toolAlreadyEnabled:Esta herramienta ya ha sido habilitada.
-requiredUnlocksTool:Victorias requeridas para el próximo desbloqueo
+requiredUnlocksTool:Victorias necesarias como anfitrión para el próximo desbloqueo
 requiredUnlocksToolTooltip:Solo se cuentan las batallas con un indicador de botín de "Bajo" o superior.
 adventureBestiaryRequired:¡Debes derrotar a este monstruo al menos una vez para desbloquear su entrada en el bestiario y ver sus estadísticas!
 toolActivatedForNextFight:¡La herramienta ha sido activada para la próxima pelea!
-adventureSettingFullscreen:[Experimental] Juega Aventuras en Modo Pantalla Completa [Esto recargará tu juego]
+adventureSettingFullscreen:Juega aventuras en modo de pantalla completa [Esto recargará tu juego]
 strong_armor:Armadura Fuerte
 effect_strong_armor:La armadura de este jugador ha demostrado ser extraordinariamente resistente.  // +25% armadura
 allPlayersReceivedTheirDailyLimit:Todos los jugadores de tu sala ya han alcanzado el límite diario de cofres de aventura. ¿Quieres renunciar al botín?
@@ -380,3 +380,47 @@ merchantDevilTooltip:Tengo hambre de las almas de los miembros de tu grupo. ¿Lo
 merchantMoraleTooltip:Me nutro de la desesperación de los demás. ¿Todavía te atreves a comerciar conmigo?
 effect_sacrificed:El jugador fue sacrificado. // No más parte de la aventura
 sacrificed:Sacrificado
+selectQuest:Selecciona una Misión
+cantSendToTraining:¡Entrenar es demasiado arriesgado ahora—la moral del grupo es demasiado baja!
+votes:Votos
+nextDice:siguiente Dado
+toolNotOwned:{ toolname } no está en tu posesión en este momento.
+yourTools:Tienes: { toolname }
+adventureResults:Resultados de la Aventura
+noToolsError:No tienes ninguna herramienta actualmente.
+corrosive_imbuement:Imbuición Corrosiva
+corrosive_imbuement_description:Los ataques físicos ignoran la resistencia física durante la próxima batalla.
+effect_beginners_luck:El jugador acaba de descubrir Embervale y está rodeado por un aura de suerte. // +2 a todas las tiradas
+beginners_luck:Suerte de Principiante
+adventureJoinTooWeak:No eres lo bastante fuerte para esta etapa. El grupo actualmente enfrenta a un monstruo de nivel {mLevel}, y necesitas estar al menos en el nivel {reqLevel} para unirte a esta aventura. ¡Intenta subir de nivel un poco o participa cuando el streamer comience la próxima aventura!
+adventureAnyoneCanJoin:Todos pueden unirse
+adventureJoinRestrictions:Nivel mín.: {percentage}% del oponente (e.g. {monsterLVL} vs. nivel 200)
+adventureJoinRestrictionHeadline:Limitar quién puede unirse. (Solo aplica si el monstruo está por encima de nivel 30)
+cantSendToTrainingInParty:¡Este jugador está participando actualmente en el evento y no puede ser enviado a entrenamiento!
+battles:Batallas
+totalDamage:Daño Total
+wins:Victorias
+losses:Derrotas
+rating:Calificación
+events:Eventos
+diceRolled:Dados lanzados
+succeeded:Exitoso
+toolsUsed:Herramientas Usadas
+effect_champion_of_light:El jugador es célebre por purgar a los no muertos con furia divina. // 500% de daño contra no muertos
+champion_of_light:Campeón de la Luz
+effect_explosive:El jugador es inestable y detonará al ser usado en combate. // desmaya al jugador y al oponente
+explosive:Explosivo
+effect_incapacitated:Nadie sabe a dónde fueron... o si regresarán. // ???
+incapacitated:Incapacitado
+effect_profane_might:Esta persona abrazó un poder horrible que los corrompió por completo. // +100% a todas las estadísticas, 0 Defensa Física, -4 moral por cada batalla
+profane_might:Poder Profano
+one_eyed:Tuerto
+effect_one_eyed:El jugador ha perdido un ojo, pero ataca con ferocidad. // +100% daño -50% crítico
+kingdom_in_peril:Reino en Peligro
+effect_kingdom_in_peril:Una amenaza no-muerta ha sido desatada sobre la tierra.
+captains_commendation:Felicitación del Capitán
+effect_captains_commendation:El grupo lucha con confianza renovada. Todos ganan +5 en todas las tiradas.
+effect_lycanthropic:Este jugador lleva una maldición peligrosa...// Al caer en combate, no pierden un estado de salud. En su lugar, la maldición toma el control, transformándolos en un hombre lobo.
+lycanthropic:Maldición Licántropa
+effect_werewolf:¡Este jugador se ha transformado en un hombre lobo! // Gana poderosas estadísticas (TBD), sufre -10 de moral al usarse en combate. Si caen, pierden un estado de salud como de costumbre y regresan a su forma maldita.
+werewolf:Hombre Lobo

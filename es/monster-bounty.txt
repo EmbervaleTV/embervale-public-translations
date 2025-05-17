@@ -1,4 +1,4 @@
-abnormous_tick_bounty:Un parásito descomunal que extraerá más que un poco de sangre
+abnormous_tick_bounty:Un parásito sobredimensionado que extraerá más que solo un poco de sangre.
 berserker_dwarf_bounty:Un guerrero tradicional del pueblo enano
 blue_dragonfly_bounty:Depredador de estanques y ríos
 carnivorous_plant_bounty:El bosque muerde de vuelta
@@ -141,7 +141,7 @@ demon_critter_rabbit_bounty:Restaura el orden tras el caos del conejo demonio.
 demon_critter_squirrel_bounty:Acaba con las travesuras del demonio ardilla.
 demon_imp_bounty:Libera a las víctimas del tormento del demonio imp.
 darkness_gargoyle_bounty:Disipa la influencia sombría del gárgola de oscuridad.
-devilimp_bounty:Restaura la armonía interrumpida por el devilimp.
+devilimp_bounty:Restaura la armonía alterada por el demonio imp.
 dragon_wyrm_bounty:Protege la tierra de la destrucción del dragón wyrm.
 blue_wyvern_bounty:Rompe el gélido control del wyvern azul.
 brown_wyvern_bounty:Estabiliza el terreno afectado por el wyvern marrón.

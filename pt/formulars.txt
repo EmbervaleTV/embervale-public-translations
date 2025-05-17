@@ -1,107 +1,107 @@
 statDMG-mage:O alcance do dano mágico que você pode causar.
-statDMG-F-mage:Dano = Dano da arma * ((sabedoria / 60) + 1)
+statDMG-F-mage:Dano = Dano da arma * 0.9 * (sabedoria * 0.015 + 1)
 statDMG-knight:O alcance do dano físico que você pode causar.
-statDMG-F-knight:Dano = (Dano da arma / 2,66) * ((força / 60) + 1)
+statDMG-F-knight:Dano = Dano da arma * 0.425 * (força * 0.015 + 1)
 statDMG-ranger:O alcance do dano físico que você pode causar.
-statDMG-F-ranger:Dano = (Dano da arma / 1,54) * ((destreza / 60) + 1)
+statDMG-F-ranger:Dano = Dano da arma * 0.75 * (destreza * 0.015 + 1)
 statDMG-warrior:O alcance do dano físico que você pode causar.
-statDMG-F-warrior:Dano = (Dano da arma / 2) * ((força / 60) + 1)
+statDMG-F-warrior:Dano = Dano da arma * 0.5 * (força * 0.015 + 1)
 statDMG-rogue:O alcance do dano físico que você pode causar.
-statDMG-F-rogue:Dano = (Dano da arma / 1,66) * ((destreza / 60) + 1)
+statDMG-F-rogue:Dano = Dano da arma * 0.625 * (destreza * 0.015 + 1)
 statVIT-mage:A quantidade de dano que você pode receber.
-statVIT-F-mage:(1 + vit * 0.1) * (1 + 0.01 * lvl) * 11.5 + 10
+statVIT-F-mage:(vit * 0,015) * (1,5 * Nível + 10) * 2,7 + 15
 statVIT-knight:A quantidade de dano que você pode receber.
-statVIT-F-knight:((1 + vit * 0.1) * (1 + 0.01 * lvl) * 22 + 10) * 1.15
+statVIT-F-knight:(vit * 0,015) * (1,5 * Nível + 10) * 4,5 * 1,15 + 15
 statVIT-ranger:A quantidade de dano que você pode receber.
-statVIT-F-ranger:(1 + vit * 0.1) * (1 + 0.01 * lvl) * 15 + 10
+statVIT-F-ranger:(vit * 0,015) * (1,5 * Nível + 10) * 3,1 + 15
 statVIT-warrior:A quantidade de dano que você pode receber.
-statVIT-F-warrior:(1 + vit * 0.1) * (1 + 0.01 * lvl) * 18 + 10
+statVIT-F-warrior:(vit * 0,015) * (1,5 * Nível + 10) * 4,0 + 15
 statVIT-rogue:A quantidade de dano que você pode receber.
-statVIT-F-rogue:(1 + vit * 0.1) * (1 + 0.01 * lvl) * 16 + 10
+statVIT-F-rogue:(vit * 0,015) * (1,5 * Nível + 10) * 3,6 + 15
 statArmor-mage:Reduz todo dano físico.
 statArmor-M-mage:Valor máximo 50%.
-statArmor-F-mage:((Armadura + Força/3) / lvl * 0.08) * 100
+statArmor-F-mage:((Armadura + Força/3) / Nível * 0,08) * 100
 statArmor-knight:Reduz todo dano físico.
-statArmor-F-knight:((Armadura / lvl) * 0.08) * 100
+statArmor-F-knight:((Armadura / Nível) * 0,08) * 100
 statArmor-M-knight:Valor máximo 50%.
 statArmor-ranger:Reduz todo dano físico.
-statArmor-F-ranger:((Armadura + Força/3) / lvl * 0.08) * 100
+statArmor-F-ranger:((Armadura + Força/3) / Nível * 0,08) * 100
 statArmor-M-ranger:Valor máximo 50%.
 statArmor-warrior:Reduz todo dano físico.
 statArmor-M-warrior:Valor máximo 50%.
 statArmor-rogue:Reduz todo dano físico.
-statArmor-F-rogue:((Armadura + Força/3) / lvl * 0.08) * 100
+statArmor-F-rogue:((Armadura + Força/3) / Nível * 0,08) * 100
 statArmor-M-rogue:Valor máximo 50%.
 statMagRes-mage:Reduz todo dano mágico.
-statMagRes-F-mage:(Resistência Mágica / (lvl * 10)) * 100
+statMagRes-F-mage:(2 * Resistência Mágica + Sabedoria/4) / (Nível * 10)) * 100
 statMagRes-M-mage:Valor máximo 50%.
 statMagRes-knight:Reduz todo dano mágico.
-statMagRes-F-knight:((Resistência Mágica + Sabedoria/3) / (lvl * 10)) * 100
+statMagRes-F-knight:((Resistência Mágica + Sabedoria/3) / (Nível * 10)) * 100
 statMagRes-M-knight:Valor máximo 50%.
 statMagRes-ranger:Reduz todo dano mágico.
-statMagRes-F-ranger:((Resistência Mágica + Sabedoria/3) / (lvl * 10)) * 100
+statMagRes-F-ranger:((Resistência Mágica + Sabedoria/3) / (Nível * 10)) * 100
 statMagRes-M-ranger:Valor máximo 50%.
 statMagRes-warrior:Reduz todo dano mágico.
-statMagRes-F-warrior:((Resistência Mágica + Sabedoria/3) / (lvl * 10)) * 100
+statMagRes-F-warrior:((Resistência Mágica + Sabedoria/3) / (Nível * 10)) * 100
 statMagRes-M-warrior:Valor máximo 50%.
 statMagRes-rogue:Reduz todo dano mágico.
-statMagRes-F-rogue:((Resistência Mágica + Sabedoria/3) / (lvl * 10)) * 100
+statMagRes-F-rogue:((Resistência Mágica + Sabedoria/3) / (Nível * 10)) * 100
 statMagRes-M-rogue:Valor máximo 50%.
 statCritMod-mage:Determina o poder dos acertos críticos.
-statCritMod-F-mage:(Sorte / ((lvl + 1) * 2)) + 1.2
-statCritMod-M-mage:Valor máximo x3.0.
+statCritMod-F-mage:(Sorte / Nível / 2,25) + 1,2
+statCritMod-M-mage:Valor máximo x2,8.
 statCritMod-knight:Determina o poder dos acertos críticos.
-statCritMod-F-knight:(Sorte / ((lvl + 1) * 2)) + 1.1
-statCritMod-M-knight:Valor máximo x1.8.
+statCritMod-F-knight:(Sorte / Nível / 2,25) + 1,1
+statCritMod-M-knight:Valor máximo x1,75.
 statCritMod-ranger:Determina o poder dos acertos críticos.
-statCritMod-F-ranger:(Sorte / ((lvl + 1) * 2)) + 1.1
+statCritMod-F-ranger:(Sorte / Nível / 2,25) + 1,1
 statCritMod-M-ranger:Valor máximo x1.8.
 statCritMod-warrior:Determina o poder dos acertos críticos.
-statCritMod-F-warrior:(Sorte / ((lvl + 1) * 2)) + 1.1
+statCritMod-F-warrior:(Sorte / Nível / 2,25) + 1,1
 statCritMod-M-warrior:Valor máximo x1.8.
 statCritMod-rogue:Determina o poder dos acertos críticos.
-statCritMod-F-rogue:(Sorte / ((lvl + 1) * 2)) + 1.1
-statCritMod-M-rogue:Valor máximo x1.8.
+statCritMod-F-rogue:(Sorte / Nível / 2.25) + 1.1
+statCritMod-M-rogue:Valor máximo x2.0.
 statCritPerc-mage:Determina a chance de conseguir um acerto crítico.
-statCritPerc-F-mage:((Precisão / lvl) * 0.25) * 100
+statCritPerc-F-mage:(Precisão / Nível) * 20
 statCritPerc-M-mage:Valor máximo 50%
 statCritPerc-knight:Determina a chance de acertar um golpe crítico.
-statCritPerc-F-knight:((Precisão / lvl) * 0.25) * 100
+statCritPerc-F-knight:(Precisão / Nível) * 20
 statCritPerc-M-knight:Valor máximo 50%
 statCritPerc-ranger:Determina a chance de acertar um golpe crítico.
-statCritPerc-F-ranger:((Precisão / lvl) * 0,25) * 100 + 10
-statCritPerc-M-ranger:Valor máximo 80%
+statCritPerc-F-ranger:((Precisão / Nível) * 20) + 10
+statCritPerc-M-ranger:Valor máximo 75%
 statCritPerc-warrior:Determina a chance de acertar um golpe crítico.
-statCritPerc-F-warrior:((Precisão / lvl) * 0.25) * 100
+statCritPerc-F-warrior:(Precisão / Nível) * 20
 statCritPerc-M-warrior:Valor máximo 50%
 statCritPerc-rogue:Determina a chance de acertar um golpe crítico.
-statCritPerc-F-rogue:((Precisão / lvl) * 0.25) * 100
+statCritPerc-F-rogue:(Precisão / Nível) * 20
 statCritPerc-M-rogue:Valor máximo 50%
 statEvasion-mage:Chance de desviar de um golpe físico.
-statEvasion-F-mage:((Agilidade + Destreza/3) / lvl * 0.075) * 100
+statEvasion-F-mage:((Agilidade + destreza/3) / Nível * 0.075) * 100
 statEvasion-M-mage:Valor máximo 20%.
 statEvasion-knight:Chance de desviar de um golpe físico.
-statEvasion-F-knight:((Agilidade + Destreza/3) / lvl * 0.025) * 100
+statEvasion-F-knight:((Agilidade + destreza/3) / Nível * 0.025) * 100
 statEvasion-M-knight:Valor máximo 10%.
 statEvasion-ranger:Chance de desviar de um golpe físico.
-statEvasion-F-ranger:((Agilidade / lvl) * 0.1) * 100
-statEvasion-M-ranger:Valor máximo 30%.
+statEvasion-F-ranger:((Agilidade / Nível) * 0.0875) * 100
+statEvasion-M-ranger:Valor máximo 32.5%.
 statEvasion-warrior:Chance de desviar de um golpe físico.
-statEvasion-F-warrior:((Agilidade + Destreza/3) / lvl * 0.05) * 100
+statEvasion-F-warrior:((Agilidade + destreza/3) / Nível * 0.05) * 100
 statEvasion-M-warrior:Valor máximo 15%.
 statEvasion-rogue:Chance de desviar de qualquer ataque.
-statEvasion-F-rogue:((Agilidade / lvl) * 0.1) * 100
-statEvasion-M-rogue:Valor máximo 40%.
-statArmor-F-warrior:((Armadura / lvl) * 0.08) * 100
+statEvasion-F-rogue:((Agilidade / Nível) * 0,1) * 100 + 7,5
+statEvasion-M-rogue:Valor máximo 37.5%.
+statArmor-F-warrior:((Armadura / Nível) * 0,08) * 100
 skillMenuClassAbilityKnight:A firmeza do cavaleiro concede-lhes 15% de saúde máxima.
 skillMenuClassAbilityRanger:A excelente mira do ranger concede-lhes 10% de aumento na chance de golpe crítico.
-skillMenuClassAbilityMage:A habilidade do mago de focar no alvo permite-lhes nunca errar.
-skillMenuClassAbilityWarrior:As habilidades físicas superiores do guerreiro permitem-lhes causar 20% de dano corpo a corpo aumentado.
-skillMenuClassAbilityRogue:O ladino usa furtividade em vez de evasão, permitindo-lhes desviar de ataques físicos e mágicos.
-skillMenuExtraAbilityKnight:Equipe um escudo que concede uma chance de 30% de reduzir o dano recebido: 75% para ataques corpo a corpo e 25% para ataques à distância.
-skillMenuExtraAbilityRanger:As flechas farpadas do ranger aplicam um efeito de sangramento em golpes críticos por duas rodadas.
-skillMenuExtraAbilityMage:Equipado com um grimório antigo, o mago pode realizar ataques críticos até 120% mais poderosos.
-skillMenuExtraAbilityWarrior:A pedra da vida concede-lhe um roubo de vida decrescente de 30%.
-skillMenuExtraAbilityRogue:O Ladino carrega um amuleto de sorte especial, dando-lhes uma chance bônus de 10% para usar furtividade.
+skillMenuClassAbilityMage:A precisão focada do Mago concede um multiplicador de crítico de +0,1 e garante que seus ataques nunca errem.
+skillMenuClassAbilityWarrior:As habilidades físicas superiores do guerreiro permitem que eles causem 15% a mais de dano corpo a corpo.
+skillMenuClassAbilityRogue:O Rogue confia na furtividade em vez da evasão, permitindo que eles desviem tanto dos ataques físicos quanto de 50% dos ataques mágicos. Quando um rogue desvia de um ataque corpo a corpo entrando em furtividade, seu próximo golpe será um ataque crítico.
+skillMenuExtraAbilityKnight:Equipe um escudo que concede uma chance de 30% de reduzir o dano recebido: 70% para ataques corpo a corpo e 30% para ataques à distância.
+skillMenuExtraAbilityRanger:As flechas farpadas do Ranger aplicam um efeito de sangramento em golpes críticos por duas rodadas, causando 3% do HP máximo do alvo como dano a cada turno e reduzindo toda a cura recebida em dois terços durante sua duração.
+skillMenuExtraAbilityMage:Equipado com um grimório antigo, o mago pode atacar com até 100% mais poder críticos.
+skillMenuExtraAbilityWarrior:A pedra vital concede 33% de dreno de vida decrescente.
+skillMenuExtraAbilityRogue:O Rogue carrega um amuleto de sorte especial que lhes dá um bônus de 7,5% de chance de usar furtividade.
 yourCurrentSkills:Suas habilidades atuais
 moreSkillsComingSoon:Mais para obter em breve

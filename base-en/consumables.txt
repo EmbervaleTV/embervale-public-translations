@@ -3,6 +3,7 @@ consumables:Consumables
 consumable:Consumable
 other:Other
 consumableOverwriteWarning:You already have a potion of a different size active! Using a larger or smaller potion will replace the current one.
+healthPotionOnlyInDungeonError:You can only use health potions while inside a dungeon.
 
 small_health_potion:Small Health Potion
 small_health_potion_craft_description:Heals you by {amount_min1}% to {amount_max1}% in dungeons.
@@ -88,6 +89,60 @@ large_wisdom_potion:Large Wisdom Potion
 large_wisdom_potion_craft_description:Increases wisdom by {amount_min1}% to {amount_max1}%.
 large_wisdom_potion_description:Increases wisdom by {amount_min1}% for {time}.
 
+// elemental
+small_infernal_potion:Small Infernal Potion
+small_infernal_potion_craft_description:Increases infernal damage and resistance by {amount_min1}% to {amount_max1}%.
+small_infernal_potion_description:Increases infernal damage and resistance by {amount_min1}% for {time}.
+medium_infernal_potion:Medium Infernal Potion
+medium_infernal_potion_craft_description:Boosts infernal damage and resistance by {amount_min1}% to {amount_max1}%.
+medium_infernal_potion_description:Boosts infernal damage and resistance by {amount_min1}% for {time}.
+large_infernal_potion:Large Infernal Potion
+large_infernal_potion_craft_description:Greatly increases infernal damage and resistance by {amount_min1}% to {amount_max1}%.
+large_infernal_potion_description:Greatly increases infernal damage and resistance by {amount_min1}% for {time}.
+
+small_divine_potion:Small Divine Potion
+small_divine_potion_craft_description:Increases divine damage and resistance by {amount_min1}% to {amount_max1}%.
+small_divine_potion_description:Increases divine damage and resistance by {amount_min1}% for {time}.
+medium_divine_potion:Medium Divine Potion
+medium_divine_potion_craft_description:Boosts divine damage and resistance by {amount_min1}% to {amount_max1}%.
+medium_divine_potion_description:Boosts divine damage and resistance by {amount_min1}% for {time}.
+large_divine_potion:Large Divine Potion
+large_divine_potion_craft_description:Greatly increases divine damage and resistance by {amount_min1}% to {amount_max1}%.
+large_divine_potion_description:Greatly increases divine damage and resistance by {amount_min1}% for {time}.
+
+small_necrotic_potion:Small Necrotic Potion
+small_necrotic_potion_craft_description:Increases necrotic damage and resistance by {amount_min1}% to {amount_max1}%.
+small_necrotic_potion_description:Increases necrotic damage and resistance by {amount_min1}% for {time}.
+medium_necrotic_potion:Medium Necrotic Potion
+medium_necrotic_potion_craft_description:Boosts necrotic damage and resistance by {amount_min1}% to {amount_max1}%.
+medium_necrotic_potion_description:Boosts necrotic damage and resistance by {amount_min1}% for {time}.
+large_necrotic_potion:Large Necrotic Potion
+large_necrotic_potion_craft_description:Greatly increases necrotic damage and resistance by {amount_min1}% to {amount_max1}%.
+large_necrotic_potion_description:Greatly increases necrotic damage and resistance by {amount_min1}% for {time}.
+
+small_frost_potion:Small Frost Potion
+small_frost_potion_craft_description:Increases frost damage and resistance by {amount_min1}% to {amount_max1}%.
+small_frost_potion_description:Increases frost damage and resistance by {amount_min1}% for {time}.
+medium_frost_potion:Medium Frost Potion
+medium_frost_potion_craft_description:Boosts frost damage and resistance by {amount_min1}% to {amount_max1}%.
+medium_frost_potion_description:Boosts frost damage and resistance by {amount_min1}% for {time}.
+large_frost_potion:Large Frost Potion
+large_frost_potion_craft_description:Greatly increases frost damage and resistance by {amount_min1}% to {amount_max1}%.
+large_frost_potion_description:Greatly increases frost damage and resistance by {amount_min1}% for {time}.
+
+small_arcane_potion:Small Arcane Potion
+small_arcane_potion_craft_description:Increases arcane damage and resistance by {amount_min1}% to {amount_max1}%.
+small_arcane_potion_description:Increases arcane damage and resistance by {amount_min1}% for {time}.
+medium_arcane_potion:Medium Arcane Potion
+medium_arcane_potion_craft_description:Boosts arcane damage and resistance by {amount_min1}% to {amount_max1}%.
+medium_arcane_potion_description:Boosts arcane damage and resistance by {amount_min1}% for {time}.
+large_arcane_potion:Large Arcane Potion
+large_arcane_potion_craft_description:Greatly increases arcane damage and resistance by {amount_min1}% to {amount_max1}%.
+large_arcane_potion_description:Greatly increases arcane damage and resistance by {amount_min1}% for {time}.
+
+mysterious_liquid:Mysterious Liquid
+mysterious_liquid_description:A strange, murky liquid... dare I drink it? (Randomly boosts or reduces a stat by up to 10% for 3 hours)
+
 pumpkin_soup:Pumpkin Soup
 pumpkin_soup_craft_description:Replenishes {amount_min1} to {amount_max1} stamina.
 pumpkin_soup_description:Replenishes {amount_min1} stamina.
@@ -125,6 +180,35 @@ christmas_candy:Christmas Candy
 christmas_candy_craft_description:Replenishes {amount_min1} to {amount_max1} stamina. The recipe will dissapear after the Christmas 2024 Event.
 christmas_candy_description:Replenishes {amount_min1} stamina.
 
+cooked_egg:Cooked Egg
+cooked_egg_craft_description:Replenishes {amount_min1} to {amount_max1} stamina. The recipe will dissapear after the Easter 2025 Event.
+cooked_egg_description:Replenishes {amount_min1} stamina.
+
+chicken_fried_rice:Chicken Fried Rice
+chicken_fried_rice_craft_description:Replenishes {amount_min1} to {amount_max1} stamina.
+chicken_fried_rice_description:Replenishes {amount_min1} stamina.
+
+smoothie:Smoothie
+smoothie_craft_description:Replenishes {amount_min1} to {amount_max1} stamina.
+smoothie_description:Replenishes {amount_min1} stamina.
+
+pork_skewer:Pork Skewer
+pork_skewer_craft_description:Replenishes {amount_min1} to {amount_max1} stamina.
+pork_skewer_description:Replenishes {amount_min1} stamina.
+
+fruit_pie:Fruit Pie
+fruit_pie_craft_description:Replenishes {amount_min1} to {amount_max1} stamina.
+fruit_pie_description:Replenishes {amount_min1} stamina.
+
+bread:Bread
+bread_craft_description:Replenishes {amount_min1} to {amount_max1} stamina.
+bread_description:Replenishes {amount_min1} stamina.
+
+spicy_pork_bowl:Spicy Pork Bowl
+spicy_pork_bowl_craft_description:Replenishes {amount_min1} to {amount_max1} stamina. Its bold flavor grants a brief speed boost.
+spicy_pork_bowl_description:Replenishes {amount_min1} stamina. Its bold flavor grants a brief speed boost.
+
+
 sex_change_potion:Sex Change Potion
 sex_change_potion_description:Drink this potion directly from the bottle to become him if you were her or to become her if you were him.
 
@@ -148,7 +232,7 @@ coin_stash_description:Use this to gain copper. Level {level}
 coin_bag:Coin Bag
 coin_bag_description:Use this to gain copper. Level {level}
 
-material_sack:Material Stack
+material_sack:Material Sack
 material_sack_description:Use this to gain a handful of materials. Level {level}
 
 second_chance:Second Chance
@@ -156,6 +240,7 @@ second_chance_description:Use this to reroll a dice.
 secondChanceDonateDescription:This allows the streamer to reroll a dice. After a total of 100 Arcanites are spent, the streamer gains a second chance.
 secondChanceBuyConfirmation:Please confirm that you want to spend {amount} Arcanites to contribute toward the second chance.
 secondChanceLimitReached:The streamer already has a Second Chance. Please try again after they’ve used it.
+secondChancePurchaseMaximumReached:You've already reached the limit of Second Chances you can buy during this adventure.
 adventureOver:The adventure has already ended!
 medium_xp_potion:Medium XP Potion
 medium_xp_potion_description:This potion boosts your XP by {percent}% for {amount} bounty fights!
@@ -172,6 +257,13 @@ salad_recipe:Salad Recipe
 chicken_stew_recipe:Chicken Stew Recipe
 pork_sausage_recipe:Pork Sausage Recipe
 sea_platter_recipe:Sea Platter Recipe
+chicken_fried_rice_recipe:Chicken Fried Rice Recipe
+smoothie_recipe:Smoothie Recipe
+pork_skewer_recipe:Pork Skewer Recipe
+fruit_pie_recipe:Fruit Pie Recipe
+bread_recipe:Bread Recipe
+
+
 small_accuracy_potion_recipe:Small Accuracy Potion Recipe
 medium_accuracy_potion_recipe:Medium Accuracy Potion Recipe
 large_accuracy_potion_recipe:Large Accuracy Potion Recipe
@@ -191,6 +283,27 @@ small_wisdom_potion_recipe:Small Wisdom Potion Recipe
 medium_wisdom_potion_recipe:Medium Wisdom Potion Recipe
 large_wisdom_potion_recipe:Large Wisdom Potion Recipe
 
+small_infernal_potion_recipe:Small Infernal Potion Recipe
+medium_infernal_potion_recipe:Medium Infernal Potion Recipe
+large_infernal_potion_recipe:Large Infernal Potion Recipe
+
+small_divine_potion_recipe:Small Divine Potion Recipe
+medium_divine_potion_recipe:Medium Divine Potion Recipe
+large_divine_potion_recipe:Large Divine Potion Recipe
+
+small_necrotic_potion_recipe:Small Necrotic Potion Recipe
+medium_necrotic_potion_recipe:Medium Necrotic Potion Recipe
+large_necrotic_potion_recipe:Large Necrotic Potion Recipe
+
+small_frost_potion_recipe:Small Frost Potion Recipe
+medium_frost_potion_recipe:Medium Frost Potion Recipe
+large_frost_potion_recipe:Large Frost Potion Recipe
+
+small_arcane_potion_recipe:Small Arcane Potion Recipe
+medium_arcane_potion_recipe:Medium Arcane Potion Recipe
+large_arcane_potion_recipe:Large Arcane Potion Recipe
+
+
 // Loot
 wooden_chest:Wooden Chest
 fabled_chest:Fabled Chest
@@ -201,6 +314,8 @@ weapon_chest:Weapon Chest
 armor_chest:Armor Chest
 present:Present
 mysterious_present:Mysterious Present
+forged_egg:Forged Egg
+mysterious_egg:Mysterious Egg
 
 mysterious_pumpkin:Mysterious Pumpkin
 
@@ -211,6 +326,12 @@ uncommon_material_chest:Uncommon Material Chest
 potion:Potion
 chest:Chest
 food:Food
+
+uncommon_bundle:Uncommon Bundle
+uncommon_bundle_description:Activates the uncommon subscription for {dayPlaceholder} days.
+
+rare_bundle:Rare Bundle
+rare_bundle_description:Activates the rare subscription for {dayPlaceholder} days.
 
 epic_bundle:Epic Bundle
 epic_bundle_description:Activates the epic subscription for {dayPlaceholder} days.
@@ -228,5 +349,22 @@ epic_patreon:Epic Patreon
 great_patreon:Great Patreon
 patreon:Patreon
 
+benefit_shorter_adventure_cooldown:{value} shorter adventure cooldown
+benefit_consumable_carry_limit:{value} increased consumable carry limit
+benefit_ingredient_carry_limit:{value} increased ingredient carry limit
+benefit_inventory_size:{value} larger inventory
+
+
 raid_pass:Wintery Invitation
 raid_pass_description:An invitation from Lord Sander Klause to face the dangers beyond the Eternal Ice. Prove your strength or determination to claim unimaginable riches. Invitation {xxx}
+
+dragon_egg:Dragon Egg
+dragon_egg_description:A mysterious dragon egg... It hums with faint magic, as if a magician once laid hands on it. What secrets might it hold if I dare crack it open? Level: {level}
+
+// brews - potion chests basically
+small_brew:Small Brew
+small_brew_description:Small Brew... Use it to find out which potion you’ll get! Level: {level}
+medium_brew:Medium Brew
+medium_brew_description:Medium Brew... Use it to find out which potion you’ll get! Level: {level}
+large_brew:Large Brew
+large_brew_description:Large Brew... Use it to find out which potion you’ll get! Level: {level}

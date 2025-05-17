@@ -484,7 +484,7 @@ loadingTip30:Tu as du mal avec un certain type d'ennemi ? Découvre sa faiblesse
 loadingTip31:La victoire dans l'arène vous récompense de Gloire, accompagnée d'un bonus de XP et d'or !
 loadingTip32:Référez un streamer à Embervale et gagnez 1000 Arcanites ! Consultez l'onglet des succès pour plus de détails.
 loadingTip33:Utilise les outils dans les aventures pour augmenter ta renommée !
-loadingTip34:Vous pouvez relancer la boutique gratuitement toutes les 24 heures !
+loadingTip34:Vous pouvez relancer la boutique gratuitement toutes les 20 heures !
 loadingTip35:Compléter un donjon pour la première fois garantit un Coffre Mythique et augmente ta capacité d'inventaire !
 loadingTip36:Les Donjons ont des pools uniques de monstres ; collectionne-les tous pour remplir ton Bestiaire !
 chrono-badge:Badge Chrono
@@ -521,7 +521,6 @@ yourMaximumInventorySize:Vous avez actuellement une taille d'inventaire maximale
 eachUpgradeCostsMore:Chaque amélioration coûte plus cher. Cette amélioration coûte
 fullyUpgradedInventory:Vous avez entièrement amélioré votre inventaire !
 info:Infos
-eventShop:Boutique d'Événements
 shopRerollInfo1:Une fois que votre réputation atteint 100 %, le marchand n'offrira plus d'objets communs.
 shopRerollInfo2:Les chances listées ci-dessous représentent la probabilité pour chaque objet dans un seul tirage. Si vous avez débloqué 8 emplacements de boutique, les chances s'appliquent 8 fois, une fois pour chaque emplacement.
 shopRerollInfo3:Les chances sont arrondies à trois décimales
@@ -622,7 +621,46 @@ preset:Préréglage
 cantSellItemsFromPreset:Vous ne pouvez pas vendre cet objet tant qu'il fait partie d'un préréglage.
 youCompletedThisCategory:Vous avez entièrement complété cette catégorie.
 hideObtainedEntries:Cacher les entrées complétées
-hideCompletedAchievements:Masquer les succès complétés
+hideCompletedAchievements:Cacher les succès complétés
 editPresetIcon:Modifier les icônes
 updatePreset:Mettre à jour le préréglage
 resetPreset:Réinitialiser le Préréglage
+confirmResetPreset:Es-tu sûr de vouloir réinitialiser ce préréglage ?
+craftsman:Artisan
+fiend:Démon
+glossaryTipAscended:Bats les Bosses ascensionnés pour remplir ton Bestiaire !
+ashfall_hollows:Gouffres des Cendres
+the_twisted_lands:Les Terres Tordues
+elysium:Elysium
+wildwood_glade:Clairière Sauvage
+ashfall_depths:Profondeurs de Cendre
+meteorite_crater:Cratère de Météorite
+the_infernal_pits:Fosses Infernales
+throne_of_the_demon_lords:Trône des Seigneurs Démons
+cursed_mausoleum:Mausolée Maudit
+dragons_nest:Nid de Dragon
+ritual_altar:Autel Rituel
+valhalla:Valhalla
+cradle_of_myths:Berceau des Mythes
+olympus:Olympe
+seat_of_elysium:Siège d'Élysium
+darkbough_jungle:Jungle Sombrebranche
+the_lightless_depths:Profondeurs Sans Lumière
+the_fae_realm:Royaume des Fées
+haunting_grounds:Terrains Hantés
+type:Type
+yes:Oui
+no:Non
+remove:Retirer
+easter-2025-badge:Badge de Pâques 2025
+easter-2025-badge_desc:Obtenu lors de l'événement de Pâques 2025
+extensionUsedCreatorCode:Utilisé votre code créateur
+confirmResetOverwrite:Es-tu sûr de vouloir écraser ce préréglage ?
+overwritePreset:Écraser le préréglage
+conversionSuccess:Vos points d'affiliation ont été convertis avec succès en Arcanites !
+downForMaintenance:Embervale.TV est actuellement en maintenance pour améliorer la stabilité. Nous serons de retour sous peu — merci pour votre patience !
+loading:Chargement
+graphicsScale:Échelle des graphismes
+graphicsScaleTip:Ajuste la netteté et la performance des animations.
+restartEmbervaleForUpdate:Vous utilisez une version obsolète d'Embervale. Veuillez recharger votre navigateur, redémarrer l'application ou mettre à jour vers la dernière version sur Steam.
+rewards:Récompenses

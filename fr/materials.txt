@@ -80,8 +80,6 @@ riverland_potato:Patate des terres fluviales
 sea_salt:Sel marin
 silver_key:Clé en argent
 silver_key_description:Utilisé pour déverrouiller quelque chose...
-mysterious_potion:Potion mystérieuse
-mysterious_potion_description:Une potion à l'apparence suspecte... devrais-je la boire ?
 rare_gem:Pierre précieuse rare
 rare_gem_description:Une pierre étrange. Pourrait avoir de la valeur.
 stack_of_coins:Tas de pièces
@@ -194,3 +192,10 @@ stranded_seafire-key_description:Niveau 40 - 60
 deepwater_passage-key_description:Niveau 50 - 70
 graveyard_of_the_nameless-key_description:Niveau 120 - 140
 duskwood-key_description:Niveau 110 - 130
+dragons_breath_mint:Menthe de Souffle de Dragon
+giants_blood_essence:Essence de Sang de Géant
+dragons_breath_mint_flavor:Cette herbe est réputée pour conférer au consommateur la capacité de souffler de courtes flammes.
+giants_blood_essence_flavor:Distillée à partir du sang d'un géant, cette essence confère force et résistance.
+milk:Lait
+wheat:Blé
+wood:Bois

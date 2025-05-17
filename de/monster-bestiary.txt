@@ -149,7 +149,7 @@ behemoth_bestiary:Dicke Haut, gefährliche Stoßzähne... serpentinenschwanz und
 ice_snake_bestiary:Diese Schlangen scheinen das Eisstück, das aus ihrem Kopf ragt, als Horn zu verwenden
 gnoll_shaman_bestiary:Ihre mächtigen Gebräue scheinen die Ursache für den manischen Ausdruck ihres Stammes zu sein
 undead_gnoll_bestiary:Ugh, nicht mehr so knuddelig
-skeleton_commander_bestiary:Seine Rüstung und Ausrüstung weisen darauf hin, dass viel Aufwand in die Erschaffung dieses Untoten gesteckt wurde
+skeleton_commander_bestiary:Seine Rüstung und Ausrüstung zeigen, dass viel Mühe in die Erschaffung dieses Untoten gesteckt wurde.
 flaming_wolf_bestiary:Druidische Kreise schaffen diese Manifestationen, um ihre Feinde zu jagen
 flaming_wolf_spirit_bestiary:Diese Manifestation hat die meiste Form verloren, aber weder ihren Antrieb noch ihr Ziel
 colossal_bat_bestiary:Die Kolossale Fledermaus wohnt in den tiefsten Höhlen und nutzt ihre massiven Flügel, um mächtige Windböen zu erzeugen.
@@ -211,7 +211,7 @@ dragon_lamprey_bestiary:Eine erschreckende Verschmelzung von Drache und Neunauge
 rock_golem_bestiary:Aus der Erde selbst geformt, steht dieser kolossale Wächter aus Stein unerschütterlich vor allen, die sein Reich bedrohen.
 cursed_scimitar_bestiary:Einst eine stolze Waffe, dürstet es diesen verzauberten Säbel nun nach Blut, und er schlägt eigenständig zu, um die Seelen der Unvorsichtigen zu ernten.
 tridentpupa_bestiary:Mitten in ihrer Metamorphose verteidigt sich diese gepanzerte Puppe mit ihren dreizackigen Anhängseln und gibt nur einen kleinen Vorgeschmack auf die Macht, die sie bald entfesseln wird.
-insects_dragon_bestiary:Eine chimäre Monstrosität, dieses Ungeheuer vereint die schiere Stärke eines Drachens mit dem unerbittlichen Schwarm von Insekten, die seine Form ausmachen.
+insects_dragon_bestiary:Eine chimäre Abscheulichkeit, dieses Ungeheuer vereint die schiere Stärke eines Drachens mit dem unerbittlichen Schwarm von Insekten, die seine Form ausmachen.
 wood_golem_bestiary:Ein hölzerner Koloss, der den Wald mit seinen gewaltigen Gliedmaßen verteidigt.
 blazing_shroom_bestiary:Ein feuriger Pilz, der alles in seiner Nähe verbrennt.
 chilling_shroom_bestiary:Ein frostiger Pilz, der seine Umgebung einfrieren kann.
@@ -511,3 +511,145 @@ big_sack_goblin_bestiary:-
 angry_snowman_bestiary:-
 nailguns_bestiary:Ein Mimic, der vorgibt, ein Nailguns zu sein.
 colossal_black_snake_bestiary:Verlass dich nicht auf Dunkelsicht, um dieses Reptil zu entdecken.
+earth_horse_bestiary:An das Leben unter der Erde angepasst, haben diese mächtigen Rösser nie die Sonne gesehen.
+crystal_mimic_bestiary:Sind diese spitzen Dinge Stalagmiten oder Stalaktiten? Weder noch. Es sind Zähne.
+crag_worm_bestiary:Diese Krabbler graben sich mit Mandibeln, die durch festen Stein beißen können, durch die Erde. Das Rumpeln aus der Tiefe könnte kein Erdbeben sein...
+cavern_hydra_bestiary:Normale Höhlenschlangen können sich verwandeln, wenn sie der vulkanischen Magie von Embervale ausgesetzt werden. Doppelt so viele Köpfe bedeuten doppelt so viel Feuerausstoß.
+crystalback_bestiary:Diese Mineralfresser können riesige Größen erreichen und speichern Energie in den Kristallwachstümern, die aus ihrer Haut sprießen.
+burrower_bestiary:Einhundert Meter unter deinem Standort und schnell näher kommend.
+embervale_raptor_bestiary:Nur in den vulkanischen Gängen von Embervale zu finden, können diese magmatischen Raptoren immense Temperaturen ertragen. Ihr Atem kann festen Fels schmelzen.
+deep_naga_warrior_bestiary:Diese Höhlenbewohner werden selten von den Oberflächenbewohnern gesehen, teils weil sie so tief unter der Erde leben, hauptsächlich aber wegen ihrer Angewohnheit, Eindringlinge mit ihren Äxten zu begrüßen.
+earth_dragon_bestiary:Die tiefsten Höhlen enthalten Reichtümer an Edelsteinen... und sie sind bereits in Beschlag genommen.
+the_deep_one_bestiary:Unkontrolliert können Kragwürmer zu enormen Größen heranwachsen. Wenn sie so groß werden, solltest du wahrscheinlich rennen.
+cerberus_the_gate_guard_bestiary:Berühmt dafür, die Tore der Hölle zu bewachen und sicherzustellen, dass ihre Bewohner tief unten bleiben. Wenn du ihn besiegt hast, was könnte sich dann befreien?
+demon_soldier_bestiary:Fußsoldaten der Hölle, begierig darauf, alles zu plündern und zu zerstören, was sie in ihre brennenden Hände bekommen können.
+demon_crawler_bestiary:Diese Dämonen kämpfen nicht mit Höllenfeuer, sondern mit einem schrecklichen, ätzenden Gift, das aus ihren vielen nässenden Zangen sickert.
+the_sacrificed_bestiary:Wenn eine Seele von der Hölle verzehrt wird, bleibt ein Echo von Wut und Bedauern dieser Wesenheit zurück, in der Hoffnung, andere in seinen brennenden Qualen zu verstricken.
+infernal_harpy_bestiary:Für ihre Verbrechen in die Tiefe gekettet, locken diese Harpyien die Verlorenen mit süßer Musik und verbrennen dann ihre Seelen in ihrer feurigen Umarmung.
+hellhound_bestiary:Du kannst es mit Bällen und Kauspielzeug versuchen, wenn du wirklich willst, aber das ist kein guter Junge.
+the_tormented_bestiary:Eine schreckliche Masse gequälter Seelen, die zu einem Wächter der Teufel verschmolzen sind, die sie quälen, festgehalten in einer ständig brennenden Umarmung.
+brimstone_elemental_bestiary:Höllische Magie erweckt diese Elementare zum Leben, indem sie Basalt und Schwefel mit überirdischer Bosheit durchdringt.
+ankailin_the_tempter_bestiary:Einer der bekanntesten Dämonen, Ankailin baute seinen Thron aus den Seelen von Abenteurern, indem er ihnen Macht und Ruhm bot. Möchtest du nicht ein wenig mehr Kraft?
+lucifer_the_fallen_bestiary:Der Erste, der die Freiheit der Sünde umarmte.
+crystal_drake_bestiary:Obwohl sie keine Flügel wie richtige Drachen haben, sind Drakes nicht weniger tödlich und berüchtigt dafür, mit ihren geflügelten Vettern um Edelsteinhorte zu kämpfen. Dieser hier hat eindeutig einige Kämpfe gewonnen!
+crimson_lindwyrm_bestiary:Lindwürmer sind eine seltene Drachenart ohne Hinterbeine. Sie sind bekannt für ihre Rivalität mit Wyvern, ihren tödlichen Atem und dafür, das Beintraining zu schwänzen.
+radiant_dragon_bestiary:Ein majestätisches Wesen mit schimmernden goldenen Schuppen, besetzt mit Edelsteinen und einer Krone aus Hörnern, die Licht ausstrahlt. Strähnen seiner Mähne leuchten auch, wenn sie entfernt werden, und seine Häutungen sind bei Handwerkern begehrt.
+frost_hydra_bestiary:So furchterregend wie die Kälte des Winters, wächst diesem Drachen ein neuer Kopf für jeden Möchtegern-Helden, der versucht, seinem Schneesturm-Atem ein Ende zu setzen.
+darkness_dragon_bestiary:Diese Drachen werden selten gesehen und gedeihen in tiefster Dunkelheit. Jegliches Licht, das in ihr Territorium gelangt, wird verfolgt und ausgelöscht.
+magma_dragon_bestiary:Die Flamme dieses Drachens brennt so heftig, dass der Boden, auf dem er geht, schmilzt und seine Schuppen von einer dicken Schicht aus tropfendem Magma bedeckt werden.
+dragon_mage_bestiary:Einige Drachen widmen ihr langes Leben dem Meistern der arkanen Künste und kanalisieren ihre innere Flamme in mächtige Zaubersprüche, die die Realität neu formen.
+dragon_paladin_bestiary:Obwohl die meisten Drachen auf Klauen, Reißzähne und Flammen setzen, folgen manche einem höheren Ruf und dienen als die mächtigsten Krieger des Reiches.
+granthar_the_warrior_bestiary:Mit einer Haut, die von Tausenden von Schlachten gezeichnet ist, dient Granthak treu als Leibwächter des derzeitigen Herrschers der Drachen.
+the_golden_sovereign_bestiary:Der mächtigste aller lebenden Drachen, dessen Nest im Herzen des Embervale-Vulkans liegt. Seine vergoldeten Schuppen sind nahezu unverwundbar.
+cultist_priestess_bestiary:Diese frommen Kultisten leiten ihre Energien darauf, die Realität auseinanderzureißen, um den unbegreiflichen Wesen, die sie verehren, den Zugang in unsere Welt zu ermöglichen.
+eldritch_portal_bestiary:Diese bodenlosen Becken führen in eine andere Realität und ermöglichen Wesen von jenseits, in Embervale überzuschwappen.
+corrupted_boar_bestiary:Einst ein gewöhnlicher Eber, wurde diese Kreatur unwiderruflich von Kräften jenseits dieser Welt verdreht.
+corrupted_serpent_bestiary:Normale Schlangen sind schon irgendwie schlängelnde Tentakel, aber das hier ist wirklich übertrieben.
+corrupted_knight_bestiary:Wer zu lange in die Sterne schaut, wird möglicherweise von ihnen zurück angestarrt...
+corrupted_dragon_bestiary:Sogar mächtige Drachen wissen, die sich ausbreitende Verderbnis zu fürchten, damit sie nicht Mächten zum Opfer fallen, die größer sind als sie selbst.
+herald_of_corruption_bestiary:Durch die Macht der Verderbnis sind Reiter und Pferd zu einem Wesen verschmolzen und sprechen jetzt mit tausend flüsternden Mündern.
+nyarlathotep_bestiary:Eines der unbegreiflichen Wesen jenseits des Schleiers, dessen Flüstern Sterbliche in den Wahnsinn treibt.
+azathoth_bestiary:Eines der unbegreiflichen Wesen jenseits des Schleiers, dessen Verderbnis hinausgreift und alles, was seine schlafenden Augen erblicken, in unerkennbare Schrecken verwandelt.
+cthulhu_bestiary:Was nicht tot ist, kann ewig liegen, und mit seltsamen Äonen mag selbst der Tod sterben.
+mummified_brute_bestiary:In den Sanden für Jahrtausende erhalten und durch unnatürliche Kräfte geweckt, schwingen diese Ungetüme weiter, bis nichts mehr von ihnen übrig ist.
+skeleton_bowmaster_bestiary:Zu Lebzeiten für ihre Treffsicherheit verehrt, können diese wiederbelebten Bogenschützen immer noch auf tausend Schritt ins Schwarze treffen – und ihr aktuelles Ziel bist du!
+skeleton_soldier_bestiary:Fußsoldaten der Legionen der Toten, diese Skelette sind reichlich vorhanden, wo immer verlustreiche Schlachten geschlagen wurden.
+skeleton_samurai_bestiary:Sie behalten ihren Rang und ihren Kampfstil im Tod bei, obwohl sie einem anderen Meister dienen.
+frost_lich_bestiary:Indem sie die Macht der Seelen in einen ewigen Frost kanalisieren, verfügen diese unsterblichen Wesen über enorme Macht.
+consumed_dragon_bestiary:Dieser unglückliche Drache fiel einem Nekromanten zum Opfer, der seine Knochen durch unaussprechliche Experimente konservierte und wiederbelebte.
+death_knight_bestiary:Gekleidet in dunkler Rüstung, suchen diese wiederbelebten Krieger die Auslöschung allen Lebens.
+blazing_reaper_bestiary:Mit Köpfen aus Flammen rasen diese furchterregenden Wesen durch die Nacht und sammeln die Seelen der Verdammten ein.
+the_profaned_one_bestiary:Es heißt, es seien die Überreste eines legendären Riesen, dieses massive Monster dient dem Schreckensherr als Wächter und Henker treu.
+the_dread_lord_bestiary:Beherrscht von seinem Thron aus Totenköpfen die Legionen der Toten und sammelt die Frischgefallenen, um in seinem schrecklichen Namen zu auferstehen.
+silver_roc_bestiary:Mit silbernen Federn, scharf wie Schwerter, und Krallen doppelt so tödlich, können diese legendären Vögel mit der Größe von Drachen konkurrieren.
+alicorn_bestiary:Diese mythischen geflügelten Einhörner erscheinen nur vor den mächtigsten Kriegern. Bist du würdig?
+great_brown_roc_bestiary:Der mächtigste aller Kropfe, angekündigt durch einen ohrenbetäubenden Schrei und Flügelschläge, die Dörfer plattwalzen können.
+regal_griffon_bestiary:Der erste Greif, der über die Reiche flog, dem Gerücht nach aus einem Ei eines Kropfes geschlüpft, das von einer Löwin bewacht wurde.
+shadow_griffon_bestiary:Jede Legende wirft einen Schatten. Je heller du strahlst, desto hungriger wird die Dunkelheit...
+quetzalcoatl_bestiary:Von einigen als Gottheit verehrt, schwebt diese mächtige Schlange auf Regenbogenflügeln durch den Himmel.
+sky_dragon_bestiary:Mühelos auf der Magie der Himmel schwebend, steigen diese Drachen niemals unter die Wolken herab.
+kirin_bestiary:Ein so seltenes Tier, dass nur wenige Lebende es je gesehen haben, mit den Schuppen eines Drachen und einer immer brennenden Mähne aus Flammen. Seine galoppierenden Hufschläge versengen das Land.
+bearer_of_rainbows_bestiary:Mit Federn, die Licht hinter sich herziehen, malte dieser schwer fassbare Vogel die ersten Regenbögen über die Himmel von Embervale.
+the_phoenix_bestiary:Dieser unsterbliche Vogel hat tausend Leben gelebt. Wenn er stirbt, wird er in Flammen neu geboren.
+succubus_archer_bestiary:Diese fliegenden Bogenschützen zielen auf die reinsten Seelen und vernichten alles, was sie nicht verderben können.
+hell_manticore_bestiary:Mantikoren sind schon für sich genommen furchterregende Bestien, aber infernale Magie und Höllenfeueratem machen sie noch viel schlimmer!
+dryad_defender_bestiary:Das Feenreich ist gefährlich für Sterbliche, die ohne Einladung ankommen, und diese Dryadenwächter sorgen dafür, dass jeder seinen angemessenen Empfang erhält.
+dryad_mage_bestiary:Diese Dryaden beschwören die Magie der Natur selbst und können Wälder aus kargen Steinen hervorlocken.
+sylvan_bear_bestiary:Diese riesigen Bären, umhüllt von Feenmagie, schützen ihre Schützlinge mit unbändiger Hingabe.
+sylvan_unicorn_bestiary:Gesegnet durch Feenmagie erblühen Sternblumen im Kielwasser dieser verzauberten Rösser. Trotz ihres zarten Aussehens sind sie launische Bestien und ihr Zorn ist erschreckend.
+queen_bee_bestiary:Gekrönt in Pollen und kommandierend über einen Schwarm winziger stechender Begleiter, solltest du besser nicht an dieser Königinnenhof teilnehmen...
+mischevious_pixie_bestiary:Diese neugierigen und verspielten Feen lieben nichts mehr als aufwendige Streiche an Sterblichen zu spielen.
+mythical_stag_bestiary:Mit genügend Einwirkung der ätherischen Magie des Feenreichs werden selbst Beutetiere zu Legenden.
+feral_satyr_bestiary:Hüte dich vor der spielerischen Musik, die durch die Bäume des Feenreichs weht. Die Melodien dieser wilden Feen können von fröhlich zu bösartig in einem Augenblick umschlagen.
+fairy_queen_titania_bestiary:Prächtig in einem Kleid aus Giftblüten regiert Titania den Sommerhof der Feen.
+fairy_king_oberon_bestiary:Der stolze und launische König des Seelie-Hofs, Herrscher aller Feenreiche.
+son_of_valhalla_bestiary:Bewachend die Tore zur großen Met-Halle, lässt dieser riesenhafte Krieger nur Krieger wahrer Stärke eintreten.
+valhalla_berserker_bestiary:Diese Champions waren zu Lebzeiten berühmt und feiern nun ihre Siege in der ewigen Ehre der Met-Halle.
+hati_the_moon_devourer_bestiary:Bruder von Skoll, jagt dieser große Wolf unablässig den Mond, in der Hoffnung, ihn zu verschlingen.
+skoll_the_sun_chaser_bestiary:Bruder von Hati, jagt dieser große Wolf die Sonne, dazu bestimmt, sie am Ende der Welt zu verschlingen.
+valkyrie_rider_bestiary:Diese legendären Reiter führen die Seelen der ehrenwerten Toten nach Valhalla und beantworten jede Herausforderung mit Schwert und Magie, egal wie einschüchternd.
+fenris_wolf_bestiary:Geboren von Göttern und Frost, kämpft dieser massive Sohn Lokis erbittert gegen seine Gefangenschaft.
+loki_bestiary:Der gestaltwandelnde Schabernackgott Loki liegt im Streit mit den anderen Asen und ist berüchtigt für seine Intrigen und deren katastrophale Folgen.
+thor_bestiary:Der Gott des Donners, sein mächtiger Hammer Mjolnir ruft Blitze herbei, die dort einschlagen, wo er fällt.
+odin_bestiary:Der Gott der Schlacht und Führer des Pantheons, dieser einäugige Krieger wird von seinen beiden Raben Huginn und Muninn begleitet.
+jormungandr_bestiary:Die Midgardschlange, deren Windungen die Welt umschließen. Am Ende der Tage wird sie aus den Ozeanen auftauchen und Ragnarök einläuten.
+hellhound_guard_bestiary:Bis zum Ende loyal, bewachen diese höllischen Hunde ihre infernalen Herren und verschlingen die Seelen derer, die es wagen, sie zu stören.
+vakan_the_wretched_bestiary:Obwohl nicht so mächtig wie einige der stärkeren Erzfeinde, wird Vakan gefürchtet wegen seiner Fähigkeit, Macht aus dem Tod zu gewinnen, und oft schickt er seine Diener aus, um Seuchen zu verbreiten oder Kriege zu entfachen.
+endrekan_warden_of_the_pits_bestiary:Dieser grausame Aufseher betreut die Seelengruben, arrangiert Qualen und entscheidet, welche Seelen in die Dämonenschaft verdorben werden.
+grish_the_hungering_bestiary:Obwohl er ein Dämonenfürst sein mag, ist Grish ein Sklave des Hungers, hat die Macht von Tausenden von niederen Teufeln verschlungen, aber er giert stets nach mehr.
+xandor_the_schemer_bestiary:Bekannt dafür, Magier und deren Durst nach Anerkennung auszunutzen, schmiedet dieser Erz-Dämon unaufhörlich Pläne, um seine Feinde zu destabilisieren und benutzt Sterbliche als unwissentliche Bauern in seinen Intrigen.
+kefkor_the_tainted_bestiary:Einst ein Engel, hat Kefkor die Verlockung der Höllenmacht in die Gruben gelockt. Jetzt lebt er nur noch, um seine Stärke zu beweisen.
+temengoth_the_many_headed_bestiary:Von ständigem Zorn verzehrt, suchen Temengoths drei Köpfe unaufhörlich nach neuen Feinden, die es zu zerstören gilt.
+baphomet_lord_of_traitors_bestiary:Dieser Erzteufel lockt Seelen in seinen Kult mit dem Versprechen von verbotenem Wissen und Erleuchtung, die von den Göttern verwehrt werden, nur um sie in seinen Plänen und urtümlichem Durst nach Chaos gefangen zu halten.
+giant_tiger_bestiary:Berüchtigt dafür, mit Löwen um den Titel des Königs des Dschungels zu streiten.
+common_drake_bestiary:An diesem Pseudo-Drachen ist nichts gewöhnlich, insbesondere seine Beißkraft.
+boar_gorilla_bestiary:Mit zerquetschenden Fäusten und reißenden Hauern sind diese mächtigen Dschungelbewohner nicht zu unterschätzen.
+crocotiger_bestiary:Fühlt sich sowohl im Meer als auch an Land beim Reißen wohl.
+kappa_bestiary:Diese Wasserbewohner sind reichlich in wilden Flüssen und Dschungelseen anzutreffen. Obwohl sehr mächtig, können sie sich nicht bewegen, ohne dass das Wasser die Schale auf ihrem Kopf füllt.
+titanoboa_bestiary:Diese Schlangen können zu wahrhaft gigantischen Größen heranwachsen, fähig, Baumstämme zu zerquetschen, wenn sie ausgewachsen sind. Sie können Säure über mehrere Schritte hinweg spucken.
+jungle_dryad_bestiary:Diese Dryaden verabscheuen jedes Wesen, das sich nicht an die Gesetze der Natur hält und nutzen ihre räuberischen Magien, um Holzfäller wieder in die Nahrungskette einzugliedern.
+manticore_bestiary:Nimm einen Löwen. Mach ihn doppelt so groß. Jetzt gib ihm die Fähigkeit zu fliegen. Und falls das nicht schlimm genug war, gib ihm einen Stachel als Schwanz und ein Gift, das innerhalb von Minuten töten kann. Rennst du schon?
+venomous_hydra_bestiary:Diese mehrköpfigen, säure-spuckenden Drachen breiten ihre Hauben aus, um zu drohen. Was ein wenig albern ist, denn wenn du davor nicht schon eingeschüchtert warst, stimmt etwas nicht mit dir.
+phantasmagoria_the_mantis_priestess_bestiary:Einst eine Druidin, die über die Wege der Natur meditieren wollte, gab sich Phantasmagoria völlig dem Dschungel hin. Ihre Sicheln scheiden ein Gift aus, das lebhafte Halluzinationen verursacht.
+invader_grunt_bestiary:Ein Wesen aus einer anderen Dimension, es krabbelt auf Embervales Boden und erkundet neues Territorium für seinen Schwarm.
+invader_stalker_bestiary:Diese außerweltliche Kreatur kriecht dicht am Boden, entfaltet ein hypnotisches Muster auf ihrem Kamm und lähmt ihre Opfer mit Giftprojektilen.
+invader_challenger_bestiary:Diese stolze außerirdische Bestie sucht die Vorherrschaft über alle Dimensionen, die sie betritt.
+invader_hunter_bestiary:Diese mächtigen Schwarmwesen können ihre Beute durch feste Wände verfolgen und über große Entfernungen springen, um einen Todesstoß zu landen.
+invader_raptor_bestiary:Diese außerweltlichen Raptoren stürzen sich in Schwärmen auf ihre Beute und durchbohren sie mit ihren Sicheln, um sie zum Schwarm zurückzubringen.
+invader_brawler_bestiary:Mit solchen riesigen Fäusten solltest du niemals einem Armdrücken mit diesem Ding zustimmen.
+flying_chaos_bestiary:Eine Infektion aus den Sternen kam auf einem Meteor an, breitet sich auf alles aus, was sie berührt, und verwandelt es in etwas Unbeschreibliches.
+mind_flayer_bestiary:Gefürchtete Wesen aus einer anderen Dimension, diese telepathischen Abscheulichkeiten können ein Gehirn mit einem einzigen Gedanken beherrschen... und es zwingen, direkt in ihre Kiefer zu laufen.
+invader_queen_bestiary:Die Königin des Schwarms, die ihre vielgestaltigen Kinder anweist, die Dimensionen zu erweitern, zu verschlingen und zu erobern.
+infinity_bestiary:Ein nahezu unbegreifliches Wesen aus den Sternen darüber, das einen Meteor auf Embervale schickte und die Tore zu den wartenden Kosmen öffnete.
+the_first_minotaur_bestiary:Der ursprüngliche Minotaurus war ein viel tödlicheres Wesen als die geringeren Minotauren, die unten auf dem Land umherziehen, und musste in einem Labyrinth eingesperrt werden, um die Sterblichen zu schützen.
+the_cyclops_bestiary:Solltest du jemals zu dieser Insel des Zyklopen segeln, ist es am besten, zu gehen, bevor du seine Vorstellung von Gastfreundschaft entdeckst.
+achilles_bestiary:Ein nahezu unbesiegbarer Held, der ein Dutzend Schlachten im Alleingang gewann, aber durch den Schwachpunkt an seiner Ferse besiegt wurde.
+heracles_bestiary:Ein Held mit dem Blut der Götter in seinen Adern, der viele legendäre Arbeiten vollbrachte und auf dem Berg Olympus bei seinem Tod willkommen geheißen wurde.
+odysseus_bestiary:Ein berühmter Kriegerkönig, der eine epische Reise unternahm und sowohl Monster als auch Götter mit Mut und List besiegte.
+apollo_bestiary:Der Gott der Sonne, Musik und Prophezeiung, der in seiner Freizeit etwas Poesie und Bogenschießen genießt.
+ares_bestiary:Der Kriegsgott und ein Gönner vieler Abenteurer, die seine Gunst auf dem Schlachtfeld suchen.
+hades_bestiary:Der Gott der Unterwelt, der über die unbesungenen Toten mit harter, aber gerechter Hand herrscht.
+poseidon_bestiary:Der wütende Gott des Meeres, dessen Zorn Flutwellen und Erdbeben hervorruft, die selbst die mächtigen Wasser erschauern lässt.
+zeus_bestiary:Der unberechenbare König des Olymps regiert von oben und wirft Donner auf alle, die es wagen, ihn zu verärgern.
+water_elemental_bestiary:Wo magische Strömungen am stärksten sind, nehmen die Wellen ein Eigenleben an.
+jellyfish_mermaid_bestiary:Meerjungfrauen können viele verschiedene Aspekte der Meeresbewohner annehmen. Diese hier könnte gefährlich sein, um ihr die Hand zu schütteln.
+seahorse_king_bestiary:Gekrönt mit Korallen, bewacht dieser Souverän sorgfältig seine geringeren Brüder vor Schaden.
+ancient_coelacanth_bestiary:Quastenflosser haben sich über Hunderte Millionen Jahre der Evolution kaum verändert. Kämpfe gegen einen, und du wirst herausfinden, warum.
+toxic_jellyfish_bestiary:Diese schwebenden Quallen zu treffen, ist kein Problem - der Versuch, sie zu treffen, ohne eine ihrer hundert tödlichen Tentakel zu berühren, stellt eine Herausforderung dar.
+megalodile_bestiary:Die tiefsten Tiefen verbergen die größten und urältesten Raubtiere des Meeres. Hüte dich vor Kiefern, die groß genug sind, um Schiffe zu verschlingen.
+deep_mermaid_bestiary:So nah am Meeresboden wachsen sogar Meerjungfrauen merkwürdig und unkenntlich im Vergleich zu ihren oberflächennäheren Verwandten.
+angler_fish_bestiary:Es ist so ein hübsches Licht, das ganz allein in der Tiefe leuchtet... sicher kann es nicht schaden, näher heranzugehen...
+nightmare_whale_bestiary:Lautlos wie der Tod treibt es durch die Tiefen, mit weit aufgerissenem Maul für seine nächsten Opfer.
+leviathan_bestiary:Der unangefochtene Herr der Tiefe, der gesamte Ozean ist das eifersüchtig bewachte Reich des Leviathans.
+spectral_apparition_bestiary:Die Anwesenheit dieses ruhelosen Geistes kühlt mehr als nur dein Rückgrat - die Temperaturen fallen gefährlich dort, wo dieser Geist umgeht.
+fungus_golem_bestiary:Auch wenn sie nicht die robustesten Golems sind, geben diese langsam beweglichen Konstrukte einen stetigen Dunst giftiger Sporen ab, der den Kampf gegen sie erschwert.
+blood_golem_bestiary:Kreationen eines verrückten Alchemisten, diese Golems sind besonders gefährlich, weil sie das Blut, das sie vergießen, absorbieren und sich von ihren verwundeten Feinden stärken können.
+hunting_gargoyle_bestiary:Tagsüber aus Stein, erwachen diese räuberischen Kreationen nachts zum Leben und verfolgen jede Beute, die sie in ihrer Steinform beobachtet haben.
+watching_wall_bestiary:Die Wände haben Augen... und Klauen und Zähne...
+undead_mage_bestiary:Die ältesten und exzentrischsten Zauberer sind berüchtigt dafür, Wege zu finden, den Tod zu betrügen, aber manchmal gehen diese Zauber schief und der Tod fordert seinen Tribut...
+jackalope_bestiary:Lass dich nicht von der Größe dieses Wesens täuschen. Ein Jackalope hat enorme Geschwindigkeit und Kraft und liebt nichts mehr, als seine Möchtegern-Jäger mit bösartigen Streichen zu quälen.
+shadow_witch_bestiary:Diese abtrünnigen Hexen wurden aus der Gesellschaft verstoßen, weil sie sich mit verbotener Magie befassten. Sie können lebende Schatten beschwören und ihren Verbündeten große Macht verleihen... aber wahrscheinlich wollen sie deine Augäpfel für einen Trank.
+the_webspinner_bestiary:Summt eine fröhliche Melodie, während sie ihre hübschen kleinen Happen in Seide einwickelt. Ihre lieben Kinder werden immer so hungrig...
+heart_of_darkness_bestiary:Das lebende Herz dieser verfluchten Lande, dieser Wächtergeist wurde durch eine seltsame, sich ausbreitende Korruption verdreht und füllt sich mit Bosheit gegenüber allen, die im Sonnenlicht wandeln.
+vampire_lord_bestiary:Genießt lange Spaziergänge an mondbeschienenen Stränden, dramatische Monologe mit Schädeln und das Blutsaugen von unglücklichen Abenteurern.
+black_dragon_bestiary:Berüchtigt für ihre schlechte Laune und nahezu unzerstörbaren Schuppen, sollten diese Drachen von allen außer den mutigsten Abenteurern gemieden werden.

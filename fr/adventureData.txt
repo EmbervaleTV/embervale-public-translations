@@ -79,7 +79,7 @@ effect_astral_stasis:Le joueur utilise la magie pour soigner un compagnon. // Ne
 astral_stasis:Stase Astrale
 effect_ambushed:Le joueur a été récemment embusqué. // Subit 2x les dégâts
 ambushed:Embusqué
-effect_healer:Le joueur a récemment guéri une terrible maladie. // Tous les membres du groupe sont soignés de 10% chaque tour
+effect_healer:Le joueur a récemment guéri d'une terrible maladie. // Ceux qui ne sont pas en combat regagnent 10% de santé chaque tour.
 healer:Guérisseur
 effect_upset:Le joueur est contrarié par les décisions du leader. // -1 moral par tour
 upset:Contrarié
@@ -177,7 +177,7 @@ check_morale:Le moral dans le groupe est-il assez élevé pour surmonter cet obs
 check_fame:Les aventuriers les plus expérimentés connaîtront la solution.
 fame:Célébrité
 bright_hair:Les cheveux de tout le monde sont brillamment colorés.
-effect_bright_hair:Cheveux Brillants
+effect_bright_hair:Cheveux lumineux
 check_coin_stack:Cette option nécessite une pile de pièces.
 adventurePlayerCheck:Vérifier
 errNotEnoughVotings:Vous ne pouvez pas continuer sans voter pour quelque chose !
@@ -334,11 +334,11 @@ inactive:Inactif
 adventureSettingRaffleAnimation:Animation de Raffle
 toolLimitReached:Vous pouvez activer jusqu'à 5 outils pour un seul combat.
 toolAlreadyEnabled:Cet outil a déjà été activé.
-requiredUnlocksTool:Victoires requises pour le prochain déverrouillage
+requiredUnlocksTool:Victoires requises en tant qu'hôte pour le prochain déblocage
 requiredUnlocksToolTooltip:Seules les batailles avec un indicateur de butin "Faible" ou supérieur sont comptées.
 adventureBestiaryRequired:Vous devez vaincre ce monstre au moins une fois pour débloquer son entrée dans le bestiaire et voir ses statistiques !
 toolActivatedForNextFight:L'outil a été activé pour le prochain combat !
-adventureSettingFullscreen:[Expérimental] Jouez aux aventures en mode plein écran [Cela rechargera votre jeu]
+adventureSettingFullscreen:Jouez aux aventures en mode plein écran [Cela rechargera votre jeu]
 strong_armor:Armure Robuste
 effect_strong_armor:L'armure de ce joueur s'est avérée extraordinairement robuste.  // +25% armure
 allPlayersReceivedTheirDailyLimit:Tous les joueurs de ton lobby ont déjà atteint leur limite quotidienne de coffres d'aventure. Veux-tu renoncer au butin ?
@@ -380,3 +380,47 @@ merchantDevilTooltip:J'ai faim des âmes de vos compagnons de groupe. Les sacrif
 merchantMoraleTooltip:Je me nourris du désespoir des autres. Oserez-vous encore commercer avec moi ?
 effect_sacrificed:Le joueur a été sacrifié. // Ne fait plus partie de l'aventure
 sacrificed:Sacrifié
+selectQuest:Sélectionner une quête
+cantSendToTraining:L'entraînement est trop risqué en ce moment—le moral du groupe est trop bas !
+votes:Votes
+nextDice:prochain Dé 롤お願いします
+toolNotOwned:{ toolname } n'est pas en votre possession pour le moment.
+yourTools:Vous avez : { toolname }
+adventureResults:Résultats de l'Aventure
+noToolsError:Tu n'as actuellement aucun outil.
+corrosive_imbuement:Imprégnation Corrosive
+corrosive_imbuement_description:Les attaques physiques ignorent la Résistance Physique pendant le prochain combat.
+effect_beginners_luck:Le joueur vient de découvrir Embervale et est entouré d'une aura de chance. // +2 à tous les jets
+beginners_luck:Chance du débutant
+adventureJoinTooWeak:Tu n'es pas encore assez fort pour cette étape. Le groupe affronte actuellement un monstre de niveau {mLevel}, et tu dois être au moins au niveau {reqLevel} pour rejoindre cette aventure. Essaie de gagner quelques niveaux, ou rejoins lorsque le streamer commence la prochaine aventure !
+adventureAnyoneCanJoin:Tout le monde peut rejoindre
+adventureJoinRestrictions:Niv. min. : {percentage}% de l'adversaire (par ex. {monsterLVL} vs niv. 200)
+adventureJoinRestrictionHeadline:Limitez qui peut se joindre. (S'applique uniquement si le monstre est de niveau supérieur à 30)
+cantSendToTrainingInParty:Ce joueur participe actuellement à l'événement et ne peut pas être envoyé à l'entraînement !
+battles:Batailles
+totalDamage:Dommages Totaux
+wins:Victoires
+losses:Défaites
+rating:Évaluation
+events:Événements
+diceRolled:Dés lancés
+succeeded:Réussi
+toolsUsed:Outils Utilisés
+effect_champion_of_light:Le joueur est renommé pour purifier les morts-vivants avec une fureur divine. // 500% de dégâts contre les morts-vivants
+champion_of_light:Champion de la Lumière
+effect_explosive:Le joueur est instable et explosera lorsqu'il sera utilisé en combat. // met K.O. le joueur et l'adversaire
+explosive:Explosif
+effect_incapacitated:Personne ne sait où ils sont allés... ni s'ils reviendront. // ???
+incapacitated:Incapacité
+effect_profane_might:Cette personne a embrassé une puissance horrible qui les a complètement corrompu. // +100% à toutes les stats, 0 Défense Physique, -4 de morale pour chaque bataille
+profane_might:Puissance Profane
+one_eyed:Borgne
+effect_one_eyed:Le joueur a perdu un œil, mais frappe impitoyablement. // +100% de dégâts -50% de crit
+kingdom_in_peril:Royaume en péril
+effect_kingdom_in_peril:Une menace undead a été déchaînée sur le royaume.
+captains_commendation:Recommandation du capitaine
+effect_captains_commendation:Le groupe combat avec une confiance renouvelée. Tout le monde gagne +5 à tous les jets.
+effect_lycanthropic:Ce joueur porte une malédiction dangereuse…// En tombant au combat, il ne perd pas un état de santé. À la place, la malédiction prend le dessus, le transformant en loup-garou.
+lycanthropic:Malédiction Lycanthropique
+effect_werewolf:Ce joueur s'est transformé en loup-garou ! // Gagne des stats puissantes (à déterminer), subit -10 de moral lorsqu'il est utilisé au combat. S'ils tombent, ils perdent un état de santé comme d'habitude et reviennent à leur forme maudite.
+werewolf:Loup-garou

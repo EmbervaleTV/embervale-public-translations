@@ -138,3 +138,9 @@ repeatable:Повторяемый
 win_in_the_arena:Победите на арене {amount} раз
 repeatable__host_adventures__public:Проведите {amount} приключений, пройдите через Комнату 25 и сделайте это в категории Embervale.TV с неограниченным чатом.
 repeatable__activate_tools__public:Активируйте {amount} инструменты в приключениях с более чем 10 активными игроками.
+wear_full_set_of_armor:Носите полный комплект доспехов
+gear_preset_1:+1 дополнительный слот для набора снаряжения
+reset_skill_points:[Обновление Баланса] Сбрось свои очки навыков.
+10_arcanite:10 Arcanite
+open_dragon_eggs:Разбейте {amount} яиц дракона.
+defeat_ascended_bosses:Победите {amount} возвышенных боссов

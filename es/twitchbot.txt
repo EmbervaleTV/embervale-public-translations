@@ -53,3 +53,5 @@ raidMonster9:Terror de Espumillón, el Demonio de Guirnaldas
 raidMonster10:Carolvine, el Rompecanciones
 raidNoActiveRaid:No hay ninguna incursión activa en este momento.
 adventureSurrenderConfirmation:Puedes terminar la aventura en cualquier momento rindiéndote, sin perder ningún botín.
+monsterDiscovered:Monstruos Descubiertos
+ascendedBossesDiscovered:Jefes Ascendidos Descubiertos

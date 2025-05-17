@@ -1,4 +1,4 @@
-abnormous_tick_bounty:Un parasite surdimensionné qui va prélever plus qu'un peu de sang
+abnormous_tick_bounty:Un parasite surdimensionné qui va tirer bien plus qu'un peu de sang.
 berserker_dwarf_bounty:Un guerrier traditionnel du peuple nain
 blue_dragonfly_bounty:Prédateur des étangs et des rivières
 carnivorous_plant_bounty:La forêt se défend
@@ -141,7 +141,7 @@ demon_critter_rabbit_bounty:Restaure l'ordre face au chaos du lapin démon.
 demon_critter_squirrel_bounty:Mettre fin aux méfaits de l'écureuil démoniaque.
 demon_imp_bounty:Libérer les victimes des tourments du démon imp.
 darkness_gargoyle_bounty:Disperser l'influence ombreuse de la gargouille des ténèbres.
-devilimp_bounty:Restaurer l'harmonie perturbée par le devilimp.
+devilimp_bounty:Restaure l'harmonie perturbée par le diable imp.
 dragon_wyrm_bounty:Protéger le pays de la destruction du dragon wyrm.
 blue_wyvern_bounty:Briser l'emprise glaciale du wyvern bleu.
 brown_wyvern_bounty:Stabiliser le terrain perturbé par le wyvern brun.

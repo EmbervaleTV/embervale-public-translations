@@ -174,7 +174,7 @@ forest_grasshopper:Sauterelle des forêts
 forest_imperial_widow:Veuve impériale des forêts
 forest_mageshroom:Magemousse des forêts
 forest_panda:Panda des forêts
-forest_pink_flower:Fleur rose des forêts
+forest_pink_flower:Fleur rose de la forêt
 forest_red_flower:Fleur rouge des forêts
 forest_red_spider:Araignée rouge des forêts
 forest_scorpion:Scorpion des forêts
@@ -258,7 +258,7 @@ demon_critter_squirrel:Écureuil Démon
 demon_imp:Diablotin Démon
 bighorn:Grand Corne
 darkness_gargoyle:Gargouille des Ténèbres
-devilimp:Diablolet
+devilimp:Diablotin
 dragon_wyrm:Dragon Wyrm
 blue_wyvern:Wyverne Bleue
 brown_wyvern:Wyverne Brune
@@ -384,7 +384,7 @@ void_fox:Renard du Vide
 stone_knight_alpha:Chevalier de Pierre Alpha
 stone_knight_zeta:Chevalier de Pierre Zêta
 stone_knight_beta:Chevalier de Pierre Bêta
-tree_magical:Arbre Magique
+tree_magical:Arbre magique
 melee_tree:Arbre de Mêlée
 tree_skirmisher:Arbre Éclaireur
 arcane_tree:Arbre Arcane
@@ -511,3 +511,150 @@ angry_snowman:Bonhomme de neige en colère
 lich:Liche
 corrupted_rat:Rat corrompu
 nailguns:Pistolets à clous
+angry_chicken:Poulet Furieux
+earth_horse:Cheval de Terre
+crystal_mimic:Mimique de Cristal
+crag_worm:Ver de Falaise
+cavern_hydra:Hydre des Cavernes
+crystalback:Dorsalcristal
+burrower:Foreur
+embervale_raptor:Embervale Rapace
+deep_naga_warrior:Guerrier Naga des Profondeurs
+earth_dragon:Dragon de Terre
+the_deep_one:L'Être des Profondeurs
+cerberus_the_gate_guard:Cerbère, le Gardien du Portail
+demon_soldier:Soldat Démoniaque
+demon_crawler:Rampant Démoniaque
+the_sacrificed:Le Sacrifié
+infernal_harpy:Harpyie Infernale
+hellhound:Molosses des Enfers
+the_tormented:Le Tourmenté
+brimstone_elemental:Élémentaire de Soufre
+crystal_drake:Drake de Cristal
+crimson_lindwyrm:Lindwyrm Cramoisi
+radiant_dragon:Dragon Radieux
+frost_hydra:Hydre de Givre
+darkness_dragon:Dragon des Ténèbres
+magma_dragon:Dragon de Magma
+dragon_mage:Mage Dragon
+dragon_paladin:Paladin Dragon
+granthar_the_warrior:Granthar, le Guerrier
+the_golden_sovereign:Le Souverain Doré
+cultist_priestess:Prêtresse Cultiste
+eldritch_portal:Portail Étrange
+corrupted_boar:Sanglier Corrompu
+corrupted_serpent:Serpent Corrompu
+corrupted_knight:Chevalier Corrompu
+corrupted_dragon:Dragon Corrompu
+herald_of_corruption:Héraut de la Corruption
+nyarlathotep:Nyarlathotep
+azathoth:Azathoth
+cthulhu:Cthulhu
+skeleton_soldier:Soldat Squelette
+skeleton_samurai:Samouraï Squelette
+frost_lich:Liche de Givre
+consumed_dragon:Dragon Consumé
+death_knight:Chevalier de la Mort
+blazing_reaper:Faucheur Flamboyant
+the_dread_lord:Le Seigneur de l'Effroi
+odin:Odin
+mummified_brute:Brute momifié
+skeleton_bowmaster:Maître archer squelette
+the_profaned_one:Le Profané
+silver_roc:Roc d'Argent
+alicorn:Alicorne
+great_brown_roc:Grand Roc Brun
+regal_griffon:Griffon Royal
+shadow_griffon:Griffon de l'Ombre
+quetzalcoatl:Quetzalcoatl
+sky_dragon:Dragon Céleste
+kirin:Kirin
+bearer_of_rainbows:Porteur d'Arcs-en-Ciel
+the_phoenix:Le Phénix
+succubus_archer:Archer Succube
+hell_manticore:Manticore Des Enfers
+dryad_defender:Défenseur Dryade
+dryad_mage:Mage Dryade
+sylvan_bear:Ours Sylvestre
+sylvan_unicorn:Licorne Sylvestre
+queen_bee:Reine Abeille
+mischevious_pixie:Lutin Malicieux
+mythical_stag:cerf mythique
+feral_satyr:Satyr Sauvage
+fairy_queen_titania:Reine Fée Titania
+fairy_king_oberon:Roi Fée Oberon
+son_of_valhalla:Fils de Valhalla
+valhalla_berserker:Berserker de Valhalla
+hati_the_moon_devourer:Hati, le Dévoreur de Lune
+skoll_the_sun_chaser:Skoll, le Chasseur de Soleil
+valkyrie_rider:Cavalier Valkyrie
+fenris_wolf:Loup Fenris
+loki:Loki
+thor:Thor
+jormungandr:Jormungandr
+hellhound_guard:Garde de L'enferchien
+vakan_the_wretched:Vakan, le Misérable
+endrekan_warden_of_the_pits:Endrekan, Gardien des Fosses
+grish_the_hungering:Grish, l'Affamé
+xandor_the_schemer:Xandor, le Machinateur
+kefkor_the_tainted:Kefkor, le Souillé
+temengoth_the_many_headed:Temengoth, le Multi-Céphale
+ankailin_the_tempter:Ankailin, le Tentateur
+baphomet_lord_of_traitors:Baphomet, Seigneur des Traîtres
+lucifer_the_fallen:Lucifer, Le Déchu
+giant_tiger:Tigre Géant
+common_drake:Drake Commun
+boar_gorilla:Gorille Sanglier
+crocotiger:Crocotigre
+kappa:Kappa
+titanoboa:Titanoboa
+jungle_dryad:Dryade de la Jungle
+manticore:Manticore
+venomous_hydra:Hydre Venimeuse
+phantasmagoria_the_mantis_priestess:Phantasmagoria, la Prêtresse Mante
+invader_grunt:Grunt d'Envahisseur
+invader_stalker:Traqueur d'Envahisseur
+invader_challenger:Challenger d'Envahisseur
+invader_hunter:Chasseur d'Envahisseur
+invader_raptor:invader_raptor
+invader_brawler:Bagarreur d'Envahisseur
+flying_chaos:Chaos Volant
+mind_flayer:Démon Psychique
+invader_queen:Reine d'Envahisseur
+infinity:Infini
+the_first_minotaur:Le Premier Minotaure
+the_cyclops:Le Cyclope, Polyphème
+achilles:Achille
+heracles:Heraclès
+odysseus:Ulysse
+apollo:Apollon
+ares:Arès
+hades:Hadès
+poseidon:Poséidon
+zeus:Zeus
+water_elemental:Élémentaire d'eau
+jellyfish_mermaid:Sirène Méduse
+seahorse_king:Roi Hippocampe
+ancient_coelacanth:Cœlacanthe Ancien
+toxic_jellyfish:Méduse Toxique
+megalodile:Mégalodile
+deep_mermaid:Sirène des Profondeurs
+angler_fish:Pêcheur
+nightmare_whale:Baleine Cauchemar
+leviathan:Léviathan
+spectral_apparition:Apparition Spectrale
+fungus_golem:Golem de Champignons
+blood_golem:Golem de Sang
+hunting_gargoyle:Gargouille de Chasse
+watching_wall:Mur Observateur
+undead_mage:Mage Mort-vivant
+jackalope:Jackalope
+shadow_witch:Sorcière de l'Ombre
+the_webspinner:Le Tisseur de Toiles
+heart_of_darkness:Cœur des Ténèbres
+beetbunny:Lapin Betterave
+radishrat:Rat Radis
+vampire_lord:Seigneur Vampire
+black_dragon:Dragon Noir
+the_kraken:Le Kraken
+the_captain:Le Capitaine

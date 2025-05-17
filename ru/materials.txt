@@ -80,8 +80,6 @@ riverland_potato:Речной Картофель
 sea_salt:Морская Соль
 silver_key:Серебряный Ключ
 silver_key_description:Используется для открытия чего-то...
-mysterious_potion:Загадочное Зелье
-mysterious_potion_description:Подозрительное на вид зелье... выпить его?
 rare_gem:Редкий Драгоценный Камень
 rare_gem_description:Странный камень. Может быть ценным.
 stack_of_coins:Стопка Монет
@@ -194,3 +192,10 @@ stranded_seafire-key_description:Уровень 40 - 60
 deepwater_passage-key_description:Уровень 50 - 70
 graveyard_of_the_nameless-key_description:Уровень 120 - 140
 duskwood-key_description:Уровень 110 - 130
+dragons_breath_mint:Мята Дыхания Дракона
+giants_blood_essence:Эссенция Крови Гиганта
+dragons_breath_mint_flavor:Говорят, что эта трава дарует употребляющему способность извергать короткие вспышки пламени.
+giants_blood_essence_flavor:Перегнанная из крови гиганта, эта эссенция придает силу и стойкость.
+milk:Молоко
+wheat:Пшеница
+wood:Дерево

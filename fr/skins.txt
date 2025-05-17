@@ -45,26 +45,13 @@ skin_phantom:Fantôme
 skin_batwing:Aile de chauve-souris
 skin_vampire_hunter:Chasseur de vampires
 skin_profaned:Profané
-alreadyOwnsSkin:Le joueur possède déjà ce skin.
-eventShopClosesIn:Le Marché de l'Événement ferme dans
-eventEndsIn:L'événement se termine dans
 skin_arctic_stalker:Traqueur Arctique
 skin_elk_hide:Peau d'Élan
 skin_polar_bear:Ours Polaire
 skin_festive_protector:Protecteur Festif
 skin_christmas_spirit:Esprit de Noël
-accountBundle:Pack de Compte
-eventName:Noël 2024
-eventBackground:Arrière-plan de Noël
-eventWeapon:Arme de Noël
-eventUserWillReceive:{user} recevra
-eventOutfit:Tenue de Noël
-eventCollection:Tout de la collection de Noël 2024 pour tous les personnages et les personnages à venir
-eventSkinBundleMsg:{character_name} vous a offert le Pack de Skins de Noël 2024 !
-eventSkinAccountBundleMsg:{character_name} vous a offert le Pack de Skins de Noël 2024 pour tous vos personnages !
-eventRaidRewardTxt:{character_name} a reçu : {reward} - Dégâts : {dmg} ({perc}%) - Attaques : {amount} ({chance}%)
-thorn_knight:Chevalier d'Épine
-twilight_rogue:Voleur du Crépuscule
-tempest_ranger:Rôdeur de la Tempête
-druid_mage:Mage Druide
-skytear_warrior:Guerrier Ciel-de-Lame
+skin_thorn_knight:Chevalier d'épines
+skin_twilight_rogue:Voleur du crépuscule
+skin_tempest_ranger:Garde-tempête
+skin_druid_mage:Mage druide
+skin_skytear_warrior:Guerrier cieloclar

@@ -19,3 +19,5 @@ selectConsumablesForDungeon:Selecciona las pociones que deseas llevar a la mazmo
 youDontHaveHealPotions:No tienes pociones de salud disponibles para agregar a tu bolsa de mazmorra.
 recommendedLevel:Nivel Recomendado
 enterDungeon:Entrar en la Mazmorra
+ascendedBossHpBarTooltip:Cada derrota reduce tu salud en un 25% para la siguiente pelea. Puedes usar pociones de salud para recuperarte.
+ascendedBossCantJoinHp:Debes tener al menos el 25% de tu salud para enfrentarte a un Jefe Ascendido.

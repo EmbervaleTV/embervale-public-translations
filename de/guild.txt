@@ -60,3 +60,8 @@ revokeConfirmation:Bist du sicher, dass du die Einladung von {name} widerrufen m
 chatNoPermission:Du hast keine Berechtigung...
 hideSystemMsg:Systemnachrichten ausblenden
 showSystemMsg:Systemnachrichten anzeigen
+findGuild:Gilde finden
+invitedBy:Eingeladen von
+youHave:Du hast
+join:Beitreten
+applicationAlreadySent:Du hast bereits einen ausstehenden Antrag für diese Gilde!

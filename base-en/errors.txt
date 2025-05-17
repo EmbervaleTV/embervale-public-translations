@@ -8,6 +8,9 @@ errUnknownErrorHeadline:Unhandled Error!
 errUnknownError:An unknown error occurred! Please try refreshing the webpage! If the problem persists, report it to us on our Discord: https://discord.com/invite/Gum9bS2dyw
 errUnknownErrorChatbot:An unknown error occurred! If the problem persists, report it to us on our Discord: https://discord.com/invite/Gum9bS2dyw
 
+errRateLimitHeadline:Too Many Requests
+errRateLimit:You’re interacting a bit too quickly. Please wait a moment and try again. If this keeps happening, contact us on Discord: https://discord.com/invite/Gum9bS2dyw
+
 tokenExpired:The Twitch authentication token has expired. Please reload the website or restart your app.
 invalidToken:<h3>Authentication failed</h3> Please ensure that your system clock is synced! <br> Otherwise, the authentication will fail!<br><br>More solutions:<br>1) Refresh the page<br>2) Disable browser extensions<br>3) Revoke and grant the extension permission<br>4) Log in and out of Twitch<br>5) Try using a different browser<br><br>For more help, join our Discord: https://discord.gg/cT3ThCj
 

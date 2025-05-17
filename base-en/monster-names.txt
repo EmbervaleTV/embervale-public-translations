@@ -174,7 +174,7 @@ forest_grasshopper:Forest Grasshopper
 forest_imperial_widow:Forest Imperial Widow
 forest_mageshroom:Forest Mageshroom
 forest_panda:Forest Panda
-forest_pink_flower:Pink Forest  Flower
+forest_pink_flower:Pink Forest Flower
 forest_red_flower:Red Forest Flower
 forest_red_spider:Red Forest Spider
 forest_scorpion:Forest Scorpion
@@ -258,7 +258,7 @@ demon_critter_squirrel:Demon Critter Squirrel
 demon_imp:Demon Imp
 bighorn:Bighorn
 darkness_gargoyle:Darkness Gargoyle
-devilimp:Devilimp
+devilimp:Devil Imp
 dragon_wyrm:Dragon Wyrm
 blue_wyvern:Blue Wyvern
 brown_wyvern:Brown Wyvern
@@ -384,7 +384,7 @@ void_fox:Void Fox
 stone_knight_alpha:Stone Knight Alpha
 stone_knight_zeta:Stone Knight Zeta
 stone_knight_beta:Stone Knight Beta
-tree_magical:Tree Magical
+tree_magical:Magical Tree
 melee_tree:Melee Tree
 tree_skirmisher:Tree Skirmisher
 arcane_tree:Arcane Tree
@@ -505,11 +505,166 @@ gemstone_fire_dragon:Gemstone Fire Dragon
 ignithor_the_charred_sovereign:Ignithor, the charred Sovereign
 blightflame_first_of_dragons:Blightflame, first of Dragons
 spiky_turtle:Spiky turtle
+lich:Lich
+corrupted_rat:Corrupted Rat
+odin:Odin
+vampire_lord:Vampire Lord
+black_dragon:Black Dragon
+the_kraken:The Kraken
+the_captain:The Captain
+
+// christmas event
 rudolph:Rudolph
 big_sack_goblin:Big Sack Goblin
 angry_snowman:Angry Snowman
-lich:Lich
-corrupted_rat:Corrupted Rat
+
+// easter event
+angry_chicken:Angry Chicken
+beetbunny:Beet Bunny
+radishrat:Radish Rat
 
 // special
 nailguns:Nailguns
+
+
+// boss rush
+earth_horse:Earth Horse
+crystal_mimic:Crystal Mimic
+crag_worm:Crag Worm
+cavern_hydra:Cavern Hydra
+crystalback:Crystalback
+burrower:Burrower
+embervale_raptor:Embervale Raptor
+deep_naga_warrior:Deep Naga Warrior
+earth_dragon:Earth Dragon
+the_deep_one:The Deep One
+invader_grunt:Invader Grunt
+invader_stalker:Invader Stalker
+invader_challenger:Invader Challenger
+invader_hunter:Invader Hunter
+invader_raptor:invader_raptor
+invader_brawler:Invader Brawler
+flying_chaos:Flying Chaos
+mind_flayer:Mind Flayer
+invader_queen:Invader Queen
+infinity:Infinity
+cerberus_the_gate_guard:Cerberus, the Gate Guard
+demon_soldier:Demon Soldier
+demon_crawler:Demon Crawler
+the_sacrificed:The Sacrificed
+infernal_harpy:Infernal Harpy
+hellhound:Hellhound
+brimstone_elemental:Brimstone Elemental
+succubus_archer:Succubus Archer
+hell_manticore:Hell Manticore
+the_tormented:The Tormented
+hellhound_guard:Hellhound Guard
+vakan_the_wretched:Vakan, the Wretched
+endrekan_warden_of_the_pits:Endrekan, Warden of the Pits
+grish_the_hungering:Grish, the Hungering
+xandor_the_schemer:Xandor, the Schemer
+kefkor_the_tainted:Kefkor, the Tainted
+temengoth_the_many_headed:Temengoth, the Many Headed
+ankailin_the_tempter:Ankailin, the Tempter
+baphomet_lord_of_traitors:Baphomet, Lord of Traitors
+lucifer_the_fallen:Lucifer, The Fallen
+spectral_apparition:Spectral Apparation
+fungus_golem:Fungus Golem
+blood_golem:Blood Golem
+hunting_gargoyle:Hunting Gargoyle
+watching_wall:Watching Wall
+undead_mage:Undead Mage
+jackalope:Jackalope
+shadow_witch:Shadow Witch
+the_webspinner:The Webspinner
+heart_of_darkness:Heart of Darkness
+mummified_brute:Mummified Brute
+skeleton_bowmaster:Skeleton Bowmaster
+skeleton_soldier:Skeleton Soldier
+skeleton_samurai:Skeleton Samurai
+frost_lich:Frost Lich
+consumed_dragon:Consumed Dragon
+death_knight:Death Knight
+blazing_reaper:Blazing Reaper
+the_profaned_one:The Profaned One
+the_dread_lord:The Dread Lord
+crystal_drake:Crystal Drake
+crimson_lindwyrm:Crimson Lindwyrm
+radiant_dragon:Radiant Dragon
+frost_hydra:Frost Hydra
+darkness_dragon:Darkness Dragon
+magma_dragon:Magma Dragon
+dragon_mage:Dragon Mage
+dragon_paladin:Dragon Paladin
+granthar_the_warrior:Granthar, the Warrior
+the_golden_sovereign:The Golden Sovereign
+cultist_priestess:Cultist Priestess
+eldritch_portal:Eldritch Portal
+corrupted_boar:Corrupted Boar
+corrupted_serpent:Corrupted Serpent
+corrupted_knight:Corrupted Knight
+corrupted_dragon:Corrupted Dragon
+herald_of_corruption:Herald of Corruption
+nyarlathotep:Nyarlathotep
+azathoth:Azathoth
+cthulhu:Cthulhu
+son_of_valhalla:Son of Valhalla
+valhalla_berserker:Valhalla Berserker
+hati_the_moon_devourer:Hati, the Moon Devourer
+skoll_the_sun_chaser:Skoll, the Sun Chaser
+valkyrie_rider:Valkyrie Rider
+fenris_wolf:Fenris Wolf
+loki:Loki
+thor:Thor
+odin:Odin
+jormungandr:Jormungandr
+silver_roc:Silver Roc
+alicorn:Alicorn
+great_brown_roc:Great Brown Roc
+regal_griffon:Regal Griffon
+shadow_griffon:Shadow Griffon
+quetzalcoatl:Quetzalcoatl
+sky_dragon:Sky Dragon
+kirin:Kirin
+bearer_of_rainbows:Bearer of Rainbows
+the_phoenix:The Phoenix
+the_first_minotaur:The First Minotaur
+the_cyclops:The Cyclops, Polyphemus
+achilles:Achilles
+heracles:Heracles
+odysseus:Odysseus
+apollo:Apollo
+ares:Ares
+hades:Hades
+poseidon:Poseidon
+zeus:Zeus
+giant_tiger:Giant Tiger
+common_drake:Common Drake
+boar_gorilla:Boar Gorilla
+crocotiger:Crocotiger
+kappa:Kappa
+titanoboa:Titanoboa
+jungle_dryad:Jungle Dryad
+manticore:Manticore
+venomous_hydra:Venomous Hydra
+phantasmagoria_the_mantis_priestess:Phantasmagoria, the Mantis Priestess
+water_elemental:Water Elemental
+jellyfish_mermaid:Jellyfish Mermaid
+seahorse_king:Seahorse King
+ancient_coelacanth:Ancient Coelacanth
+toxic_jellyfish:Toxic Jellyfish
+megalodile:Megalodile
+deep_mermaid:Deep Mermaid
+angler_fish:Anglerfish
+nightmare_whale:Nightmare Whale
+leviathan:Leviathan
+dryad_defender:Dryad Defender
+dryad_mage:Dryad Mage
+sylvan_bear:Sylvan Bear
+sylvan_unicorn:Sylvan Unicorn
+queen_bee:Queen Bee
+mischevious_pixie:Mischevious Pixie
+mythical_stag:mythical_stag
+feral_satyr:Feral Satyr
+fairy_queen_titania:Fairy Queen Titania
+fairy_king_oberon:Fairy King Oberon

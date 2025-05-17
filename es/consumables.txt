@@ -176,3 +176,111 @@ potion_of_elvenkind_description:Bebe esta poción para convertirte en elfo.
 potion_of_demonhood:Poción de Demonicidad
 potion_of_demonhood_description:Bebe esta poción para convertirte en demonio.
 alreadyOwnThatPotion:Ya tienes esta poción. Puedes comprar otra después de usar la que tienes.
+forged_egg:Huevo Forjado
+mysterious_egg:Huevo Misterioso
+dragon_egg:Huevo de Dragón
+dragon_egg_description:Un misterioso huevo de dragón... Emite un zumbido con una magia tenue, como si un mago una vez lo hubiera tocado. ¿Qué secretos podría guardar si me atrevo a romperlo? Nivel: {level}
+secondChancePurchaseMaximumReached:Ya has alcanzado el límite de Segundas Oportunidades que puedes comprar durante esta aventura.
+uncommon_bundle:Paquete Poco Común
+uncommon_bundle_description:Activa la suscripción poco común por {dayPlaceholder} días.
+rare_bundle:Paquete Raro
+rare_bundle_description:Activa la suscripción rara por {dayPlaceholder} días.
+benefit_shorter_adventure_cooldown:{value} reducción en el tiempo de reutilización de aventuras
+benefit_consumable_carry_limit:{value} aumento en el límite de objetos consumibles
+benefit_ingredient_carry_limit:{value} aumento en el límite de ingredientes
+benefit_inventory_size:{value} inventario más grande
+small_infernal_potion:Poción Infernal Pequeña
+small_infernal_potion_craft_description:Aumenta el daño y la resistencia infernales en un {amount_min1}% a {amount_max1}%.
+small_infernal_potion_description:Aumenta el daño y la resistencia infernales en un {amount_min1}% durante {time}.
+medium_infernal_potion:Poción Infernal Mediana
+medium_infernal_potion_craft_description:Incrementa el daño y la resistencia infernales en un {amount_min1}% a {amount_max1}%.
+medium_infernal_potion_description:Incrementa el daño y la resistencia infernales en un {amount_min1}% durante {time}.
+large_infernal_potion:Poción Infernal Grande
+large_infernal_potion_craft_description:Aumenta enormemente el daño y la resistencia infernales en un {amount_min1}% a {amount_max1}%.
+large_infernal_potion_description:Aumenta enormemente el daño y la resistencia infernales en un {amount_min1}% durante {time}.
+small_divine_potion:Poción Divina Pequeña
+small_divine_potion_craft_description:Aumenta el daño y la resistencia divinos en un {amount_min1}% a {amount_max1}%.
+small_divine_potion_description:Aumenta el daño y la resistencia divinos en un {amount_min1}% durante {time}.
+medium_divine_potion:Poción Divina Mediana
+medium_divine_potion_craft_description:Incrementa el daño y la resistencia divinos en un {amount_min1}% a {amount_max1}%.
+medium_divine_potion_description:Incrementa el daño y la resistencia divinos en un {amount_min1}% durante {time}.
+large_divine_potion:Poción Divina Grande
+large_divine_potion_craft_description:Aumenta enormemente el daño y la resistencia divinos en un {amount_min1}% a {amount_max1}%.
+large_divine_potion_description:Aumenta enormemente el daño y la resistencia divinos en un {amount_min1}% durante {time}.
+small_necrotic_potion:Poción Necrótica Pequeña
+small_necrotic_potion_craft_description:Aumenta el daño y la resistencia necróticos en un {amount_min1}% a {amount_max1}%.
+small_necrotic_potion_description:Aumenta el daño y la resistencia necróticos en {amount_min1}% durante {time}.
+medium_necrotic_potion:Poción necrótica mediana
+medium_necrotic_potion_craft_description:Aumenta el daño y la resistencia necróticos en {amount_min1}% a {amount_max1}%.
+medium_necrotic_potion_description:Aumenta el daño y la resistencia necróticos en {amount_min1}% durante {time}.
+large_necrotic_potion:Poción necrótica grande
+large_necrotic_potion_craft_description:Aumenta significativamente el daño y la resistencia necróticos en {amount_min1}% a {amount_max1}%.
+large_necrotic_potion_description:Aumenta significativamente el daño y la resistencia necróticos en {amount_min1}% durante {time}.
+small_frost_potion:Poción pequeña de escarcha
+small_frost_potion_craft_description:Aumenta el daño y la resistencia a la escarcha en {amount_min1}% a {amount_max1}%.
+small_frost_potion_description:Aumenta el daño y la resistencia a la escarcha en {amount_min1}% durante {time}.
+medium_frost_potion:Poción mediana de escarcha
+medium_frost_potion_craft_description:Aumenta el daño y la resistencia a la escarcha en {amount_min1}% a {amount_max1}%.
+medium_frost_potion_description:Aumenta el daño y la resistencia a la escarcha en {amount_min1}% durante {time}.
+large_frost_potion:Poción grande de escarcha
+large_frost_potion_craft_description:Aumenta significativamente el daño y la resistencia a la escarcha en {amount_min1}% a {amount_max1}%.
+large_frost_potion_description:Aumenta significativamente el daño y la resistencia a la escarcha en {amount_min1}% durante {time}.
+small_arcane_potion:Poción pequeña arcana
+small_arcane_potion_craft_description:Aumenta el daño y la resistencia arcanos en {amount_min1}% a {amount_max1}%.
+small_arcane_potion_description:Aumenta el daño y la resistencia arcanos en {amount_min1}% durante {time}.
+medium_arcane_potion:Poción mediana arcana
+medium_arcane_potion_craft_description:Aumenta el daño y la resistencia arcanos de {amount_min1}% a {amount_max1}%.
+medium_arcane_potion_description:Aumenta el daño y la resistencia arcanos en {amount_min1}% durante {time}.
+large_arcane_potion:Poción Arcana Grande
+large_arcane_potion_craft_description:Incrementa significativamente el daño y la resistencia arcanos de {amount_min1}% a {amount_max1}%.
+large_arcane_potion_description:Incrementa significativamente el daño y la resistencia arcanos en {amount_min1}% durante {time}.
+cooked_egg:Huevo Cocido
+cooked_egg_craft_description:Reconstituye de {amount_min1} a {amount_max1} de energía. La receta desaparecerá después del Evento de Pascua 2025.
+cooked_egg_description:Reconstituye {amount_min1} de energía.
+mysterious_liquid:Líquido Misterioso
+mysterious_liquid_description:Un extraño líquido turbio... ¿me atreveré a beberlo? (Aumenta o reduce al azar una estadística hasta un 10% durante 3 horas)
+small_brew:Pequeña Bebida
+small_brew_description:Pequeña Bebida... ¡Úsala para descubrir qué poción obtendrás! Nivel: {level}
+medium_brew:Bebida Mediana
+medium_brew_description:Bebida Mediana... ¡Úsala para descubrir qué poción obtendrás! Nivel: {level}
+large_brew:Gran Bebida
+large_brew_description:Gran Bebida... ¡Úsala para descubrir qué poción obtendrás! Nivel: {level}
+chicken_fried_rice:Arroz Frito de Pollo
+chicken_fried_rice_craft_description:Repones de {amount_min1} a {amount_max1} de energía.
+chicken_fried_rice_description:Repones {amount_min1} de energía.
+smoothie:Batido
+smoothie_craft_description:Repones de {amount_min1} a {amount_max1} de energía.
+smoothie_description:Repones {amount_min1} de energía.
+pork_skewer:Brocheta de Cerdo
+pork_skewer_craft_description:Repones de {amount_min1} a {amount_max1} de energía.
+pork_skewer_description:Repones {amount_min1} de energía.
+fruit_pie:Tarta de Frutas
+fruit_pie_craft_description:Repones de {amount_min1} a {amount_max1} de energía.
+fruit_pie_description:Repones {amount_min1} de energía.
+bread:Pan
+bread_craft_description:Repones de {amount_min1} a {amount_max1} de energía.
+bread_description:Repones {amount_min1} de energía.
+chicken_fried_rice_recipe:Receta de Arroz Frito de Pollo
+smoothie_recipe:Receta de Batido
+pork_skewer_recipe:Receta de Brocheta de Cerdo
+fruit_pie_recipe:Receta de Tarta de Frutas
+bread_recipe:Receta de Pan
+small_infernal_potion_recipe:Receta de Poción Infernal Pequeña
+medium_infernal_potion_recipe:Receta de Poción Infernal Mediana
+large_infernal_potion_recipe:Receta de Poción Infernal Grande
+small_divine_potion_recipe:Receta de Poción Divina Pequeña
+medium_divine_potion_recipe:Receta de Poción Divina Mediana
+large_divine_potion_recipe:Receta de Poción Divina Grande
+small_necrotic_potion_recipe:Receta de Poción Necrótica Pequeña
+medium_necrotic_potion_recipe:Receta de Poción Necrótica Mediana
+large_necrotic_potion_recipe:Receta de Poción Necrótica Grande
+small_frost_potion_recipe:Receta de Poción de Escarcha Pequeña
+medium_frost_potion_recipe:Receta de Poción de Escarcha Mediana
+large_frost_potion_recipe:Receta de Poción de Escarcha Grande
+small_arcane_potion_recipe:Receta de Poción Arcana Pequeña
+medium_arcane_potion_recipe:Receta de Poción Arcana Mediana
+large_arcane_potion_recipe:Receta de Poción Arcana Grande
+spicy_pork_bowl:Tazón de Cerdo Picante
+spicy_pork_bowl_craft_description:Reabastece de {amount_min1} a {amount_max1} de energía. Su sabor audaz otorga un breve impulso de velocidad.
+spicy_pork_bowl_description:Reabastece {amount_min1} de energía. Su sabor audaz otorga un breve impulso de velocidad.
+healthPotionOnlyInDungeonError:Solo puedes usar pociones de salud dentro de una mazmorra.

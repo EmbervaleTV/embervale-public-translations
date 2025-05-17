@@ -1,0 +1,15 @@
+eventShop:Boutique d'Événements
+eventName:Pâques 2025
+eventBundleName:Pack Pâques 2025
+eventEndsIn:Événement se termine dans
+alreadyOwnsSkin:Le joueur possède déjà ce skin.
+eventShopClosesIn:La Boutique d'Événements ferme dans
+eventUserWillReceive:{user} recevra
+accountBundle:Pack de Compte
+eventCollection:Tout de la Collection de Pâques 2025 pour tous les personnages et les personnages à venir
+eventOutfit:Tenue de Pâques
+eventWeapon:Arme de Pâques
+eventBackground:Arrière-plan de Pâques
+eventSkinBundleMsg:{character_name} vous a offert le Pack de Skins de Pâques 2025 !
+eventSkinAccountBundleMsg:{character_name} vous a offert le Pack de Skins de Pâques 2025 pour tous vos personnages !
+eventRaidRewardTxt:{character_name} a reçu : {reward} - Dégâts : {dmg} ({perc}%) - Attaques : {amount} ({chance}%)

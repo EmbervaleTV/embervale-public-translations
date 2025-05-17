@@ -138,3 +138,9 @@ repeatable:Wiederholbar
 win_in_the_arena:Gewinne {amount} Mal in der Arena
 repeatable__host_adventures__public:Veranstalte {amount} Abenteuer, gehe durch Raum 25 und tue dies unter der Embervale.TV-Kategorie mit unbeschränktem Chat.
 repeatable__activate_tools__public:Aktiviere {amount} Werkzeuge in Abenteuern mit mehr als 10 aktiven Spielern
+wear_full_set_of_armor:Trage ein vollständiges Rüstungsset
+gear_preset_1:+1 zusätzlicher Ausrüstungsplatz für Voreinstellungen
+reset_skill_points:[Balancing-Update] Setze deine Fertigkeitenpunkte zurück.
+10_arcanite:10 Arcanite
+open_dragon_eggs:Zerschmettere {amount} Dracheneier.
+defeat_ascended_bosses:Besiege {amount} aufgestiegene Bosse

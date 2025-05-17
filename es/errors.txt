@@ -72,3 +72,5 @@ errGameDesynced:La acción no pudo ser completada. Esto generalmente ocurre si j
 errArcaniteDesync:La cantidad de Arcanite enviada por el juego no coincide con el número calculado por nuestro servidor. Por favor, intenta de nuevo.
 errNotAllowed:Esta acción no está permitida.
 errDungeonInventoryIsFull:¡No puedes llevar más objetos a esta mazmorra!
+errRateLimitHeadline:Demasiadas Solicitudes
+errRateLimit:Estás interactuando un poco demasiado rápido. Por favor, espera un momento y vuelve a intentarlo. Si esto sigue sucediendo, contáctanos en Discord: https://discord.com/invite/Gum9bS2dyw

@@ -150,7 +150,7 @@ behemoth_bestiary:Pele grossa, presas perigosas... cauda serpentina e uma juba d
 ice_snake_bestiary:Essas cobras parecem usar o pedaço de gelo que sobressai de suas cabeças como chifre
 gnoll_shaman_bestiary:Suas poções potentes parecem ser a causa da expressão maníaca de sua tribo
 undead_gnoll_bestiary:Argh, não tão acariciável agora
-skeleton_commander_bestiary:Sua armadura e equipamento indicam que muito esforço foi colocado na criação deste morto-vivo
+skeleton_commander_bestiary:Sua armadura e equipamento indicam que muito esforço foi empregado para criar este morto-vivo.
 flaming_wolf_bestiary:Círculos druidicos criam essas manifestações para caçar seus inimigos
 flaming_wolf_spirit_bestiary:Esta manifestação perdeu a maior parte de sua forma, embora nem sua determinação nem seu propósito
 colossal_bat_bestiary:O Colossal Bat habita nas cavernas mais profundas, usando suas imensas asas para criar rajadas poderosas de vento.
@@ -511,3 +511,145 @@ rudolph_bestiary:-
 big_sack_goblin_bestiary:-
 angry_snowman_bestiary:-
 nailguns_bestiary:Um mímico que finge ser Pneumáticas.
+earth_horse_bestiary:Adaptados a gerações de vida subterrânea, esses poderosos cavalos nunca viram o sol.
+crystal_mimic_bestiary:Aquelas coisas pontudas são estalagmites ou estalactites? Nenhum dos dois. São dentes.
+crag_worm_bestiary:Esses rastejantes cavam através da terra com mandíbulas que podem morder pedra sólida. Aquele som de estrondo vindo de longe talvez não seja um terremoto...
+cavern_hydra_bestiary:Serpentes comuns de cavernas podem metamorfosear-se quando expostas à mágica vulcânica de Embervale. O dobro de cabeças significa o dobro de sopro flamejante.
+crystalback_bestiary:Esses comedores de minerais podem crescer até tamanhos imensos e armazenam energia nos cristais que brotam de sua pele.
+burrower_bestiary:Cem metros abaixo da sua localização e se aproximando rapidamente.
+embervale_raptor_bestiary:Encontrados apenas nas passagens vulcânicas de Embervale, esses raptores magmáticos suportam temperaturas imensas. Seu sopro pode derreter rocha sólida.
+deep_naga_warrior_bestiary:Esses habitantes das cavernas raramente são vistos pelos povos da superfície, em parte porque vivem tão profundamente, mas principalmente por seu hábito de saudar intrusos com seus machados.
+earth_dragon_bestiary:As cavernas mais profundas contêm riquezas de gemas... e elas já foram tomadas.
+the_deep_one_bestiary:Se não controlados, os Vermes da Rocha podem crescer até tamanhos enormes. Quando ficam desse tamanho, é melhor correr.
+cerberus_the_gate_guard_bestiary:Famoso por guardar os portões do Inferno e garantir que seus habitantes fiquem bem abaixo. Se você o derrotou, o que pode escapar?
+demon_soldier_bestiary:Soldados rasos do Inferno, ansiosos para pilhar e destruir qualquer coisa que possam com suas mãos ardentes.
+demon_crawler_bestiary:Esses demônios lutam não com fogo infernal, mas com um terrível veneno ácido que escorre de suas muitas pinças que gotejam.
+the_sacrificed_bestiary:Quando uma alma é consumida pelo Inferno, um eco da raiva e arrependimentos dessa entidade fica para trás, esperando arrastar outros para seu tormento ardente.
+infernal_harpy_bestiary:Correntes às profundezas por seus crimes, essas harpias atraem os perdidos com música doce e depois queimam suas almas em seu abraço flamejante.
+hellhound_bestiary:Você pode tentar bolinhas e brinquedos de mastigar se realmente quiser, mas este não é um bom garoto.
+the_tormented_bestiary:Uma massa horrível de almas torturadas fundidas em um guardião dos demônios que as atormentam, presas em um abraço perpetuamente ardente.
+brimstone_elemental_bestiary:Mágicas infernais dão vida a esses elementais, infundindo basalto e enxofre com malícia de outro mundo.
+ankailin_the_tempter_bestiary:Um dos mais proeminentes demônios, Ankailin construiu seu trono de almas de aventureiros oferecendo-lhes poder e glória. Você não gostaria de um pouco mais de poder?
+lucifer_the_fallen_bestiary:O primeiro a abraçar a liberdade do pecado.
+crystal_drake_bestiary:Embora não cresçam asas como os verdadeiros dragões, os dracos não são menos mortais e são notórios por lutar pelos tesouros de gemas de seus primos alados. Este claramente venceu algumas batalhas!
+crimson_lindwyrm_bestiary:Lindwyrms são uma raça rara de dragão sem patas traseiras. Eles são conhecidos por sua rivalidade com os wyverns, seu sopro mortal e o hábito de pular o dia de treinar pernas.
+radiant_dragon_bestiary:Uma criatura majestosa com escamas douradas cintilantes, cravejadas de gemas e uma coroa de chifres que emite luz. Fios de sua crina continuam a brilhar mesmo quando removidos, e suas mudas são valorizadas por artesãos.
+frost_hydra_bestiary:Tão temível quanto o frio do inverno, este dragão cresce outra cabeça para cada herói em potencial que tenta acabar com seu sopro de nevasca.
+darkness_dragon_bestiary:Vistos raramente, esses dragões prosperam na mais negra sombra. Qualquer luz que entre em seu território será caçada e extinta.
+magma_dragon_bestiary:A chama deste dragão arde tão intensamente que o próprio solo por onde ele anda se torna derretido, revestindo suas escamas em uma espessa massa de magma gotejante.
+dragon_mage_bestiary:Alguns dragões dedicam suas longas vidas ao domínio das artes arcanas, canalizando sua chama interior em feitiços poderosos que remodelam a realidade.
+dragon_paladin_bestiary:Embora a maioria dos dragões confie em garra, presa e chama, alguns respondem a um chamado maior e servem como os guerreiros mais poderosos do reino.
+granthar_the_warrior_bestiary:Com uma pele marcada por milhares de batalhas, Granthak serve fielmente como o guarda-costas do atual soberano dos dragões.
+the_golden_sovereign_bestiary:O mais poderoso de todos os dragões vivos, cujo ninho se encontra no coração do vulcão de Embervale. Suas escamas douradas são quase impenetráveis a ataques.
+cultist_priestess_bestiary:Esses cultistas devotos canalizam suas energias para rasgar o tecido da realidade, permitindo que os seres insondáveis que adoram cheguem ao nosso mundo.
+eldritch_portal_bestiary:Esses poços sem fundo alcançam outra realidade, permitindo que seres de além transbordem em Embervale.
+corrupted_boar_bestiary:Um dia um javali comum, esta criatura foi irrevogavelmente distorcida por forças além deste reino.
+corrupted_serpent_bestiary:Cobras comuns já são meio tentáculos rastejantes, mas isto está indo longe demais.
+corrupted_knight_bestiary:Encara as estrelas por tempo demais, e pode encontrar algo te encarando de volta...
+corrupted_dragon_bestiary:Até mesmo os majestosos dragões sabem temer a corrupção crescente, para não caírem presas de poderes maiores que os seus.
+herald_of_corruption_bestiary:Através do poder da corrupção, cavalo e cavaleiro tornaram-se um só ser, e agora falam com mil bocas sussurrantes.
+nyarlathotep_bestiary:Uma das coisas insondáveis além do véu, seus sussurros levam os mortais à loucura.
+azathoth_bestiary:Uma das coisas insondáveis além do véu, sua corrupção se estende, transformando em horrores tudo o que seus olhos dormentes contemplam.
+cthulhu_bestiary:Aquele que não está morto pode eternamente mentir, e com estranhos eons até a morte pode morrer.
+mummified_brute_bestiary:Preservados nas areias por milênios e despertados por forças sobrenaturais, estes brutos continuarão a atacar até que nada reste deles.
+skeleton_bowmaster_bestiary:Reverenciados por sua precisão ainda em vida, estes arqueiros reanimados ainda conseguem acertar um alvo a mil passos de distância - e você é o alvo atual!
+skeleton_soldier_bestiary:Soldados rasos para as legiões dos mortos, esses esqueletos são abundantes onde quer que batalhas custosas tenham sido travadas.
+skeleton_samurai_bestiary:Retêm seu posto e estilo de combate na morte, embora sirvam a um mestre diferente.
+frost_lich_bestiary:Canalizando o poder das almas em um frio eterno, esses seres imortais comandam vasto poder.
+consumed_dragon_bestiary:Este lamentável dragão caiu vítima de um necromante, que preservou e reanimou seus ossos através de experimentos indizíveis.
+death_knight_bestiary:Vestidos em armaduras sombrias, esses guerreiros reanimados buscam a erradicação de toda vida.
+blazing_reaper_bestiary:Com cabeças em chamas, esses seres temíveis correm pela noite coletando as almas dos condenados.
+the_profaned_one_bestiary:Diz-se ser o que resta de um gigante lendário, este monstruoso ser serve fielmente o Senhor Sombrio como guardião e carrasco.
+the_dread_lord_bestiary:Governa as legiões dos mortos de seu trono de crânios, coletando os recém-caídos para se erguerem em seu aterrorizante nome.
+silver_roc_bestiary:Com penas de prata afiadas como espadas e garras duas vezes mais mortais, essas aves lendárias podem rivalizar em tamanho com dragões.
+alicorn_bestiary:Esses míticos unicórnios alados só se dignarão a aparecer diante dos guerreiros mais poderosos. Você é digno?
+great_brown_roc_bestiary:O mais poderoso de todos os rocs, anunciado por um grito de fazer a terra tremer e batidas de asas que podem achatar vilarejos.
+regal_griffon_bestiary:O primeiro grifo a voar sobre os reinos, diz-se que nasceu de um ovo de roc guardado por uma leoa.
+shadow_griffon_bestiary:Cada lenda projeta uma sombra. Quanto mais você brilha, mais faminta a escuridão se torna...
+quetzalcoatl_bestiary:Adorado por alguns como uma divindade, essa poderosa serpente voa pelos céus em asas de arco-íris.
+sky_dragon_bestiary:Voando sem esforço na magia dos céus, esses dragões nunca descem abaixo das nuvens.
+kirin_bestiary:Uma criatura tão rara que poucos vivos já a viram, com escamas de dragão e uma crina de fogo sempre ardente. Seu galope queima o solo.
+bearer_of_rainbows_bestiary:Com penas que exalam luz, este evasivo pássaro pintou os primeiros arco-íris nos céus de Embervale.
+the_phoenix_bestiary:Este pássaro imortal viveu mil vidas. Quando perece, renasce das chamas.
+succubus_archer_bestiary:Esses arqueiros voadores miram nas almas mais puras, destruindo tudo o que não podem corromper.
+hell_manticore_bestiary:Manticores já são bestas assustadoras por conta própria, mas a magia infernal e o sopro de fogo tornam-nas muito piores!
+dryad_defender_bestiary:O reino das fadas é perigoso para mortais que chegam sem convite, e esses guardiões dríades estão aqui para garantir que todos recebam a recepção apropriada.
+dryad_mage_bestiary:Canalizando a magia da própria natureza, essas dríades podem fazer florestas surgirem de pedras áridas.
+sylvan_bear_bestiary:Esses enormes ursos são cercados por magias feéricas e protegem seus patronos com devoção feroz.
+sylvan_unicorn_bestiary:Abençoados pela magia feérica, flores estelares florescem no rastro desses cavalos encantados. Apesar de sua aparência delicada, são criaturas temperamentais e sua ira é aterrorizante.
+queen_bee_bestiary:Coroada com pólen e dirigindo um enxame de pequenos atendentes picantes, é melhor não frequentar a corte desta rainha...
+mischevious_pixie_bestiary:Essas fadas curiosas e brincalhonas adoram nada mais que pregar truques elaborados em mortais.
+mythical_stag_bestiary:Com exposição suficiente às magias etéreas do reino das fadas, até mesmo animais de presa tornam-se criaturas lendárias.
+feral_satyr_bestiary:Atenção à música brincalhona que flutua pelas árvores do reino das fadas. As melodias desses sátiros selvagens podem mudar de alegres a cruéis num instante.
+fairy_queen_titania_bestiary:Resplandecente em um vestido de pétalas venenosas, Titânia reina sobre a corte de verão das fadas.
+fairy_king_oberon_bestiary:O orgulhoso e caprichoso rei da Corte Seelie, senhor de todos os reinos das fadas.
+son_of_valhalla_bestiary:Guardando os portões do grande salão de hidromel, este guerreiro imponente só permitirá que guerreiros de verdadeira força entrem.
+valhalla_berserker_bestiary:Esses campeões eram renomados em vida e agora celebram suas vitórias na honra eterna do salão de hidromel.
+hati_the_moon_devourer_bestiary:Irmão de Skoll, este grande lobo persegue a lua incessantemente na esperança de devorá-la.
+skoll_the_sun_chaser_bestiary:Irmão de Hati, este grande lobo caça o sol, destinado a consumi-lo no fim do mundo.
+valkyrie_rider_bestiary:Esses cavaleiros lendários guiam as almas dos mortos honrados para Valhalla e respondem a qualquer desafio com espada e magia, por mais assustador que seja.
+fenris_wolf_bestiary:Nascido dos deuses e do gelo, este imenso filho de Loki luta ferozmente contra seu aprisionamento.
+loki_bestiary:O deus trapaceiro metamórfico Loki rivaliza com os outros Aesir e é infame por seus esquemas e seus resultados cataclísmicos.
+thor_bestiary:O Deus do Trovão, seu poderoso martelo Mjolnir convoca relâmpagos para golpear onde quer que caia.
+odin_bestiary:O Deus da Batalha e líder do panteão, este guerreiro de um olho só é acompanhado por seus dois corvos Huginn e Muninn.
+jormungandr_bestiary:A Serpente de Midgard, cujas espirais cercam o mundo. No fim dos dias, ele surgirá dos oceanos e anunciará o Ragnarok.
+hellhound_guard_bestiary:Leais até o fim, esses cães infernais protegem seus mestres infernais e devoram as almas daqueles que ousam perturbá-los.
+vakan_the_wretched_bestiary:Embora não tão poderoso quanto alguns dos arqui-inimigos mais fortes, Vakan é temido por sua capacidade de ganhar poder da morte, e muitas vezes envia seus servos para espalhar pragas ou iniciar guerras.
+endrekan_warden_of_the_pits_bestiary:Este cruel capataz cuida dos poços de almas, organizando tormentos e decidindo quais almas serão corrompidas para se tornarem demônios.
+grish_the_hungering_bestiary:Embora possa ser um senhor dos demônios, Grish é um escravo da fome, tendo devorado o poder de milhares de demônios menores, mas sempre ansiando por mais.
+xandor_the_schemer_bestiary:Conhecido por explorar magos e sua sede de reconhecimento, este archidemônio conspira incessantemente para desestabilizar seus inimigos, usando mortais como peças involuntárias em seus esquemas.
+kefkor_the_tainted_bestiary:Um anjo outrora, a atração do poder do Inferno seduziu Kefkor para os poços. Agora ele vive apenas para provar sua força.
+temengoth_the_many_headed_bestiary:Consumido por uma raiva perpétua, as três cabeças de Temengoth buscam novos inimigos para destruir.
+baphomet_lord_of_traitors_bestiary:Este arqui-demônio atrai almas para seu culto com a promessa de conhecimento proibido e iluminação vedada pelos deuses, apenas para aprisioná-las em seus esquemas e sede primordial de caos.
+giant_tiger_bestiary:Disputa famosos leões pelo título de Rei da Selva.
+common_drake_bestiary:Não há nada de comum na força da mordida deste pseudo-dragão.
+boar_gorilla_bestiary:Com punhos esmagadores e presas afiadas, esses poderosos habitantes da selva não devem ser subestimados.
+crocotiger_bestiary:Tão confortável ao mutilar você no mar quanto em terra.
+kappa_bestiary:Esses habitantes aquáticos são abundantes em rios selvagens e lagos de selva. Embora muito poderosos, não podem se mover sem água preenchendo o prato em suas cabeças.
+titanoboa_bestiary:Essas cobras podem crescer a tamanhos verdadeiramente gigantescos, capazes de esmagar troncos de árvores nos seus ápices. Podem cuspir ácido a vários passos de distância.
+jungle_dryad_bestiary:Essas dríades desprezam qualquer ser que não siga as leis da natureza e usam suas mágicas predatórias para devolver qualquer lenhador à cadeia alimentar.
+manticore_bestiary:Pegue um leão. Faça-o duas vezes maior. Agora dê-lhe a capacidade de voar atrás de você. E caso isso não seja ruim o suficiente, dê-lhe um ferrão como cauda e um veneno que pode matar em minutos. Você já está correndo?
+venomous_hydra_bestiary:Esses dragões de múltiplas cabeças que cospem ácido abrem seu capuz quando tentam intimidar. O que é um pouco bobo, porque se você já não estava intimidado, há algo de errado com você.
+phantasmagoria_the_mantis_priestess_bestiary:Antes uma druida que buscava meditar sobre os caminhos da natureza, Phantasmagoria entregou-se completamente à selva. Suas foices expelem um veneno que causa alucinações vívidas.
+invader_grunt_bestiary:Uma criatura de um plano diferente, rasteja pelo solo de Embervale, explorando novo território para sua colmeia.
+invader_stalker_bestiary:Esta criatura de outro mundo rasteja perto do chão, exibindo um padrão hipnótico em sua crista antes de paralisar suas vítimas com projéteis venenosos.
+invader_challenger_bestiary:Esta orgulhosa besta extraterrestre busca a dominação sobre todos os planos que percorre.
+invader_hunter_bestiary:Esses poderosos filhos da colmeia podem rastrear suas presas através de paredes sólidas e saltar grandes distâncias para aplicar um golpe mortal.
+invader_raptor_bestiary:Esses raptores de outro mundo atacam suas presas em enxames e as empalam com suas foices para serem levadas de volta à colmeia.
+invader_brawler_bestiary:Com punhos tão grandes, sempre diga não a uma competição de queda de braço com esta coisa.
+flying_chaos_bestiary:Uma infecção de além das estrelas chegou num meteoro, espalhando-se por tudo que toca e transformando-o em algo indescritível.
+mind_flayer_bestiary:Seres temidos de outro plano, essas monstruosidades telepáticas podem dominar um cérebro com um único pensamento... e compelir esse cérebro a caminhar diretamente para suas mandíbulas.
+invader_queen_bestiary:A rainha da colmeia, que dirige seus filhos de muitas faces para expandir, devorar e conquistar os planos.
+infinity_bestiary:Um ser quase incompreensível das estrelas acima, que enviou um meteoro em direção a Embervale e abriu os portões para o cosmos aguardando.
+the_first_minotaur_bestiary:O minotauro original era uma besta muito mais mortal do que os minotauros menores que vagam pela terra abaixo, e teve que ser aprisionado em um labirinto para a segurança dos mortais.
+the_cyclops_bestiary:Se algum dia navegar até a ilha deste ciclope, é melhor partir antes de descobrir a ideia dele de hospitalidade.
+achilles_bestiary:Um herói quase invencível que venceu sozinho dezenas de batalhas, mas foi derrotado pelo ponto fraco em seu calcanhar.
+heracles_bestiary:Um herói com o sangue dos deuses correndo em suas veias, que completou muitos trabalhos lendários e foi acolhido no Monte Olimpo após sua morte.
+odysseus_bestiary:Um famoso rei guerreiro que embarcou em uma jornada épica, triunfando sobre monstros e deuses com sua coragem e astúcia.
+apollo_bestiary:O Deus do Sol, Música e Profecia, que aprecia um pouco de poesia e arco e flecha em seu tempo livre.
+ares_bestiary:O Deus da Guerra, e um patrono de muitos aventureiros que buscam seu favor no campo de batalha.
+hades_bestiary:O Deus do Submundo, que governa os mortos não celebrados com uma mão impiedosa, mas justa.
+poseidon_bestiary:O furioso Deus do Mar, cuja ira provoca ondas e terremotos que até as poderosas águas tremem ao presenciar.
+zeus_bestiary:O rei mercurial do Monte Olimpo governa do alto, lançando trovões sobre todos que ousam desagradá-lo.
+water_elemental_bestiary:Onde as correntes mágicas são mais fortes, as ondas ganham vida própria.
+jellyfish_mermaid_bestiary:Sereias podem assumir muitos aspectos das criaturas do mar. Esta aqui pode ser perigosa ao apertar a mão.
+seahorse_king_bestiary:Coroado de coral, este soberano guarda cuidadosamente seus súditos menores de danos.
+ancient_coelacanth_bestiary:Os celacantos não mudaram muito ao longo de centenas de milhões de anos de evolução. Lute com um e você descobrirá o porquê.
+toxic_jellyfish_bestiary:Atingir essas águas-vivas à deriva não é um problema - o desafio é tentar acertar sem tocar em um de seus cem tentáculos letais.
+megalodile_bestiary:As profundezas mais obscuras escondem os maiores e mais antigos predadores do mar. Cuidado com as mandíbulas grandes o suficiente para engolir navios.
+deep_mermaid_bestiary:Tão perto das ventilações do fundo do mar, até mesmo as sereias começam a se tornar estranhas e irreconhecíveis de suas primas mais rasas.
+angler_fish_bestiary:É uma luz tão bonita, brilhando sozinha nas profundezas... com certeza não deve haver problema em chegar mais perto...
+nightmare_whale_bestiary:Silenciosa como a morte, ela flutua pelas profundezas, boca escancarada à espera de suas próximas vítimas.
+leviathan_bestiary:O senhor indiscutível das profundezas, todo o oceano é o domínio zelosamente guardado do Leviathan.
+spectral_apparition_bestiary:A presença deste espírito inquieto resfria mais do que apenas sua espinha - as temperaturas caem perigosamente onde quer que este fantasma assombre.
+fungus_golem_bestiary:Embora não sejam os mais resistentes dos golens, essas construções lentas emitem uma névoa constante de esporos tóxicos, tornando-as difíceis de combater.
+blood_golem_bestiary:Criações de um alquimista louco, esses golens são especialmente perigosos porque podem absorver o sangue que derramam e se fortalecer a partir de seus inimigos feridos.
+hunting_gargoyle_bestiary:De pedra durante o dia, essas criações predatórias ganham vida à noite e perseguem qualquer vítima que observaram em sua forma de pedra.
+watching_wall_bestiary:As paredes têm olhos... e garras, e dentes...
+undead_mage_bestiary:Os magos mais antigos e excêntricos são infames por encontrar maneiras de enganar a morte, mas às vezes esses feitiços dão errado e a morte cobra seu preço...
+jackalope_bestiary:Não se deixe enganar pelo tamanho desta criatura. Um jackalope tem velocidade e poder enormes, e adora nada mais do que atormentar seus possíveis caçadores com truques maliciosos.
+shadow_witch_bestiary:Essas bruxas renegadas foram expulsas da sociedade por mergulharem em magias proibidas. Elas podem conjurar sombras vivas e conceder grande poder aos seus aliados... mas provavelmente querem seus olhos para uma poção.
+the_webspinner_bestiary:Canta uma melodia alegre enquanto envolve suas pequeninas presas em seda. Seus queridos filhos ficam com tanta fome...
+heart_of_darkness_bestiary:O coração vivo dessas terras assombradas, este espírito guardião foi distorcido por uma estranha corrupção em expansão e cresceu cheio de malícia contra todos os que caminham à luz do sol.
+vampire_lord_bestiary:Gosta de longas caminhadas em praias iluminadas pela lua, monólogos dramáticos para crânios e sugar o sangue de aventureiros desprevenidos.
+black_dragon_bestiary:Notórios pelo mau humor e escamas quase indestrutíveis, esses dragões devem ser evitados por todos, exceto pelos aventureiros mais corajosos.

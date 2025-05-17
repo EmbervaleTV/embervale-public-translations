@@ -60,3 +60,8 @@ revokeConfirmation:¿Estás seguro de que quieres revocar la invitación de {nam
 chatNoPermission:No tienes permiso...
 hideSystemMsg:Ocultar mensajes del sistema
 showSystemMsg:Mostrar mensajes del sistema
+findGuild:Encontrar gremio
+invitedBy:Invitado por
+youHave:Tienes
+join:Unirse a
+applicationAlreadySent:¡Ya tienes una solicitud pendiente para este gremio!

@@ -60,3 +60,8 @@ revokeConfirmation:Tem certeza de que deseja revogar o convite de {name} para pa
 chatNoPermission:Você não tem permissão...
 hideSystemMsg:Ocultar mensagens do sistema
 showSystemMsg:Mostrar mensagens do sistema
+findGuild:Encontrar Guilda
+invitedBy:Convidado Por
+youHave:Você tem
+join:Juntar-se a
+applicationAlreadySent:Você já tem uma inscrição pendente para esta guilda!

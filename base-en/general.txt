@@ -33,6 +33,9 @@ average:Average
 sortBy:Sort By
 date:Date
 selected:Selected
+yes:Yes
+no:No
+remove:Remove
 
 // settings
 imageResolution:Image Resolution
@@ -55,12 +58,16 @@ optional:Optional
 own:Own
 limitFPS:Cap animation FPS
 limitFPSTip:(Lowering FPS can optimize performance by using fewer resources)
+graphicsScale:Graphics Scale
+graphicsScaleTip:Adjusts the sharpness and performance of animations.
 dangerZone:Danger Zone
 patreonThanks:The Project would never be possible without our Patreons. Much love to all of you ♥ And a special thanks to our:
 
 newUpdate:A new update is available.
+restartEmbervaleForUpdate:You are using an outdated version of Embervale. Please reload your browser, restart the app, or update to the latest version on Steam.
 pleaseReload:Please reload!
 endpointDisabled:This function is temporarily disabled for maintenance and will be back shortly!
+downForMaintenance:Embervale.TV is currently undergoing maintenance to improve stability. We'll be back shortly—thanks for your patience!
 
 // classes
 class:Class
@@ -209,6 +216,7 @@ bonus:Bonus
 glossary:Glossary
 discovered:Discovered
 glossaryTipMonster:Defeat monsters to fill your Bestiary!
+glossaryTipAscended:Defeat ascended Bosses to fill your Bestiary!
 glossaryTipItem:Progress by receiving the item or winning against a player with that item!
 glossaryTipMaterial:Progress by obtaining or crafting the materials!
 glossaryTipSkin:Unlock by defeating players wearing the outfit!
@@ -248,7 +256,6 @@ achievement:Achievement
 high:High
 medium:Medium
 low:Low
-eventShop:Event Shop
 
 // start menus
 startYourJourney:Start your journey!
@@ -276,6 +283,7 @@ sell:Sell
 info:Infos
 purchase:Purchase
 purchaseSuccess:Thank you for your purchase!
+conversionSuccess:Your affiliate points have been successfully converted into Arcanites!
 newItemSlot:A new item slot has been added to the shop!
 shopRefresh:Shop Refresh
 freeShopRefresh:Free Shop Refresh
@@ -317,6 +325,7 @@ completeOffers:Complete offers to earn Arcanites
 creatorCode:Creator Code
 allPricesIncVat:All prices include VAT.
 purchaseWithCreatorCode:{name} just purchased {product} and supported you with your creator code: {crco}
+extensionUsedCreatorCode:Used your creator code
 
 confirmGiftingBundleConsumable:Are you sure you want to gift the {bundleName} to {Playername}? They will receive a consumable to activate the bundle themselves. Arcanites will be added immediately.
 confirmPurchaseBundleConsumable:Are you sure you want to purchase {bundleName}?
@@ -378,6 +387,8 @@ halloween-2024-badge:Halloween 2024 Badge
 halloween-2024-badge_desc:Obtainable by completing all Halloween Event Missions
 christmas-2024-badge:Christmas 2024 Badge
 christmas-2024-badge_desc:Obtainable during the Christmas 2024 Event
+easter-2025-badge:Easter 2025 Badge
+easter-2025-badge_desc:Obtainable during the Easter 2025 Event
 
 obtainedBy:Obtained by {obtained_by}% of players
 noBadge:No badge
@@ -421,6 +432,7 @@ congratulations:Congratulations!
 claim:Claim
 claim_reward:Claim Reward
 reward:Reward
+rewards:Rewards
 completed:Completed
 alreadyClaimed:You have already claimed this reward. (This may occur if the game is open in multiple instances.)
 hideCompletedAchievements:Hide completed achievements
@@ -451,6 +463,7 @@ exploreByYourSelfExpl:You can explore and gather the resources by yourself! In t
 exploreHireExpl:You can hire someone to gather resources for you! While they’re not as skilled as you, they’ll collect a decent amount of materials, allowing you to focus on bounties. Collects 2 materials per hour.
 
 // loadingScreenTips
+loading:Loading
 loadingTip0:Recipes are rare, so it's a good idea to prioritize a bounty when you see one!
 loadingTip1:It's a good idea to start an expedition before leaving to collect resources!
 loadingTip2:You can always reset your skill points, so you can match your points according to your armor!
@@ -485,7 +498,7 @@ loadingTip30:Struggling with a certain kind of enemy? Figure out their elemental
 loadingTip31:Victory in the arena rewards you with Glory, along with a bonus of XP and gold!
 loadingTip32:Refer a streamer to Embervale and earn 1000 Arcanites! Check the achievement tab for more details.
 loadingTip33:Use tools in adventures to increase your fame!
-loadingTip34:You can reroll the shop for free every 24 hours!
+loadingTip34:You can reroll the shop for free every 20 hours!
 loadingTip35:Completing a dungeon for the first time guarantees a Mythical Chest and expands your inventory capacity!
 loadingTip36:Dungeons have unique pools of monsters; collect them all to fill your Bestiary!
 
@@ -640,6 +653,7 @@ craft:Craft
 cook:Cook
 smith:Smith
 alchemist:Alchemist
+craftsman:Craftsman
 successfullyCrafted:Successfully crafted
 
 // Title Rewards
@@ -706,6 +720,7 @@ clickOnPresetToChange:Click a gear preset to update its icon.
 chooseIcon:Choose Icon
 updatePreset:Update Preset
 resetPreset:Reset Preset
+overwritePreset:Overwrite Preset
 editPresetIcon:Edit Icons
 equipPreset:Equip Preset
 purchasePreset:Purchase Preset
@@ -715,8 +730,11 @@ dontOwnPreset:You don't have a preset yet.
 confirmGearPresetPurchase:Confirm your gear preset purchase by clicking the button below.
 confirmGearPresetFreePurchase:The first two gear presets are free.
 cantSellItemsFromPreset:You cannot sell this item while it is part of a preset.
+confirmResetPreset:Are you sure you want to reset this preset?
+confirmResetOverwrite:Are you sure you want to overwrite this preset?
 
 // monster categories
+type:Type
 all:All
 aquatic:Aquatic
 insect:Insect
@@ -730,6 +748,7 @@ construct:Construct
 abomination:Abomination
 dragon:Dragon
 mimic:Mimic
+fiend:Fiend
 
 // expedition map
 embervale:Embervale # this should not be translated
@@ -743,3 +762,24 @@ silver_mountains:Silver Mountains
 crownlands:Crownlands
 boiling_lake:Boiling Lake
 
+// boss rush
+ashfall_hollows:Ashfall Hollows
+the_twisted_lands:The Twisted Lands
+elysium:Elysium
+wildwood_glade:Wildwood Glade
+
+ashfall_depths:Ashfall Depths
+meteorite_crater:Meteorite Crater
+the_infernal_pits:The Infernal Pits
+throne_of_the_demon_lords:Throne of the Demon Lords
+haunting_grounds:Haunting Grounds
+cursed_mausoleum:Cursed Mausoleum
+dragons_nest:Dragon's Nest
+ritual_altar:Ritual Altar
+valhalla:Valhalla
+cradle_of_myths:Cradle of Myths
+olympus:Olympus
+seat_of_elysium:Seat of Elysium
+darkbough_jungle:Darkbough Jungle
+the_lightless_depths:The Lightless Depths
+the_fae_realm:The Fae Realm

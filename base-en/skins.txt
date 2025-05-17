@@ -61,27 +61,9 @@ skin_festive_protector:Festive Protector
 skin_christmas_spirit:Christmas Spirit
 
 // Easter 2025
-thorn_knight:Thorn Knight
-twilight_rogue:Twilight Rogue
-tempest_ranger:Tempest Ranger
-druid_mage:Druid Mage
-skytear_warrior:Skytear Warrior
+skin_thorn_knight:Thorn Knight
+skin_twilight_rogue:Twilight Rogue
+skin_tempest_ranger:Tempest Ranger
+skin_druid_mage:Druid Mage
+skin_skytear_warrior:Skytear Warrior
 
-// extra
-alreadyOwnsSkin:The player already owns this skin.
-eventShopClosesIn:Event Shop Closes in
-eventUserWillReceive:{user} will receive
-
-accountBundle:Account Bundle
-
-eventEndsIn:Event ends in
-eventName:Christmas 2024
-
-eventCollection:Everything from the Christmas 2024 Collection for all characters and upcoming characters
-eventOutfit:Christmas Outfit
-eventWeapon:Christmas Weapon
-eventBackground:Christmas Background
-
-eventSkinBundleMsg:{character_name} gifted you the Christmas 2024 Skin Bundle!
-eventSkinAccountBundleMsg:{character_name} gifted you the Christmas 2024 Skin Bundle for all your characters!
-eventRaidRewardTxt:{character_name} received: {reward} - Damage: {dmg} ({perc}%) - Attacks: {amount} ({chance}%)

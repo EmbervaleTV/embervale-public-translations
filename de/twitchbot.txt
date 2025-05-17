@@ -53,3 +53,5 @@ raidMonster9:Lamettaschrecken, der Girlandenschrecken
 raidMonster10:Carolranke, der Liedbrecher
 raidNoActiveRaid:Es findet gerade kein aktiver Überfall statt.
 adventureSurrenderConfirmation:Du kannst das Abenteuer jederzeit beenden, indem du kapitulieren, ohne Beute zu verlieren.
+monsterDiscovered:Entdeckte Monster
+ascendedBossesDiscovered:Entdeckte Aufgestiegene Bosse

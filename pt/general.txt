@@ -484,7 +484,7 @@ loadingTip30:Tendo dificuldades com um certo tipo de inimigo? Descubra sua fraqu
 loadingTip31:A vitória na arena recompensa você com Glória, além de um bônus de XP e ouro!
 loadingTip32:Indique um streamer para Embervale e ganhe 1000 Arcanites! Verifique a aba de conquistas para mais detalhes.
 loadingTip33:Use ferramentas em aventuras para aumentar sua fama!
-loadingTip34:Você pode rolar a loja novamente gratuitamente a cada 24 horas!
+loadingTip34:Você pode relançar a loja gratuitamente a cada 20 horas!
 loadingTip35:Completar uma masmorra pela primeira vez garante um Baú Mítico e expande sua capacidade de inventário!
 loadingTip36:As Masmorras têm pools únicos de monstros; colete todos para preencher seu Bestiário!
 chrono-badge:Emblema Crono
@@ -521,7 +521,6 @@ yourMaximumInventorySize:Atualmente, você tem um tamanho máximo de inventário
 eachUpgradeCostsMore:Cada upgrade custa mais. Este upgrade custa
 fullyUpgradedInventory:Você atualizou completamente seu inventário!
 info:Informações
-eventShop:Loja de Eventos
 shopRerollInfo1:Uma vez que sua reputação atinge 100%, o lojista não oferecerá mais itens comuns.
 shopRerollInfo2:As chances listadas abaixo representam a probabilidade de cada item em uma única rolagem. Se você desbloqueou 8 espaços na loja, as chances se aplicam 8 vezes, uma para cada espaço.
 shopRerollInfo3:As chances são arredondadas para três casas decimais
@@ -621,8 +620,47 @@ confirmGearPresetFreePurchase:Os dois primeiros conjuntos de equipamentos são g
 preset:Predefinição
 cantSellItemsFromPreset:Você não pode vender este item enquanto ele fizer parte de um preset.
 youCompletedThisCategory:Você completou totalmente esta categoria.
-hideObtainedEntries:Ocultar Entradas Completas
+hideObtainedEntries:Ocultar Entradas Concluídas
 hideCompletedAchievements:Ocultar conquistas concluídas
 editPresetIcon:Editar Ícones
 updatePreset:Atualizar Predefinição
 resetPreset:Redefinir Predefinição
+confirmResetPreset:Tem certeza de que deseja redefinir este predefinido?
+craftsman:Artesão
+fiend:Demônio
+glossaryTipAscended:Derrote chefes ascendidos para completar seu Bestiário!
+ashfall_hollows:Vagas de Cinza
+the_twisted_lands:As Terras Retorcidas
+elysium:Elysium
+wildwood_glade:Clareira da Floresta Selvagem
+ashfall_depths:Profundezas de Ashfall
+meteorite_crater:Cratera do Meteorito
+the_infernal_pits:Fossos Infernais
+throne_of_the_demon_lords:Trono dos Senhores Demônios
+cursed_mausoleum:Mausoléu Amaldiçoado
+dragons_nest:Ninho do Dragão
+ritual_altar:Altar Ritual
+valhalla:Valhalla
+cradle_of_myths:Berço dos Mitos
+olympus:Olimpo
+seat_of_elysium:Trono de Elysium
+darkbough_jungle:Selva dos Ramos Sombrios
+the_lightless_depths:Profundezas sem Luz
+the_fae_realm:Reino das Fadas
+haunting_grounds:Terras Assombradas
+type:Tipo
+yes:Sim
+no:Não
+remove:Remover
+easter-2025-badge:Insígnia Páscoa 2025
+easter-2025-badge_desc:Obtida durante o Evento de Páscoa 2025
+extensionUsedCreatorCode:Usou seu código de criador
+confirmResetOverwrite:Tem certeza de que deseja sobrescrever este preset?
+overwritePreset:Sobrescrever Predefinição
+conversionSuccess:Seus pontos de afiliado foram convertidos com sucesso em Arcanites!
+downForMaintenance:Embervale.TV está passando por manutenção para melhorar a estabilidade. Voltaremos em breve—obrigado pela sua paciência!
+loading:Carregando
+graphicsScale:Escala de Gráficos
+graphicsScaleTip:Ajusta a nitidez e o desempenho das animações.
+restartEmbervaleForUpdate:Você está usando uma versão desatualizada de Embervale. Por favor, recarregue seu navegador, reinicie o aplicativo ou atualize para a versão mais recente no Steam.
+rewards:Recompensas

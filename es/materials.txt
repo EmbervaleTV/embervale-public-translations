@@ -80,8 +80,6 @@ riverland_potato:Papa de Riverland
 sea_salt:Sal Marina
 silver_key:Llave de Plata
 silver_key_description:Usado para desbloquear algo...
-mysterious_potion:Poción Misteriosa
-mysterious_potion_description:Una poción de aspecto sospechoso... ¿debería beberla?
 rare_gem:Gema Rara
 rare_gem_description:Una gema extraña. Podría ser valiosa.
 stack_of_coins:Montón de Monedas
@@ -194,3 +192,10 @@ stranded_seafire-key_description:Nivel 40 - 60
 deepwater_passage-key_description:Nivel 50 - 70
 graveyard_of_the_nameless-key_description:Nivel 120 - 140
 duskwood-key_description:Nivel 110 - 130
+dragons_breath_mint:Menta de Aliento de Dragón
+giants_blood_essence:Esencia de Sangre de Gigante
+dragons_breath_mint_flavor:Se dice que esta hierba otorga al consumidor la habilidad de exhalar breves ráfagas de llamas.
+giants_blood_essence_flavor:Destilada de la sangre de un gigante, esta esencia imbuye fuerza y resistencia.
+milk:Leche
+wheat:Trigo
+wood:Madera

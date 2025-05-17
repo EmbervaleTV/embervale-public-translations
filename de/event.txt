@@ -1,0 +1,15 @@
+eventShop:Event-Shop
+eventName:Ostern 2025
+eventBundleName:Ostern 2025 Paket
+eventEndsIn:Event endet in
+alreadyOwnsSkin:Der Spieler besitzt diesen Skin bereits.
+eventShopClosesIn:Event-Shop schließt in
+eventUserWillReceive:{user} wird erhalten
+accountBundle:Account-Paket
+eventCollection:Alles aus der Osterkollektion 2025 für alle Charaktere und kommende Charaktere
+eventOutfit:Osteroutfit
+eventWeapon:Osterwaffe
+eventBackground:Osterhintergrund
+eventSkinBundleMsg:{character_name} hat dir das Oster 2025-Skin-Bundle geschenkt!
+eventSkinAccountBundleMsg:{character_name} hat dir das Oster 2025-Skin-Bundle für all deine Charaktere geschenkt!
+eventRaidRewardTxt:{character_name} erhielt: {reward} - Schaden: {dmg} ({perc}%) - Angriffe: {amount} ({chance}%)

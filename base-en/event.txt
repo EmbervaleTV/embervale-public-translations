@@ -1,0 +1,23 @@
+
+// THINGS TO REPLACE
+eventName:Easter 2025
+eventBundleName:Easter 2025 Bundle
+eventCollection:Everything from the Easter 2025 Collection for all characters and upcoming characters
+eventSkinAccountBundleMsg:{character_name} gifted you the Easter 2025 Skin Bundle for all your characters!
+eventSkinBundleMsg:{character_name} gifted you the Easter 2025 Skin Bundle!
+eventOutfit:Easter Outfit
+eventWeapon:Easter Weapon
+eventBackground:Easter Background
+
+//
+eventShop:Event Shop
+eventEndsIn:Event ends in
+alreadyOwnsSkin:The player already owns this skin.
+eventShopClosesIn:Event Shop Closes in
+eventUserWillReceive:{user} will receive
+accountBundle:Account Bundle
+
+
+
+// Chat Raid
+eventRaidRewardTxt:{character_name} received: {reward} - Damage: {dmg} ({perc}%) - Attacks: {amount} ({chance}%)

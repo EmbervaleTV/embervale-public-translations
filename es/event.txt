@@ -1,0 +1,15 @@
+eventShop:Tienda de Evento
+eventName:Pascua 2025
+eventBundleName:Paquete Pascua 2025
+eventEndsIn:El evento termina en
+alreadyOwnsSkin:El jugador ya posee esta apariencia.
+eventShopClosesIn:La Tienda de Evento cierra en
+eventUserWillReceive:{user} recibirá
+accountBundle:Paquete de Cuenta
+eventCollection:Todo de la Colección de Pascua 2025 para todos los personajes y los próximos personajes
+eventOutfit:Atuendo de Pascua
+eventWeapon:Arma de Pascua
+eventBackground:Fondo de Pascua
+eventSkinBundleMsg:¡{character_name} te regaló el Paquete de Skins de Pascua 2025!
+eventSkinAccountBundleMsg:¡{character_name} te regaló el Paquete de Skins de Pascua 2025 para todos tus personajes!
+eventRaidRewardTxt:{character_name} recibió: {reward} - Daño: {dmg} ({perc}%) - Ataques: {amount} ({chance}%)

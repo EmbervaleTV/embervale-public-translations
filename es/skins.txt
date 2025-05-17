@@ -45,26 +45,13 @@ skin_phantom:Fantasma
 skin_batwing:Ala de murciélago
 skin_vampire_hunter:Cazador de vampiros
 skin_profaned:Profanado
-alreadyOwnsSkin:El jugador ya posee este aspecto.
-eventShopClosesIn:Tienda del Evento cierra en
-eventEndsIn:El evento termina en
 skin_arctic_stalker:Cazador Ártico
 skin_elk_hide:Cuero de Alce
 skin_polar_bear:Oso Polar
 skin_festive_protector:Protector Festivo
 skin_christmas_spirit:Espíritu Navideño
-accountBundle:Paquete de Cuenta
-eventName:Navidad 2024
-eventBackground:Fondo de Navidad
-eventWeapon:Arma de Navidad
-eventUserWillReceive:{user} recibirá
-eventOutfit:Atuendo Navideño
-eventCollection:Todo de la Colección Navideña 2024 para todos los personajes y los personajes futuros
-eventSkinBundleMsg:¡{character_name} te ha regalado el Paquete de Skins de Navidad 2024!
-eventSkinAccountBundleMsg:¡{character_name} te ha regalado el Paquete de Skins de Navidad 2024 para todos tus personajes!
-eventRaidRewardTxt:{character_name} recibió: {reward} - Daño: {dmg} ({perc}%) - Ataques: {amount} ({chance}%)
-thorn_knight:Caballero Espina
-twilight_rogue:Pícaro del Crepúsculo
-tempest_ranger:Guardabosques de la Tempestad
-druid_mage:Mago Druida
-skytear_warrior:Guerrero Skytear
+skin_thorn_knight:Caballero Espina
+skin_twilight_rogue:Pícaro Crepúsculo
+skin_tempest_ranger:Guardabosques Tempestad
+skin_druid_mage:Mago Druida
+skin_skytear_warrior:Guerrero Desgarro del Cielo

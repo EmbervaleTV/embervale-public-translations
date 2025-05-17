@@ -258,7 +258,7 @@ demon_critter_squirrel:Esquilo Diabrete
 demon_imp:Diabinho
 bighorn:Grande Chifre
 darkness_gargoyle:Gárgula das Trevas
-devilimp:Devilimp
+devilimp:Diabrete
 dragon_wyrm:Dragão Wyrm
 blue_wyvern:Wyvern Azul
 brown_wyvern:Wyvern Marrom
@@ -511,3 +511,150 @@ angry_snowman:Boneco de Neve Zangado
 lich:Lich
 corrupted_rat:Rato Corrompido
 nailguns:Pistolas de Pregos
+angry_chicken:Galinha Furiosa
+earth_horse:Cavalo da Terra
+crystal_mimic:Mímico de Cristal
+crag_worm:Verme do Rochedo
+cavern_hydra:Hidra da Caverna
+crystalback:Dorso de Cristal
+burrower:Escavador
+embervale_raptor:Rapinante de Embervale
+deep_naga_warrior:Guerreiro Naga das Profundezas
+earth_dragon:Dragão da Terra
+the_deep_one:O Profundo
+cerberus_the_gate_guard:Cerberus, o Guarda do Portão
+demon_soldier:Soldado Demônio
+demon_crawler:Rastejador Demônio
+the_sacrificed:O Sacrificado
+infernal_harpy:Harpy Infernal
+hellhound:Cão Infernal
+the_tormented:O Atormentado
+brimstone_elemental:Elemental de Enxofre
+crystal_drake:Draco Cristalino
+crimson_lindwyrm:Lindwyrm Carmesim
+radiant_dragon:Dragão Radiante
+frost_hydra:Hidra de Gelo
+darkness_dragon:Dragão da Escuridão
+magma_dragon:Dragão de Magma
+dragon_mage:Mago Dragão
+dragon_paladin:Paladino Dragão
+granthar_the_warrior:Granthar, o Guerreiro
+the_golden_sovereign:O Soberano Dourado
+cultist_priestess:Sacerdotisa Cultista
+eldritch_portal:Portal Eldritch
+corrupted_boar:Javali Corrompido
+corrupted_serpent:Serpente Corrompida
+corrupted_knight:Cavaleiro Corrompido
+corrupted_dragon:Dragão Corrompido
+herald_of_corruption:Arauto da Corrupção
+nyarlathotep:Nyarlathotep
+azathoth:Azathoth
+cthulhu:Cthulhu
+skeleton_soldier:Esqueleto Soldado
+skeleton_samurai:Esqueleto Samurai
+frost_lich:Lich Gélido
+consumed_dragon:Dragão Consumido
+death_knight:Cavaleiro da Morte
+blazing_reaper:Céifero em Chamas
+the_dread_lord:O Senhor do Medo
+odin:Odin
+mummified_brute:Bruto Mumificado
+skeleton_bowmaster:Arqueiro Mestre Esqueleto
+the_profaned_one:O Profanado
+silver_roc:Roc Prateado
+alicorn:Alicórnio
+great_brown_roc:Grande Roc Marrom
+regal_griffon:Grifo Real
+shadow_griffon:Grifo Sombrio
+quetzalcoatl:Quetzalcoatl
+sky_dragon:Dragão Celeste
+kirin:Kirin
+bearer_of_rainbows:Portador de Arco-íris
+the_phoenix:A Fênix
+succubus_archer:Arqueira Súcubo
+hell_manticore:Manticora do Inferno
+dryad_defender:Defensor Dríade
+dryad_mage:Maga Dríade
+sylvan_bear:Urso Silvano
+sylvan_unicorn:Unicórnio Silvano
+queen_bee:Abelha Rainha
+mischevious_pixie:Pixie Maliciosa
+mythical_stag:Veado Mítico
+feral_satyr:Sátiro Feral
+fairy_queen_titania:Rainha Fada Titânia
+fairy_king_oberon:Rei Fada Oberon
+son_of_valhalla:Filho de Valhalla
+valhalla_berserker:Berserker de Valhalla
+hati_the_moon_devourer:Hati, o Devorador da Lua
+skoll_the_sun_chaser:Skoll, o Perseguidor do Sol
+valkyrie_rider:Cavaleiro Valkyrie
+fenris_wolf:Lobo Fenris
+loki:Loki
+thor:Thor
+jormungandr:Jormungandr
+hellhound_guard:Guarda Cão Infernal
+vakan_the_wretched:Vakan, o Miserável
+endrekan_warden_of_the_pits:Endrekan, Guardião dos Abismos
+grish_the_hungering:Grish, o Faminto
+xandor_the_schemer:Xandor, o Conspirador
+kefkor_the_tainted:Kefkor, o Corrompido
+temengoth_the_many_headed:Temengoth, o de Muitas Cabeças
+ankailin_the_tempter:Ankailin, o Tentador
+baphomet_lord_of_traitors:Baphomet, Senhor dos Traidores
+lucifer_the_fallen:Lucifer, o Caído
+giant_tiger:Tigre Gigante
+common_drake:Draco Comum
+boar_gorilla:Gorila Javali
+crocotiger:Crocotigre
+kappa:Kappa
+titanoboa:Titanoboa
+jungle_dryad:Dríade da Selva
+manticore:Manticora
+venomous_hydra:Hidra Venenosa
+phantasmagoria_the_mantis_priestess:Fantasmagoria, a Sacerdotisa Mantis
+invader_grunt:Invasor Soldado
+invader_stalker:Invasor Caçador
+invader_challenger:Invasor Desafiante
+invader_hunter:Invasor Caçador
+invader_raptor:invader_raptor
+invader_brawler:Invasor Lutador
+flying_chaos:Caos Alado
+mind_flayer:Devastador Mental
+invader_queen:Invasor Rainha
+infinity:Infinito
+the_first_minotaur:O Primeiro Minotauro
+the_cyclops:O Ciclope, Polifemo
+achilles:Aquiles
+heracles:Herácles
+odysseus:Odisseu
+apollo:Apollo
+ares:Ares
+hades:Hades
+poseidon:Poseidon
+zeus:Zeus
+water_elemental:Elemental da Água
+jellyfish_mermaid:Sereia Água-viva
+seahorse_king:Rei Cavalo-marinho
+ancient_coelacanth:Celacanto Ancião
+toxic_jellyfish:Água-viva Tóxica
+megalodile:Megalodilo
+deep_mermaid:Sereia Profunda
+angler_fish:Peixe-pescador
+nightmare_whale:Baleia Pesadelo
+leviathan:Leviatã
+spectral_apparition:Aparição Espectral
+fungus_golem:Golem de Fungo
+blood_golem:Golem de Sangue
+hunting_gargoyle:Gárgula de Caça
+watching_wall:Parede Vigilante
+undead_mage:Mago Morto-vivo
+jackalope:Jackalope
+shadow_witch:Bruxa das Sombras
+the_webspinner:O Tecelão
+heart_of_darkness:Coração das Trevas
+beetbunny:Coelho Beterraba
+radishrat:Rato Rabanete
+vampire_lord:Senhor Vampiro
+black_dragon:Dragão Negro
+the_kraken:O Kraken
+the_captain:O Capitão
