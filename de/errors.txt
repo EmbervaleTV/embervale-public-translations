@@ -6,7 +6,7 @@ tokenExpired:Das Twitch-Authentifizierungstoken ist abgelaufen. Bitte lade die W
 invalidToken:<h3>Authentifizierung fehlgeschlagen</h3> Bitte stelle sicher, dass deine Systemuhr synchronisiert ist! <br> Andernfalls wird die Authentifizierung scheitern!<br><br>Weitere Lösungen:<br>1) Aktualisiere die Seite<br>2) Deaktiviere Browser-Erweiterungen<br>3) Widerrufe und erteile der Erweiterung die Berechtigung erneut<br>4) Melde dich bei Twitch an und ab<br>5) Versuche es mit einem anderen Browser<br><br>Für weitere Hilfe, tritt unserem Discord bei: https://discord.gg/cT3ThCj
 errTwitchAccessNotGranted:Bitte gewähre Zugriff auf deine Twitch-ID, indem du unten rechts auf das kleine Mensch-Icon klickst!
 errNoInventoryItem:Inventar ist leer!
-errInventoryIsFull:Dein Inventar ist voll! Bitte verkaufe einige Gegenstände!
+errInventoryIsFull:Huch! Dein Inventar ist voll – schaffe zuerst etwas Platz!
 errMaterialInventoryIsFull:Dein Materialinventar ist voll! Du kannst etwas herstellen oder deine Materialien beim Händler im Laden ausgeben!
 errConsumableInventoryIsFull:Dein Verbrauchsgegenstand- Inventar ist voll!
 errNotEnoughArcanites:Du hast nicht genug Arcanite.

@@ -653,3 +653,10 @@ the_webspinner_bestiary:Summt eine fröhliche Melodie, während sie ihre hübsch
 heart_of_darkness_bestiary:Das lebende Herz dieser verfluchten Lande, dieser Wächtergeist wurde durch eine seltsame, sich ausbreitende Korruption verdreht und füllt sich mit Bosheit gegenüber allen, die im Sonnenlicht wandeln.
 vampire_lord_bestiary:Genießt lange Spaziergänge an mondbeschienenen Stränden, dramatische Monologe mit Schädeln und das Blutsaugen von unglücklichen Abenteurern.
 black_dragon_bestiary:Berüchtigt für ihre schlechte Laune und nahezu unzerstörbaren Schuppen, sollten diese Drachen von allen außer den mutigsten Abenteurern gemieden werden.
+demon_kitsune_bestiary:Dieser launische Fuchsgeist kann Wünsche erfüllen, gerät jedoch schnell in Wut.
+the_kraken_bestiary:Der Albtraum eines jeden Seefahrers, dieses aquatische Horrorgespenst hat tausend Schiffe versenkt.
+the_captain_bestiary:Obwohl dieser legendäre Kapitän ein striktes Regiment führt, könnte er dich für den richtigen Preis mitsegeln lassen.
+siren_bestiary:Hüte dich vor diesen schönen Fischvolk-Wesen. Ihr süßer Gesang ist nur ein Köder, um leckere Abenteurer nah genug heranzulocken, um sie zu fressen!
+sphinx_bestiary:Diese halb-löwenhaften Wächter sichern uralte Gräber und Ruinen und sind berüchtigt dafür, ein tödliches Rätselspiel zu fordern, um Zutritt zu ihren Verstecken zu gewähren.
+basilisk_bestiary:Dieses übel gelaunte Biest entsteht, wenn ein Huhn auf einem Schlangenei brütet. Sein Gift ist tödlich genug, um mit einem einzigen Fanghieb zu töten.
+cockatrice_bestiary:Dieses übel gelaunte Biest entsteht, wenn eine Schlange ein Hühnerei ausbrütet. Sein Blick kann den mächtigsten Helden in Stein verwandeln.

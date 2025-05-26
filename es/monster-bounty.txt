@@ -360,3 +360,4 @@ headless_horseman_bounty:Un jinete siniestro que deambula por la noche. Verlo se
 shadow_creature_bounty:Una criatura sombría de profundidades desconocidas.
 spiky_turtle_bounty:Un muro andante de púas—ten cuidado, pues incluso su caparazón es un arma.
 nailguns_bounty:Un mímico que finge ser Nailguns.
+demon_kitsune_bounty:Un astuto espíritu de zorro torcido por energía demoníaca. Engañoso, peligroso y nunca verdaderamente solo.

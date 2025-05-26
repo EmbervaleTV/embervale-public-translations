@@ -190,50 +190,50 @@ benefit_consumable_carry_limit:{value} erhöhtes Verbrauchsgegenstandslimit
 benefit_ingredient_carry_limit:{value} erhöhtes Zutatenlimit
 benefit_inventory_size:{value} größeres Inventar
 small_infernal_potion:Kleine Infernaltrank
-small_infernal_potion_craft_description:Erhöht infernalen Schaden und Widerstand um {amount_min1}% bis {amount_max1}%.
-small_infernal_potion_description:Erhöht infernalen Schaden und Widerstand um {amount_min1}% für {time}.
+small_infernal_potion_craft_description:Erhöht Infernal-Schaden und -Widerstand um {amount_min1}% bis {amount_max1}% und fügt 5% zu deinem Basis-Infernalwert hinzu.
+small_infernal_potion_description:Erhöht Infernal-Schaden und -Widerstand um {amount_min1}% für {time} und fügt 5% zu deinem Basis-Infernalwert hinzu.
 medium_infernal_potion:Mittlerer Infernaltrank
-medium_infernal_potion_craft_description:Erhöht infernalen Schaden und Widerstand um {amount_min1}% bis {amount_max1}%.
-medium_infernal_potion_description:Erhöht infernalen Schaden und Widerstand um {amount_min1}% für {time}.
+medium_infernal_potion_craft_description:Erhöht Infernal-Schaden und -Widerstand um {amount_min1}% bis {amount_max1}% und fügt 10% zu deinem Basis-Infernalwert hinzu.
+medium_infernal_potion_description:Erhöht Infernal-Schaden und -Widerstand um {amount_min1}% für {time} und fügt 10% zu deinem Basis-Infernalwert hinzu.
 large_infernal_potion:Großer Infernaltrank
-large_infernal_potion_craft_description:Erhöht infernalen Schaden und Widerstand erheblich um {amount_min1}% bis {amount_max1}%.
-large_infernal_potion_description:Erhöht infernalen Schaden und Widerstand erheblich um {amount_min1}% für {time}.
+large_infernal_potion_craft_description:Erheblich erhöht Infernal-Schaden und -Widerstand um {amount_min1}% bis {amount_max1}% und fügt 15% zu deinem Basis-Infernalwert hinzu.
+large_infernal_potion_description:Erheblich erhöht Infernal-Schaden und -Widerstand um {amount_min1}% für {time} und fügt 15% zu deinem Basis-Infernalwert hinzu.
 small_divine_potion:Kleiner Göttertrank
-small_divine_potion_craft_description:Erhöht göttlichen Schaden und Widerstand um {amount_min1}% bis {amount_max1}%.
-small_divine_potion_description:Erhöht göttlichen Schaden und Widerstand um {amount_min1}% für {time}.
+small_divine_potion_craft_description:Erhöht Divine-Schaden und -Widerstand um {amount_min1}% bis {amount_max1}% und fügt 5% zu deinem Basis-Divinewert hinzu.
+small_divine_potion_description:Erhöht Divine-Schaden und -Widerstand um {amount_min1}% für {time} und fügt 5% zu deinem Basis-Divinewert hinzu.
 medium_divine_potion:Mittlerer Göttertrank
-medium_divine_potion_craft_description:Erhöht göttlichen Schaden und Widerstand um {amount_min1}% bis {amount_max1}%.
-medium_divine_potion_description:Erhöht göttlichen Schaden und Widerstand um {amount_min1}% für {time}.
+medium_divine_potion_craft_description:Erhöht Divine-Schaden und -Widerstand um {amount_min1}% bis {amount_max1}% und fügt 10% zu deinem Basis-Divinewert hinzu.
+medium_divine_potion_description:Erhöht Divine-Schaden und -Widerstand um {amount_min1}% für {time} und fügt 10% zu deinem Basis-Divinewert hinzu.
 large_divine_potion:Großer Göttertrank
-large_divine_potion_craft_description:Erhöht göttlichen Schaden und Widerstand erheblich um {amount_min1}% bis {amount_max1}%.
-large_divine_potion_description:Erhöht göttlichen Schaden und Widerstand erheblich um {amount_min1}% für {time}.
+large_divine_potion_craft_description:Erheblich erhöht Divine-Schaden und -Widerstand um {amount_min1}% bis {amount_max1}% und fügt 15% zu deinem Basis-Divinewert hinzu.
+large_divine_potion_description:Erheblich erhöht Divine-Schaden und -Widerstand um {amount_min1}% für {time} und fügt 15% zu deinem Basis-Divinewert hinzu.
 small_necrotic_potion:Kleiner Nekrotrank
-small_necrotic_potion_craft_description:Erhöht nekrotischen Schaden und Widerstand um {amount_min1}% bis {amount_max1}%.
-small_necrotic_potion_description:Erhöht nekrotischen Schaden und Widerstand um {amount_min1}% für {time}.
+small_necrotic_potion_craft_description:Erhöht Necrotic-Schaden und -Widerstand um {amount_min1}% bis {amount_max1}% und fügt 5% zu deinem Basis-Necroticwert hinzu.
+small_necrotic_potion_description:Erhöht Necrotic-Schaden und -Widerstand um {amount_min1}% für {time} und fügt 5% zu deinem Basis-Necroticwert hinzu.
 medium_necrotic_potion:Mittlerer Nekrotischer Trank
-medium_necrotic_potion_craft_description:Erhöht nekrotischen Schaden und Widerstand um {amount_min1}% bis {amount_max1}%.
-medium_necrotic_potion_description:Erhöht nekrotischen Schaden und Widerstand um {amount_min1}% für {time}.
+medium_necrotic_potion_craft_description:Erhöht Necrotic-Schaden und -Widerstand um {amount_min1}% bis {amount_max1}% und fügt 10% zu deinem Basis-Necroticwert hinzu.
+medium_necrotic_potion_description:Erhöht Necrotic-Schaden und -Widerstand um {amount_min1}% für {time} und fügt 10% zu deinem Basis-Necroticwert hinzu.
 large_necrotic_potion:Großer Nekrotischer Trank
-large_necrotic_potion_craft_description:Erhöht nekrotischen Schaden und Widerstand stark um {amount_min1}% bis {amount_max1}%.
-large_necrotic_potion_description:Erhöht nekrotischen Schaden und Widerstand stark um {amount_min1}% für {time}.
+large_necrotic_potion_craft_description:Erheblich erhöht Necrotic-Schaden und -Widerstand um {amount_min1}% bis {amount_max1}% und fügt 15% zu deinem Basis-Necroticwert hinzu.
+large_necrotic_potion_description:Erheblich erhöht Necrotic-Schaden und -Widerstand um {amount_min1}% für {time} und fügt 15% zu deinem Basis-Necroticwert hinzu.
 small_frost_potion:Kleiner Frosttrank
-small_frost_potion_craft_description:Erhöht Frostschaden und Widerstand um {amount_min1}% bis {amount_max1}%.
-small_frost_potion_description:Erhöht Frostschaden und Widerstand um {amount_min1}% für {time}.
+small_frost_potion_craft_description:Erhöht Frost-Schaden und -Widerstand um {amount_min1}% bis {amount_max1}% und fügt 5% zu deinem Basis-Frostwert hinzu.
+small_frost_potion_description:Erhöht Frost-Schaden und -Widerstand um {amount_min1}% für {time} und fügt 5% zu deinem Basis-Frostwert hinzu.
 medium_frost_potion:Mittlerer Frosttrank
-medium_frost_potion_craft_description:Erhöht Frostschaden und Widerstand um {amount_min1}% bis {amount_max1}%.
-medium_frost_potion_description:Erhöht Frostschaden und Widerstand um {amount_min1}% für {time}.
+medium_frost_potion_craft_description:Erhöht Frostschaden und -resistenz um {amount_min1}% bis {amount_max1}% und fügt deinem Basis-Frostwert 10% hinzu.
+medium_frost_potion_description:Erhöht Frostschaden und -resistenz um {amount_min1}% für {time} und fügt deinem Basis-Frostwert 10% hinzu.
 large_frost_potion:Großer Frosttrank
-large_frost_potion_craft_description:Erhöht Frostschaden und Widerstand stark um {amount_min1}% bis {amount_max1}%.
-large_frost_potion_description:Erhöht Frostschaden und Widerstand stark um {amount_min1}% für {time}.
+large_frost_potion_craft_description:Erhöht Frostschaden und -resistenz stark um {amount_min1}% bis {amount_max1}% und fügt deinem Basis-Frostwert 15% hinzu.
+large_frost_potion_description:Erhöht Frostschaden und -resistenz stark um {amount_min1}% für {time} und fügt deinem Basis-Frostwert 15% hinzu.
 small_arcane_potion:Kleiner Arkantrank
-small_arcane_potion_craft_description:Erhöht arkane Schäden und Widerstand um {amount_min1}% bis {amount_max1}%.
-small_arcane_potion_description:Erhöht arkane Schäden und Widerstand um {amount_min1}% für {time}.
+small_arcane_potion_craft_description:Erhöht Arkanenschaden und -resistenz um {amount_min1}% bis {amount_max1}% und fügt deinem Basis-Arkanenwert 5% hinzu.
+small_arcane_potion_description:Erhöht Arkanenschaden und -resistenz um {amount_min1}% für {time} und fügt deinem Basis-Arkanenwert 5% hinzu.
 medium_arcane_potion:Mittlerer Arkantrank
-medium_arcane_potion_craft_description:Erhöht den arkanen Schaden und die Widerstandskraft um {amount_min1}% bis {amount_max1}%.
-medium_arcane_potion_description:Erhöht den arkanen Schaden und die Widerstandskraft um {amount_min1}% für {time}.
+medium_arcane_potion_craft_description:Erhöht Arkanenschaden und -resistenz um {amount_min1}% bis {amount_max1}% und fügt deinem Basis-Arkanenwert 10% hinzu.
+medium_arcane_potion_description:Erhöht Arkanenschaden und -resistenz um {amount_min1}% für {time} und fügt deinem Basis-Arkanenwert 10% hinzu.
 large_arcane_potion:Großer Arkantrank
-large_arcane_potion_craft_description:Erhöht den arkanen Schaden und die Widerstandskraft stark um {amount_min1}% bis {amount_max1}%.
-large_arcane_potion_description:Erhöht den arkanen Schaden und die Widerstandskraft stark um {amount_min1}% für {time}.
+large_arcane_potion_craft_description:Erhöht Arkanenschaden und -resistenz um {amount_min1}% bis {amount_max1}% und fügt deinem Basis-Arkanenwert 15% hinzu.
+large_arcane_potion_description:Erhöht Arkanenschaden und -resistenz um {amount_min1}% für {time} und fügt deinem Basis-Arkanenwert 15% hinzu.
 cooked_egg:Gekochtes Ei
 cooked_egg_craft_description:Stellt {amount_min1} bis {amount_max1} Ausdauer wieder her. Das Rezept verschwindet nach dem Oster-Event 2025.
 cooked_egg_description:Stellt {amount_min1} Ausdauer wieder her.
@@ -281,6 +281,11 @@ small_arcane_potion_recipe:Kleines Arkanes Trankrezept
 medium_arcane_potion_recipe:Mittleres Arkanes Trankrezept
 large_arcane_potion_recipe:Großes Arkanes Trankrezept
 spicy_pork_bowl:Würzige Schweineschale
-spicy_pork_bowl_craft_description:Füllt {amount_min1} bis {amount_max1} Ausdauer auf. Sein kräftiger Geschmack gewährt einen kurzen Geschwindigkeitsbonus.
-spicy_pork_bowl_description:Füllt {amount_min1} Ausdauer auf. Sein kräftiger Geschmack gewährt einen kurzen Geschwindigkeitsbonus.
+spicy_pork_bowl_craft_description:Füllt {amount_min1} bis {amount_max1} Ausdauer auf.
+spicy_pork_bowl_description:Füllt {amount_min1} Ausdauer auf.
 healthPotionOnlyInDungeonError:Du kannst Heiltränke nur verwenden, wenn du dich in einem Dungeon befindest.
+bulkChestOpening:Massenöffnung: {type} Kisten (Keine Animation)
+quickSellAllConfirm:Schnellverkauf aller obigen Gegenstände
+totalSellValue:Gesamtwert
+quickSell:Schnellverkauf
+mysterious_liquid_craft_description:Eine seltsame, trübe Flüssigkeit... wage ich es, sie zu trinken? (Erhöht oder verringert zufällig einen Wert um bis zu -1{amount_min1}% bis 1{amount_max1}% für 3 Stunden)

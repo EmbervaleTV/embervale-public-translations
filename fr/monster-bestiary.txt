@@ -653,3 +653,10 @@ the_webspinner_bestiary:Siffle une joyeuse mélodie alors qu'elle enveloppe ses 
 heart_of_darkness_bestiary:Le cœur vivant de ces terres hantées, cet esprit gardien a été tordu par une étrange corruption rampante et est devenu rempli de malice envers tous ceux qui marchent sous le soleil.
 vampire_lord_bestiary:Apprécie les longues promenades sur les plages éclairées par la lune, les monologues dramatiques aux crânes et sucer le sang des aventuriers imprudents.
 black_dragon_bestiary:Renommés pour leur mauvais caractère et leurs écailles presque indestructibles, ces dragons sont à éviter par tous sauf les aventuriers les plus courageux.
+demon_kitsune_bestiary:Cet esprit de renard capricieux peut exaucer des vœux, mais s'emporte facilement.
+the_kraken_bestiary:Le cauchemar de tout marin, cette horreur aquatique a coulé un millier de navires.
+the_captain_bestiary:Bien que ce capitaine légendaire tienne un navire strict, il pourrait vous laisser naviguer avec lui pour le bon prix.
+siren_bestiary:Méfiez-vous de ces beaux poissons-personnes. Leur douce chanson n'est qu'un leurre pour attirer les aventuriers savoureux assez près pour être dévorés !
+sphinx_bestiary:Ces sentinelles mi-lions gardent les tombes anciennes et les ruines, et sont célèbres pour exiger un jeu mortel de devinettes pour permettre le passage dans leurs repaires.
+basilisk_bestiary:Cette bête de mauvaise humeur résulte lorsqu'une poule couve un œuf de serpent. Son venin est assez mortel pour tuer d'un simple coup de croc.
+cockatrice_bestiary:Cette bête de mauvaise humeur naît lorsqu'un serpent fait éclore un œuf de poule. Son regard peut pétrifier en pierre le plus puissant héros.

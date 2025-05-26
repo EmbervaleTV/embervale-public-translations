@@ -16,7 +16,7 @@ invalidToken:<h3>Authentication failed</h3> Please ensure that your system clock
 
 errTwitchAccessNotGranted:Please grant access to your Twitch ID by clicking the little human icon on the bottom right!
 errNoInventoryItem:Inventory is empty!
-errInventoryIsFull:Your inventory is full! Please sell some items!
+errInventoryIsFull:Whoops! Your inventory’s full — clear some space first!
 errDungeonInventoryIsFull:You cannot carry additional items into this dungeon!
 errMaterialInventoryIsFull:Your material inventory is full! You can craft something or spend your materials at the Merchant in the shop!
 errConsumableInventoryIsFull:Your consumable inventory is full!

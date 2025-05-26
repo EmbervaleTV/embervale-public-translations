@@ -176,7 +176,7 @@ chooseYourClass:Choisis ta classe !
 pickYourRace:Choisis ta race !
 customizeYourHero:Personnalise ton héros !
 finalize:Finaliser
-purchaseAnotherCharacter:L'achat d'un autre emplacement de personnage te coûtera 500 Arcanites.
+purchaseAnotherCharacter:L'achat d'un autre emplacement de personnage vous coûtera 349 Arcanites.
 doYouWantToPurchase:Veux-tu acheter ?
 slot:Emplacement
 chooseGender:Choisis le genre
@@ -263,7 +263,7 @@ guildFee:Taxe en argent
 you_received:Vous avez reçu :
 youReceived:Vous avez reçu :
 congratulations:Bravo !
-claim:Réclamer
+claim:Collecter
 claim_reward:Réclamer la récompense
 reward:Récompense
 completed:Terminé
@@ -365,8 +365,8 @@ novice:Novice
 notification:Notification
 required:Requis
 found:Trouvé
-login:Connexion
-createAnotherCharacter:Créer un autre personnage
+login:Se Connecter
+createAnotherCharacter:Créer Nouveau Personnage
 consume:Consommer
 eatFoodHeadline:Consommer de la nourriture
 refreshArena:Rafraîchir
@@ -477,7 +477,7 @@ silver_mountains:Montagnes d'Argent
 crownlands:Crownlands
 boiling_lake:Lac Bouillonnant
 rare_badges:Badges Rares
-selectYourCharacter:Sélectionne ton personnage
+selectYourCharacter:Choisissez votre personnage
 select:Sélectionner
 loadingTip29:Augmenter le niveau de ton personnage te permettra de trouver plus de recettes.
 loadingTip30:Tu as du mal avec un certain type d'ennemi ? Découvre sa faiblesse élémentaire !
@@ -664,3 +664,28 @@ graphicsScale:Échelle des graphismes
 graphicsScaleTip:Ajuste la netteté et la performance des animations.
 restartEmbervaleForUpdate:Vous utilisez une version obsolète d'Embervale. Veuillez recharger votre navigateur, redémarrer l'application ou mettre à jour vers la dernière version sur Steam.
 rewards:Récompenses
+duelist_male:Dueliste
+duelist_female:Dueliste
+gladiator_male:Gladiateur
+gladiator_female:Gladiatrice
+arena_legend_male:Légende de l'Arène
+arena_legend_female:Légende de l'Arène
+champion_male:Champion
+champion_female:Champion
+realmExplanation:Les royaumes définissent qui vous voyez et contre qui vous concourez sur les classements. Vous pouvez toujours passer dans des royaumes plus anciens, mais jamais dans des royaumes plus récents que votre personnage.
+primeRealm:Prime
+steamRealm:Porte de Vapeur
+realm:Royaume
+realmAge:Âge : {du} mois
+realmOpening:Ouverture {creationDate}
+yourCharacterAwakening:L'éveil de {{ username }}
+realmGameReload:Changer de royaume rechargera le jeu.
+fight:Combattre
+windowModeSetting:Mode Fenêtre
+resolution:Résolution
+createYourCharacter:Créez un personnage
+purchaseYourCharacter:Obtenez un emplacement supplémentaire
+purchaseSlot:Emplacement d'achat
+loginInNewWindow:Se Connecter (Nouvelle Fenêtre)
+tooltipArenaBattles:Combats d'arène que tu peux combattre
+tooltipExpeditionStatus:Indique si tu as terminé une expédition

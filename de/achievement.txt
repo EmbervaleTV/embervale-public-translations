@@ -144,3 +144,4 @@ reset_skill_points:[Balancing-Update] Setze deine Fertigkeitenpunkte zurück.
 10_arcanite:10 Arcanite
 open_dragon_eggs:Zerschmettere {amount} Dracheneier.
 defeat_ascended_bosses:Besiege {amount} aufgestiegene Bosse
+consumable_bag_expansion:+5 Verbrauchsgegenstandstaschenplätze

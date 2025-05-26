@@ -653,3 +653,10 @@ the_webspinner_bestiary:Canta uma melodia alegre enquanto envolve suas pequenina
 heart_of_darkness_bestiary:O coração vivo dessas terras assombradas, este espírito guardião foi distorcido por uma estranha corrupção em expansão e cresceu cheio de malícia contra todos os que caminham à luz do sol.
 vampire_lord_bestiary:Gosta de longas caminhadas em praias iluminadas pela lua, monólogos dramáticos para crânios e sugar o sangue de aventureiros desprevenidos.
 black_dragon_bestiary:Notórios pelo mau humor e escamas quase indestrutíveis, esses dragões devem ser evitados por todos, exceto pelos aventureiros mais corajosos.
+demon_kitsune_bestiary:Este espírito raposa caprichoso pode conceder desejos, mas se irrita facilmente.
+the_kraken_bestiary:O pesadelo de todo marinheiro, esse horror aquático afundou mil navios.
+the_captain_bestiary:Embora esse capitão lendário conduza um navio com mão de ferro, ele pode deixar você navegar com ele pelo preço certo.
+siren_bestiary:Cuidado com essas belas criaturas aquáticas. Seu canto doce é apenas uma isca para atrair aventureiros saborosos perto o suficiente para serem devorados!
+sphinx_bestiary:Esses sentinelas meio-leão guardam tumbas e ruínas antigas, e são infames por exigir um jogo mortal de enigmas para permitir a passagem em seus domínios.
+basilisk_bestiary:Esta besta de temperamento raivoso resulta quando uma galinha choca um ovo de cobra. Seu veneno é perigoso o suficiente para matar com um único arranhão de presa.
+cockatrice_bestiary:Esta criatura temperamental nasce quando uma cobra choca um ovo de galinha. Seu olhar pode petrificar o herói mais poderoso em pedra.

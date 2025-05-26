@@ -62,6 +62,9 @@ graphicsScale:Graphics Scale
 graphicsScaleTip:Adjusts the sharpness and performance of animations.
 dangerZone:Danger Zone
 patreonThanks:The Project would never be possible without our Patreons. Much love to all of you ♥ And a special thanks to our:
+windowModeSetting:Window Mode
+resolution:Resolution
+
 
 newUpdate:A new update is available.
 restartEmbervaleForUpdate:You are using an outdated version of Embervale. Please reload your browser, restart the app, or update to the latest version on Steam.
@@ -263,7 +266,7 @@ chooseYourClass:Choose your Class!
 pickYourRace:Pick your Race!
 customizeYourHero:Customize your Hero!
 finalize:Finalize
-purchaseAnotherCharacter:Purchasing another character slot will cost you 500 Arcanites.
+purchaseAnotherCharacter:Purchasing another character slot will cost you 349 Arcanites.
 doYouWantToPurchase:Do you want to purchase?
 slot:Slot
 chooseGender:Choose Gender
@@ -272,6 +275,10 @@ decisionNotChangable:You can't change your decision afterward!
 male:Male
 female:Female
 selectYourCharacter:Select your character
+selectYourCharacter:Pick Your Character
+createYourCharacter:Make a Character
+purchaseYourCharacter:Get Extra Slot
+purchaseSlot:Purchase Slot
 
 // shop
 arcanite:Arcanite
@@ -580,15 +587,23 @@ virtuous:Virtuous
 advanced:Advanced
 intermediate:Intermediate
 novice:Novice
-notification:Notification
+
 required:Required
 found:Found
 select:Select
 enabled:Enabled
 
+
+notification:Notification
+fight:Fight
+claim:Collect
+
 // login
-login:Login
-createAnotherCharacter:Create another character
+login:Sign In
+loginInNewWindow:Sign In (New Window)
+createAnotherCharacter:Create New Character
+tooltipArenaBattles:Arena battles you can fight
+tooltipExpeditionStatus:Shows if you finished an expedition
 
 // arena
 consume:Consume
@@ -699,6 +714,15 @@ guardian_female:Guardian
 unequip_male:Unequip title
 unequip_female:Unequip title
 
+duelist_male:Duelist
+duelist_female:Duelist
+gladiator_male:Gladiator
+gladiator_female:Gladiator
+arena_legend_male:Arena Legend
+arena_legend_female:Arena Legend
+champion_male:Champion
+champion_female:Champion
+
 // expedition
 exitExpeditionConfirmationHeadline:Exit Expedition
 exitExpeditionConfirmationText:You will retain all items collected so far. Would you like to proceed?
@@ -714,6 +738,15 @@ cooking:Cooking
 class_slot:Class Slot
 gift:Gift
 
+// releams
+realm:Realm
+realmExplanation:Realms define who you see and compete against on leaderboards. You can always switch into older realms but never into realms newer than your character.
+realmGameReload:Switching realms will reload the game.
+primeRealm:Prime
+steamRealm:Steamgate
+realmAge:Age: {du} months
+realmOpening:Opening {creationDate}
+yourCharacterAwakening:{{ username }}'s awakening
 
 // gear preset
 clickOnPresetToChange:Click a gear preset to update its icon.

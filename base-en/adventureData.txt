@@ -132,18 +132,11 @@ destined_death:Destined Death
 effect_destined_death: A blade imbued with forbidden magic. // Death
 strong_armor:Strong Armor
 effect_strong_armor:This player's armor has proven to be extraordinarily sturdy.  // +25% armor
-transformed:Transformed
-effect_transformed:The player is transformed into a creature. // ???
-effect_shadow_remains:The player's form is now a shadow. // Takes double magic damage, 50% less physical damage.
-shadow_remains:Shadow Remains
-effect_petrified:The player is transformed into stone. // Unable to move or take actions
-petrified:Petrified
 effect_beginners_luck:The player just discovered Embervale and is surrounded by a lucky aura. // +2 to all rolls
 beginners_luck:Beginners Luck
-
 effect_champion_of_light:The player is renowned for purging the undead with divine fury. // 500% damage vs undead
 champion_of_light:Champion of Light
-effect_explosive:The player is unstable and will detonate upon being used in combat. // faints player and opponent
+effect_explosive:The player is unstable and will detonate upon being used in combat. // always goes first & faints player and opponent
 explosive:Explosive
 effect_incapacitated:No one knows where they went… or if they’ll return. // ???
 incapacitated:Incapacitated
@@ -152,9 +145,26 @@ profane_might:Profane Might
 one_eyed:One Eyed
 effect_one_eyed:The player has lost an eye, but strikes ruthless. // +100% damage -50% crit
 
+// Effects that mess with the character design
+transformed:Transformed
+effect_transformed:The player is transformed into a creature. // ???
+effect_shadow_remains:The player's form is now a shadow. // Takes double magic damage, 50% less physical damage.
+shadow_remains:Shadow Remains
+effect_petrified:The player is transformed into stone. // Unable to move or take actions
+petrified:Petrified
+
+swapped:[test] Swapped
+effect_swapped:[test] Swapped description
+power_of_humankind:[test] power_of_humankind
+effect_power_of_humankind:[test] power_of_humankind description
+power_of_elvenkind:[test] power_of_elvenkind
+effect_power_of_elvenkind:[test] power_of_elvenkind description
+power_of_demonkind:[test] power_of_demonkind
+effect_power_of_demonkind:[test] power_of_demonkind description
+
 effect_lycanthropic:This player carries a dangerous curse…// Upon falling in combat, they don’t lose a health state. Instead, the curse takes over, turning them into a werewolf.
 lycanthropic:Lycanthropic Curse
-effect_werewolf:This player has transformed into a werewolf! // Gains powerful stats (TBD), suffers -10 morale when used in combat. If they fall, they lose a health state as normal and revert to their cursed form.
+effect_werewolf:This player has transformed into a werewolf! Gains +100% to base stats, +50% defense and evasion. Loses 10 morale when used in combat. If defeated, they lose a health state as normal and revert to their cursed form.
 werewolf:Werewolf
 
 // Health
@@ -169,6 +179,9 @@ fainted:Fainted
 
 
 // Tools
+discarded:Discarded
+discarded_tool:Discarded Tool
+discarded_tool_description:The tool was discarded, as every voting player already had one.
 arcane_armor_enchantment:Arcane Armor
 arcane_armor_enchantment_description:Negates 50% of incoming Arcane damage during the next battle.
 arcane_hex:Arcane Hex
@@ -433,8 +446,8 @@ check_fame:The most experienced adventurers will know the solution.
 fame:Fame
 
 // Global Adventure Effects
-bright_hair:Everyone's hair is colored brightly.
-effect_bright_hair:Bright Hair
+bright_hair:Bright Hair
+effect_bright_hair:Everyone's hair is colored brightly.
 kingdom_in_peril:Kingdom In Peril
 effect_kingdom_in_peril:An undead menace has been unleashed upon the land.
 captains_commendation:Captain’s Commendation
@@ -478,3 +491,5 @@ diceRolled:Dice rolled
 succeeded:Succeeded
 failed:Failed
 toolsUsed:Tools Used
+room:Room
+highscore:Highscore

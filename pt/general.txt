@@ -176,7 +176,7 @@ chooseYourClass:Escolha a sua Classe!
 pickYourRace:Escolha a sua Raça!
 customizeYourHero:Customize o seu Herói!
 finalize:Finalizar
-purchaseAnotherCharacter:Comprar outro espaço de personagem custará 500 Arcanites.
+purchaseAnotherCharacter:Comprar outro espaço de personagem custará 349 Arcanites.
 doYouWantToPurchase:Você quer comprar?
 slot:Espaço
 chooseGender:Escolha o Gênero
@@ -263,7 +263,7 @@ guildFee:Taxa de Dinheiro
 you_received:Você recebeu:
 youReceived:Você recebeu:
 congratulations:Parabéns!
-claim:Reivindicar
+claim:Coletar
 claim_reward:Reivindicar Recompensa
 reward:Recompensa
 completed:Concluído
@@ -365,8 +365,8 @@ novice:Novato
 notification:Notificação
 required:Requirido
 found:Encontrado
-login:Login
-createAnotherCharacter:Criar outro personagem
+login:Entrar
+createAnotherCharacter:Criar Novo Personagem
 consume:Consumir
 eatFoodHeadline:Consumir comida
 refreshArena:Atualizar
@@ -477,7 +477,7 @@ silver_mountains:Montanhas de Prata
 crownlands:Crownlands
 boiling_lake:Lago Borbulhante
 rare_badges:Distintivos Raros
-selectYourCharacter:Selecione o seu personagem
+selectYourCharacter:Escolha Seu Personagem
 select:Selecionar
 loadingTip29:Aumentar o nível do seu personagem permitirá encontrar mais receitas.
 loadingTip30:Tendo dificuldades com um certo tipo de inimigo? Descubra sua fraqueza elemental!
@@ -664,3 +664,28 @@ graphicsScale:Escala de Gráficos
 graphicsScaleTip:Ajusta a nitidez e o desempenho das animações.
 restartEmbervaleForUpdate:Você está usando uma versão desatualizada de Embervale. Por favor, recarregue seu navegador, reinicie o aplicativo ou atualize para a versão mais recente no Steam.
 rewards:Recompensas
+duelist_male:Duelista
+duelist_female:Duelista
+gladiator_male:Gladiador
+gladiator_female:Gladiadora
+arena_legend_male:Lenda da Arena
+arena_legend_female:Lenda da Arena
+champion_male:Campeão
+champion_female:Campeã
+realmExplanation:Os reinos definem quem você vê e com quem compete nos placares. Você sempre pode mudar para reinos mais antigos, mas nunca para reinos mais novos que o seu personagem.
+primeRealm:Prime
+steamRealm:Steamgate
+realm:Reino
+realmAge:Idade: {du} meses
+realmOpening:Abertura {creationDate}
+yourCharacterAwakening:Despertar de {{ username }}
+realmGameReload:Mudar de reino recarregará o jogo.
+fight:Lutar
+windowModeSetting:Modo Janela
+resolution:Resolução
+createYourCharacter:Criar um Personagem
+purchaseYourCharacter:Obter Slot Extra
+purchaseSlot:Comprar Vaga
+loginInNewWindow:Entrar (Nova Janela)
+tooltipArenaBattles:Lutas na arena que você pode enfrentar
+tooltipExpeditionStatus:Mostra se você completou uma expedição

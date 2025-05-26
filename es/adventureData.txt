@@ -176,8 +176,8 @@ dexterity:Destreza
 check_morale:¿Es la moral del grupo lo suficientemente alta para superar este obstáculo?
 check_fame:Los aventureros más experimentados sabrán la solución.
 fame:Fama
-bright_hair:El cabello de todos está teñido de colores brillantes.
-effect_bright_hair:Pelo Brillante
+bright_hair:Cabello Brillante
+effect_bright_hair:El cabello de todos está teñido de colores brillantes.
 check_coin_stack:Esta opción requiere una pila de monedas.
 adventurePlayerCheck:Chequeo
 errNotEnoughVotings:¡No puedes continuar sin votar por algo!
@@ -408,7 +408,7 @@ succeeded:Exitoso
 toolsUsed:Herramientas Usadas
 effect_champion_of_light:El jugador es célebre por purgar a los no muertos con furia divina. // 500% de daño contra no muertos
 champion_of_light:Campeón de la Luz
-effect_explosive:El jugador es inestable y detonará al ser usado en combate. // desmaya al jugador y al oponente
+effect_explosive:El jugador es inestable y detonará al ser usado en combate. // siempre va primero & desmaya al jugador y al oponente
 explosive:Explosivo
 effect_incapacitated:Nadie sabe a dónde fueron... o si regresarán. // ???
 incapacitated:Incapacitado
@@ -422,5 +422,17 @@ captains_commendation:Felicitación del Capitán
 effect_captains_commendation:El grupo lucha con confianza renovada. Todos ganan +5 en todas las tiradas.
 effect_lycanthropic:Este jugador lleva una maldición peligrosa...// Al caer en combate, no pierden un estado de salud. En su lugar, la maldición toma el control, transformándolos en un hombre lobo.
 lycanthropic:Maldición Licántropa
-effect_werewolf:¡Este jugador se ha transformado en un hombre lobo! // Gana poderosas estadísticas (TBD), sufre -10 de moral al usarse en combate. Si caen, pierden un estado de salud como de costumbre y regresan a su forma maldita.
+effect_werewolf:¡Este jugador se ha transformado en un hombre lobo! Obtiene +100% a las estadísticas base, +50% en defensa y evasión. Pierde 10 de moral cuando se usa en combate. Si es derrotado, pierde un estado de salud como de costumbre y vuelve a su forma maldita.
 werewolf:Hombre Lobo
+highscore:Máxima Puntuación
+discarded:Descartado
+discarded_tool:Herramienta Descartada
+discarded_tool_description:La herramienta fue descartada, ya que todos los jugadores con derecho a voto ya tenían una.
+swapped:[test] Intercambiado
+effect_swapped:[test] Descripción de intercambiado
+power_of_humankind:[test] poder_de_la_humanidad
+effect_power_of_humankind:[test] Descripción del poder_de_la_humanidad
+power_of_elvenkind:[test] poder_de_los_élficos
+effect_power_of_elvenkind:[test] Descripción del poder_de_los_élficos
+power_of_demonkind:[test] poder_de_los_demonios
+effect_power_of_demonkind:[test] Descripción del poder_de_los_demonios

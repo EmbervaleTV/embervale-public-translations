@@ -25,5 +25,7 @@ recommendedLevel:Recommended Level
 
 
 // ascended bosses
-ascendedBossHpBarTooltip:Each defeat reduces your health by 25% for the next fight. You can use health potions to recover.
-ascendedBossCantJoinHp:You must have at least 25% of your health to face an Ascended Boss.
+ascendedBossHpBarTooltip:You can drink two health potion per hour to recover health.
+ascendedBossHpBarTooltipPotions:Potions consumed
+ascendedBossHpBarFullheal:Full heal in
+ascendedBossCantJoinHp:You're too wounded from previous battles. You need at least 25% HP to face an Ascended Boss! Restore your health with potions or wait for the daily reset. Hover over your health bar for more details.

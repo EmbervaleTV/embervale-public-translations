@@ -616,7 +616,7 @@ invader_grunt:Захватчик-Новобранец
 invader_stalker:Захватчик-Преследователь
 invader_challenger:Захватчик-Испытатель
 invader_hunter:Захватчик-Охотник
-invader_raptor:Захватчик-Хищник
+invader_raptor:Инвадер Раптор
 invader_brawler:Захватчик-Борец
 flying_chaos:Летающий Хаос
 mind_flayer:Пожиратель Разума
@@ -658,3 +658,8 @@ vampire_lord:Владыка вампиров
 black_dragon:Черный дракон
 the_kraken:Кракен
 the_captain:Капитан
+demon_kitsune:Демон Кицунэ
+siren:Сирена
+sphinx:Сфинкс
+basilisk:Базилиск
+cockatrice:Кокатрис

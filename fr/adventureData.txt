@@ -176,8 +176,8 @@ dexterity:Dextérité
 check_morale:Le moral dans le groupe est-il assez élevé pour surmonter cet obstacle?
 check_fame:Les aventuriers les plus expérimentés connaîtront la solution.
 fame:Célébrité
-bright_hair:Les cheveux de tout le monde sont brillamment colorés.
-effect_bright_hair:Cheveux lumineux
+bright_hair:Cheveux Éclatants
+effect_bright_hair:Les cheveux de tout le monde sont colorés de façon éclatante.
 check_coin_stack:Cette option nécessite une pile de pièces.
 adventurePlayerCheck:Vérifier
 errNotEnoughVotings:Vous ne pouvez pas continuer sans voter pour quelque chose !
@@ -408,7 +408,7 @@ succeeded:Réussi
 toolsUsed:Outils Utilisés
 effect_champion_of_light:Le joueur est renommé pour purifier les morts-vivants avec une fureur divine. // 500% de dégâts contre les morts-vivants
 champion_of_light:Champion de la Lumière
-effect_explosive:Le joueur est instable et explosera lorsqu'il sera utilisé en combat. // met K.O. le joueur et l'adversaire
+effect_explosive:Le joueur est instable et explosera lorsqu'il sera utilisé en combat. // agit toujours en premier et met K.O. le joueur et l'adversaire
 explosive:Explosif
 effect_incapacitated:Personne ne sait où ils sont allés... ni s'ils reviendront. // ???
 incapacitated:Incapacité
@@ -422,5 +422,17 @@ captains_commendation:Recommandation du capitaine
 effect_captains_commendation:Le groupe combat avec une confiance renouvelée. Tout le monde gagne +5 à tous les jets.
 effect_lycanthropic:Ce joueur porte une malédiction dangereuse…// En tombant au combat, il ne perd pas un état de santé. À la place, la malédiction prend le dessus, le transformant en loup-garou.
 lycanthropic:Malédiction Lycanthropique
-effect_werewolf:Ce joueur s'est transformé en loup-garou ! // Gagne des stats puissantes (à déterminer), subit -10 de moral lorsqu'il est utilisé au combat. S'ils tombent, ils perdent un état de santé comme d'habitude et reviennent à leur forme maudite.
+effect_werewolf:Ce joueur s'est transformé en loup-garou ! Gagne +100% aux stats de base, +50% en défense et en évasion. Perd 10 de moral lorsqu'il est utilisé en combat. S'il est vaincu, il perd un état de santé comme d'habitude et redevient sa forme maudite.
 werewolf:Loup-garou
+highscore:Meilleur score
+discarded:Jeté
+discarded_tool:Outil Jeté
+discarded_tool_description:L'outil a été rejeté, car chaque joueur votant en avait déjà un.
+swapped:Échangé
+effect_swapped:Description échangé
+power_of_humankind:Puissance des humains
+effect_power_of_humankind:Description de puissance des humains
+power_of_elvenkind:Puissance des elfes
+effect_power_of_elvenkind:Description de puissance des elfes
+power_of_demonkind:Puissance des démons
+effect_power_of_demonkind:Description de puissance des démons

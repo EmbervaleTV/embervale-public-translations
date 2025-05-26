@@ -144,3 +144,4 @@ reset_skill_points:[Atualização de Balanceamento] Redefina seus pontos de habi
 10_arcanite:10 Arcanite
 open_dragon_eggs:Quebre {amount} ovos de dragão.
 defeat_ascended_bosses:Derrote {amount} chefes ascendidos
+consumable_bag_expansion:+5 Espaços na Bolsa de Consumíveis

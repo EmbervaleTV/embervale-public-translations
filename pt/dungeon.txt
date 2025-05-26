@@ -19,5 +19,7 @@ selectConsumablesForDungeon:Selecione as poções que deseja levar para a masmor
 youDontHaveHealPotions:Você não tem nenhuma poção de saúde disponível para adicionar à sua bolsa de masmorra.
 recommendedLevel:Nível Recomendado
 enterDungeon:Entrar na Masmorra
-ascendedBossHpBarTooltip:Cada derrota reduz sua saúde em 25% para o próximo combate. Você pode usar poções de saúde para se recuperar.
-ascendedBossCantJoinHp:Você deve ter pelo menos 25% da sua saúde para enfrentar um Ascended Boss.
+ascendedBossHpBarTooltip:Você pode beber duas poções de vida por hora para recuperar saúde.
+ascendedBossCantJoinHp:Você está muito ferido por batalhas anteriores. Você precisa de pelo menos 25% de HP para enfrentar um Ascended Boss! Restaure sua saúde com poções ou aguarde o reset diário. Passe o mouse sobre sua barra de saúde para mais detalhes.
+ascendedBossHpBarTooltipPotions:Poções consumidas
+ascendedBossHpBarFullheal:Cura completa em

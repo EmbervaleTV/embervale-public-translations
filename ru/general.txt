@@ -176,7 +176,7 @@ chooseYourClass:Выберите ваш класс!
 pickYourRace:Выберите вашу расу!
 customizeYourHero:Настройте вашего героя!
 finalize:Завершить
-purchaseAnotherCharacter:Покупка дополнительного слота персонажа будет стоить вам 500 Arcanites.
+purchaseAnotherCharacter:Покупка дополнительного слота для персонажа обойдется вам в 349 Arcanite.
 doYouWantToPurchase:Вы хотите купить?
 slot:Слот
 chooseGender:Выберите пол
@@ -263,7 +263,7 @@ guildFee:Плата за гильдию
 you_received:Вы получили:
 youReceived:Вы получили:
 congratulations:Поздравляем!
-claim:Забрать
+claim:Собрать
 claim_reward:Забрать награду
 reward:Награда
 completed:Выполнено
@@ -366,7 +366,7 @@ notification:Уведомление
 required:Требуется
 found:Найдено
 login:Войти
-createAnotherCharacter:Создать другого персонажа
+createAnotherCharacter:Создать нового персонажа
 consume:Потреблять
 eatFoodHeadline:Потребить пищу
 refreshArena:Обновить
@@ -664,3 +664,28 @@ graphicsScale:Масштаб графики
 graphicsScaleTip:Настраивает резкость и производительность анимаций.
 restartEmbervaleForUpdate:Вы используете устаревшую версию Embervale. Пожалуйста, перезагрузите браузер, перезапустите приложение или обновите до последней версии в Steam.
 rewards:Награды
+duelist_male:Дуэлянт
+duelist_female:Дуэлянт
+gladiator_male:Гладиатор
+gladiator_female:Гладиатор
+arena_legend_male:Легенда Арены
+arena_legend_female:Легенда Арены
+champion_male:Чемпион
+champion_female:Чемпионка
+realmExplanation:Области определяют, кого вы видите и с кем соревнуетесь в списках лидеров. Вы всегда можете перейти в более старые области, но никогда в области, которые новее вашего персонажа.
+primeRealm:Прайм
+steamRealm:Врата Пара
+realm:Королевство
+realmAge:Возраст: {du} месяцев
+realmOpening:Открытие {creationDate}
+yourCharacterAwakening:пробуждение {{ username }}
+realmGameReload:Переход в другую область перезагрузит игру.
+fight:Сражаться
+windowModeSetting:Режим окна
+resolution:Разрешение
+createYourCharacter:Создайте персонажа
+purchaseYourCharacter:Купите дополнительный слот
+purchaseSlot:Купить ячейку
+loginInNewWindow:Войти (новое окно)
+tooltipArenaBattles:Бои на арене, в которых вы можете участвовать
+tooltipExpeditionStatus:Показывает, завершена ли экспедиция

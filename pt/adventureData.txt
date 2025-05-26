@@ -176,8 +176,8 @@ dexterity:Destreza
 check_morale:A moral no grupo está alta o suficiente para superar este obstáculo?
 check_fame:Os aventureiros mais experientes saberão a solução.
 fame:Fama
-bright_hair:Todos têm o cabelo colorido brilhantemente.
-effect_bright_hair:Cabelo Brilhante
+bright_hair:Cabelo Brilhante
+effect_bright_hair:O cabelo de todos está colorido de forma brilhante.
 check_coin_stack:Esta opção requer uma pilha de moedas.
 adventurePlayerCheck:Checar
 errNotEnoughVotings:Você não pode continuar sem votar em algo!
@@ -408,7 +408,7 @@ succeeded:Bem-sucedido
 toolsUsed:Ferramentas Usadas
 effect_champion_of_light:O jogador é renomado por purgar os mortos-vivos com fúria divina. // 500% de dano vs mortos-vivos
 champion_of_light:Campeão da Luz
-effect_explosive:O jogador está instável e detonará ao ser usado em combate. // desmaia jogador e oponente
+effect_explosive:O jogador está instável e detona ao ser usado em combate. // sempre ataca primeiro e faz o jogador e o oponente desmaiarem
 explosive:Explosivo
 effect_incapacitated:Ninguém sabe para onde foram... ou se voltarão. // ???
 incapacitated:Incapacitado
@@ -422,5 +422,17 @@ captains_commendation:Comenda do Capitão
 effect_captains_commendation:O grupo luta com confiança renovada. Todos ganham +5 em todas as jogadas.
 effect_lycanthropic:Este jogador carrega uma maldição perigosa…// Ao cair em combate, não perde um estado de saúde. Em vez disso, a maldição assume o controle, transformando-o em um lobisomem.
 lycanthropic:Maldição Licantropa
-effect_werewolf:Este jogador se transformou em um lobisomem! // Ganha estatísticas poderosas (TBD), sofre -10 em moral quando usado em combate. Se cair, perde um estado de saúde como de costume e retorna à sua forma amaldiçoada.
+effect_werewolf:Este jogador se transformou em um lobisomem! Ganha +100% nas estatísticas base, +50% de defesa e evasão. Perde 10 de moral quando usado em combate. Se forem derrotados, perdem um estado de saúde como de costume e retornam à sua forma amaldiçoada.
 werewolf:Licantropo
+highscore:Pontuação Alta
+discarded:Descartado
+discarded_tool:Ferramenta Descartada
+discarded_tool_description:A ferramenta foi descartada, já que todos os jogadores votantes já tinham uma.
+swapped:[test] Trocado
+effect_swapped:[test] Descrição de Trocado
+power_of_humankind:[test] poder_da_humanidade
+effect_power_of_humankind:[test] Descrição de poder_da_humanidade
+power_of_elvenkind:[test] poder_dos_elfos
+effect_power_of_elvenkind:[test] Descrição de poder_dos_elfos
+power_of_demonkind:[test] poder_dos_demônios
+effect_power_of_demonkind:[test] Descrição de poder_dos_demônios

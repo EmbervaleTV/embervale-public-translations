@@ -165,8 +165,8 @@ dexterity:Geschicklichkeit
 check_morale:Ist die Moral in der Gruppe hoch genug, um dieses Hindernis zu überwinden?
 check_fame:Die erfahrensten Abenteurer werden die Lösung kennen.
 fame:Ruhm
-bright_hair:Jedes Haar ist leuchtend gefärbt.
-effect_bright_hair:Helle Haare
+bright_hair:Helles Haar
+effect_bright_hair:Jedermanns Haar ist leuchtend gefärbt.
 check_coin_stack:Diese Option erfordert einen Münzstapel.
 adventurePlayerCheck:Prüfen
 errNotEnoughVotings:Du kannst nicht fortfahren, ohne für etwas zu stimmen!
@@ -408,7 +408,7 @@ succeeded:Erfolgreich
 toolsUsed:Werkzeuge benutzt
 effect_champion_of_light:Der Spieler ist berühmt dafür, die Untoten mit göttlicher Wut zu säubern. // 500% Schaden gegen Untote
 champion_of_light:Champion des Lichts
-effect_explosive:Der Spieler ist instabil und wird explodieren, wenn er im Kampf eingesetzt wird. // betäubt Spieler und Gegner
+effect_explosive:Der Spieler ist instabil und wird beim Einsatz im Kampf explodieren. // geht immer zuerst & besiegt sowohl Spieler als auch Gegner
 explosive:Explosiv
 effect_incapacitated:Niemand weiß, wohin sie gegangen sind... oder ob sie zurückkehren werden. // ???
 incapacitated:Außer Gefecht
@@ -422,5 +422,17 @@ captains_commendation:Captain's Lob
 effect_captains_commendation:Die Gruppe kämpft mit neuem Selbstvertrauen. Jeder erhält +5 auf alle Würfe.
 effect_lycanthropic:Dieser Spieler trägt einen gefährlichen Fluch...// Beim Fallen im Kampf verlieren sie keinen Gesundheitszustand. Stattdessen übernimmt der Fluch und verwandelt sie in einen Werwolf.
 lycanthropic:Lykanthropischer Fluch
-effect_werewolf:Dieser Spieler hat sich in einen Werwolf verwandelt! // Erhält mächtige Werte (TBD), erleidet jedoch -10 Moral, wenn im Kampf eingesetzt. Wenn sie fallen, verlieren sie wie gewohnt einen Gesundheitszustand und kehren in ihre verfluchte Form zurück.
+effect_werewolf:Dieser Spieler hat sich in einen Werwolf verwandelt! Erhält +100% zu den Basiswerten, +50% Verteidigung und Ausweichen. Verliert 10 Moral, wenn im Kampf eingesetzt. Wenn besiegt, verliert er wie gewöhnlich einen Gesundheitszustand und kehrt in seine verfluchte Form zurück.
 werewolf:Werwolf
+highscore:Highscore
+discarded:Verworfen
+discarded_tool:Verworfenes Werkzeug
+discarded_tool_description:Das Werkzeug wurde weggeworfen, da jeder stimmberechtigte Spieler bereits eines hatte.
+swapped:Vertauscht
+effect_swapped:Vertauschte Beschreibung
+power_of_humankind:Macht der Menschheit
+effect_power_of_humankind:Beschreibung der Macht der Menschheit
+power_of_elvenkind:Macht der Elfen
+effect_power_of_elvenkind:Beschreibung der Macht der Elfen
+power_of_demonkind:Macht der Dämonen
+effect_power_of_demonkind:Beschreibung der Macht der Dämonen

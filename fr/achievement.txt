@@ -144,3 +144,4 @@ reset_skill_points:[Mise à jour de l'équilibre] Réinitialisez vos points de c
 10_arcanite:10 Arcanite
 open_dragon_eggs:Casser {amount} œufs de dragon.
 defeat_ascended_bosses:Vaincre {amount} boss ascendant
+consumable_bag_expansion:+5 emplacements de sac à consommables

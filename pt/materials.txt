@@ -46,12 +46,10 @@ water:Água
 brain_stool:Fungo Cerebral
 choncap:Choncap
 deeproot_truffle:Trufa de Raiz Profunda
-dragon's_breath_mint:Hortelã Sopro de Dragão
 duskgloom_morels:Morchelas do Crepúsculo
 duskwight_berries:Bagas do Crepúsculo
 echostem_reeds:Caniços de Eco
 emberstalk_toadstool:Cogumelo Emberstalk
-giant's_blood_essence:Essência de Sangue de Gigante
 glacierthorn_flower:Flor Espinho de Gelo
 maple_leaves:Folhas de Bordo
 skytear_crystals:Cristais Lágrima do Céu
@@ -93,91 +91,6 @@ eerie_ore:Minério Assustador
 necrotic_vein:Veia Necrótica
 divinite:Divinite
 ember_heart:Coração de Ember
-silver_bar_flavor:Forjada no coração de forjas antigas, esta barra de prata possui um brilho místico e tênue, que se diz repelir espíritos malignos.
-gold_bar_flavor:Reluzindo com um brilho real, esta barra de ouro é um símbolo de riqueza, frequentemente usada na criação de artefatos reais e relíquias encantadas.
-iron_bar_flavor:Forte e confiável, esta barra de ferro é a espinha dorsal de qualquer forja de ferreiro, essencial para a criação de armas e armaduras.
-copper_bar_flavor:Esta barra de cobre emite uma leve energia natural, frequentemente usada por alquimistas para canalizar as forças da natureza.
-brass_bar_flavor:Barras de latão são conhecidas por seu tom dourado único, muitas vezes utilizadas em designs ornamentados para instrumentos de poder.
-seastone_crystal_flavor:Esses cristais são infundidos com a essência dos mares profundos, brilhando suavemente com a luz da antiga magia marinha.
-dwarven_silver_flavor:Prata anã é reverenciada por sua pureza e força, frequentemente usada em artes rúnicas e heranças anãs.
-dusk_gemstones_flavor:Dizem que capturam os raios finais do crepúsculo, pedras preciosas do anoitecer são frequentemente procuradas por magos por suas propriedades de ampliação de feitiços.
-abyssalite_flavor:Extraído das profundezas da terra, este mineral escuro pulsa com uma energia sinistra, perfeito para armamentos amaldiçoados.
-eerie_ore_flavor:Este minério emite um brilho inquietante, acreditado estar contaminado pela presença de espíritos inquietos.
-necrotic_vein_flavor:Veios deste minério pulsam com energia negra, frequentemente usados por necromantes em rituais de magia proibida.
-divinite_flavor:Um minério radiante acreditado ser tocado pelos próprios deuses, usado na criação de artefatos sagrados.
-ember_heart_flavor:Um raro núcleo flamejante encontrado nas profundezas dos vulcões, este coração queima com uma chama eterna.
-embervale-key_flavor:Uma chave finamente trabalhada, brilhando com a essência do próprio Embervale, desbloqueando segredos há muito esquecidos.
-bastion_of_light-key_flavor:Esta chave brilha intensamente, dita abrir os portões para um lugar onde a escuridão não pode pisar.
-infested_gardens-key_flavor:Retorcida e nodosa, esta chave parece viva com a corrupção dos jardins que destranca.
-abandonded_wastelands-key_flavor:Fria ao toque, esta chave é rumorejada levar às terras desoladas onde a esperança há muito murchou.
-dried_out_riverlands-key_flavor:O pó adere a esta chave, um relicário de uma terra outrora próspera, agora ressequida e abandonada.
-occupied_river_crossing-key_flavor:Uma chave pesada e desgastada, frequentemente trocada nas sombras, concedendo passagem por território perigoso.
-island_of_beasts-key_flavor:Marcada com estranhas marcas de garras, esta chave concede acesso a um reino onde as mais selvagens criaturas reinam supremas.
-hidden_kingdom-key_flavor:Intrincadamente esculpida, esta chave possui o poder de revelar um reino perdido no tempo.
-eternal_ice-key_flavor:Fria como o coração do inverno, esta chave guarda os segredos do norte congelado, onde nada descongela.
-silver_mountains-key_flavor:Esta chave é gravada com runas antigas, concedendo entrada aos picos majestosos das Montanhas Prateadas.
-stranded_seafire-key_flavor:Envolta em uma aura estranha, diz-se que esta chave desbloqueia os mistérios do Seafire, um navio pirata há muito esquecido.
-deepwater_passage-key_flavor:Pesada e desgastada pela água, esta chave pertenceu àqueles que atravessavam as profundezas mais escuras dos mares.
-graveyard_of_the_nameless-key_flavor:Assombrada e sombria, esta chave é a única maneira de entrar nos terrenos amaldiçoados onde os nomes são esquecidos.
-duskwood-key_flavor:Feita de madeira enegrecida, esta chave concede entrada na floresta sombria onde o sol nunca se põe.
-distillate_flavor:Um líquido potente extraído de ervas raras, usado por alquimistas para preparar elixires poderosos.
-pumpkin_soup_flavor:Uma sopa substanciosa que aquece a alma, preferida pelos viajantes preparando-se para uma longa jornada.
-fruit_basket_flavor:Uma vibrante seleção de frutas, repleta de energia e sabor naturais, perfeita para uma recuperação rápida.
-salad_flavor:Fresca e revigorante, esta salada é a refeição preferida para aqueles que buscam um aumento saudável de resistência.
-stone_flavor:Simples, mas duradoura, a pedra é a base de todas as grandes construções, tanto mundanas quanto mágicas.
-flint_flavor:Este pedaço afiado de sílex produz faíscas facilmente, essencial para acender fogueiras na natureza.
-iron_ore_flavor:Bruto e não refinado, este minério é a força vital dos ferreiros, prestes a ser transformado em ferramentas de guerra.
-copper_ore_flavor:Quente ao toque, o minério de cobre é frequentemente usado na confecção de itens condutores e conduítes mágicos.
-silver_ore_flavor:Reluzindo com uma luz tênue, este minério é valorizado por sua pureza e sua capacidade de afastar magia negra.
-gold_ore_flavor:Um pedaço brilhante de minério de ouro, tão valioso em moeda quanto na confecção de tesouros encantados.
-pewter_flavor:Macio, mas durável, o estanho é frequentemente usado para gravar runas e talismãs.
-sapphire_flavor:Estas gemas azul profundo são frequentemente procuradas por encantadores devido à sua capacidade de focar energias mágicas.
-ruby_flavor:Brilhantes e ardentes, os rubis são cobiçados pelo seu poder de aprimorar encantamentos e feitiços baseados em fogo.
-eternal_ice_flavor:Frio ao toque, o gelo eterno nunca derrete, tornando-o um componente precioso na poderosa magia de gelo.
-clover_flavor:Uma erva comum mas potente, o trevo é frequentemente usado em pomadas curativas e poções simples.
-midnight_rose_flavor:Esta rara flor escura diz-se que só abre sob a luz da lua cheia, sendo usada em poderosas poções do amor.
-rose_flavor:Um símbolo de beleza e paixão, a rosa é frequentemente usada em perfumes encantadores e feitiços de charme sutis.
-maggot_flavor:Agitados e desagradáveis, os vermes são um ingrediente-chave em algumas das mais repulsivas misturas alquímicas.
-caterpillar_flavor:Esta humilde criatura contém o potencial para a transformação, sendo frequentemente usada em feitiços de mudança e crescimento.
-toadstool_flavor:Venenosos para os não treinados, os cogumelos venenosos são valorizados pelos alquimistas por sua capacidade de criar toxinas mortais.
-frog_flavor:Este pequeno anfíbio é frequentemente colhido por sua pele, que possui propriedades únicas para a criação de poções.
-mandrake_flavor:Com raízes que se assemelham a uma forma humana, a mandrágora é um componente poderoso em feitiços de proteção e cura.
-water_flavor:Pura e clara, a água é a base de toda a alquimia, servindo como fundamento para a maioria das poções e elixires.
-brain_stool_flavor:Este fungo estranho cresce em locais escuros e úmidos, suas propriedades estão ligadas à fortaleza mental e ao poder psíquico.
-choncap_flavor:Um pequeno cogumelo redondo que libera esporos com poderosos efeitos alucinógenos.
-deeproot_truffle_flavor:Encontrada nas profundezas subterrâneas, esta trufa diz-se que aumenta tanto a resistência quanto a energia mágica quando consumida.
-dragon's_breath_mint_flavor:Diz-se que esta erva concede ao consumidor a capacidade de respirar pequenas rajadas de chama.
-duskgloom_morels_flavor:Crescendo nos cantos mais escuros da floresta, essas morelas são usadas em poções de invisibilidade.
-duskwight_berries_flavor:Essas bagas sombrias são conhecidas por sua capacidade de melhorar a furtividade e agilidade.
-echostem_reeds_flavor:Esses juncos ocos são valorizados por sua capacidade de amplificar o som, frequentemente usados em instrumentos de sopro ou feitiços de comunicação.
-emberstalk_toadstool_flavor:Um fungo flamejante que queima com um brilho interior, frequentemente usado em receitas alquímicas de fogo.
-giant's_blood_essence_flavor:Destilada do sangue de um gigante, essa essência confere força e resiliência.
-glacierthorn_flower_flavor:Crescendo apenas nas regiões mais frias, esta flor é usada em poções e feitiços relacionados ao gelo.
-maple_leaves_flavor:Estas folhas são frequentemente usadas em cataplasmas curativos, dizem que acalmam a mente e o corpo.
-skytear_crystals_flavor:Estes cristais possuem o poder do próprio céu, crepitando com energia elétrica.
-spider_root_flavor:Torcidas e nodosas, esta raiz é frequentemente usada em poções de paralisia e aprisionamento.
-starfall_lavender_flavor:Esta erva fragrante cai dos céus durante chuvas de meteoros e é usada para acalmar a mente.
-starlight_blossoms_flavor:Brilhando levemente, essas flores dizem conceder visões do futuro quando preparadas em chá.
-stormleaf_plant_flavor:Pulsando com energia tempestuosa, esta planta é frequentemente usada em feitiços de alteração climática.
-twilight_jasmine_flavor:Esta flor fragrante desabrocha apenas no crepúsculo, frequentemente usada em poções de relaxamento e sonhos.
-whisperroot_fiber_flavor:Leve e flexível, esta fibra é frequentemente tecida em roupas encantadas ou usada em poções relacionadas à furtividade.
-pumpkin_flavor:Um vegetal substancial, frequentemente assado ou usado em ensopados, trazendo calor e conforto a qualquer refeição.
-parsley_flavor:Uma erva fresca que realça o sabor de qualquer prato, frequentemente usada para enfeitar as refeições mais finas.
-strawberry_flavor:Doces e suculentos, os morangos são um deleite favorito entre viajantes e nobres.
-blueberries_flavor:Estas bagas ácidas e refrescantes crescem abundantemente na natureza, um lanche rápido para aventureiros.
-grapes_flavor:Essas frutas doces são frequentemente fermentadas em vinho, apreciadas tanto por camponeses quanto por nobres.
-lettuce_flavor:Crocante e refrescante, a alface é um alimento básico em saladas, proporcionando uma refeição leve e nutritiva.
-cucumber_flavor:Frescos e hidratantes, os pepinos são um acréscimo refrescante a qualquer prato, perfeito para dias quentes de verão.
-tomato_flavor:Suco e ácido, o tomate é usado em uma variedade de pratos, desde sopas simples até banquetes elaborados.
-onion_flavor:Forte e saborosa, a cebola adiciona profundidade a qualquer prato, seu sabor melhorando com o calor.
-chicken_leg_flavor:Uma tenra coxa de frango assada, perfeita para uma refeição rápida enquanto na estrada.
-deep_sea_shrimp_flavor:Esses camarões suculentos são uma iguaria, colhidos das partes mais profundas do oceano.
-fine_rice_flavor:Arroz suave e perfumado, é um alimento básico em muitas refeições, frequentemente servido ao lado de carnes ricas ou vegetais.
-lime_berry_flavor:Ácidas e doces, as bagas de limão são apreciadas pelo seu sabor refrescante e uso em tortas e poções.
-pepper_flavor:Picante e quente, a pimenta é um ingrediente chave em muitos pratos, trazendo calor até nas noites mais frias.
-raw_pork_flavor:Recém abatida, esta carne de porco está pronta para ser cozinhada em uma refeição robusta para qualquer aventureiro.
-riverland_potato_flavor:Plantadas no solo fértil das terras ribeirinhas, estas batatas são um alimento básico para qualquer refeição simples.
-sea_salt_flavor:Grosso e saboroso, o sal marinho é colhido na beira do oceano, um ingrediente vital em qualquer cozinha.
 infested_gardens-key_description:Nível 10 - 30
 embervale-key_description:Nível 140 - 160
 bastion_of_light-key_description:Nível 130 - 150
@@ -194,8 +107,15 @@ graveyard_of_the_nameless-key_description:Nível 120 - 140
 duskwood-key_description:Nível 110 - 130
 dragons_breath_mint:Hortelã do Bafo de Dragão
 giants_blood_essence:Essência de Sangue de Gigante
-dragons_breath_mint_flavor:Dizem que esta erva concede ao consumidor a habilidade de expelir breves rajadas de chamas.
-giants_blood_essence_flavor:Destilada do sangue de um gigante, esta essência confere força e resistência.
 milk:Leite
 wheat:Trigo
 wood:Madeira
+wildhide:Couro Selvagem
+reed_straw:Palha de Junco
+oatsack:Saco de Aveia
+black_iron_ore:Minério de Ferro Negro
+oak_log:Tora de Carvalho
+charcoal:Carvão
+white_granite:Granito Branco
+timber_plank:Tábua de Madeira
+flax_bundle:Fardo de Linho

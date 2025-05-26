@@ -616,7 +616,7 @@ invader_grunt:Grunt d'Envahisseur
 invader_stalker:Traqueur d'Envahisseur
 invader_challenger:Challenger d'Envahisseur
 invader_hunter:Chasseur d'Envahisseur
-invader_raptor:invader_raptor
+invader_raptor:Raptor envahisseur
 invader_brawler:Bagarreur d'Envahisseur
 flying_chaos:Chaos Volant
 mind_flayer:Démon Psychique
@@ -658,3 +658,8 @@ vampire_lord:Seigneur Vampire
 black_dragon:Dragon Noir
 the_kraken:Le Kraken
 the_captain:Le Capitaine
+demon_kitsune:Démon Kitsune
+siren:Sirène
+sphinx:Sphinx
+basilisk:Basilic
+cockatrice:Cockatrice

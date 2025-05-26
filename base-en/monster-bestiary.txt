@@ -657,3 +657,10 @@ mythical_stag_bestiary:With enough exposure to the fae realm's ethereal magics, 
 feral_satyr_bestiary:Beware playful music drifting through the trees of the fae realm. The tunes of these wild fairies can turn from cheerful to vicious in an instant.
 fairy_queen_titania_bestiary:Resplendent in a gown of poison petals, Titania rules the summer court of the fae.
 fairy_king_oberon_bestiary:The proud and capricious king of the Seelie Court, lord of all fae realms.
+the_kraken_bestiary:The nightmare of every seafarer, this aquatic horror has sunk a thousand ships.
+the_captain_bestiary:Though this legendary captain runs a tight ship, he might let you sail with him for the right price.
+demon_kitsune_bestiary:This capricious fox spirit can grant wishes, but is quick to anger.
+siren_bestiary:Beware these beautiful fish-folk. Their sweet singing is just a lure to draw tasty adventurers close enough to eat!
+sphinx_bestiary:These half-lion sentries guard ancient tombs and ruins, and are infamous for demanding a deadly game of riddles to allow passage into their haunts.
+basilisk_bestiary:This fowl-tempered beast results when a chicken broods on a snake egg. Its venom is deadly enough to kill with the single graze of a fang.
+cockatrice_bestiary:This fowl-tempered beast is born when a snake hatches a chicken egg. Its glare can petrify the mightiest hero into stone.

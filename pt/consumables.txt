@@ -190,50 +190,50 @@ benefit_consumable_carry_limit:{value} aumento no limite de transporte de consum
 benefit_ingredient_carry_limit:{value} aumento no limite de transporte de ingredientes
 benefit_inventory_size:{value} aumento no tamanho do inventário
 small_infernal_potion:Pequena Poção Infernal
-small_infernal_potion_craft_description:Aumenta o dano infernal e a resistência de {amount_min1}% até {amount_max1}%.
-small_infernal_potion_description:Aumenta o dano infernal e a resistência em {amount_min1}% por {time}.
+small_infernal_potion_craft_description:Aumenta o dano e a resistência Infernal em {amount_min1}% até {amount_max1}% e adiciona 5% ao seu atributo base Infernal.
+small_infernal_potion_description:Aumenta o dano e a resistência Infernal em {amount_min1}% por {time} e adiciona 5% ao seu atributo base Infernal.
 medium_infernal_potion:Média Poção Infernal
-medium_infernal_potion_craft_description:Aumenta o dano infernal e a resistência de {amount_min1}% até {amount_max1}%.
-medium_infernal_potion_description:Aumenta o dano infernal e a resistência em {amount_min1}% por {time}.
+medium_infernal_potion_craft_description:Aumenta o dano e a resistência Infernal em {amount_min1}% até {amount_max1}% e adiciona 10% ao seu atributo base Infernal.
+medium_infernal_potion_description:Aumenta o dano e a resistência Infernal em {amount_min1}% por {time} e adiciona 10% ao seu atributo base Infernal.
 large_infernal_potion:Grande Poção Infernal
-large_infernal_potion_craft_description:Aumenta muito o dano infernal e a resistência de {amount_min1}% até {amount_max1}%.
-large_infernal_potion_description:Aumenta muito o dano infernal e a resistência em {amount_min1}% por {time}.
+large_infernal_potion_craft_description:Aumenta significativamente o dano e a resistência Infernal em {amount_min1}% até {amount_max1}% e adiciona 15% ao seu atributo base Infernal.
+large_infernal_potion_description:Aumenta significativamente o dano e a resistência Infernal em {amount_min1}% por {time} e adiciona 15% ao seu atributo base Infernal.
 small_divine_potion:Pequena Poção Divina
-small_divine_potion_craft_description:Aumenta o dano divino e a resistência de {amount_min1}% até {amount_max1}%.
-small_divine_potion_description:Aumenta o dano divino e a resistência em {amount_min1}% por {time}.
+small_divine_potion_craft_description:Aumenta o dano e a resistência Divina em {amount_min1}% até {amount_max1}% e adiciona 5% ao seu atributo base Divino.
+small_divine_potion_description:Aumenta o dano e a resistência Divina em {amount_min1}% por {time} e adiciona 5% ao seu atributo base Divino.
 medium_divine_potion:Média Poção Divina
-medium_divine_potion_craft_description:Aumenta o dano divino e a resistência de {amount_min1}% até {amount_max1}%.
-medium_divine_potion_description:Aumenta o dano divino e a resistência em {amount_min1}% por {time}.
+medium_divine_potion_craft_description:Aumenta o dano e a resistência Divina em {amount_min1}% até {amount_max1}% e adiciona 10% ao seu atributo base Divino.
+medium_divine_potion_description:Aumenta o dano e a resistência Divina em {amount_min1}% por {time} e adiciona 10% ao seu atributo base Divino.
 large_divine_potion:Grande Poção Divina
-large_divine_potion_craft_description:Aumenta muito o dano divino e a resistência de {amount_min1}% até {amount_max1}%.
-large_divine_potion_description:Aumenta muito o dano divino e a resistência em {amount_min1}% por {time}.
+large_divine_potion_craft_description:Aumenta significativamente o dano e a resistência Divina em {amount_min1}% até {amount_max1}% e adiciona 15% ao seu atributo base Divino.
+large_divine_potion_description:Aumenta significativamente o dano e a resistência Divina em {amount_min1}% por {time} e adiciona 15% ao seu atributo base Divino.
 small_necrotic_potion:Pequena Poção Necrótica
-small_necrotic_potion_craft_description:Aumenta o dano necrótico e a resistência de {amount_min1}% até {amount_max1}%.
-small_necrotic_potion_description:Aumenta o dano e a resistência necrótica em {amount_min1}% por {time}.
+small_necrotic_potion_craft_description:Aumenta o dano e a resistência Necrótica em {amount_min1}% até {amount_max1}% e adiciona 5% ao seu atributo base Necrótico.
+small_necrotic_potion_description:Aumenta o dano e a resistência Necrótica em {amount_min1}% por {time} e adiciona 5% ao seu atributo base Necrótico.
 medium_necrotic_potion:Poção Necrótica Média
-medium_necrotic_potion_craft_description:Amplia o dano e a resistência necrótica em {amount_min1}% a {amount_max1}%.
-medium_necrotic_potion_description:Amplia o dano e a resistência necrótica em {amount_min1}% por {time}.
+medium_necrotic_potion_craft_description:Aumenta o dano e a resistência Necrótica em {amount_min1}% até {amount_max1}% e adiciona 10% ao seu atributo base Necrótico.
+medium_necrotic_potion_description:Aumenta o dano e a resistência Necrótica em {amount_min1}% por {time} e adiciona 10% ao seu atributo base Necrótico.
 large_necrotic_potion:Poção Necrótica Grande
-large_necrotic_potion_craft_description:Aumenta significativamente o dano e a resistência necrótica em {amount_min1}% a {amount_max1}%.
-large_necrotic_potion_description:Aumenta significativamente o dano e a resistência necrótica em {amount_min1}% por {time}.
+large_necrotic_potion_craft_description:Aumenta significativamente o dano e a resistência Necrótica em {amount_min1}% até {amount_max1}% e adiciona 15% ao seu atributo base Necrótico.
+large_necrotic_potion_description:Aumenta significativamente o dano e a resistência Necrótica em {amount_min1}% por {time} e adiciona 15% ao seu atributo base Necrótico.
 small_frost_potion:Poção de Gelo Pequena
-small_frost_potion_craft_description:Aumenta o dano e a resistência ao gelo em {amount_min1}% a {amount_max1}%.
-small_frost_potion_description:Aumenta o dano e a resistência ao gelo em {amount_min1}% por {time}.
+small_frost_potion_craft_description:Aumenta o dano e a resistência Gélida em {amount_min1}% até {amount_max1}% e adiciona 5% ao seu atributo base Gélido.
+small_frost_potion_description:Aumenta o dano e a resistência Gélida em {amount_min1}% por {time} e adiciona 5% ao seu atributo base Gélido.
 medium_frost_potion:Poção de Gelo Média
-medium_frost_potion_craft_description:Amplia o dano e a resistência ao gelo em {amount_min1}% a {amount_max1}%.
-medium_frost_potion_description:Amplia o dano e a resistência ao gelo em {amount_min1}% por {time}.
+medium_frost_potion_craft_description:Aumenta o dano e resistência ao Gelo em {amount_min1}% a {amount_max1}% e adiciona 10% ao seu atributo base de Gelo.
+medium_frost_potion_description:Aumenta o dano e resistência ao Gelo em {amount_min1}% por {time} e adiciona 10% ao seu atributo base de Gelo.
 large_frost_potion:Poção de Gelo Grande
-large_frost_potion_craft_description:Aumenta significativamente o dano e a resistência ao gelo em {amount_min1}% a {amount_max1}%.
-large_frost_potion_description:Aumenta significativamente o dano e a resistência ao gelo em {amount_min1}% por {time}.
+large_frost_potion_craft_description:Grande aumento no dano e resistência ao Gelo em {amount_min1}% a {amount_max1}% e adiciona 15% ao seu atributo base de Gelo.
+large_frost_potion_description:Grande aumento no dano e resistência ao Gelo em {amount_min1}% por {time} e adiciona 15% ao seu atributo base de Gelo.
 small_arcane_potion:Poção Arcana Pequena
-small_arcane_potion_craft_description:Aumenta o dano e a resistência arcana em {amount_min1}% a {amount_max1}%.
-small_arcane_potion_description:Aumenta o dano e a resistência arcana em {amount_min1}% por {time}.
+small_arcane_potion_craft_description:Aumenta o dano e resistência ao Arcano em {amount_min1}% a {amount_max1}% e adiciona 5% ao seu atributo base de Arcano.
+small_arcane_potion_description:Aumenta o dano e resistência ao Arcano em {amount_min1}% por {time} e adiciona 5% ao seu atributo base de Arcano.
 medium_arcane_potion:Poção Arcana Média
-medium_arcane_potion_craft_description:Aumenta o dano arcano e a resistência em {amount_min1}% a {amount_max1}%.
-medium_arcane_potion_description:Aumenta o dano arcano e a resistência em {amount_min1}% por {time}.
+medium_arcane_potion_craft_description:Aumenta o dano e resistência ao Arcano em {amount_min1}% a {amount_max1}% e adiciona 10% ao seu atributo base de Arcano.
+medium_arcane_potion_description:Aumenta o dano e resistência ao arcano em {amount_min1}% por {time} e adiciona 10% ao seu atributo base de Arcano.
 large_arcane_potion:Poção Arcana Grande
-large_arcane_potion_craft_description:Aumenta muito o dano arcano e a resistência em {amount_min1}% a {amount_max1}%.
-large_arcane_potion_description:Aumenta muito o dano arcano e a resistência em {amount_min1}% por {time}.
+large_arcane_potion_craft_description:Aumenta o dano e resistência ao Arcano em {amount_min1}% a {amount_max1}% e adiciona 15% ao seu atributo base de Arcano.
+large_arcane_potion_description:Aumenta o dano e resistência ao Arcano em {amount_min1}% por {time} e adiciona 15% ao seu atributo base de Arcano.
 cooked_egg:Ovo Cozido
 cooked_egg_craft_description:Recupera de {amount_min1} a {amount_max1} de resistência. A receita desaparecerá após o Evento de Páscoa de 2025.
 cooked_egg_description:Recupera {amount_min1} de resistência.
@@ -281,6 +281,11 @@ small_arcane_potion_recipe:Receita de Poção Arcana Pequena
 medium_arcane_potion_recipe:Receita de Poção Arcana Média
 large_arcane_potion_recipe:Receita de Poção Arcana Grande
 spicy_pork_bowl:Tigela de Porco Apimentado
-spicy_pork_bowl_craft_description:Reabastece {amount_min1} a {amount_max1} de vigor. Seu sabor marcante concede um rápido aumento de velocidade.
-spicy_pork_bowl_description:Reabastece {amount_min1} de vigor. Seu sabor marcante concede um rápido aumento de velocidade.
+spicy_pork_bowl_craft_description:Reabastece de {amount_min1} a {amount_max1} resistência.
+spicy_pork_bowl_description:Reabastece {amount_min1} resistência.
 healthPotionOnlyInDungeonError:Você só pode usar poções de saúde dentro de uma masmorra.
+bulkChestOpening:Abertura em Massa: Baús de {type} (Sem Animação)
+quickSellAllConfirm:Vender rapidamente todos os itens acima
+totalSellValue:Valor Total
+quickSell:Venda Rápida
+mysterious_liquid_craft_description:Um líquido estranho e turvo... ouso bebê-lo? (Aumenta ou reduz aleatoriamente uma estatística em até -1{amount_min1}% a 1{amount_max1}% por 3 horas)

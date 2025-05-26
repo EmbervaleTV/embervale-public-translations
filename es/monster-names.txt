@@ -616,7 +616,7 @@ invader_grunt:Invasor Recluta
 invader_stalker:Invasor Acechador
 invader_challenger:Invasor Retador
 invader_hunter:Invasor Cazador
-invader_raptor:invader_raptor
+invader_raptor:Rapaz Invasor
 invader_brawler:Invasor Peleador
 flying_chaos:Caos Volador
 mind_flayer:Desgarramentes
@@ -658,3 +658,8 @@ vampire_lord:Señor Vampiro
 black_dragon:Dragón Negro
 the_kraken:El Kraken
 the_captain:El Capitán
+demon_kitsune:Zorro Demonio
+siren:Sirena
+sphinx:Esfinge
+basilisk:Basilisco
+cockatrice:Cocatriz

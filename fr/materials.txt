@@ -46,12 +46,10 @@ water:Eau
 brain_stool:Champignon cerveau
 choncap:Choncap
 deeproot_truffle:Truffe racine profonde
-dragon's_breath_mint:Menthe souffle de dragon
 duskgloom_morels:Morilles crépuscule
 duskwight_berries:Baies ombracre
 echostem_reeds:Roseaux écho
 emberstalk_toadstool:Toadstool d'Emberstalk
-giant's_blood_essence:Essence de Sang de Géant
 glacierthorn_flower:Fleur de Glacierthorn
 maple_leaves:Feuilles d'Érable
 skytear_crystals:Cristaux de Skytear
@@ -93,91 +91,6 @@ eerie_ore:Minerai Étrange
 necrotic_vein:Veine Nécrotique
 divinite:Divinité
 ember_heart:Cœur d'Ember
-silver_bar_flavor:Forgé au cœur des forges anciennes, ce lingot d'argent possède une légère lueur mystique réputée pour repousser les esprits malveillants.
-gold_bar_flavor:Brillant d'une lueur royale, ce lingot d'or est un symbole de richesse, souvent utilisé dans la fabrication d'artefacts royaux et de reliques enchantées.
-iron_bar_flavor:Solide et fiable, ce lingot de fer est l'épine dorsale de toute forge de forgeron, essentiel pour fabriquer des armes et des armures.
-copper_bar_flavor:Ce lingot de cuivre émet une légère vibration d'énergie naturelle, souvent utilisé par les alchimistes pour canaliser les forces de la nature.
-brass_bar_flavor:Les lingots de laiton sont connus pour leur teinte dorée unique, souvent utilisés dans des conceptions ornées pour des instruments de pouvoir.
-seastone_crystal_flavor:Ces cristaux sont imprégnés de l'essence des mers profondes, brillants doucement de la lumière de la magie marine ancienne.
-dwarven_silver_flavor:L'argent nain est vénéré pour sa pureté et sa force, souvent utilisé dans les artisanats runiques et les héritages nains.
-dusk_gemstones_flavor:On dit que ces gemmes capturent les derniers rayons du crépuscule, souvent recherchées par les mages pour leurs propriétés d'amplification des sorts.
-abyssalite_flavor:Extrait des profondeurs les plus reculées de la terre, ce minéral sombre pulse d'une énergie sinistre, parfait pour les armes maudites.
-eerie_ore_flavor:Ce minerai émet une lueur inquiétante, que l'on croit avoir été contaminé par la présence d'esprits agités.
-necrotic_vein_flavor:Les veines de ce minerai pulsent d'une énergie sombre, souvent utilisées par les nécromanciens dans les rituels de magie interdite.
-divinite_flavor:Un minerai radieux que l'on croit être touché par les dieux eux-mêmes, utilisé dans la création d'artefacts sacrés.
-ember_heart_flavor:Un cœur rare et enflammé trouvé dans les profondeurs des volcans, ce cœur brûle d'une flamme éternelle.
-embervale-key_flavor:Une clé finement ouvragée, scintillant de l'essence même de l'Embervale, déverrouillant des secrets longtemps oubliés.
-bastion_of_light-key_flavor:Cette clé brille vivement, dite pour ouvrir les portes d'un lieu où les ténèbres ne peuvent marcher.
-infested_gardens-key_flavor:Tordu et noueux, cette clé semble vivante avec la corruption des jardins qu'elle déverrouille.
-abandonded_wastelands-key_flavor:Glacée au toucher, cette clé est réputée pour mener aux terres désolées où l'espoir a depuis longtemps disparu.
-dried_out_riverlands-key_flavor:De la poussière s'accroche à cette clé, relique d'une terre autrefois prospère, maintenant desséchée et abandonnée.
-occupied_river_crossing-key_flavor:Une clé lourde et usée, souvent échangée dans l'ombre, accordant le passage à travers un territoire dangereux.
-island_of_beasts-key_flavor:Marquée de traces de griffes étranges, cette clé donne accès à un royaume où règnent les créatures les plus sauvages.
-hidden_kingdom-key_flavor:Finement sculptée, cette clé détient le pouvoir de révéler un royaume perdu dans le temps.
-eternal_ice-key_flavor:Froide comme le cœur de l'hiver, cette clé détient les secrets du nord gelé, où rien ne dégèle.
-silver_mountains-key_flavor:Cette clé est gravée de runes anciennes, permettant d'entrer dans les pics imposants des Montagnes d'Argent.
-stranded_seafire-key_flavor:Entourée d'une étrange aura, on dit que cette clé déverrouille les mystères du Seafire, un navire pirate depuis longtemps oublié.
-deepwater_passage-key_flavor:Lourde et érodée par l'eau, cette clé appartenait autrefois à ceux qui traversaient les profondeurs les plus sombres des mers.
-graveyard_of_the_nameless-key_flavor:Fantasmagorique et sinistre, cette clé est le seul moyen d'entrer dans les terres maudites où les noms sont oubliés.
-duskwood-key_flavor:Fabriquée en bois noirci, cette clé permet d'entrer dans la forêt ombragée où le soleil ne se couche jamais.
-distillate_flavor:Un liquide puissant extrait d'herbes rares, utilisé par les alchimistes pour préparer des élixirs puissants.
-pumpkin_soup_flavor:Une soupe copieuse qui réchauffe l'âme, prisée par les voyageurs se préparant pour un long voyage.
-fruit_basket_flavor:Un assortiment vibrant de fruits, débordant d'énergie naturelle et de saveur, parfait pour une récupération rapide.
-salad_flavor:Croustillante et rafraîchissante, cette salade est le repas de choix pour ceux qui cherchent un coup de fouet sain à leur endurance.
-stone_flavor:Simple mais durable, la pierre est la base de toutes les grandes constructions, tant mondaines que magiques.
-flint_flavor:Ce morceau de silex tranchant s'enflamme facilement, essentiel pour allumer des feux dans la nature.
-iron_ore_flavor:Brut et non raffiné, ce minerai est le nerf de la guerre des forgerons, bientôt transformé en outils de guerre.
-copper_ore_flavor:Chaud au toucher, le minerai de cuivre est souvent utilisé dans la fabrication d'objets conducteurs et de conduits magiques.
-silver_ore_flavor:Scintillant d'une faible lumière, ce minerai est prisé pour sa pureté et sa capacité supposée à repousser la magie noire.
-gold_ore_flavor:Un morceau de minerai d'or scintillant, aussi précieux en monnaie que pour la fabrication de trésors enchantés.
-pewter_flavor:Mou mais durable, le plomb est souvent utilisé pour mouler des runes et des talismans.
-sapphire_flavor:Ces gemmes bleu profond sont souvent recherchées par les enchanteurs pour leur capacité à focaliser les énergies magiques.
-ruby_flavor:Rouges et flamboyants, les rubis sont convoités pour leur pouvoir à renforcer les sorts et enchantements basés sur le feu.
-eternal_ice_flavor:Froid au toucher, la glace éternelle ne fond jamais, ce qui en fait un composant prisé dans la puissante magie de glace.
-clover_flavor:Une herbe commune mais puissante, le trèfle est souvent utilisé dans les baumes guérisseurs et les potions simples.
-midnight_rose_flavor:Cette fleur rare et sombre ne s'ouvrirait qu'à la lumière de la pleine lune, utilisée dans les puissantes potions d'amour.
-rose_flavor:Symbole de beauté et de passion, la rose est souvent utilisée dans les parfums envoûtants et les sorts de charme subtils.
-maggot_flavor:Remuants et désagréables, les asticots sont un ingrédient clé dans certaines des concoctions alchimiques les plus peu ragoûtantes.
-caterpillar_flavor:Cette créature humble détient le potentiel de transformation, souvent utilisée dans les sorts de changement et de croissance.
-toadstool_flavor:Toxiques pour les non-initiés, les champignons vénéneux sont prisés par les alchimistes pour leur capacité à créer des toxines mortelles.
-frog_flavor:Ce petit amphibien est souvent récolté pour sa peau, qui possède des propriétés uniques pour la concoction de potions.
-mandrake_flavor:Avec des racines ressemblant à une forme humaine, la mandragore est un composant puissant dans les sorts de protection et de guérison.
-water_flavor:Pure et claire, l'eau est la base de toute alchimie, servant de fondation pour la plupart des potions et élixirs.
-brain_stool_flavor:Ce champignon étrange pousse dans des endroits sombres et humides, ses propriétés étant liées à la fortitude mentale et au pouvoir psychique.
-choncap_flavor:Un petit champignon rond qui libère des spores aux puissants effets hallucinogènes.
-deeproot_truffle_flavor:Retrouvée profondément sous terre, cette truffe est censée augmenter à la fois l'endurance et l'énergie magique lorsqu'elle est consommée.
-dragon's_breath_mint_flavor:Cette herbe est censée accorder au consommateur la capacité de cracher de courtes rafales de flammes.
-duskgloom_morels_flavor:Poussant dans les coins les plus sombres de la forêt, ces morilles sont utilisées dans les potions d'invisibilité.
-duskwight_berries_flavor:Ces baies ombragées sont connues pour leur capacité à améliorer la furtivité et l'agilité.
-echostem_reeds_flavor:Ces roseaux creux sont prisés pour leur capacité à amplifier le son, souvent utilisés dans les instruments à vent ou les sorts de communication.
-emberstalk_toadstool_flavor:Un champignon ardent qui brûle d'une lueur intérieure, souvent utilisé dans les recettes alchimiques basées sur le feu.
-giant's_blood_essence_flavor:Distillée à partir du sang d'un géant, cette essence confère force et résilience.
-glacierthorn_flower_flavor:Poussant uniquement dans les régions les plus froides, cette fleur est utilisée dans les potions et sorts liés à la glace.
-maple_leaves_flavor:Ces feuilles sont souvent utilisées dans des cataplasmes de guérison, réputées pour apaiser l'esprit et le corps.
-skytear_crystals_flavor:Ces cristaux détiennent la puissance du ciel lui-même, crépitant d'énergie électrique.
-spider_root_flavor:Tordu et noueux, cette racine est souvent utilisée dans des potions de paralysie et de piégeage.
-starfall_lavender_flavor:Cette herbe parfumée tombe des cieux lors de pluies de météores et est utilisée pour apaiser l'esprit.
-starlight_blossoms_flavor:Luisant faiblement, ces fleurs sont censées offrir des visions de l'avenir lorsqu'elles sont infusées dans un thé.
-stormleaf_plant_flavor:Pulsant d'énergie orageuse, cette plante est souvent utilisée dans des sorts de modification du temps.
-twilight_jasmine_flavor:Cette fleur parfumée ne fleurit qu'au crépuscule, souvent utilisée dans des potions de relaxation et de rêves.
-whisperroot_fiber_flavor:Légère et flexible, cette fibre est souvent tissée dans des vêtements enchantés ou utilisée dans des potions liées à la furtivité.
-pumpkin_flavor:Un légume copieux souvent rôti ou utilisé dans des ragoûts, apportant chaleur et réconfort à tout repas.
-parsley_flavor:Une herbe fraîche qui améliore la saveur de n'importe quel plat, souvent utilisée pour garnir les mets les plus fins.
-strawberry_flavor:Douces et juteuses, les fraises sont une friandise favorite parmi les voyageurs et les nobles.
-blueberries_flavor:Aigres et rafraîchissantes, ces baies poussent en abondance dans la nature, un en-cas rapide pour les aventuriers.
-grapes_flavor:Ces fruits sucrés sont souvent fermentés en vin, apprécié aussi bien par les paysans que par la royauté.
-lettuce_flavor:Croquante et rafraîchissante, la laitue est un élément de base dans les salades, offrant un repas léger et nutritif.
-cucumber_flavor:Frais et hydratant, les concombres sont un ajout rafraîchissant à n'importe quel plat, parfait pour les jours d'été chauds.
-tomato_flavor:Juteuses et acidulées, les tomates sont utilisées dans une variété de plats, des soupes simples aux festins élaborés.
-onion_flavor:Épicées et savoureuses, les oignons ajoutent de la profondeur à n'importe quel plat, leur saveur s'améliorant avec la cuisson.
-chicken_leg_flavor:Une cuisse de poulet tendre et rôtie, parfaite pour un repas rapide en cours de route.
-deep_sea_shrimp_flavor:Ces crevettes succulentes sont un délice, récoltées dans les profondeurs des océans.
-fine_rice_flavor:Doux et parfumé, le riz fin est un aliment de base dans de nombreux repas, souvent servi avec des viandes riches ou des légumes.
-lime_berry_flavor:Aigre et sucrées, les baies de lime sont prisées pour leur goût rafraîchissant et leur utilisation dans les tartes et les potions.
-pepper_flavor:Épicé et pimenté, le poivre est un ingrédient clé de nombreux plats, apportant de la chaleur aux nuits les plus froides.
-raw_pork_flavor:Fraîchement abattu, ce porc est prêt à être cuisiné en un repas copieux pour tout aventurier.
-riverland_potato_flavor:Cultivées dans le sol fertile des terres fluviales, ces pommes de terre sont une base pour tout repas humble.
-sea_salt_flavor:Gros et savoureux, le sel de mer est récolté au bord de l'océan, un ingrédient vital dans toute cuisine.
 infested_gardens-key_description:Niveau 10 - 30
 embervale-key_description:Niveau 140 - 160
 bastion_of_light-key_description:Niveau 130 - 150
@@ -194,8 +107,15 @@ graveyard_of_the_nameless-key_description:Niveau 120 - 140
 duskwood-key_description:Niveau 110 - 130
 dragons_breath_mint:Menthe de Souffle de Dragon
 giants_blood_essence:Essence de Sang de Géant
-dragons_breath_mint_flavor:Cette herbe est réputée pour conférer au consommateur la capacité de souffler de courtes flammes.
-giants_blood_essence_flavor:Distillée à partir du sang d'un géant, cette essence confère force et résistance.
 milk:Lait
 wheat:Blé
 wood:Bois
+wildhide:Peau Sauvage
+reed_straw:Paille de Roseau
+oatsack:Sac d'Avoine
+black_iron_ore:Minerai de Fer Noir
+oak_log:Bûche de Chêne
+charcoal:Charbon
+white_granite:Granite Blanc
+timber_plank:Planche de Bois
+flax_bundle:Fagot de Lin

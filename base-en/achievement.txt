@@ -134,6 +134,8 @@ reachMaxReputation:Reach maximum reputation with the shopkeeper.
 claim_daily_bonus:Claim {amount} daily bonuses on our Discord
 claim_daily_bonus_row:Claim {amount} daily bonuses in a row on our Discord
 gear_preset_1:+1 additional gear preset slot
+consumable_bag_expansion:+5 Consumable Bag Slots
+
 // Dungeon
 attempt_dungeon:Attempt {amount} dungeons
 

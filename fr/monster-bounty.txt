@@ -360,3 +360,4 @@ headless_horseman_bounty:Un cavalier sinistre errant dans la nuit. Le voir est c
 shadow_creature_bounty:Une créature ombrageuse provenant de profondeurs inconnues.
 spiky_turtle_bounty:Une muraille ambulante de piques—fais attention, car même sa carapace est une arme.
 nailguns_bounty:Un mimique qui prétend être Nailguns.
+demon_kitsune_bounty:Un esprit de renard rusé déformé par une énergie démoniaque. Trompeur, dangereux, et jamais vraiment seul.

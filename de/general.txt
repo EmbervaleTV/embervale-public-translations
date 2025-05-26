@@ -172,7 +172,7 @@ chooseYourClass:Wähle deine Klasse!
 pickYourRace:Wähle deine Rasse!
 customizeYourHero:Gestalte deinen Helden!
 finalize:Abschließen
-purchaseAnotherCharacter:Der Kauf eines weiteren Charakterplatzes kostet dich 500 Arcanite.
+purchaseAnotherCharacter:Der Kauf eines weiteren Charakterplatzes kostet dich 349 Arcanites.
 doYouWantToPurchase:Möchtest du kaufen?
 slot:Platz
 chooseGender:Wähle dein Geschlecht
@@ -249,7 +249,7 @@ guildFee:Gildenbeitrag
 you_received:Du hast erhalten:
 youReceived:Du hast erhalten:
 congratulations:Glückwunsch!
-claim:Einlösen
+claim:Sammeln
 claim_reward:Belohnung einlösen
 reward:Belohnung
 completed:Abgeschlossen
@@ -339,8 +339,8 @@ novice:Anfänger
 notification:Benachrichtigung
 required:Erforderlich
 found:Gefunden
-login:Login
-createAnotherCharacter:Erstelle einen weiteren Charakter
+login:Anmelden
+createAnotherCharacter:Neuen Charakter erstellen
 consume:Verzehren
 eatFoodHeadline:Essen verzehren
 refreshArena:Auffrischen
@@ -477,7 +477,7 @@ levelUpAdventure:Du kannst jetzt als Streamer Abenteuer starten!
 levelUpCraft:Du kannst jetzt deine Materialien zum Handwerken verwenden!
 levelUpDungeon:Du kannst jetzt Dungeons betreten!
 levelUpGuild:Du kannst jetzt einer Gilde beitreten oder eine erstellen!
-selectYourCharacter:Wähle deinen Charakter
+selectYourCharacter:Wähle Deinen Charakter
 select:Auswählen
 loadingTip29:Das Erhöhen des Levels deines Charakters ermöglicht es dir, mehr Rezepte zu finden.
 loadingTip30:Kämpfst du mit einer bestimmten Art von Feind? Finde ihre elementare Schwäche heraus!
@@ -664,3 +664,28 @@ graphicsScale:Grafik-Skalierung
 graphicsScaleTip:Passt die Schärfe und Leistung von Animationen an.
 restartEmbervaleForUpdate:Du verwendest eine veraltete Version von Embervale. Bitte lade deinen Browser neu, starte die App neu oder aktualisiere auf die neueste Version auf Steam.
 rewards:Belohnungen
+duelist_male:Duellant
+duelist_female:Duellantin
+gladiator_male:Gladiator
+gladiator_female:Gladiator
+arena_legend_male:Arena-Legende
+arena_legend_female:Arena-Legende
+champion_male:Champion
+champion_female:Championin
+realmExplanation:Reiche definieren, wen du auf den Bestenlisten siehst und gegen wen du antrittst. Du kannst immer in ältere Reiche wechseln, aber nie in Reiche, die neuer als dein Charakter sind.
+primeRealm:Prime
+steamRealm:Steamtor
+realm:Reich
+realmAge:Alter: {du} Monate
+realmOpening:Eröffnung {creationDate}
+yourCharacterAwakening:{{ username }}s Erwachen
+realmGameReload:Das Wechseln von Reichen wird das Spiel neu laden.
+fight:Kämpfen
+windowModeSetting:Fenstermodus
+resolution:Auflösung
+createYourCharacter:Erstelle Einen Charakter
+purchaseYourCharacter:Kaufe Einen Zusätzlichen Platz
+purchaseSlot:Kaufplatz
+loginInNewWindow:Anmelden (Neues Fenster)
+tooltipArenaBattles:Arenakämpfe, die du kämpfen kannst
+tooltipExpeditionStatus:Zeigt, ob du eine Expedition abgeschlossen hast

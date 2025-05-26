@@ -19,5 +19,7 @@ selectConsumablesForDungeon:Wähle die Tränke aus, die du mit in den Dungeon ne
 youDontHaveHealPotions:Du hast keine Heiltränke, die du zu deiner Dungeon-Tasche hinzufügen kannst.
 recommendedLevel:Empfohlenes Level
 enterDungeon:Betrete den Dungeon
-ascendedBossHpBarTooltip:Jede Niederlage reduziert deine Gesundheit im nächsten Kampf um 25%. Du kannst Heiltränke verwenden, um dich zu erholen.
-ascendedBossCantJoinHp:Du musst mindestens 25% deiner Gesundheit haben, um einem Aufgestiegenen Boss entgegenzutreten.
+ascendedBossHpBarTooltip:Du kannst zwei Heiltränke pro Stunde trinken, um Gesundheit wiederherzustellen.
+ascendedBossCantJoinHp:Du bist zu verwundet von den vorherigen Kämpfen. Du brauchst mindestens 25% HP, um einem Aufgestiegenen Boss gegenüberzutreten! Stelle deine Gesundheit mit Tränken wieder her oder warte auf das tägliche Zurücksetzen. Fahre mit der Maus über deine Gesundheitsleiste für mehr Details.
+ascendedBossHpBarTooltipPotions:Eingenommene Tränke
+ascendedBossHpBarFullheal:Vollständige Heilung in

@@ -653,3 +653,10 @@ the_webspinner_bestiary:Canta una melodiosa melodía mientras envuelve sus bonit
 heart_of_darkness_bestiary:El corazón viviente de estas tierras embrujadas, este espíritu guardián fue torcido por una extraña corrupción en expansión y se llenó de malicia hacia todos los que caminan bajo la luz del sol.
 vampire_lord_bestiary:Disfruta de largos paseos por playas iluminadas por la luna, monólogos dramáticos a calaveras y de chupar la sangre de desafortunados aventureros.
 black_dragon_bestiary:Notorios por su mal carácter y escamas casi indestructibles, estos dragones son mejor evitados por todos, excepto por los aventureros más valientes.
+demon_kitsune_bestiary:Este caprichoso espíritu zorro puede conceder deseos, pero se enfurece fácilmente.
+the_kraken_bestiary:La pesadilla de todo marinero, este horror acuático ha hundido mil barcos.
+the_captain_bestiary:Aunque este capitán legendario lleva un barco disciplinado, puede dejarte navegar con él por el precio adecuado.
+siren_bestiary:Cuidado con estos hermosos seres acuáticos. Su dulce canto es solo un señuelo para atraer a los sabrosos aventureros lo suficientemente cerca como para devorarlos.
+sphinx_bestiary:Estos centinelas mitad león guardan antiguas tumbas y ruinas, y son infames por exigir un mortífero juego de acertijos para permitir el paso a sus dominios.
+basilisk_bestiary:Esta bestia de mal genio resulta cuando una gallina incuba un huevo de serpiente. Su veneno es lo suficientemente mortal como para matar con el simple roce de un colmillo.
+cockatrice_bestiary:Esta bestia de mal genio nace cuando una serpiente incuba un huevo de gallina. Su mirada puede petrificar al héroe más poderoso en piedra.

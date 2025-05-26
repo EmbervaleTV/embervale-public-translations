@@ -190,50 +190,50 @@ benefit_consumable_carry_limit:{value} aumento en el límite de objetos consumib
 benefit_ingredient_carry_limit:{value} aumento en el límite de ingredientes
 benefit_inventory_size:{value} inventario más grande
 small_infernal_potion:Poción Infernal Pequeña
-small_infernal_potion_craft_description:Aumenta el daño y la resistencia infernales en un {amount_min1}% a {amount_max1}%.
-small_infernal_potion_description:Aumenta el daño y la resistencia infernales en un {amount_min1}% durante {time}.
+small_infernal_potion_craft_description:Aumenta el daño y resistencia Infernal en {amount_min1}% a {amount_max1}% y añade un 5% a tu estadística base Infernal.
+small_infernal_potion_description:Aumenta el daño y resistencia Infernal en {amount_min1}% durante {time} y añade un 5% a tu estadística base Infernal.
 medium_infernal_potion:Poción Infernal Mediana
-medium_infernal_potion_craft_description:Incrementa el daño y la resistencia infernales en un {amount_min1}% a {amount_max1}%.
-medium_infernal_potion_description:Incrementa el daño y la resistencia infernales en un {amount_min1}% durante {time}.
+medium_infernal_potion_craft_description:Aumenta el daño y resistencia Infernal en {amount_min1}% a {amount_max1}% y añade un 10% a tu estadística base Infernal.
+medium_infernal_potion_description:Aumenta el daño y resistencia Infernal en {amount_min1}% durante {time} y añade un 10% a tu estadística base Infernal.
 large_infernal_potion:Poción Infernal Grande
-large_infernal_potion_craft_description:Aumenta enormemente el daño y la resistencia infernales en un {amount_min1}% a {amount_max1}%.
-large_infernal_potion_description:Aumenta enormemente el daño y la resistencia infernales en un {amount_min1}% durante {time}.
+large_infernal_potion_craft_description:Aumenta en gran medida el daño y resistencia Infernal en {amount_min1}% a {amount_max1}% y añade un 15% a tu estadística base Infernal.
+large_infernal_potion_description:Aumenta en gran medida el daño y resistencia Infernal en {amount_min1}% durante {time} y añade un 15% a tu estadística base Infernal.
 small_divine_potion:Poción Divina Pequeña
-small_divine_potion_craft_description:Aumenta el daño y la resistencia divinos en un {amount_min1}% a {amount_max1}%.
-small_divine_potion_description:Aumenta el daño y la resistencia divinos en un {amount_min1}% durante {time}.
+small_divine_potion_craft_description:Aumenta el daño y resistencia Divinos en {amount_min1}% a {amount_max1}% y añade un 5% a tu estadística base Divina.
+small_divine_potion_description:Aumenta el daño y resistencia Divinos en {amount_min1}% durante {time} y añade un 5% a tu estadística base Divina.
 medium_divine_potion:Poción Divina Mediana
-medium_divine_potion_craft_description:Incrementa el daño y la resistencia divinos en un {amount_min1}% a {amount_max1}%.
-medium_divine_potion_description:Incrementa el daño y la resistencia divinos en un {amount_min1}% durante {time}.
+medium_divine_potion_craft_description:Aumenta el daño y resistencia Divinos en {amount_min1}% a {amount_max1}% y añade un 10% a tu estadística base Divina.
+medium_divine_potion_description:Aumenta el daño y resistencia Divinos en {amount_min1}% durante {time} y añade un 10% a tu estadística base Divina.
 large_divine_potion:Poción Divina Grande
-large_divine_potion_craft_description:Aumenta enormemente el daño y la resistencia divinos en un {amount_min1}% a {amount_max1}%.
-large_divine_potion_description:Aumenta enormemente el daño y la resistencia divinos en un {amount_min1}% durante {time}.
+large_divine_potion_craft_description:Aumenta en gran medida el daño y resistencia Divinos en {amount_min1}% a {amount_max1}% y añade un 15% a tu estadística base Divina.
+large_divine_potion_description:Aumenta en gran medida el daño y resistencia Divinos en {amount_min1}% durante {time} y añade un 15% a tu estadística base Divina.
 small_necrotic_potion:Poción Necrótica Pequeña
-small_necrotic_potion_craft_description:Aumenta el daño y la resistencia necróticos en un {amount_min1}% a {amount_max1}%.
-small_necrotic_potion_description:Aumenta el daño y la resistencia necróticos en {amount_min1}% durante {time}.
+small_necrotic_potion_craft_description:Aumenta el daño y resistencia Necróticos en {amount_min1}% a {amount_max1}% y añade un 5% a tu estadística base Necrótica.
+small_necrotic_potion_description:Aumenta el daño y resistencia Necróticos en {amount_min1}% durante {time} y añade un 5% a tu estadística base Necrótica.
 medium_necrotic_potion:Poción necrótica mediana
-medium_necrotic_potion_craft_description:Aumenta el daño y la resistencia necróticos en {amount_min1}% a {amount_max1}%.
-medium_necrotic_potion_description:Aumenta el daño y la resistencia necróticos en {amount_min1}% durante {time}.
+medium_necrotic_potion_craft_description:Aumenta el daño y resistencia Necróticos en {amount_min1}% a {amount_max1}% y añade un 10% a tu estadística base Necrótica.
+medium_necrotic_potion_description:Aumenta el daño y resistencia Necróticos en {amount_min1}% durante {time} y añade un 10% a tu estadística base Necrótica.
 large_necrotic_potion:Poción necrótica grande
-large_necrotic_potion_craft_description:Aumenta significativamente el daño y la resistencia necróticos en {amount_min1}% a {amount_max1}%.
-large_necrotic_potion_description:Aumenta significativamente el daño y la resistencia necróticos en {amount_min1}% durante {time}.
+large_necrotic_potion_craft_description:Aumenta en gran medida el daño y resistencia Necróticos en {amount_min1}% a {amount_max1}% y añade un 15% a tu estadística base Necrótica.
+large_necrotic_potion_description:Aumenta en gran medida el daño y resistencia Necróticos en {amount_min1}% durante {time} y añade un 15% a tu estadística base Necrótica.
 small_frost_potion:Poción pequeña de escarcha
-small_frost_potion_craft_description:Aumenta el daño y la resistencia a la escarcha en {amount_min1}% a {amount_max1}%.
-small_frost_potion_description:Aumenta el daño y la resistencia a la escarcha en {amount_min1}% durante {time}.
+small_frost_potion_craft_description:Aumenta el daño y resistencia de Escarcha en {amount_min1}% a {amount_max1}% y añade un 5% a tu estadística base de Escarcha.
+small_frost_potion_description:Aumenta el daño y resistencia de Escarcha en {amount_min1}% durante {time} y añade un 5% a tu estadística base de Escarcha.
 medium_frost_potion:Poción mediana de escarcha
-medium_frost_potion_craft_description:Aumenta el daño y la resistencia a la escarcha en {amount_min1}% a {amount_max1}%.
-medium_frost_potion_description:Aumenta el daño y la resistencia a la escarcha en {amount_min1}% durante {time}.
+medium_frost_potion_craft_description:Aumenta el daño y la resistencia a la Escarcha entre {amount_min1}% y {amount_max1}% y añade un 10% a tu estadística base de Escarcha.
+medium_frost_potion_description:Aumenta el daño y la resistencia a la Escarcha en {amount_min1}% durante {time} y añade un 10% a tu estadística base de Escarcha.
 large_frost_potion:Poción grande de escarcha
-large_frost_potion_craft_description:Aumenta significativamente el daño y la resistencia a la escarcha en {amount_min1}% a {amount_max1}%.
-large_frost_potion_description:Aumenta significativamente el daño y la resistencia a la escarcha en {amount_min1}% durante {time}.
+large_frost_potion_craft_description:Aumenta enormemente el daño y la resistencia a la Escarcha entre {amount_min1}% y {amount_max1}% y añade un 15% a tu estadística base de Escarcha.
+large_frost_potion_description:Aumenta enormemente el daño y la resistencia a la Escarcha en {amount_min1}% durante {time} y añade un 15% a tu estadística base de Escarcha.
 small_arcane_potion:Poción pequeña arcana
-small_arcane_potion_craft_description:Aumenta el daño y la resistencia arcanos en {amount_min1}% a {amount_max1}%.
-small_arcane_potion_description:Aumenta el daño y la resistencia arcanos en {amount_min1}% durante {time}.
+small_arcane_potion_craft_description:Aumenta el daño y la resistencia Arcana entre {amount_min1}% y {amount_max1}% y añade un 5% a tu estadística base Arcana.
+small_arcane_potion_description:Aumenta el daño y la resistencia Arcana en {amount_min1}% durante {time} y añade un 5% a tu estadística base Arcana.
 medium_arcane_potion:Poción mediana arcana
-medium_arcane_potion_craft_description:Aumenta el daño y la resistencia arcanos de {amount_min1}% a {amount_max1}%.
-medium_arcane_potion_description:Aumenta el daño y la resistencia arcanos en {amount_min1}% durante {time}.
+medium_arcane_potion_craft_description:Aumenta el daño y la resistencia Arcana entre {amount_min1}% y {amount_max1}% y añade un 10% a tu estadística base Arcana.
+medium_arcane_potion_description:Aumenta el daño y la resistencia arcana en {amount_min1}% durante {time} y añade un 10% a tu estadística base arcana.
 large_arcane_potion:Poción Arcana Grande
-large_arcane_potion_craft_description:Incrementa significativamente el daño y la resistencia arcanos de {amount_min1}% a {amount_max1}%.
-large_arcane_potion_description:Incrementa significativamente el daño y la resistencia arcanos en {amount_min1}% durante {time}.
+large_arcane_potion_craft_description:Aumenta el daño y la resistencia Arcana entre {amount_min1}% y {amount_max1}% y añade un 15% a tu estadística base Arcana.
+large_arcane_potion_description:Aumenta el daño y la resistencia Arcana en {amount_min1}% durante {time} y añade un 15% a tu estadística base Arcana.
 cooked_egg:Huevo Cocido
 cooked_egg_craft_description:Reconstituye de {amount_min1} a {amount_max1} de energía. La receta desaparecerá después del Evento de Pascua 2025.
 cooked_egg_description:Reconstituye {amount_min1} de energía.
@@ -281,6 +281,11 @@ small_arcane_potion_recipe:Receta de Poción Arcana Pequeña
 medium_arcane_potion_recipe:Receta de Poción Arcana Mediana
 large_arcane_potion_recipe:Receta de Poción Arcana Grande
 spicy_pork_bowl:Tazón de Cerdo Picante
-spicy_pork_bowl_craft_description:Reabastece de {amount_min1} a {amount_max1} de energía. Su sabor audaz otorga un breve impulso de velocidad.
-spicy_pork_bowl_description:Reabastece {amount_min1} de energía. Su sabor audaz otorga un breve impulso de velocidad.
+spicy_pork_bowl_craft_description:Reabastece de {amount_min1} a {amount_max1} de resistencia.
+spicy_pork_bowl_description:Reabastece {amount_min1} de resistencia.
 healthPotionOnlyInDungeonError:Solo puedes usar pociones de salud dentro de una mazmorra.
+bulkChestOpening:Abrir en Masa: Cofres {type} (Sin Animación)
+quickSellAllConfirm:Vender rápidamente todos los objetos anteriores
+totalSellValue:Valor total
+quickSell:Venta rápida
+mysterious_liquid_craft_description:Un extraño líquido turbio... ¿me atrevo a beberlo? (Mejora o reduce aleatoriamente una estadística por hasta -1{amount_min1}% a 1{amount_max1}% durante 3 horas)

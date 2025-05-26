@@ -190,50 +190,50 @@ benefit_consumable_carry_limit:{value} augmentation de la limite de transport de
 benefit_ingredient_carry_limit:{value} augmentation de la limite de transport des ingrédients
 benefit_inventory_size:{value} inventaire plus grand
 small_infernal_potion:Petite Potion Infernale
-small_infernal_potion_craft_description:Augmente les dégâts infernaux et la résistance de {amount_min1}% à {amount_max1}%.
-small_infernal_potion_description:Augmente les dégâts infernaux et la résistance de {amount_min1}% pendant {time}.
+small_infernal_potion_craft_description:Augmente les dégâts et la résistance Infernaux de {amount_min1}% à {amount_max1}% et ajoute 5% à votre statistique Infernale de base.
+small_infernal_potion_description:Augmente les dégâts et la résistance Infernaux de {amount_min1}% pendant {time} et ajoute 5% à votre statistique Infernale de base.
 medium_infernal_potion:Potion Infernale Moyenne
-medium_infernal_potion_craft_description:Renforce les dégâts infernaux et la résistance de {amount_min1}% à {amount_max1}%.
-medium_infernal_potion_description:Renforce les dégâts infernaux et la résistance de {amount_min1}% pendant {time}.
+medium_infernal_potion_craft_description:Augmente les dégâts et la résistance Infernaux de {amount_min1}% à {amount_max1}% et ajoute 10% à votre statistique Infernale de base.
+medium_infernal_potion_description:Augmente les dégâts et la résistance Infernaux de {amount_min1}% pendant {time} et ajoute 10% à votre statistique Infernale de base.
 large_infernal_potion:Grande Potion Infernale
-large_infernal_potion_craft_description:Augmente considérablement les dégâts infernaux et la résistance de {amount_min1}% à {amount_max1}%.
-large_infernal_potion_description:Augmente considérablement les dégâts infernaux et la résistance de {amount_min1}% pendant {time}.
+large_infernal_potion_craft_description:Augmente grandement les dégâts et la résistance Infernaux de {amount_min1}% à {amount_max1}% et ajoute 15% à votre statistique Infernale de base.
+large_infernal_potion_description:Augmente grandement les dégâts et la résistance Infernaux de {amount_min1}% pendant {time} et ajoute 15% à votre statistique Infernale de base.
 small_divine_potion:Petite Potion Divine
-small_divine_potion_craft_description:Augmente les dégâts divins et la résistance de {amount_min1}% à {amount_max1}%.
-small_divine_potion_description:Augmente les dégâts divins et la résistance de {amount_min1}% pendant {time}.
+small_divine_potion_craft_description:Augmente les dégâts et la résistance Divins de {amount_min1}% à {amount_max1}% et ajoute 5% à votre statistique Divine de base.
+small_divine_potion_description:Augmente les dégâts et la résistance Divins de {amount_min1}% pendant {time} et ajoute 5% à votre statistique Divine de base.
 medium_divine_potion:Potion Divine Moyenne
-medium_divine_potion_craft_description:Renforce les dégâts divins et la résistance de {amount_min1}% à {amount_max1}%.
-medium_divine_potion_description:Renforce les dégâts divins et la résistance de {amount_min1}% pendant {time}.
+medium_divine_potion_craft_description:Augmente les dégâts et la résistance Divins de {amount_min1}% à {amount_max1}% et ajoute 10% à votre statistique Divine de base.
+medium_divine_potion_description:Augmente les dégâts et la résistance Divins de {amount_min1}% pendant {time} et ajoute 10% à votre statistique Divine de base.
 large_divine_potion:Grande Potion Divine
-large_divine_potion_craft_description:Augmente considérablement les dégâts divins et la résistance de {amount_min1}% à {amount_max1}%.
-large_divine_potion_description:Augmente considérablement les dégâts divins et la résistance de {amount_min1}% pendant {time}.
+large_divine_potion_craft_description:Augmente grandement les dégâts et la résistance Divins de {amount_min1}% à {amount_max1}% et ajoute 15% à votre statistique Divine de base.
+large_divine_potion_description:Augmente grandement les dégâts et la résistance Divins de {amount_min1}% pendant {time} et ajoute 15% à votre statistique Divine de base.
 small_necrotic_potion:Petite Potion Nécrotique
-small_necrotic_potion_craft_description:Augmente les dégâts nécrotiques et la résistance de {amount_min1}% à {amount_max1}%.
-small_necrotic_potion_description:Augmente les dégâts nécrotiques et la résistance de {amount_min1}% pendant {time}.
+small_necrotic_potion_craft_description:Augmente les dégâts et la résistance Nécrotiques de {amount_min1}% à {amount_max1}% et ajoute 5% à votre statistique Nécrotique de base.
+small_necrotic_potion_description:Augmente les dégâts et la résistance Nécrotiques de {amount_min1}% pendant {time} et ajoute 5% à votre statistique Nécrotique de base.
 medium_necrotic_potion:Potion Nécrotique Moyenne
-medium_necrotic_potion_craft_description:Augmente les dégâts nécrotiques et la résistance de {amount_min1}% à {amount_max1}%.
-medium_necrotic_potion_description:Augmente les dégâts nécrotiques et la résistance de {amount_min1}% pendant {time}.
+medium_necrotic_potion_craft_description:Augmente les dégâts et la résistance Nécrotiques de {amount_min1}% à {amount_max1}% et ajoute 10% à votre statistique Nécrotique de base.
+medium_necrotic_potion_description:Augmente les dégâts et la résistance Nécrotiques de {amount_min1}% pendant {time} et ajoute 10% à votre statistique Nécrotique de base.
 large_necrotic_potion:Potion Nécrotique Grande
-large_necrotic_potion_craft_description:Augmente considérablement les dégâts nécrotiques et la résistance de {amount_min1}% à {amount_max1}%.
-large_necrotic_potion_description:Augmente considérablement les dégâts nécrotiques et la résistance de {amount_min1}% pendant {time}.
+large_necrotic_potion_craft_description:Augmente grandement les dégâts et la résistance Nécrotiques de {amount_min1}% à {amount_max1}% et ajoute 15% à votre statistique Nécrotique de base.
+large_necrotic_potion_description:Augmente grandement les dégâts et la résistance Nécrotiques de {amount_min1}% pendant {time} et ajoute 15% à votre statistique Nécrotique de base.
 small_frost_potion:Potion de Givre Petite
-small_frost_potion_craft_description:Augmente les dégâts de givre et la résistance de {amount_min1}% à {amount_max1}%.
-small_frost_potion_description:Augmente les dégâts de givre et la résistance de {amount_min1}% pendant {time}.
+small_frost_potion_craft_description:Augmente les dégâts et la résistance de Givre de {amount_min1}% à {amount_max1}% et ajoute 5% à votre statistique de Givre de base.
+small_frost_potion_description:Augmente les dégâts et la résistance de Givre de {amount_min1}% pendant {time} et ajoute 5% à votre statistique de Givre de base.
 medium_frost_potion:Potion de Givre Moyenne
-medium_frost_potion_craft_description:Augmente les dégâts de givre et la résistance de {amount_min1}% à {amount_max1}%.
-medium_frost_potion_description:Augmente les dégâts de givre et la résistance de {amount_min1}% pendant {time}.
+medium_frost_potion_craft_description:Augmente les dégâts et la résistance au Givre de {amount_min1}% à {amount_max1}% et ajoute 10% à votre statistique de Givre de base.
+medium_frost_potion_description:Augmente les dégâts et la résistance au Givre de {amount_min1}% pendant {time} et ajoute 10% à votre statistique de Givre de base.
 large_frost_potion:Potion de Givre Grande
-large_frost_potion_craft_description:Augmente considérablement les dégâts de givre et la résistance de {amount_min1}% à {amount_max1}%.
-large_frost_potion_description:Augmente considérablement les dégâts de givre et la résistance de {amount_min1}% pendant {time}.
+large_frost_potion_craft_description:Augmente considérablement les dégâts et la résistance au Givre de {amount_min1}% à {amount_max1}% et ajoute 15% à votre statistique de Givre de base.
+large_frost_potion_description:Augmente considérablement les dégâts et la résistance au Givre de {amount_min1}% pendant {time} et ajoute 15% à votre statistique de Givre de base.
 small_arcane_potion:Potion Arcanique Petite
-small_arcane_potion_craft_description:Augmente les dégâts arcaniques et la résistance de {amount_min1}% à {amount_max1}%.
-small_arcane_potion_description:Augmente les dégâts arcaniques et la résistance de {amount_min1}% pendant {time}.
+small_arcane_potion_craft_description:Augmente les dégâts et la résistance des Arcanes de {amount_min1}% à {amount_max1}% et ajoute 5% à votre statistique des Arcanes de base.
+small_arcane_potion_description:Augmente les dégâts et la résistance des Arcanes de {amount_min1}% pendant {time} et ajoute 5% à votre statistique des Arcanes de base.
 medium_arcane_potion:Potion Arcanique Moyenne
-medium_arcane_potion_craft_description:Augmente les dégâts et la résistance arcanique de {amount_min1}% à {amount_max1}%.
-medium_arcane_potion_description:Augmente les dégâts et la résistance arcanique de {amount_min1}% pendant {time}.
+medium_arcane_potion_craft_description:Augmente les dégâts et la résistance des Arcanes de {amount_min1}% à {amount_max1}% et ajoute 10% à votre statistique des Arcanes de base.
+medium_arcane_potion_description:Augmente les dégâts et la résistance des Arcanes de {amount_min1}% pendant {time} et ajoute 10% à votre statistique des Arcanes de base.
 large_arcane_potion:Grande Potion Arcanique
-large_arcane_potion_craft_description:Augmente considérablement les dégâts et la résistance arcanique de {amount_min1}% à {amount_max1}%.
-large_arcane_potion_description:Augmente considérablement les dégâts et la résistance arcanique de {amount_min1}% pendant {time}.
+large_arcane_potion_craft_description:Augmente les dégâts et la résistance des Arcanes de {amount_min1}% à {amount_max1}% et ajoute 15% à votre statistique des Arcanes de base.
+large_arcane_potion_description:Augmente les dégâts et la résistance des Arcanes de {amount_min1}% pendant {time} et ajoute 15% à votre statistique des Arcanes de base.
 cooked_egg:Œuf Cuit
 cooked_egg_craft_description:Redonne {amount_min1} à {amount_max1} d'endurance. La recette disparaîtra après l'événement de Pâques 2025.
 cooked_egg_description:Redonne {amount_min1} d'endurance.
@@ -281,6 +281,11 @@ small_arcane_potion_recipe:Recette de Petite Potion Arcane
 medium_arcane_potion_recipe:Recette de Potion Arcane Moyenne
 large_arcane_potion_recipe:Recette de Grande Potion Arcane
 spicy_pork_bowl:Bol de Porc Épicé
-spicy_pork_bowl_craft_description:Rétablit de {amount_min1} à {amount_max1} d'endurance. Sa saveur audacieuse offre un bref boost de vitesse.
-spicy_pork_bowl_description:Rétablit {amount_min1} d'endurance. Sa saveur audacieuse offre un bref boost de vitesse.
+spicy_pork_bowl_craft_description:Restaure de {amount_min1} à {amount_max1} d'endurance.
+spicy_pork_bowl_description:Restaure {amount_min1} d'endurance.
 healthPotionOnlyInDungeonError:Vous pouvez uniquement utiliser des potions de santé à l'intérieur d'un donjon.
+bulkChestOpening:Ouverture en masse : Coffres {type} (Sans animation)
+quickSellAllConfirm:Vendre rapidement tous les articles ci-dessus
+totalSellValue:Valeur totale
+quickSell:Vente Rapide
+mysterious_liquid_craft_description:Un liquide étrange et trouble... oserai-je le boire ? (Augmente ou réduit un stat aléatoirement de -1{amount_min1}% à 1{amount_max1}% pendant 3 heures)

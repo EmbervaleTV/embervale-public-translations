@@ -360,3 +360,4 @@ headless_horseman_bounty:Ein unheimlicher Reiter, der durch die Nacht streift. I
 shadow_creature_bounty:Ein schattenhaftes Geschöpf aus unbekannten Tiefen.
 spiky_turtle_bounty:Eine laufende Wand aus Stacheln—sei vorsichtig, denn sogar ihr Panzer ist eine Waffe.
 nailguns_bounty:Ein Mimikry, das vorgibt, Nailguns zu sein.
+demon_kitsune_bounty:Ein listiger Fuchsgeist, der durch dämonische Energie verdorben wurde. Täuschend, gefährlich und nie wirklich allein.

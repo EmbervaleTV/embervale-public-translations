@@ -6,7 +6,7 @@ tokenExpired:Le jeton d'authentification Twitch a expiré. Merci de recharger le
 invalidToken:<h3>Échec de l'authentification</h3> Merci de vérifier que l'horloge de ton système est synchronisée! <br> Sinon, l'authentification échouera!<br><br>Plus de solutions:<br>1) Rafraîchir la page<br>2) Désactiver les extensions du navigateur<br>3) Révoquer et accorder de nouveau les permissions des extensions<br>4) Se connecter et se déconnecter de Twitch<br>5) Essayer un autre navigateur<br><br>Pour plus d'aide, rejoins notre Discord : https://discord.gg/cT3ThCj
 errTwitchAccessNotGranted:Merci d'accorder l'accès à ton identifiant Twitch en cliquant sur l'icône du petit bonhomme en bas à droite!
 errNoInventoryItem:L'inventaire est vide!
-errInventoryIsFull:Ton inventaire est plein! Merci de vendre des objets!
+errInventoryIsFull:Oups ! Ton inventaire est plein — fais de la place d'abord !
 errMaterialInventoryIsFull:Votre inventaire de matériaux est plein ! Vous pouvez fabriquer quelque chose ou dépenser vos matériaux chez le Marchand dans la boutique !
 errConsumableInventoryIsFull:Ton inventaire de consommables est plein!
 errNotEnoughArcanites:Tu n'as pas assez d'Arcanites.

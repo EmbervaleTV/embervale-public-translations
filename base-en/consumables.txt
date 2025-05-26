@@ -91,56 +91,61 @@ large_wisdom_potion_description:Increases wisdom by {amount_min1}% for {time}.
 
 // elemental
 small_infernal_potion:Small Infernal Potion
-small_infernal_potion_craft_description:Increases infernal damage and resistance by {amount_min1}% to {amount_max1}%.
-small_infernal_potion_description:Increases infernal damage and resistance by {amount_min1}% for {time}.
+small_infernal_potion_craft_description:Boosts Infernal damage and resistance by {amount_min1}% to {amount_max1}% and adds 5% to your base Infernal stat.
+small_infernal_potion_description:Boosts Infernal damage and resistance by {amount_min1}% for {time} and adds 5% to your base Infernal stat.
 medium_infernal_potion:Medium Infernal Potion
-medium_infernal_potion_craft_description:Boosts infernal damage and resistance by {amount_min1}% to {amount_max1}%.
-medium_infernal_potion_description:Boosts infernal damage and resistance by {amount_min1}% for {time}.
+medium_infernal_potion_craft_description:Boosts Infernal damage and resistance by {amount_min1}% to {amount_max1}% and adds 10% to your base Infernal stat.
+medium_infernal_potion_description:Boosts Infernal damage and resistance by {amount_min1}% for {time} and adds 10% to your base Infernal stat.
 large_infernal_potion:Large Infernal Potion
-large_infernal_potion_craft_description:Greatly increases infernal damage and resistance by {amount_min1}% to {amount_max1}%.
-large_infernal_potion_description:Greatly increases infernal damage and resistance by {amount_min1}% for {time}.
+large_infernal_potion_craft_description:Greatly boosts Infernal damage and resistance by {amount_min1}% to {amount_max1}% and adds 15% to your base Infernal stat.
+large_infernal_potion_description:Greatly boosts Infernal damage and resistance by {amount_min1}% for {time} and adds 15% to your base Infernal stat.
+
 
 small_divine_potion:Small Divine Potion
-small_divine_potion_craft_description:Increases divine damage and resistance by {amount_min1}% to {amount_max1}%.
-small_divine_potion_description:Increases divine damage and resistance by {amount_min1}% for {time}.
+small_divine_potion_craft_description:Boosts Divine damage and resistance by {amount_min1}% to {amount_max1}% and adds 5% to your base Divine stat.
+small_divine_potion_description:Boosts Divine damage and resistance by {amount_min1}% for {time} and adds 5% to your base Divine stat.
 medium_divine_potion:Medium Divine Potion
-medium_divine_potion_craft_description:Boosts divine damage and resistance by {amount_min1}% to {amount_max1}%.
-medium_divine_potion_description:Boosts divine damage and resistance by {amount_min1}% for {time}.
+medium_divine_potion_craft_description:Boosts Divine damage and resistance by {amount_min1}% to {amount_max1}% and adds 10% to your base Divine stat.
+medium_divine_potion_description:Boosts Divine damage and resistance by {amount_min1}% for {time} and adds 10% to your base Divine stat.
 large_divine_potion:Large Divine Potion
-large_divine_potion_craft_description:Greatly increases divine damage and resistance by {amount_min1}% to {amount_max1}%.
-large_divine_potion_description:Greatly increases divine damage and resistance by {amount_min1}% for {time}.
+large_divine_potion_craft_description:Greatly boosts Divine damage and resistance by {amount_min1}% to {amount_max1}% and adds 15% to your base Divine stat.
+large_divine_potion_description:Greatly boosts Divine damage and resistance by {amount_min1}% for {time} and adds 15% to your base Divine stat.
+
 
 small_necrotic_potion:Small Necrotic Potion
-small_necrotic_potion_craft_description:Increases necrotic damage and resistance by {amount_min1}% to {amount_max1}%.
-small_necrotic_potion_description:Increases necrotic damage and resistance by {amount_min1}% for {time}.
+small_necrotic_potion_craft_description:Boosts Necrotic damage and resistance by {amount_min1}% to {amount_max1}% and adds 5% to your base Necrotic stat.
+small_necrotic_potion_description:Boosts Necrotic damage and resistance by {amount_min1}% for {time} and adds 5% to your base Necrotic stat.
 medium_necrotic_potion:Medium Necrotic Potion
-medium_necrotic_potion_craft_description:Boosts necrotic damage and resistance by {amount_min1}% to {amount_max1}%.
-medium_necrotic_potion_description:Boosts necrotic damage and resistance by {amount_min1}% for {time}.
+medium_necrotic_potion_craft_description:Boosts Necrotic damage and resistance by {amount_min1}% to {amount_max1}% and adds 10% to your base Necrotic stat.
+medium_necrotic_potion_description:Boosts Necrotic damage and resistance by {amount_min1}% for {time} and adds 10% to your base Necrotic stat.
 large_necrotic_potion:Large Necrotic Potion
-large_necrotic_potion_craft_description:Greatly increases necrotic damage and resistance by {amount_min1}% to {amount_max1}%.
-large_necrotic_potion_description:Greatly increases necrotic damage and resistance by {amount_min1}% for {time}.
+large_necrotic_potion_craft_description:Greatly boosts Necrotic damage and resistance by {amount_min1}% to {amount_max1}% and adds 15% to your base Necrotic stat.
+large_necrotic_potion_description:Greatly boosts Necrotic damage and resistance by {amount_min1}% for {time} and adds 15% to your base Necrotic stat.
+
 
 small_frost_potion:Small Frost Potion
-small_frost_potion_craft_description:Increases frost damage and resistance by {amount_min1}% to {amount_max1}%.
-small_frost_potion_description:Increases frost damage and resistance by {amount_min1}% for {time}.
+small_frost_potion_craft_description:Boosts Frost damage and resistance by {amount_min1}% to {amount_max1}% and adds 5% to your base Frost stat.
+small_frost_potion_description:Boosts Frost damage and resistance by {amount_min1}% for {time} and adds 5% to your base Frost stat.
 medium_frost_potion:Medium Frost Potion
-medium_frost_potion_craft_description:Boosts frost damage and resistance by {amount_min1}% to {amount_max1}%.
-medium_frost_potion_description:Boosts frost damage and resistance by {amount_min1}% for {time}.
+medium_frost_potion_craft_description:Boosts Frost damage and resistance by {amount_min1}% to {amount_max1}% and adds 10% to your base Frost stat.
+medium_frost_potion_description:Boosts Frost damage and resistance by {amount_min1}% for {time} and adds 10% to your base Frost stat.
 large_frost_potion:Large Frost Potion
-large_frost_potion_craft_description:Greatly increases frost damage and resistance by {amount_min1}% to {amount_max1}%.
-large_frost_potion_description:Greatly increases frost damage and resistance by {amount_min1}% for {time}.
+large_frost_potion_craft_description:Greatly boosts Frost damage and resistance by {amount_min1}% to {amount_max1}% and adds 15% to your base Frost stat.
+large_frost_potion_description:Greatly boosts Frost damage and resistance by {amount_min1}% for {time} and adds 15% to your base Frost stat.
+
 
 small_arcane_potion:Small Arcane Potion
-small_arcane_potion_craft_description:Increases arcane damage and resistance by {amount_min1}% to {amount_max1}%.
-small_arcane_potion_description:Increases arcane damage and resistance by {amount_min1}% for {time}.
+small_arcane_potion_craft_description:Boosts Arcane damage and resistance by {amount_min1}% to {amount_max1}% and adds 5% to your base Arcane stat.
+small_arcane_potion_description:Boosts Arcane damage and resistance by {amount_min1}% for {time} and adds 5% to your base Arcane stat.
 medium_arcane_potion:Medium Arcane Potion
-medium_arcane_potion_craft_description:Boosts arcane damage and resistance by {amount_min1}% to {amount_max1}%.
-medium_arcane_potion_description:Boosts arcane damage and resistance by {amount_min1}% for {time}.
+medium_arcane_potion_craft_description:Boosts Arcane damage and resistance by {amount_min1}% to {amount_max1}% and adds 10% to your base Arcane stat.
+medium_arcane_potion_description:Boosts arcane damage and resistance by {amount_min1}% for {time} and adds 10% to your base Arcane stat.
 large_arcane_potion:Large Arcane Potion
-large_arcane_potion_craft_description:Greatly increases arcane damage and resistance by {amount_min1}% to {amount_max1}%.
-large_arcane_potion_description:Greatly increases arcane damage and resistance by {amount_min1}% for {time}.
+large_arcane_potion_craft_description:Boosts Arcane damage and resistance by {amount_min1}% to {amount_max1}% and adds 15% to your base Arcane stat.
+large_arcane_potion_description:Boosts Arcane damage and resistance by {amount_min1}% for {time} and adds 15% to your base Arcane stat.
 
 mysterious_liquid:Mysterious Liquid
+mysterious_liquid_craft_description:A strange, murky liquid... dare I drink it? (Randomly boosts or reduces a stat by up to -1{amount_min1}% to 1{amount_max1}% for 3 hours)
 mysterious_liquid_description:A strange, murky liquid... dare I drink it? (Randomly boosts or reduces a stat by up to 10% for 3 hours)
 
 pumpkin_soup:Pumpkin Soup
@@ -205,8 +210,8 @@ bread_craft_description:Replenishes {amount_min1} to {amount_max1} stamina.
 bread_description:Replenishes {amount_min1} stamina.
 
 spicy_pork_bowl:Spicy Pork Bowl
-spicy_pork_bowl_craft_description:Replenishes {amount_min1} to {amount_max1} stamina. Its bold flavor grants a brief speed boost.
-spicy_pork_bowl_description:Replenishes {amount_min1} stamina. Its bold flavor grants a brief speed boost.
+spicy_pork_bowl_craft_description:Replenishes {amount_min1} to {amount_max1} stamina.
+spicy_pork_bowl_description:Replenishes {amount_min1} stamina.
 
 
 sex_change_potion:Sex Change Potion
@@ -316,6 +321,10 @@ present:Present
 mysterious_present:Mysterious Present
 forged_egg:Forged Egg
 mysterious_egg:Mysterious Egg
+bulkChestOpening:Bulk Open: {type} Chests (No Animation)
+quickSellAllConfirm:Quick sell all above items
+totalSellValue:Total Value
+quickSell:Quick Sell
 
 mysterious_pumpkin:Mysterious Pumpkin
 

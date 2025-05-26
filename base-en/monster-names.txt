@@ -512,6 +512,7 @@ vampire_lord:Vampire Lord
 black_dragon:Black Dragon
 the_kraken:The Kraken
 the_captain:The Captain
+demon_kitsune:Demon Kitsune
 
 // christmas event
 rudolph:Rudolph
@@ -542,7 +543,7 @@ invader_grunt:Invader Grunt
 invader_stalker:Invader Stalker
 invader_challenger:Invader Challenger
 invader_hunter:Invader Hunter
-invader_raptor:invader_raptor
+invader_raptor:Invader Raptor
 invader_brawler:Invader Brawler
 flying_chaos:Flying Chaos
 mind_flayer:Mind Flayer
@@ -668,3 +669,7 @@ mythical_stag:mythical_stag
 feral_satyr:Feral Satyr
 fairy_queen_titania:Fairy Queen Titania
 fairy_king_oberon:Fairy King Oberon
+siren:Siren
+sphinx:Sphinx
+basilisk:Basilisk
+cockatrice:Cockatrice

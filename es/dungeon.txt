@@ -19,5 +19,7 @@ selectConsumablesForDungeon:Selecciona las pociones que deseas llevar a la mazmo
 youDontHaveHealPotions:No tienes pociones de salud disponibles para agregar a tu bolsa de mazmorra.
 recommendedLevel:Nivel Recomendado
 enterDungeon:Entrar en la Mazmorra
-ascendedBossHpBarTooltip:Cada derrota reduce tu salud en un 25% para la siguiente pelea. Puedes usar pociones de salud para recuperarte.
-ascendedBossCantJoinHp:Debes tener al menos el 25% de tu salud para enfrentarte a un Jefe Ascendido.
+ascendedBossHpBarTooltip:Puedes beber dos pociones de salud por hora para recuperar salud.
+ascendedBossCantJoinHp:Estás demasiado herido por batallas anteriores. ¡Necesitas al menos 25% de HP para enfrentarte a un Jefe Ascendido! Restaura tu salud con pociones o espera a que se restablezca diariamente. Pasa el cursor sobre tu barra de salud para más detalles.
+ascendedBossHpBarTooltipPotions:Pociones consumidas
+ascendedBossHpBarFullheal:Curación completa en

@@ -144,3 +144,4 @@ reset_skill_points:[Actualización de Equilibrio] Restablece tus puntos de habil
 10_arcanite:10 Arcanite
 open_dragon_eggs:Rompe {amount} huevos de dragón.
 defeat_ascended_bosses:Derrota a {amount} jefes ascendidos
+consumable_bag_expansion:+5 Espacios en la Bolsa de Consumibles
