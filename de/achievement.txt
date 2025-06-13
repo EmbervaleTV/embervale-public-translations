@@ -145,3 +145,11 @@ reset_skill_points:[Balancing-Update] Setze deine Fertigkeitenpunkte zurück.
 open_dragon_eggs:Zerschmettere {amount} Dracheneier.
 defeat_ascended_bosses:Besiege {amount} aufgestiegene Bosse
 consumable_bag_expansion:+5 Verbrauchsgegenstandstaschenplätze
+complete_9hour_expedition:Schließe {amount} Expeditionen ab, die 9 Stunden oder länger dauern
+complete_12hour_expedition:Schließe {amount} Expeditionen ab, die 12 Stunden oder länger dauern
+reach_infernal_affinity_with_armor:Erreiche {percentage}% Infernal-Affinität durch ausgerüstete Rüstung
+reach_necrotic_affinity_with_armor:Erreiche {percentage}% Nekrotische Affinität durch ausgerüstete Rüstung
+reach_frost_affinity_with_armor:Erreiche {percentage}% Frost-Affinität durch ausgerüstete Rüstung
+reach_arcane_affinity_with_armor:Erreiche {percentage}% Arkane Affinität durch ausgerüstete Rüstung
+reach_divine_affinity_with_armor:Erreiche {percentage}% Göttliche Affinität durch ausgerüstete Rüstung
+complete_all_affinity_achievements:Schließe alle Affinitäts-Erfolge ab

@@ -22,17 +22,17 @@ waterstrider_bounty:An insect traversing quiet ponds
 deepwater_crab_warrior_bounty:Red shells like armor, pincers like blades
 deepwater_lurker_bounty:Between coral, kelp and stirred silt, visibility is low
 deepwater_urchin_bounty:A spiky ball gnawing on marine plants
-desert_rock_lizard_bounty:Between arid sand and stone, an suprising amount of life can thrive
+desert_rock_lizard_bounty:Between arid sand and stone, a surprising amount of life can thrive
 dusk_root_bounty:A rustle of leaves between the trees
 forgotten_goblin_bounty:A shade in the dark, clinging to an expired existence
 forgotten_slime_bounty:A shape in the dark, clinging to an expired existence
-lost_fairy_bounty:A menace of the fea realm
+lost_fairy_bounty:A menace of the fae realm
 scavenging_mandrake_bounty:A plant eerily humanlike
 skeleton_hare_bounty:Scout of the undead legion
 rain_wing_bounty:An unusual butterfly thriving even during heavy downpours
 tulip_wing_bounty:Its colorful appearance camouflages it almost perfectly in blooming fields
 inferno_wing_bounty:Each wing a single spark, a swarm equals a scorching inferno
-fire_snake_bounty:Beware of hissing noises in vulcanic environments
+fire_snake_bounty:Beware of hissing noises in volcanic environments
 lunar_wing_bounty:Dancing above meadows in moonlit nights
 fur_wing_bounty:A nocturnal hunter gliding on moth-like wings
 colossal_red_snake_bounty:Hissing and bright scales warn of the fangs of this oversized serpent
@@ -52,49 +52,49 @@ undead_gnoll_bounty:Fallen warrior of the plains tribe
 skeleton_commander_bounty:Expert leader of undead legions
 flaming_wolf_bounty:A flame in the form of a hunting beast
 flaming_wolf_spirit_bounty:A flickering flame on the brink
-colossal_bat_bounty: A cave-dwelling menace with powerful wings.
-colossal_dark_crow_bounty: Bringer of shadows and storms.
-colossal_scorpion_bounty: Lethal stinger and crushing force.
-forest_fox_bounty: Cunning hunter in the woods.
-forest_deer_bounty: Graceful, yet vigilant prey.
-forest_bee_bounty: Small but mighty pollinators with a painful sting.
-forest_blue_flower_bounty: Delicate, vibrant blooms with a captivating fragrance.
-forest_catermoth_bounty: Enigmatic forest dwellers that crawl and fly alike.
-forest_ghost_bounty: Eerie apparitions lurking in the forest shadows.
-forest_darkluff_bounty: Hidden masters of forest camouflage.
-forest_fairy_dragon_bounty: Enchanting, iridescent forest sprites with a penchant for mischief.
-forest_grasshopper_bounty: Agile leapers and masters of the forest floor.
-forest_imperial_widow_bounty: Beautiful yet dangerous, these venomous spiders demand respect.
-forest_mageshroom_bounty: Wise, mystical fungi with a touch of magic.
-forest_panda_bounty: Gentle, bamboo-munching giants of the forest.
-forest_pink_flower_bounty: Delicate pink blossoms that bring beauty to forest glades.
-forest_red_flower_bounty: Vibrant red blooms that attract pollinators and brighten the forest.
-forest_red_spider_bounty: Skilled hunters and web-weavers with a striking red appearance.
-forest_scorpion_bounty: Stealthy, venomous predators with powerful pincers.
-forest_shroom_bounty: Ubiquitous forest fungi with a familiar cap and stem structure.
-forest_spider_bounty: Adaptable hunters and web-builders thriving in various forest environments.
-forest_spora_bounty: Unique, plant-like beings supporting the forest ecosystem with spores and nutrients.
-forest_mothy_bounty: Nocturnal pollinators with intricate wings, attracted to light sources.
-forest_sprout_bounty: Playful plant beings emerging from the forest floor to explore their surroundings.
-forest_tree_bounty: Towering guardians providing shelter, food, and homes to countless forest species.
-ice_serpent_bounty: Cold-blooded reptiles with ice abilities in the frozen lands.
-ice_wolf_bounty: Cold-adapted wolves with thick fur coats and keen hunting instincts.
-ice_snow_golem_bounty: Constructs of ice and snow, controlling the elements around them.
-ice_snowman_bounty: Snow and ice creatures with frosty spells for self-defense.
-ice_wisp_bounty: Ethereal creatures with a chilling aura, freezing the air around them.
-ice_spike_bounty: Sentient ice formations attacking prey with speed and precision.
-plague_rat_bounty: Disease-ridden rodents spreading illnesses through bites.
-undead_jiangshi_bounty: Reanimated corpses with supernatural strength.
-wind_wisp_bounty: Ethereal creatures manipulating air to create gusts and whirlwinds.
-zombie_forest_flower_bounty: Undead flora releasing infection-spreading spores.
-skeleton_mage_bounty: Reanimated spellcasters wielding dark magic and commanding the dead.
-giant_mosquito_bounty: Enormous insects with insatiable blood appetite, transmitting diseases.
-forest_green_spider_bounty: Large, venomous arachnids weaving webs and injecting venom.
-forest_shroomy_bounty: Fungal creatures with a symbiotic relationship with flora, releasing spores.
-forest_turtle_bounty: Gentle, slow reptiles known for longevity, patience, and protective shells.
-forest_uzu_bounty: Nimble creatures with nature magic, protecting their territory and inhabitants.
-forest_white_flower_bounty: Rare blossoms with potent healing properties and alluring scent.
-forest_wolf_bounty: Cunning predators known for keen senses, agility, and loyalty to packmates.
+colossal_bat_bounty:A cave-dwelling menace with powerful wings.
+colossal_dark_crow_bounty:Bringer of shadow and storm.
+colossal_scorpion_bounty:Lethal stinger and crushing force.
+forest_fox_bounty:Cunning hunter in the woods.
+forest_deer_bounty:Graceful, yet vigilant prey.
+forest_bee_bounty:Small but mighty pollinators with a painful sting.
+forest_blue_flower_bounty:Delicate, vibrant blooms with a captivating fragrance.
+forest_catermoth_bounty:Enigmatic forest dwellers that crawl and fly alike.
+forest_ghost_bounty:Eerie apparitions lurking in the forest shadows.
+forest_darkluff_bounty:Hidden masters of forest camouflage.
+forest_fairy_dragon_bounty:Enchanting, iridescent forest sprites with a penchant for mischief.
+forest_grasshopper_bounty:Agile leapers and masters of the forest floor.
+forest_imperial_widow_bounty:Beautiful yet dangerous, these venomous spiders demand respect.
+forest_mageshroom_bounty:Wise, mystical fungi with a touch of magic.
+forest_panda_bounty:Gentle, bamboo-munching giants of the forest.
+forest_pink_flower_bounty:Delicate pink blossoms that bring beauty to forest glades.
+forest_red_flower_bounty:Vibrant red blooms that attract pollinators and brighten the forest.
+forest_red_spider_bounty:Skilled hunters and web-weavers with a striking red appearance.
+forest_scorpion_bounty:Stealthy, venomous predators with powerful pincers.
+forest_shroom_bounty:Ubiquitous forest fungi with a familiar cap and stem structure.
+forest_spider_bounty:Adaptable hunters and web-builders thriving in various forest environments.
+forest_spora_bounty:Unique, plant-like beings supporting the forest ecosystem with spores and nutrients.
+forest_mothy_bounty:Nocturnal pollinators with intricate wings, attracted to light sources.
+forest_sprout_bounty:Playful plant beings emerging from the forest floor to explore their surroundings.
+forest_tree_bounty:Towering guardians providing shelter, food, and homes to countless forest species.
+ice_serpent_bounty:Cold-blooded reptiles with ice abilities in the frozen lands.
+ice_wolf_bounty:Cold-adapted wolves with thick fur coats and keen hunting instincts.
+ice_snow_golem_bounty:Constructs of ice and snow, controlling the elements around them.
+ice_snowman_bounty:Snow and ice creatures with frosty spells for self-defense.
+ice_wisp_bounty:Ethereal creatures with a chilling aura, freezing the air around them.
+ice_spike_bounty:Sentient ice formations attacking prey with speed and precision.
+plague_rat_bounty:Disease-ridden rodents spreading illnesses through bites.
+undead_jiangshi_bounty:Reanimated corpses with supernatural strength.
+wind_wisp_bounty:Ethereal creatures manipulating air to create gusts and whirlwinds.
+zombie_forest_flower_bounty:Undead flora releasing infection-spreading spores.
+skeleton_mage_bounty:Reanimated spellcasters wielding dark magic and commanding the dead.
+giant_mosquito_bounty:Enormous insects with insatiable blood appetite, transmitting diseases.
+forest_green_spider_bounty:Large, venomous arachnids weaving webs and injecting venom.
+forest_shroomy_bounty:Fungal creatures with a symbiotic relationship with flora, releasing spores.
+forest_turtle_bounty:Gentle, slow reptiles known for longevity, patience, and protective shells.
+forest_uzu_bounty:Nimble creatures with nature magic, protecting their territory and inhabitants.
+forest_white_flower_bounty:Rare blossoms with potent healing properties and alluring scent.
+forest_wolf_bounty:Cunning predators known for keen senses, agility, and loyalty to packmates.
 abyss_wing_bounty:Plunge into darkness to face this lurking terror.
 frozen_mantis_bounty:Brave the chill to take down this icy predator.
 ice_bull_bounty:Confront this frozen behemoth and break its icy grip.
@@ -112,49 +112,49 @@ insects_dragon_bounty:Disperse the horrifying swarm and bring down the insects d
 wood_golem_bounty:Guardian of the forest with unyielding strength.
 blazing_shroom_bounty:Fiery flora that burns with a vengeance.
 intoxicating_shroom_bounty:Mind-bending mushroom that confounds foes.
-darkness_seeker_bounty: Hunt the lurking predator in the shadows.
-darkness_wisp_bounty: Vanquish the darkness-imbued wisp.
-bush_wisp_bounty: Locate and eliminate the hidden bush wisp.
-leaf_imp_bounty: Neutralize the mischievous leaf imp.
-earth_wisp_bounty: Confront and defeat the earth wisp guardian.
-mandrake_bounty: Retrieve the valuable mandrake root, but beware its deafening cry.
-earth_lion_bounty: Tame the fearsome earth lion before it causes more destruction.
-earth_snake_bounty: Stop the earth snake's tremor-causing rampage.
-earth_turtle_bounty: Crack the unyielding shell of the earth turtle.
-fire_lion_bounty: Extinguish the fire lion's burning rage.
-fire_turtle_bounty: Cool down the fire turtle's scorching wrath.
-fox_bandit_bounty: Apprehend the elusive fox bandit and reclaim stolen goods.
-fox_crook_bounty: Bring the scheming fox crook to justice.
-fox_rogue_bounty: Dismantle the fox rogue's spy network.
-shark_frog_bounty: Halt the shark frog's threat to the ecosystem.
-bull_lion_bounty: Subdue the bull lion and restore countryside peace.
-tiger_dragon_bounty: Prevent the tiger dragon's reign of terror.
-gargoyle_grifos_bounty: Dislodge the gargoyle grifos and protect sacred ruins.
-garuda_garunix_bounty: End garuda garunix's aerial dominance.
-ghost_puppet_bounty: Free captives from the ghost puppet's control.
-ghost_revelator_bounty: Put the restless ghost revelator spirit to rest.
-storm_hawk_bounty: Protect the village from the storm hawk's tempests.
-colossal_frog_bounty: Save the ecosystem from the colossal frog's rampage.
-flightless_bird_bounty: Return the flightless bird to its habitat.
-demon_critter_fox_bounty: Release victims from the demon critter fox's grip.
-demon_critter_rabbit_bounty: Restore order from the demon critter rabbit's chaos.
-demon_critter_squirrel_bounty: End the demon critter squirrel's mischief.
-demon_imp_bounty: Free victims from the demon imp's torment.
-darkness_gargoyle_bounty: Dispel darkness gargoyle's shadowy influence.
-devilimp_bounty: Restore harmony disrupted by the devil imp.
-dragon_wyrm_bounty: Protect the land from the dragon wyrm's destruction.
-blue_wyvern_bounty: Break the blue wyvern's icy grip.
-brown_wyvern_bounty: Stabilize terrain disrupted by the brown wyvern.
-red_wyvern_bounty: Save settlements from the red wyvern's flames.
-dryads_companion_bounty: Earn trust from the dryads' companion.
-mountain_snail_bounty: Collect snail shells, maintain ecosystem balance.
-mountain_wolf_bounty: Capture the livestock-threatening mountain wolf.
-mountain_winter_wolf_bounty: Defend village from mountain winter wolves.
-mountain_behemoth_bounty: Confront the mountain behemoth, retrieve artifact.
-squirrel_mage_bounty: Persuade squirrel mage to share arcane knowledge.
-squirrel_warrior_bounty: Help squirrel warrior defend its home.
-squirrel_defender_bounty: Aid squirrel defender in repelling invaders.
-root_shield_bounty: Discover the ancient root shield's secret.
+darkness_seeker_bounty:Hunt the lurking predator in the shadows.
+darkness_wisp_bounty:Vanquish the darkness-imbued wisp.
+bush_wisp_bounty:Locate and eliminate the hidden bush wisp.
+leaf_imp_bounty:Neutralize the mischievous leaf imp.
+earth_wisp_bounty:Confront and defeat the earth wisp guardian.
+mandrake_bounty:Retrieve the valuable mandrake root, but beware its deafening cry.
+earth_lion_bounty:Tame the fearsome earth lion before it causes more destruction.
+earth_snake_bounty:Stop the earth snake's tremor-causing rampage.
+earth_turtle_bounty:Crack the unyielding shell of the earth turtle.
+fire_lion_bounty:Extinguish the fire lion's burning rage.
+fire_turtle_bounty:Cool down the fire turtle's scorching wrath.
+fox_bandit_bounty:Apprehend the elusive fox bandit and reclaim stolen goods.
+fox_crook_bounty:Bring the scheming fox crook to justice.
+fox_rogue_bounty:Dismantle the fox rogue's spy network.
+shark_frog_bounty:Halt the shark frog's threat to the ecosystem.
+bull_lion_bounty:Subdue the bull lion and restore countryside peace.
+tiger_dragon_bounty:Prevent the tiger dragon's reign of terror.
+gargoyle_grifos_bounty:Dislodge the gargoyle grifos and protect sacred ruins.
+garuda_garunix_bounty:End garuda garunix's aerial dominance.
+ghost_puppet_bounty:Free captives from the ghost puppet's control.
+ghost_revelator_bounty:Put the restless ghost revelator spirit to rest.
+storm_hawk_bounty:Protect the village from the storm hawk's tempests.
+colossal_frog_bounty:Save the ecosystem from the colossal frog's rampage.
+flightless_bird_bounty:Return the flightless bird to its habitat.
+demon_critter_fox_bounty:Release victims from the demon critter fox's grip.
+demon_critter_rabbit_bounty:Restore order from the demon critter rabbit's chaos.
+demon_critter_squirrel_bounty:End the demon critter squirrel's mischief.
+demon_imp_bounty:Free victims from the demon imp's torment.
+darkness_gargoyle_bounty:Dispel darkness gargoyle's shadowy influence.
+devilimp_bounty:Restore harmony disrupted by the devil imp.
+dragon_wyrm_bounty:Protect the land from the dragon wyrm's destruction.
+blue_wyvern_bounty:Break the blue wyvern's icy grip.
+brown_wyvern_bounty:Stabilize terrain disrupted by the brown wyvern.
+red_wyvern_bounty:Save settlements from the red wyvern's flames.
+dryads_companion_bounty:Earn trust from the dryads' companion.
+mountain_snail_bounty:Collect snail shells, maintain ecosystem balance.
+mountain_wolf_bounty:Capture the livestock-threatening mountain wolf.
+mountain_winter_wolf_bounty:Defend village from mountain winter wolves.
+mountain_behemoth_bounty:Confront the mountain behemoth, retrieve artifact.
+squirrel_mage_bounty:Persuade squirrel mage to share arcane knowledge.
+squirrel_warrior_bounty:Help squirrel warrior defend its home.
+squirrel_defender_bounty:Aid squirrel defender in repelling invaders.
+root_shield_bounty:Discover the ancient root shield's secret.
 cave_dweller_worm_bounty:This slippery cave lurker is hungry for more than just dirt.
 fire_vulture_bounty:Defeat the fiery bird with a taste for heat.
 fire_wisp_bounty:Extinguish this volatile ball of flame before it burns you.
@@ -177,21 +177,21 @@ mysterious_white_mage_bounty:Unravel the enigma of the mysterious white mage and
 betafish_bounty:Prove your prowess in the water by taking on the swift and territorial betafish.
 biofish_bounty:Face off against the biofish, a genetically engineered marvel, in a battle of wits and agility.
 corrupt_executioner_bounty:Bring justice to the once-noble executioner, now corrupt and twisted by the darkness.
-iron_minotaur_bounty: Battle the powerful iron minotaur construct.
-cerberus_ptolemaios_bounty: Face Cerberus Ptolemaios, guardian of secrets.
-mountain_griffon_bounty: Defeat the majestic mountain griffon and claim your reward.
-mountain_harpy_bounty: Capture or defeat a mountain harpy to bring peace to the mountains.
-mountain_hornet_bounty: Eliminate the mountain hornet, a buzzing threat to travelers.
-mountain_nanjo_bounty: Conquer the elusive mountain nanjo and unravel its mysterious nature.
-mountain_bunny_bounty: Capture the mischievous mountain bunny, a surprisingly challenging foe.
-mountain_greathorn_goat_bounty: Hunt down a Mountain Greathorn Goat to collect its valuable horns.
-plant_snail_bounty: Capture a Plant Snail to aid in the study of its unique plant-based symbiosis.
-toxic_spreader_bounty: Defeat a Toxic Spreader to protect local wildlife from its harmful poison.
-cape_sundew_bounty: Collect a Cape Sundew to help research its carnivorous abilities.
-sea_lurker_bounty: Hunt down a Sea Lurker to ensure the safety of local fishermen and swimmers.
-sea_jellyfish_bounty: Collect samples from Sea Jellyfish to aid in the development of anti-venom treatments.
-sea_horse_bounty: Capture a Sea Horse for a marine biologist studying their unique reproduction habits.
-sea_lickitoad_bounty: Bring in a Sea Lickitoad for an ecologist researching their impact on local ecosystems.
+iron_minotaur_bounty:Battle the powerful iron minotaur construct.
+cerberus_ptolemaios_bounty:Face Cerberus Ptolemaios, guardian of secrets.
+mountain_griffon_bounty:Defeat the majestic mountain griffon and claim your reward.
+mountain_harpy_bounty:Capture or defeat a mountain harpy to bring peace to the mountains.
+mountain_hornet_bounty:Eliminate the mountain hornet, a buzzing threat to travelers.
+mountain_nanjo_bounty:Conquer the elusive mountain nanjo and unravel its mysterious nature.
+mountain_bunny_bounty:Capture the mischievous mountain bunny, a surprisingly challenging foe.
+mountain_greathorn_goat_bounty:Hunt down a Mountain Greathorn Goat to collect its valuable horns.
+plant_snail_bounty:Capture a Plant Snail to aid in the study of its unique plant-based symbiosis.
+toxic_spreader_bounty:Defeat a Toxic Spreader to protect local wildlife from its harmful poison.
+cape_sundew_bounty:Collect a Cape Sundew to help research its carnivorous abilities.
+sea_lurker_bounty:Hunt down a Sea Lurker to ensure the safety of local fishermen and swimmers.
+sea_jellyfish_bounty:Collect samples from Sea Jellyfish to aid in the development of anti-venom treatments.
+sea_horse_bounty:Capture a Sea Horse for a marine biologist studying their unique reproduction habits.
+sea_lickitoad_bounty:Bring in a Sea Lickitoad for an ecologist researching their impact on local ecosystems.
 sea_shark_bounty:Sharks that prefer jacuzzis over open waters.
 sea_tortoad_bounty:Slow-moving amphibious hybrids with a penchant for naps.
 sea_turtle_bounty:Wise ocean navigators with a compass built into their shells.
@@ -227,19 +227,19 @@ horn_willow_bounty:Harvest the enchanted Horn Willow without damaging its delica
 electroctopus_bounty:Outwit the cunning Electroctopus and harness its electrical abilities for good.
 silver_avian_bounty:Capture the elusive Silver Avian to study its remarkable speed and agility.
 spike_hopper_bounty:Deal with the Spike Hopper infestation before they devastate the local crops.
-spiked_caterpillar_bounty: Stop Spiked Caterpillars, protect fauna from venom.
-rocktail_demolisher_bounty: Prevent Rocktail Demolishers from wrecking infrastructure.
-roaming_salamander_bounty: Catch elusive salamander before it moves furniture.
-void_gargoyle_bounty: Bring philosophical beast back from existential crisis.
-white_minotaur_bounty: Bond with gentle beast over a vegan meal.
-avian_elephant_bounty: Assist flight-challenged creature in returning to skies.
-black_lance_knight_bounty: Out-joust knight, uncover immortality secret.
-minivolcano_bounty: Contain Minivolcano, learn its explosive power secrets.
-fire_salamander_bounty: Capture elusive Fire Salamander, find heat resistance secret.
-fire_dragonspawn_bounty: Defeat Fire Dragonspawn, claim magical fire scale.
-lava_spawn_bounty: Tame Lava Spawn, solve mysteries of molten core.
-fire_ogre_bounty: Vanquish Fire Ogre, access powerful fire magic techniques.
-bug_originator_bounty: Hunt elusive Bug Originator, acquire insect-controlling pheromones.
+spiked_caterpillar_bounty:Stop Spiked Caterpillars, protect fauna from venom.
+rocktail_demolisher_bounty:revent Rocktail Demolishers from wrecking infrastructure.
+roaming_salamander_bounty:Catch elusive salamander before it moves furniture.
+void_gargoyle_bounty:Bring philosophical beast back from existential crisis.
+white_minotaur_bounty:Bond with gentle beast over a vegan meal.
+avian_elephant_bounty:Assist flight-challenged creature in returning to skies.
+black_lance_knight_bounty:Out-joust knight, uncover immortality secret.
+minivolcano_bounty:Contain Minivolcano, learn its explosive power secrets.
+fire_salamander_bounty:Capture elusive Fire Salamander, find heat resistance secret.
+fire_dragonspawn_bounty:Defeat Fire Dragonspawn, claim magical fire scale.
+lava_spawn_bounty:Tame Lava Spawn, solve mysteries of molten core.
+fire_ogre_bounty:Vanquish Fire Ogre, access powerful fire magic techniques.
+bug_originator_bounty:Hunt elusive Bug Originator, acquire insect-controlling pheromones.
 dwarf_dragon_bounty:Capture this mini fire-breather for a tiny, but fierce reward.
 darkness_fox_bounty:Bring in this shadowy fox and be the talk of the town.
 light_fox_bounty:Seize this luminous fox to brighten up your life.
@@ -342,24 +342,24 @@ slime_earthi_bounty:Subdue malleable Slime Earthi, tricky foe.
 colossal_mummy_bounty:Face ancient, massive Colossal Mummy.
 metal_golem_bounty:Test mettle vs. Metal Golem, tough construct.
 snow_golem_bounty:Battle the icy Snow Golem and halt its frosty reign.
-sorceress_bounty: A sorceress who turned on your group during an adventure. Not the nicest memory!
-shimmering_dragon_bounty: A cunning Shimmering Dragon with dazzling white scales, known for its elusive nature and rumored to possess ancient wisdom.
-night_blade_assassin_bounty: Elusive and lethal, the Night Blade Assassin is wanted for discreet eliminations—approach with caution.
-night_blade_commander_bounty: Hunt down the Night Blade Commander, a cunning mastermind leading the deadliest of shadows, and claim the substantial reward.
-shadow_beast_bounty: Capture or neutralize the elusive Shadow Beast, offering a reward to those who can unveil its enigmatic nature.
-fiery_cultist_bounty: A pyromancer draped in fire, sought for unleashing deadly infernos.
-cultist_caller_bounty: Mysterious summoner of dark entities, wanted for manipulating unseen forces.
-novice_cultist_bounty: A fledgling in dark rituals, sought for meddling with forbidden powers.
+sorceress_bounty:A sorceress who turned on your group during an adventure. Not the nicest memory!
+shimmering_dragon_bounty:A cunning Shimmering Dragon with dazzling white scales, known for its elusive nature and rumored to possess ancient wisdom.
+night_blade_assassin_bounty:Elusive and lethal, the Night Blade Assassin is wanted for discreet eliminations—approach with caution.
+night_blade_commander_bounty:Hunt down the Night Blade Commander, a cunning mastermind leading the deadliest of shadows, and claim the substantial reward.
+shadow_beast_bounty:Capture or neutralize the elusive Shadow Beast, offering a reward to those who can unveil its enigmatic nature.
+fiery_cultist_bounty:A pyromancer draped in fire, sought for unleashing deadly infernos.
+cultist_caller_bounty:Mysterious summoner of dark entities, wanted for manipulating unseen forces.
+novice_cultist_bounty:A fledgling in dark rituals, sought for meddling with forbidden powers.
 brigand_skirmisher_bounty:Brigand Skirmisher known for lightning raids on merchant caravans. Reward for capture or proof of dispatch.
 brigand_watcher_bounty:Brigand Watcher spotted near the eastern woods, endangering travelers. Bounty for ensuring the area's safety.
 city_watch_commander_bounty:Sought for orchestrating a corrupt scheme under the guise of law enforcement.
-haunting_ghost_bounty: Confront the Haunting Ghost, a tormented soul lost between worlds, seeking vengeance.
-bell_pepper_lizard_bounty: Hunt the mythical Bell Pepper Lizard, key to crafting the ultimate culinary masterpiece.
-nightmare_stalker_bounty: A monstrosity born into the physical world by a nightmare.
+haunting_ghost_bounty:Confront the Haunting Ghost, a tormented soul lost between worlds, seeking vengeance.
+bell_pepper_lizard_bounty:Hunt the mythical Bell Pepper Lizard, key to crafting the ultimate culinary masterpiece.
+nightmare_stalker_bounty:A monstrosity born into the physical world by a nightmare.
 headless_horseman_bounty:A sinister rider roaming through the night. Seeing him is considered a bad omen.
-shadow_creature_bounty: A shadowy creature from unknown depths.
-spiky_turtle_bounty: A walking wall of spikes—take caution, for even its shell is a weapon.
-demon_kitsune_bounty: A cunning fox spirit twisted by demonic energy. Deceptive, dangerous, and never truly alone.
+shadow_creature_bounty:A shadowy creature from unknown depths.
+spiky_turtle_bounty:A walking wall of spikes—take caution, for even its shell is a weapon.
+demon_kitsune_bounty:A cunning fox spirit twisted by demonic energy. Deceptive, dangerous, and never truly alone.
 
 // special
 nailguns_bounty:A mimic that pretends to be Nailguns.

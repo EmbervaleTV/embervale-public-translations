@@ -22,7 +22,7 @@ waterstrider_bounty:Ein Insekt, das ruhige Teiche überquert
 deepwater_crab_warrior_bounty:Rote Schalen wie Rüstungen, Scheren wie Klingen
 deepwater_lurker_bounty:Zwischen Korallen, Algen und aufgewühltem Schlamm ist die Sicht eingeschränkt
 deepwater_urchin_bounty:Ein stacheliger Ball, der an Meerespflanzen knabbert
-desert_rock_lizard_bounty:Zwischen trockenem Sand und Stein kann erstaunlich viel Leben gedeihen
+desert_rock_lizard_bounty:Zwischen trockenem Sand und Stein kann überraschend viel Leben gedeihen
 dusk_root_bounty:Ein Rascheln der Blätter zwischen den Bäumen
 forgotten_goblin_bounty:Ein Schatten in der Dunkelheit, klammert sich an eine vergessene Existenz
 forgotten_slime_bounty:Eine Gestalt in der Dunkelheit, klammert sich an eine vergessene Existenz
@@ -32,7 +32,7 @@ skeleton_hare_bounty:Späher der untoten Legion
 rain_wing_bounty:Ein ungewöhnlicher Schmetterling, der selbst bei Starkregen gedeiht
 tulip_wing_bounty:Sein farbenfrohes Aussehen tarnt es fast perfekt in blühenden Feldern
 inferno_wing_bounty:Jeder Flügel ein einziger Funke, ein Schwarm gleich einem lodernden Inferno
-fire_snake_bounty:Hüte dich vor zischenden Geräuschen in vulkanischen Umgebungen
+fire_snake_bounty:Hüte dich vor Zischgeräuschen in vulkanischen Umgebungen
 lunar_wing_bounty:Tanzend über Wiesen in mondhellen Nächten
 fur_wing_bounty:Ein nächtlicher Jäger, der auf mottenähnlichen Flügeln gleitet
 colossal_red_snake_bounty:Zischen und leuchtende Schuppen warnen vor den Fängen dieser übergroßen Schlange
@@ -53,7 +53,7 @@ skeleton_commander_bounty:Erfahrener Anführer untoter Legionen
 flaming_wolf_bounty:Eine Flamme in Gestalt eines Jagdtieres
 flaming_wolf_spirit_bounty:Eine flackernde Flamme am Rand des Erlöschens
 colossal_bat_bounty:Eine höhlenbewohnende Bedrohung mit mächtigen Flügeln.
-colossal_dark_crow_bounty:Bringer von Schatten und Stürmen.
+colossal_dark_crow_bounty:Bringer von Schatten und Sturm.
 colossal_scorpion_bounty:Tödlicher Stachel und zerschmetternde Kraft.
 forest_fox_bounty:Gerissener Jäger im Wald.
 forest_deer_bounty:Anmutige, aber wachsame Beute.
@@ -228,7 +228,7 @@ electroctopus_bounty:Überliste den gerissenen Electroctopus und nutze seine ele
 silver_avian_bounty:Fang den schwer fassbaren Silver Avian, um seine bemerkenswerte Geschwindigkeit und Beweglichkeit zu studieren.
 spike_hopper_bounty:Beseitige die Spike Hopper Plage, bevor sie die lokalen Ernten zerstören.
 spiked_caterpillar_bounty:Stoppe die Spiked Caterpillars und schütze die Fauna vor Gift.
-rocktail_demolisher_bounty:Verhindere, dass Rocktail Demolishers die Infrastruktur zerstören.
+rocktail_demolisher_bounty:Hindere Rocktail-Zerstörer daran, die Infrastruktur zu zerstören.
 roaming_salamander_bounty:Fang die schwer fassbare Salamander, bevor sie Möbel verschiebt.
 void_gargoyle_bounty:Bring das philosophische Wesen aus der existenziellen Krise zurück.
 white_minotaur_bounty:Schließ Freundschaft mit dem sanften Wesen bei einem veganen Mahl.

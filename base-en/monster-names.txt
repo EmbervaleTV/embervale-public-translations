@@ -282,8 +282,8 @@ frozen_skirmisher:Frozen Skirmisher
 ant_lion:Ant Lion
 black_ant_ranger:Black Ant Ranger
 black_ant_mage:Black Ant Mage
-black_ant_berserker: Black Ant Berserker
-black_ant_knight: Black Ant Knight
+black_ant_berserker:Black Ant Berserker
+black_ant_knight:Black Ant Knight
 kobold_archer:Kobold Archer
 kobold_armor:Kobold Armor
 kobolds_dagger:Kobold's Dagger
@@ -479,13 +479,13 @@ slime_earthi:Slime Earthi
 colossal_mummy:Colossal Mummy
 metal_golem:Metal Golem
 sorceress:Sorceress
-shimmering_dragon: Shimmering Dragon
-night_blade_assassin: Night Blade Assassin
-night_blade_commander: Night Blade Commander
-shadow_beast: Shadow Beast
+shimmering_dragon:Shimmering Dragon
+night_blade_assassin:Night Blade Assassin
+night_blade_commander:Night Blade Commander
+shadow_beast:Shadow Beast
 fiery_cultist:Fiery Cultist
 cultist_caller:Cultist Caller
-novice_cultist: Novice Cultist
+novice_cultist:Novice Cultist
 loyal_wolf:Loyal Wolf
 consumed_hero:Consumed Hero
 dark_elf_healer:Dark Elf Healer
@@ -502,7 +502,7 @@ flaming_slime:Flaming Slime
 lady_of_the_vale:Lady of the Vale
 volcanic_maiden:Volcanic Maiden
 gemstone_fire_dragon:Gemstone Fire Dragon
-ignithor_the_charred_sovereign:Ignithor, the charred Sovereign
+ignithor_the_charred_sovereign:Ignithor, the Charred Sovereign
 blightflame_first_of_dragons:Blightflame, first of Dragons
 spiky_turtle:Spiky turtle
 lich:Lich
@@ -665,7 +665,7 @@ sylvan_bear:Sylvan Bear
 sylvan_unicorn:Sylvan Unicorn
 queen_bee:Queen Bee
 mischevious_pixie:Mischevious Pixie
-mythical_stag:mythical_stag
+mythical_stag:Mythical Stag
 feral_satyr:Feral Satyr
 fairy_queen_titania:Fairy Queen Titania
 fairy_king_oberon:Fairy King Oberon
@@ -673,3 +673,4 @@ siren:Siren
 sphinx:Sphinx
 basilisk:Basilisk
 cockatrice:Cockatrice
+hag:Hag

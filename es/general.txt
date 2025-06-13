@@ -606,9 +606,9 @@ chooseIcon:Elegir icono
 equipPreset:Equipar conjunto
 free:Gratis
 purchasePreset:Comprar Preajuste
-limitFPS:Capar el FPS de la animación
+limitFPS:Cap FPS de animación de personajes
 imageResolutionTip:(Solo cambia a baja si las imágenes están cargando lentamente)
-limitFPSTip:(Reducir el FPS puede optimizar el rendimiento al usar menos recursos)
+limitFPSTip:(Reducir los fotogramas por segundo disminuye el uso de recursos y puede mejorar el rendimiento)
 controlsTip:(Elige escritorio para la entrada del ratón y móvil para controles táctiles)
 dangerZone:Zona de Peligro
 patreonThanks:El Proyecto nunca sería posible sin nuestros Patreons. Mucho amor a todos ustedes ♥ Y un agradecimiento especial a nuestro:
@@ -689,3 +689,13 @@ purchaseSlot:Comprar Espacio
 loginInNewWindow:Iniciar sesión (Nueva ventana)
 tooltipArenaBattles:Batallas de arena que puedes luchar
 tooltipExpeditionStatus:Muestra si terminaste una expedición
+value:Valor
+noCharacterAnimation:Sin animaciones de personajes
+counselor_male:Consejero
+counselor_female:Consejera
+completionist-badge:Insignia de Complecionista
+completionist-badge_desc:Otorgado por completar un gran número de logros
+completionist_male:Completista
+completionist_female:Completista
+unequipTitle:Des-Equipar Título
+minLVL:Nivel mín.

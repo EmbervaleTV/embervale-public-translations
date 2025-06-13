@@ -13,7 +13,7 @@ twitchbotTargetYourself:You can't attack yourself!
 // Adventure
 adventureNotActive:There is no active adventure!
 adventureAlreadyIn:You are already in an adventure!
-adventureCooldown:You are on cooldown:
+adventureCooldown:cooldown
 adventureNoActiveVoting:There is no active voting!
 adventureYouAreNotIn:You are not currently in an adventure!
 adventureYouAreNotInThis:You must be part of this adventure to use this command!
@@ -23,7 +23,7 @@ adventureAlreadyJoined:You already joined!
 adventureJoined:joined
 adventureCanStart:can start an Adventure
 adventureInProgress:is hosting an Adventure right now
-adventureCanJoin:You can join an Adventure
+adventureCanJoin:can join an Adventure
 adventureLeaveForbidden:You can only leave adventures that haven’t started or if the streamer has been idle for more than 15 minutes.
 adventureLeaderLeaveForbidden:The leader cannot leave the adventure. If you selected the wrong character, you can surrender without a cooldown, as long as you haven’t pressed the 'create' button.
 adventureSurrenderConfirmation:You can end the adventure at any time by surrendering, without losing any loot.

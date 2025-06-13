@@ -62,7 +62,13 @@ noApplications:No players have applied to your guild yet.
 noInvites:There are no pending invites to your guild.
 errTooManyRoles:You can only have 10 roles in your guild!
 
+// upgrades
+upgradeNotFinished:You need to provide all required materials to begin the upgrade.
 
+
+
+
+// todo remove?
 xp_bonus_lvl0:-
 xp_bonus_lvl1:This item grants your 1% additional xp
 xp_bonus_lvl2:This item grants your 5% additional xp

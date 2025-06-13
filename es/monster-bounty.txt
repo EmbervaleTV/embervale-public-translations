@@ -22,17 +22,17 @@ waterstrider_bounty:Un insecto atraviesa estanques tranquilos
 deepwater_crab_warrior_bounty:Conchas rojas como armadura, pinzas como cuchillas
 deepwater_lurker_bounty:Entre coral, alga marina y limo revuelto, la visibilidad es baja
 deepwater_urchin_bounty:Una bola espinosa que roe plantas marinas
-desert_rock_lizard_bounty:Entre arena árida y piedra, sorprendentemente puede prosperar una cantidad considerable de vida
+desert_rock_lizard_bounty:Entre la arena árida y la piedra, una sorprendente cantidad de vida puede prosperar
 dusk_root_bounty:Un susurro de hojas entre los árboles
 forgotten_goblin_bounty:Una sombra en la oscuridad, aferrándose a una existencia caducada
 forgotten_slime_bounty:Una forma en la oscuridad, aferrándose a una existencia caducada
-lost_fairy_bounty:Una amenaza del reino feérico
+lost_fairy_bounty:Una amenaza del reino de las hadas
 scavenging_mandrake_bounty:Una planta extrañamente humanizada
 skeleton_hare_bounty:Explorador de la legión de los muertos vivientes
 rain_wing_bounty:Una mariposa inusual que prospera incluso durante fuertes aguaceros
 tulip_wing_bounty:Su colorida apariencia la camufla casi perfectamente en campos florecientes
 inferno_wing_bounty:Cada ala una chispa, un enjambre equivale a un inferno abrasador
-fire_snake_bounty:Cuidado con los siseos en ambientes volcánicos
+fire_snake_bounty:Cuidado con los silbidos en entornos volcánicos
 lunar_wing_bounty:Danzando sobre praderas en noches de luna
 fur_wing_bounty:Un cazador nocturno planeando con alas simil a las de una polilla
 colossal_red_snake_bounty:Siseos y escamas brillantes advierten de los colmillos de esta serpiente descomunal
@@ -228,7 +228,7 @@ electroctopus_bounty:Supera al astuto Electroctopus y aprovecha sus habilidades 
 silver_avian_bounty:Captura al esquivo Ave Plateada para estudiar su notable velocidad y agilidad.
 spike_hopper_bounty:Lidia con la infestación de Saltadores con Espinas antes de que devasten los cultivos locales.
 spiked_caterpillar_bounty:Detén a las Orugas con Espinas, protege a la fauna del veneno.
-rocktail_demolisher_bounty:Evita que los Demoledores de Cola de Roca destruyan la infraestructura.
+rocktail_demolisher_bounty:Impide que los Rocktail Demolishers destruyan la infraestructura.
 roaming_salamander_bounty:Captura a la esquiva salamandra antes de que mueva los muebles.
 void_gargoyle_bounty:Trae de vuelta a la bestia filosófica de su crisis existencial.
 white_minotaur_bounty:Vincúlate con la bestia gentil durante una comida vegana.

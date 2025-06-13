@@ -606,9 +606,9 @@ chooseIcon:Symbol wählen
 equipPreset:Preset ausrüsten
 free:Frei
 purchasePreset:Kauf-Voreinstellung
-limitFPS:Begrenze die Animations-FPS
+limitFPS:Bildrate der Charakteranimationen begrenzen
 imageResolutionTip:(Nur auf niedrig umschalten, wenn Bilder langsam laden)
-limitFPSTip:(Die Reduzierung der FPS kann die Leistung optimieren, indem weniger Ressourcen verwendet werden)
+limitFPSTip:(Das Senken der Bildrate verringert die Ressourcennutzung und kann die Leistung verbessern)
 controlsTip:(Wähle Desktop für Maus-Eingabe und Mobil für Touch-Steuerung)
 dangerZone:Gefahrenzone
 patreonThanks:Das Projekt wäre ohne unsere Patreon-Unterstützer niemals möglich gewesen. Viel Liebe an euch alle ♥ Und ein besonderer Dank an unsere:
@@ -689,3 +689,13 @@ purchaseSlot:Kaufplatz
 loginInNewWindow:Anmelden (Neues Fenster)
 tooltipArenaBattles:Arenakämpfe, die du kämpfen kannst
 tooltipExpeditionStatus:Zeigt, ob du eine Expedition abgeschlossen hast
+value:Wert
+noCharacterAnimation:Keine Charakteranimationen
+counselor_male:Berater
+counselor_female:Beraterin
+completionist-badge:Vollender-Abzeichen
+completionist-badge_desc:Verliehen für das Erreichen einer großen Anzahl von Errungenschaften
+completionist_male:Vollender
+completionist_female:Vollenderin
+unequipTitle:Ausgerüstetes entfernen
+minLVL:Minimale Stufe

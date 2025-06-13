@@ -74,3 +74,4 @@ errNotAllowed:Esta ação não é permitida.
 errDungeonInventoryIsFull:Você não pode carregar itens adicionais para este calabouço!
 errRateLimitHeadline:Solicitações Demais
 errRateLimit:Você está interagindo um pouco rápido demais. Por favor, espere um momento e tente novamente. Se isso continuar acontecendo, entre em contato conosco no Discord: https://discord.com/invite/Gum9bS2dyw
+cantPlayAccountDisabled:Sua conta está atualmente desativada e agendada para exclusão. Para continuar jogando, por favor, visite a seção de configurações em embervale.tv e reative sua conta. Se você não iniciou esta ação, entre em contato com nossa equipe de suporte imediatamente.

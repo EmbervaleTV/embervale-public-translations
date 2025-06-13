@@ -22,7 +22,7 @@ waterstrider_bounty:Um inseto atravessando lagoas tranquilas
 deepwater_crab_warrior_bounty:Carapaças vermelhas como armaduras, pinças como lâminas
 deepwater_lurker_bounty:Entre corais, algas e sedimentos agitados, a visibilidade é baixa
 deepwater_urchin_bounty:Uma bola espinhosa roendo plantas marinhas
-desert_rock_lizard_bounty:Entre areia árida e pedra, uma surpreendente quantidade de vida pode prosperar
+desert_rock_lizard_bounty:Entre a areia árida e a pedra, uma quantidade surpreendente de vida pode prosperar
 dusk_root_bounty:Um farfalhar de folhas entre as árvores
 forgotten_goblin_bounty:Uma sombra no escuro, agarrando-se a uma existência extinta
 forgotten_slime_bounty:Uma forma no escuro, agarrando-se a uma existência extinta
@@ -32,7 +32,7 @@ skeleton_hare_bounty:Explorador da legião dos mortos-vivos
 rain_wing_bounty:Uma borboleta incomum prosperando mesmo durante fortes chuvas
 tulip_wing_bounty:Sua aparência colorida camufla quase perfeitamente nos campos em flor
 inferno_wing_bounty:Cada asa uma única faísca, um enxame igual a uma inferno ardente
-fire_snake_bounty:Cuidado com ruídos sibilantes em ambientes vulcânicos
+fire_snake_bounty:Cuidado com os ruídos de assobio em ambientes vulcânicos
 lunar_wing_bounty:Dançando sobre prados em noites de luar
 fur_wing_bounty:Um caçador noturno deslizando em asas semelhantes às de mariposas
 colossal_red_snake_bounty:Sibilos e escamas brilhantes alertam sobre as presas desta serpente gigante
@@ -53,7 +53,7 @@ skeleton_commander_bounty:Líder especialista das legiões de mortos-vivos
 flaming_wolf_bounty:Uma chama na forma de uma besta de caça
 flaming_wolf_spirit_bounty:Uma chama tremeluzente à beira
 colossal_bat_bounty:Uma ameaça habitante das cavernas com asas poderosas.
-colossal_dark_crow_bounty:Portador de sombras e tempestades.
+colossal_dark_crow_bounty:Mensageiro da sombra e da tempestade.
 colossal_scorpion_bounty:Aguilhão letal e força esmagadora.
 forest_fox_bounty:Astuto caçador na floresta.
 forest_deer_bounty:Graciosa, mas vigilante presa.
@@ -228,7 +228,7 @@ electroctopus_bounty:Supere o astuto Electroctopus e use suas habilidades elétr
 silver_avian_bounty:Capture a esquiva Ave Prateada para estudar sua notável velocidade e agilidade.
 spike_hopper_bounty:Lide com a infestação de Pula-Espinhos antes que devaste as colheitas locais.
 spiked_caterpillar_bounty:Pare as Lagartas Espinhentas, proteja a fauna dos venenos.
-rocktail_demolisher_bounty:Impeça os Demolidores Cauda de Rocha de destruir a infraestrutura.
+rocktail_demolisher_bounty:Impeça os Rocktail Demolishers de destruir a infraestrutura.
 roaming_salamander_bounty:Capture a esquiva salamandra antes que mova os móveis.
 void_gargoyle_bounty:Traga de volta o besta filosófico da crise existencial.
 white_minotaur_bounty:Crie laços com a besta gentil durante uma refeição vegana.

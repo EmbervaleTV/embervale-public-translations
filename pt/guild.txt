@@ -65,3 +65,4 @@ invitedBy:Convidado Por
 youHave:Você tem
 join:Juntar-se a
 applicationAlreadySent:Você já tem uma inscrição pendente para esta guilda!
+upgradeNotFinished:Você precisa fornecer todos os materiais necessários para iniciar a melhoria.

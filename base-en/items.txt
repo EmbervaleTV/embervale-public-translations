@@ -575,7 +575,7 @@ golden_bardiche:Golden Bardiche
 moonlight_axe:Moonlight Axe
 dwarven_warhammer:Dwarven Warhammer
 amethyst_harvester:Amethyst Harvester
-emperors_judgement:Emperor's Judgement
+emperors_judgement:Emperor's Judgment
 undead_generals_axe:Undead General's Axe
 wooden_warhammer:Wooden Warhammer
 deadly_diamond:Deadly Diamond
@@ -662,7 +662,7 @@ sharpshooters_bow:Sharpshooter's Bow
 frostborn_bow:Frostborn Bow
 nightbringers_bow:Nightbringer's Bow
 composite_bow:Composite Bow
-judgement:Judgement
+judgement:Judgment
 barbed_crossbow:Barbed Crossbow
 dreaded_bow:Dreaded Bow
 serpent_eye_bow:Serpent Eye Bow
@@ -1151,3 +1151,411 @@ thunderstrike:Thunderstrike
 divine_smite:Divine Smite
 golden_order:Golden Order
 blightreaver:Blightreaver
+
+barkfang_bow:Barkfang Bow
+molten_branch_bow:Molten Branch Bow
+hollowmoon_bow:Hollowmoon Bow
+thornhook_bow:Thornhook Bow
+barkshot_crossbow:Barkshot Crossbow
+duskrend_bow:Duskrend Bow
+grovekeeper_bow:Grovekeeper Bow
+thistlebolt_crossbow:Thistlebolt Crossbow
+soulbite_bow:Soulbite Bow
+sunflare_bow:Sunflare Bow
+spellcog_crossbow:Spellcog Crossbow
+stormwing_bow:Stormwing Bow
+drakevine_bow:Drakevine Bow
+emeraldthorn_bow:Emeraldthorn Bow
+shockfang_bow:Shockfang Bow
+skyblessing_bow:Skyblessing Bow
+duskchaser_bow:Duskchaser Bow
+frostclaw_crossbow:Frostclaw Crossbow
+witchpiercer_crossbow:Witchpiercer Crossbow
+bloodleaf_bow:Bloodleaf Bow
+suncoil_crossbow:Suncoil Crossbow
+stormguard_crossbow:Stormguard Crossbow
+phoenixgrip_crossbow:Phoenixgrip Crossbow
+junglefang_crossbow:Junglefang Crossbow
+skybolt_crossbow:Skybolt Crossbow
+hornroot_crossbow:Hornroot Crossbow
+frostshard_bow:Frostshard Bow
+emberhook_crossbow:Emberhook Crossbow
+emberstar_bow:Emberstar Bow
+lionbolt_crossbow:Lionbolt Crossbow
+aquashot_crossbow:Aquashot Crossbow
+blazing_oak_bow:Blazing Oak Bow
+bloodcurse_crossbow:Bloodcurse Crossbow
+witchlock_crossbow:Witchlock Crossbow
+netherburn_crossbow:Netherburn Crossbow
+royalvenom_crossbow:Royalvenom Crossbow
+harrowspike_launcher:Harrowspike Launcher
+tyrantfang_crossbow:Tyrantfang Crossbow
+voidspike_bow:Voidspike Bow
+sunflare_wrath:Sunflare Wrath
+twilightband_bow:Twilightband Bow
+volcanic_curse_bow:Volcanic Curse Bow
+abyssbreaker_bow:Abyssbreaker Bow
+runecrank_crossbow:Runecrank Crossbow
+windhook_staff:Windhook Staff
+sunseed_staff:Sunseed Staff
+skyfeather_rod:Skyfeather Rod
+spiritbloom_staff:Spiritbloom Staff
+cryocrystal_staff:Cryocrystal Staff
+horn_of_the_ancients:Horn of the Ancients
+flameshroud_scepter:Flameshroud Scepter
+emberclaw_rod:Emberclaw Rod
+emeraldheart_scepter:Emeraldheart Scepter
+frostbite_trident:Frostbite Trident
+celestial_spiral_rod:Celestial Spiral Rod
+deathskull_cane:Deathskull Cane
+divine_aegis_staff:Divine Aegis Staff
+emerald_warden_staff:Emerald Warden Staff
+phoenixflare_conduit:Phoenixflare Conduit
+skullhorn_staff:Skullhorn Staff
+voidshard_scepter:Voidshard Scepter
+plaguebone_staff:Plaguebone Staff
+inferno_brand_staff:Inferno Brand Staff
+soulshard_trident:Soulshard Trident
+bloodspiral_rod:Bloodspiral Rod
+verdant_bonecaller:Verdant Bonecaller
+ghostfang:Ghostfang
+runeshard:Runeshard
+ironlash:Ironlash
+bloodkiss:Bloodkiss
+riftpiercer:Riftpiercer
+moonfang:Moonfang
+phantomshiv:Phantomshiv
+chasmfang:Chasmfang
+crimsonwhisper:Crimsonwhisper
+dreamfang:Dreamfang
+silentthorn:Silentthorn
+boneknuckle_dagger:Boneknuckle duster
+thornkiss:Thornkiss
+duskrend:Duskrend
+hellpiercer:Hellpiercer
+twilightfang:Twilightfang
+shadowskewer:Shadowskewer
+glimmerfang:Glimmerfang
+grimfang:Grimfang
+gloomslicer:Gloomslicer
+whisperfang:Whisperfang
+nightsplitter:Nightsplitter
+soulfang:Soulfang
+starfuryfang:Starfuryfang
+wraithfang:Wraithfang
+gravetalon:Gravetalon
+vilethorn:Vilethorn
+stormfang:Stormfang
+tidepiercer:Tidepiercer
+venombreath:Venombreath
+abyssfang:Abyssfang
+stardagger:Stardagger
+oblivionfang:Oblivionfang
+voidtip:Voidtip
+embersting:Embersting
+ebonfang:Ebonfang
+bonefang:Bonefang
+beastrend_hook:Beastrend Hook
+bronze_lionblade:Bronze Lionblade
+sandwarden_edge:Sandwarden Edge
+iron_sentinel:Iron Sentinel
+kings_mercy:King's Mercy
+dawnpiercer:Dawnpiercer
+azure_slicer:Azure Slicer
+emberfang_shard:Emberfang Shard
+ghostblade:Ghostblade
+crimson_ringblade:Crimson Ringblade
+sunpierce_javelin:Sunpierce Javelin
+golden_thrust:Golden Thrust
+prismfang:Prismfang
+crusaders_pledge:Crusader's Pledge
+scorpions_whisper:Scorpion's Whisper
+frostfire_fang:Frostfire Fang
+twinfang_claw:Twinfang Claw
+crescent_stinger:Crescent Stinger
+magmablade:Magmablade
+polar_shard:Polar Shard
+azure_fang:Azure Fang
+arcaneblade:Arcaneblade
+riversteel_katana:Riversteel Katana
+wraithpiercer:Wraithpiercer
+stormpiercer:Stormpiercer
+obsidian_harpoon:Obsidian Harpoon
+venomleaf_saber:Venomleaf Saber
+verdant_shardblade:Verdant Shardblade
+icecrown_brand:Icecrown Brand
+blightbrand:Blightbrand
+dune_serpent:Dune Serpent
+knights_deliverance:Knight's Deliverance
+rosepiercer:Rosepiercer
+royalfang_dirk:Royalfang Dirk
+bloodflare_mace:Bloodflare Mace
+emberfang:Emberfang
+moonlight_edge:Moonlight Edge
+voidsong:Voidsong
+bladed_crescent_of_the_wilds:Bladed Crescent of the Wilds
+amethyst_warden:Amethyst Warden
+wings_of_valor:Wings of Valor
+thornroot_mace:Thornroot Mace
+mudsteel_mace:Mudsteel Mace
+gravel_root_maul:Gravel Root Maul
+doublehammer:Doublehammer
+ironknob_club:Ironknob Club
+blockbreaker_maul:Blockbreaker Maul
+spikepillar_maul:Spikepillar Maul
+goldspike_club:Goldspike Club
+stonegrip_maul:Stonegrip Maul
+oathbound_maul:Oathbound Maul
+thornwood_club:Thornwood Club
+rivetrod_mace:Rivetrod Mace
+auraforge_maul:Auraforge Maul
+hellspike_mace:Hellspike Mace
+chainbreaker_flail:Chainbreaker Flail
+skyfang_mace:Skyfang Mace
+warden_mace:Warden Mace
+plaguefang_maul:Plaguefang Maul
+dune_crusher:Dune Crusher
+dragontooth_maul:Dragontooth Maul
+obsidian_maul:Obsidian Maul
+golem_twinsmash:Golem Twinsmash
+frostgem_mace:Frostgem Mace
+volcanic_crusher:Volcanic Crusher
+rubywrath_mace:Rubywrath Mace
+sunforge_maul:Sunforge Maul
+tuskbiter_maul:Tuskbiter Maul
+sunlord_smasher:Sunlord Smasher
+starblight_mace:Starblight Mace
+buzzsaw_maul:Buzzsaw Maul
+prismgem_mace:Prismgem Mace
+bloodfury_maul:Bloodfury Maul
+wrathchain_flail:Wrathchain Flail
+hellstar_mace:Hellstar Mace
+riftmaw_crusher:Riftmaw Crusher
+jadeflame_baton:Jadeflame Baton
+phoenixwing_mace:Phoenixwing Mace
+skyheart_mace:Skyheart Mace
+celestial_gemrod:Celestial Gemrod
+
+worn_leather_boots:Worn Leather Boots
+travelers_boots:Traveler's Boots
+knights_greaves:Knight's Greaves
+steel_toed_boots:Steel-Toed Boots
+golden_march_boots:Golden March Boots
+flamebound_sabatons:Flamebound Sabatons
+tidewalkers_treads:Tidewalker's Treads
+azure_wind_boots:Azure Wind Boots
+royal_squires_shoes:Royal Squire's Shoes
+verdant_trail_boots:Verdant Trail Boots
+elven_highboots:Elven Highboots
+nomads_slippers:Nomad's Slippers
+crimson_valkyrie_boots:Crimson Valkyrie Boots
+twilight_shinguards:Twilight Shinguards
+moonrunner_boots:Moonrunner Boots
+leather_workgloves:Leather Workgloves
+iron_wristguards:Iron Wristguards
+forged_gauntlets:Forged Gauntlets
+bandits_bracers:Bandit's Bracers
+frostbite_vambraces:Frostbite Vambraces
+manaflare_vambrace:Manaflare Vambrace
+infernal_cuff:Infernal Cuff
+thornscale_bracer:Thornscale Bracer
+magus_wrap:Magus Wrap
+verdant_wrap:Verdant Wrap
+mystic_handwrap:Mystic Handwrap
+flamebound_handwraps:Flamebound Handwraps
+golden_spiral_bracer:Golden Spiral Bracer
+crimson_arcane_bracer:Crimson Arcane Bracer
+leather_hunters_vest:Leather Hunter's Vest
+sylvan_guardplate:Sylvan Guardplate
+twinplate_harness:Twinplate Harness
+heavy_iron_plating:Heavy Iron Plating
+golden_warlord_armor:Golden Warlord Armor
+dragonfire_chestplate:Dragonfire Chestplate
+enchanted_duelists_vest:Enchanted Duelist's Vest
+arcane_robe:Arcane Robe
+flamecasters_robe:Flamecaster's Robe
+frostforged_scaleplate:Frostforged Scaleplate
+emberlord_chestguard:Emberlord Chestguard
+wardens_mantle:Warden's Mantle
+phoenix_shroud:Phoenix Shroud
+beastplate_vestment:Beastplate Vestment
+silver_scaleshirt:Silver Scaleshirt
+stormguard_mail:Stormguard Mail
+lionheart_chestpiece:Lionheart Chestpiece
+vinebound_plate:Vinebound Plate
+golden_wing_helm:Golden Wing Helm
+phoenix_horned_helm:Phoenix Horned Helm
+azure_sentinel_helm:Azure Sentinel Helm
+steel_crusader_helm:Steel Crusader Helm
+runic_war_mask:Runic War Mask
+icewarden_helm:Icewarden Helm
+leather_warcap:Leather Warcap
+solar_glory_helm:Solar Glory Helm
+crimson_sentinel_helm:Crimson Sentinel Helm
+voidbone_crown:Voidbone Crown
+emerald_rogue_hood:Emerald Rogue Hood
+twilight_mage_hood:Twilight Mage Hood
+frostmane_helm:Frostmane Helm
+inferno_witch_hat:Inferno Witch Hat
+verdant_witch_hat:Verdant Witch Hat
+shadowfang_dagger:Shadowfang Dagger
+sunsteel_blade:Sunsteel Blade
+silent_edge:Silent Edge
+venomfang_saber:Venomfang Saber
+ivory_duelblade:Ivory Duelblade
+oceans_shard_blade:Ocean's Shard Blade
+bloodchant_claymore:Bloodchant Claymore
+voidpiercer_sword:Voidpiercer Sword
+royal_justiceblade:Royal Justiceblade
+molten_oathblade:Molten Oathblade
+bronze_shiv:Bronze Shiv
+thiefs_knife:Thief's Knife
+iceshard_fang:Iceshard Fang
+jungle_fang:Jungle Fang
+crystal_hexblade:Crystal Hexblade
+serpentroot_staff:Serpentroot Staff
+thornspire_wand:Thornspire Wand
+glimmering_orbstaff:Glimmering Orbstaff
+sunfire_scepter:Sunfire Scepter
+bloodgem_rod:Bloodgem Rod
+emerald_grove_staff:Emerald Grove Staff
+vinepiercer_bow:Vinepiercer Bow
+frostwhisper_bow:Frostwhisper Bow
+phoenix_talon_bow:Phoenix Talon Bow
+blazewood_recurve:Blazewood Recurve
+crimson_gem_ring:Crimson Gem Ring
+ancient_gold_band:Ancient Gold Band
+mystic_spiral_ring:Mystic Spiral Ring
+azure_crest_ring:Azure Crest Ring
+sunfire_signet:Sunfire Signet
+bronze_circle:Bronze Circle
+silver_loop:Silver Loop
+vampires_rose_ring:Vampire's Rose Ring
+royal_amethyst_ring:Royal Amethyst Ring
+arcane_crystal_band:Arcane Crystal Band
+ruby_crest_ring:Ruby Crest Ring
+sapphire_swirl_ring:Sapphire Swirl Ring
+moonpearl_band:Moonpearl Band
+blossom_ring:Blossom Ring
+lovers_promise:Lover's Promise
+sunfire_ring:Sunfire Ring
+rubylight_ring:Rubylight Ring
+emerald_thorn_pendant:Emerald Thorn Pendant
+claw_charm:Claw Charm
+starlight_shard_necklace:Starlight Shard Necklace
+demonspike_medallion:Demonspike Medallion
+alchemists_flask:Alchemist's Flask
+golden_cross_pendant:Golden Cross Pendant
+fireheart_necklace:Fireheart Necklace
+serpent_bead_chain:Serpent Bead Chain
+bloodcrystal_pendant:Bloodcrystal Pendant
+
+archscribe_tabard: Archscribe Tabard
+barksteel_cuirass: Barksteel Cuirass
+battleweave_robe: Battleweave Robe
+cosmoguard_breastplate: Cosmoguard Breastplate
+dawnthread_magerobe: Dawnthread Magerobe
+drakescale_layermail: Drakescale Layermail
+emberguard_plate: Emberguard Plate
+iceforged_valorplate: Iceforged Valorplate
+judgement_aegis: Judgement Aegis
+lavaheart_regalia: Lavaheart Regalia
+phoenixcrest_battlecoat: Phoenixcrest Battlecoat
+redscale_ceremonial_plate: Redscale Ceremonial Plate
+sunflare_magewrap: Sunflare Magewrap
+sunmark_plate: Sunmark Plate
+sunwing_vestments: Sunwing Vestments
+thornbark_cuirass: Thornbark Cuirass
+verdant_mantle: Verdant Mantle
+voidchannel_wrappings: Voidchannel Wrappings
+bloodcurse_dagger: Bloodcurse Dagger
+crimsonflare_spike: Crimsonflare Spike
+drakefang_slicer: Drakefang Slicer
+eclipsed_viperblade: Eclipsed Viperblade
+emberbrand_scorchblade: Emberbrand Scorchblade
+gildfang_venomblade: Gildfang Venomblade
+glacierbite_stiletto: Glacierbite Stiletto
+glassfang_ripblade: Glassfang Ripblade
+icefang_shardblade: Icefang Shardblade
+puppeteer_silverneedle: Puppeteer Silverneedle
+shadepiercer_ritual_dagger: Shadepiercer Ritual Dagger
+stormrun_krisblade: Stormrun Krisblade
+suncoil_serpentblade: Suncoil Serpentblade
+suncoil_serpentblade_variant: Suncoil Serpentblade Variant
+thornfang_bloodleaf: Thornfang Bloodleaf
+veilpiercer_quill: Veilpiercer Quill
+arcanotech_fusion_glove: Arcanotech Fusion Glove
+blazeborn_vowgauntlet: Blazeborn Vowgauntlet
+brasshex_fingers: Brasshex Fingers
+clockward_grasp: Clockward Grasp
+crimson_lacquer_glove: Crimson Lacquer Glove
+crimson_lacquer_glove_variant: Crimson Lacquer Glove Variant
+darkforge_crusher: Darkforge Crusher
+dunebreaker_mitts: Dunebreaker Mitts
+embergloves_fireshade_pair: Embergloves Fireshade Pair
+frostspark_clusters: Frostspark Clusters
+frostwrought_casterwrap: Frostwrought Casterwrap
+ironcrest_gauntlet: Ironcrest Gauntlet
+judicium_platinum_gauntlet: Judicium Platinum Gauntlet
+lightworn_purityguard: Lightworn Purityguard
+magmaflare_grip: Magmaflare Grip
+nethercoil_fangplate: Nethercoil Fangplate
+obsidianflare_handguard: Obsidianflare Handguard
+pyroflare_handwrap: Pyroflare Handwrap
+reefetched_bonewrap: Reefetched Bonewrap
+reefetched_bonewrap_variant: Reefetched Bonewrap Variant
+scarspire_wrathgrip: Scarspire Wrathgrip
+seabound_spellweave: Seabound Spellweave
+starseer_palmguard: Starseer Palmguard
+stormbind_glove: Stormbind Glove
+tidebone_clasp: Tidebone Clasp
+voidrune_shardfist: Voidrune Shardfist
+witherknuckle_breaker: Witherknuckle Breaker
+bonefang_totem_mask: Bonefang Totem Mask
+duskguard_warhelm: Duskguard Warhelm
+emberlord_visor: Emberlord Visor
+flamecrest_sentinel_helm: Flamecrest Sentinel Helm
+glaciermaw_helm: Glaciermaw Helm
+jadeplague_mask: Jadeplague Mask
+leafcrest_warden_mask: Leafcrest Warden Mask
+phoenixwing_heirhelm: Phoenixwing Heirhelm
+silverstar_champion_helm: Silverstar Champion Helm
+stormcrown_warcask: Stormcrown Warcask
+sunhalo_regal_headdress: Sunhalo Regal Headdress
+sunvine_tribal_mask: Sunvine Tribal Mask
+thornhorn_ritual_helm: Thornhorn Ritual Helm
+tideforged_seahelm: Tideforged Seahelm
+veilborn_oracle_mask: Veilborn Oracle Mask
+abyssstride_greaves: Abyssstride Greaves
+auric_valorboots: Auric Valorboots
+bloodshackle_boots: Bloodshackle Boots
+bonebound_marchers: Bonebound Marchers
+fangstalker_stalkers: Fangstalker Stalkers
+frostwhisper_boots: Frostwhisper Boots
+gilded_sovereign_treads: Gilded Sovereign Treads
+moltenflare_sabatons: Moltenflare Sabatons
+regalia_of_the_veilstep: Regalia Of The Veilstep
+spellwoven_galeboots: Spellwoven Galeboots
+spinebite_crushers: Spinebite Crushers
+stonecrush_vaultboots: Stonecrush Vaultboots
+stormstep_spireboots: Stormstep Spireboots
+thunderbrand_stompers: Thunderbrand Stompers
+titanstep_stonewalkers: Titanstep Stonewalkers
+tricksters_bellboots: Tricksters Bellboots
+verdant_trailwalkers: Verdant Trailwalkers
+forestguard_blade:Forestguard Blade
+infernal_greatsword:Infernal Greatsword
+sunborn_edge:Sunborn Edge
+knights_head:Knight's Head
+nobleguard_mace:Nobleguard Mace
+tideblessed_mace:Tideblessed Mace
+triple_crusher:Triple Crusher
+frostsap_mace:Frostsap Mace
+blightvine_maul:Blightvine Maul
+wraithcoil_crossbow:Wraithcoil Crossbow
+stinggear_crossbow:Stinggear Crossbow
+forestheart_bow:Forestheart Bow
+duskbolt_crossbow:Duskbolt Crossbow
+duskarch_crossbow:Duskarch Crossbow
+bonegutter_bow:Bonegutter Bow
+bonecarver_bow:Bonecarver Bow

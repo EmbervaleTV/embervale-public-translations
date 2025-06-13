@@ -428,11 +428,18 @@ highscore:Máxima Puntuación
 discarded:Descartado
 discarded_tool:Herramienta Descartada
 discarded_tool_description:La herramienta fue descartada, ya que todos los jugadores con derecho a voto ya tenían una.
-swapped:[test] Intercambiado
-effect_swapped:[test] Descripción de intercambiado
-power_of_humankind:[test] poder_de_la_humanidad
-effect_power_of_humankind:[test] Descripción del poder_de_la_humanidad
-power_of_elvenkind:[test] poder_de_los_élficos
-effect_power_of_elvenkind:[test] Descripción del poder_de_los_élficos
-power_of_demonkind:[test] poder_de_los_demonios
-effect_power_of_demonkind:[test] Descripción del poder_de_los_demonios
+swapped:Cambiado
+effect_swapped:Algo cambió—cuerpo, mente o alma. Ni siquiera ellos pueden decir quiénes eran antes. // +25% salud máxima
+power_of_humankind:Poder de la humanidad
+effect_power_of_humankind:Impulsado por la resiliencia y la voluntad, esta persona encarna la tenacidad de la humanidad. // +20% Dest, -20% Sab
+power_of_elvenkind:Poder del linaje élfico
+effect_power_of_elvenkind:Graciosa y sabia, esta persona canaliza la fuerza refinada de la herencia élfica. // +20% Sab, -20% Fue
+power_of_demonkind:Poder del linaje demoníaco
+effect_power_of_demonkind:Ira encarnada. Esta alma lleva el violento don de los demonios. // +20% Fue, -20% Dest
+quest_dice_reduction_story:He forjado un curioso dado infundido con energías caóticas. ¡Busco un valiente aventurero para probar su destino!
+quest_dice_reduction_effect:Este dado disminuirá tus tiradas de dados en {amount}.
+reachAdventureRoom:Llega a la Habitación {amount} para completar la misión.
+quest_damage_reduction_story:Un aprendiz de herrero entusiasta desea mejorar su arte—con las armas de tu grupo. ¿Lo permitirás?
+quest_damage_reduction_effect:Esto reducirá el daño infligido por tu grupo en un {amount}%.
+quest_health_reduction_story:Un alquimista novato solicita una oportunidad para experimentar—usando la vitalidad de tu grupo como sujeto de prueba.
+quest_health_reduction_effect:Esto reducirá la salud de tu grupo en un {amount}%.

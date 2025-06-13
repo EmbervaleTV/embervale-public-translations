@@ -32,6 +32,7 @@ help:Help
 average:Average
 sortBy:Sort By
 date:Date
+value:Value
 selected:Selected
 yes:Yes
 no:No
@@ -56,8 +57,9 @@ code:Code
 voucher:Voucher
 optional:Optional
 own:Own
-limitFPS:Cap animation FPS
-limitFPSTip:(Lowering FPS can optimize performance by using fewer resources)
+limitFPS:Cap character animation FPS
+limitFPSTip:(Lowering the frames per second reduces resource usage and can improve performance)
+noCharacterAnimation:No character animations
 graphicsScale:Graphics Scale
 graphicsScaleTip:Adjusts the sharpness and performance of animations.
 dangerZone:Danger Zone
@@ -396,12 +398,14 @@ christmas-2024-badge:Christmas 2024 Badge
 christmas-2024-badge_desc:Obtainable during the Christmas 2024 Event
 easter-2025-badge:Easter 2025 Badge
 easter-2025-badge_desc:Obtainable during the Easter 2025 Event
-
+completionist-badge:Completionist Badge
+completionist-badge_desc:Awarded for completing a large number of achievements
 obtainedBy:Obtained by {obtained_by}% of players
 noBadge:No badge
 emptyBadge:An empty badge slot
 rare_badges:Rare Badges
 unequip:Unequip
+unequipTitle:Unequip Title
 
 
 // leaderboard
@@ -579,6 +583,7 @@ monsters:Monsters
 defense:Defense
 dmg:Dmg
 lvl:LVL
+minLVL:Minimum LVL
 vs:VS
 boss:Boss
 preBoss:Pre-Boss
@@ -707,6 +712,8 @@ squire_male:Squire
 squire_female:Squire
 councilor_male:Councilor
 councilor_female:Councilor
+counselor_male:Counselor
+counselor_female:Counselor
 provisioner_male:Provisioner
 provisioner_female:Provisioner
 guardian_male:Guardian
@@ -722,6 +729,8 @@ arena_legend_male:Arena Legend
 arena_legend_female:Arena Legend
 champion_male:Champion
 champion_female:Champion
+completionist_male:Completionist
+completionist_female:Completionist
 
 // expedition
 exitExpeditionConfirmationHeadline:Exit Expedition

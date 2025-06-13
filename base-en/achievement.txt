@@ -104,6 +104,8 @@ clear_the_first_dungeon:Clear the first dungeon
 complete_an_expedition:Complete {amount} expeditions
 complete_3hour_expedition:Complete {amount} expeditions lasting 3 hours or longer
 complete_6hour_expedition:Complete {amount} expeditions lasting 6 hours or longer
+complete_9hour_expedition:Complete {amount} expeditions lasting 9 hours or longer
+complete_12hour_expedition:Complete {amount} expeditions lasting 12 hours or longer
 
 wear_full_set_of_uncommon:Wear a full set of uncommon items
 wear_full_set_of_common:Wear a full set of common items
@@ -112,6 +114,14 @@ wear_full_set_of_epic:Wear a full set of epic items
 wear_full_set_of_legendary:Wear a full set of legendary items
 wear_full_set_of_mythical:Wear a full set of mythical items
 wear_full_set_of_armor:Wear a full set of armor
+
+reach_infernal_affinity_with_armor:Reach {percentage}% Infernal affinity through equipped armor
+reach_necrotic_affinity_with_armor:Reach {percentage}% Necrotic affinity through equipped armor
+reach_frost_affinity_with_armor:Reach {percentage}% Frost affinity through equipped armor
+reach_arcane_affinity_with_armor:Reach {percentage}% Arcane affinity through equipped armor
+reach_divine_affinity_with_armor:Reach {percentage}% Divine affinity through equipped armor
+
+complete_all_affinity_achievements:Complete all affinity achievements
 
 // Adventurer
 participate_in_adventures:Participate in {amount} adventures

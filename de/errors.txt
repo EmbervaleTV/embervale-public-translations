@@ -74,3 +74,4 @@ errNotAllowed:Diese Aktion ist nicht erlaubt.
 errDungeonInventoryIsFull:Du kannst keine zusätzlichen Gegenstände in diesen Dungeon mitnehmen!
 errRateLimitHeadline:Zu viele Anfragen
 errRateLimit:Du interagierst etwas zu schnell. Bitte warte einen Moment und versuche es erneut. Falls das weiterhin geschieht, kontaktiere uns auf Discord: https://discord.com/invite/Gum9bS2dyw
+cantPlayAccountDisabled:Dein Konto ist derzeit deaktiviert und zur Löschung vorgesehen. Um weiterzuspielen, besuche bitte den Einstellungsbereich auf Embervale.tv und reaktiviere dein Konto. Wenn du diese Aktion nicht eingeleitet hast, kontaktiere bitte sofort unser Support-Team.

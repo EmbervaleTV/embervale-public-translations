@@ -428,11 +428,18 @@ highscore:Pontuação Alta
 discarded:Descartado
 discarded_tool:Ferramenta Descartada
 discarded_tool_description:A ferramenta foi descartada, já que todos os jogadores votantes já tinham uma.
-swapped:[test] Trocado
-effect_swapped:[test] Descrição de Trocado
-power_of_humankind:[test] poder_da_humanidade
-effect_power_of_humankind:[test] Descrição de poder_da_humanidade
-power_of_elvenkind:[test] poder_dos_elfos
-effect_power_of_elvenkind:[test] Descrição de poder_dos_elfos
-power_of_demonkind:[test] poder_dos_demônios
-effect_power_of_demonkind:[test] Descrição de poder_dos_demônios
+swapped:Trocado
+effect_swapped:Algo mudou—corpo, mente ou alma. Nem eles podem dizer quem eram antes. // +25% saúde máxima
+power_of_humankind:Poder da Humanidade
+effect_power_of_humankind:Movido por resiliência e vontade, esta pessoa personifica a tenacidade da humanidade. // +20% Destreza, -20% Sabedoria
+power_of_elvenkind:Poder da Elfidade
+effect_power_of_elvenkind:Gracioso e sábio, esta pessoa canaliza o poder refinado da herança élfica. // +20% Sabedoria, -20% Força
+power_of_demonkind:Poder da Demonicidade
+effect_power_of_demonkind:Ira encarnada. Esta alma carrega o presente violento dos demoníacos. // +20% Força, -20% Destreza
+quest_dice_reduction_story:Construí um dado curioso, infundido com energias caóticas. Procuro um aventureiro valente para testar seu destino!
+quest_dice_reduction_effect:Este dado diminuirá suas jogadas de dados em {amount}.
+reachAdventureRoom:Alcance a Sala {amount} para completar a missão.
+quest_damage_reduction_story:Um aprendiz de ferreiro entusiasmado deseja aprimorar sua habilidade—em suas armas de party. Você permitirá?
+quest_damage_reduction_effect:Isso reduzirá o dano da sua equipe em {amount}%.
+quest_health_reduction_story:Um alquimista novato solicita a chance de experimentar—usando a vitalidade da sua party como cobaia.
+quest_health_reduction_effect:Isso reduzirá a saúde da sua equipe em {amount}%.

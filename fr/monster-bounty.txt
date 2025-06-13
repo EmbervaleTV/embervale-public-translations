@@ -22,7 +22,7 @@ waterstrider_bounty:Un insecte traversant des étangs paisibles
 deepwater_crab_warrior_bounty:Des carapaces rouges comme des armures, des pinces comme des lames
 deepwater_lurker_bounty:Entre coraux, algues et limon remué, la visibilité est faible
 deepwater_urchin_bounty:Une boule épineuse grignotant des plantes marines
-desert_rock_lizard_bounty:Entre sable aride et pierre, une surprenante quantité de vie peut prospérer
+desert_rock_lizard_bounty:Entre le sable aride et la pierre, une quantité surprenante de vie peut prospérer
 dusk_root_bounty:Un bruissement de feuilles entre les arbres
 forgotten_goblin_bounty:Une ombre dans le noir, s'accrochant à une existence périmée
 forgotten_slime_bounty:Une forme dans le noir, s'accrochant à une existence périmée
@@ -32,7 +32,7 @@ skeleton_hare_bounty:Éclaireur de la légion des morts-vivants
 rain_wing_bounty:Un papillon inhabituel prospérant même pendant de fortes averses
 tulip_wing_bounty:Son apparence colorée le camoufle presque parfaitement dans les champs en floraison
 inferno_wing_bounty:Chaque aile est une étincelle, un essaim équivaut à un incendie ardent
-fire_snake_bounty:Méfie-toi des sifflements dans les environnements volcaniques
+fire_snake_bounty:Méfiez-vous des sifflements dans les environnements volcaniques
 lunar_wing_bounty:Dansant au-dessus des prés lors des nuits de clair de lune
 fur_wing_bounty:Un chasseur nocturne planant sur des ailes semblables à celles des papillons de nuit
 colossal_red_snake_bounty:Sifflements et écailles brillantes avertissent des crocs de ce serpent surdimensionné
@@ -53,7 +53,7 @@ skeleton_commander_bounty:Chef expert des légions de morts-vivants
 flaming_wolf_bounty:Une flamme sous la forme d'une bête de chasse
 flaming_wolf_spirit_bounty:Une flamme vacillante à la frontière de l'extinction
 colossal_bat_bounty:Une menace des cavernes aux ailes puissantes.
-colossal_dark_crow_bounty:Porteur d'ombres et de tempêtes.
+colossal_dark_crow_bounty:Porteur d'ombre et de tempête.
 colossal_scorpion_bounty:Aiguillon mortel et force écrasante.
 forest_fox_bounty:Chasseur rusé des bois.
 forest_deer_bounty:Proie gracieuse, mais vigilante.
@@ -228,7 +228,7 @@ electroctopus_bounty:Déjoue l'ingénieux Électropus et utilise ses capacités 
 silver_avian_bounty:Capture l'oiseau d'argent insaisissable pour étudier sa vitesse et son agilité remarquables.
 spike_hopper_bounty:Traite l'infestation du Sauteur d'Épines avant qu'ils ne dévastent les cultures locales.
 spiked_caterpillar_bounty:Arrête les Chenilles à Épines, protège la faune de leur venin.
-rocktail_demolisher_bounty:Empêche les Démolisseurs à Queue de Roche de détruire l'infrastructure.
+rocktail_demolisher_bounty:Empêchez les Rocktail Demolishers de détruire les infrastructures.
 roaming_salamander_bounty:Attrape la salamandre insaisissable avant qu'elle ne déplace les meubles.
 void_gargoyle_bounty:Ramène la bête philosophique de sa crise existentielle.
 white_minotaur_bounty:Lie-toi d'amitié avec la bête douce autour d'un repas végétalien.

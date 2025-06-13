@@ -145,3 +145,11 @@ reset_skill_points:[Mise à jour de l'équilibre] Réinitialisez vos points de c
 open_dragon_eggs:Casser {amount} œufs de dragon.
 defeat_ascended_bosses:Vaincre {amount} boss ascendant
 consumable_bag_expansion:+5 emplacements de sac à consommables
+complete_9hour_expedition:Termine {amount} expéditions de 9 heures ou plus
+complete_12hour_expedition:Termine {amount} expéditions de 12 heures ou plus
+reach_infernal_affinity_with_armor:Atteindre {percentage}% d'affinité infernale via l'armure équipée
+reach_necrotic_affinity_with_armor:Atteindre {percentage}% d'affinité nécrotique via l'armure équipée
+reach_frost_affinity_with_armor:Atteindre {percentage}% d'affinité glaciale via l'armure équipée
+reach_arcane_affinity_with_armor:Atteindre {percentage}% d'affinité arcanique via l'armure équipée
+reach_divine_affinity_with_armor:Atteindre {percentage}% d'affinité divine via l'armure équipée
+complete_all_affinity_achievements:Terminer tous les succès d'affinité

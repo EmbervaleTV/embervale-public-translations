@@ -54,6 +54,8 @@ errNotAllowed:This action is not allowed.
 
 twitchBotRemoved:The bot will leave now. Thank you for playing Embervale.
 
+cantPlayAccountDisabled:Your account is currently disabled and scheduled for deletion. To continue playing, please visit the settings section on embervale.tv and reactivate your account. If you didn’t initiate this action, please contact our support team immediately.
+
 // Dungeon
 errDungeonNotFound:No dungeon found.
 errItemAlreadyInInventory:You can only buy this item once!

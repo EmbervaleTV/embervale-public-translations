@@ -663,3 +663,4 @@ siren:Sirena
 sphinx:Esfinge
 basilisk:Basilisco
 cockatrice:Cocatriz
+hag:Hada

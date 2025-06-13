@@ -1,14 +1,14 @@
 abnormous_tick_bestiary:Eine Zecke dieser Größe lässt einen über die Kreaturen nachdenken, auf die sie normalerweise Jagd macht
 accursed_captain_hawk_bestiary:Mindestens ein Teil seines Fluchs muss seinen Sinn für Stil betreffen. Hast du dieses berühmte Outfit gesehen und kannst darüber berichten?
 aiming_dwarf_bestiary:Was diesen Zwergen an Bartwuchs fehlt, gewinnen sie an Meisterschaft im Schießen
-alpha_orc_bestiary:Die Jagd der Orks nach Trophäen kennt nur zwei Herausforderungen: Das Gleichgewicht zwischen der Größe ihrer Axt und den Schädeln, die sie tragen
+alpha_orc_bestiary:Die Jagd eines Orks nach Trophäen kennt nur zwei Herausforderungen: Das Gleichgewicht zwischen der Größe ihrer Axt und der der Schädel, die sie tragen.
 awakened_sand_bestiary:Hüte dich vor Sand an unbequemen Stellen
 barbarian_slime_bestiary:Ihr Schulterpolster scheint dekorativ zu sein, echte Barbaren tragen keine Rüstung
 berserker_dwarf_bestiary:Der Unterschied zu einem normalen Zwerg liegt nur in der Größe ihrer Axt
 black_ant_protector_bestiary:Ameisen können ein Vielfaches ihres Körpergewichts heben, diese Blätter werden es nicht daran hindern, dich zu zerquetschen
 black_wolf_bestiary:Du solltest besser ein paar Hundeleckerlis dabeihaben
 blue_dragonfly_bestiary:Ihre blaue Farbe tarnt ihren schnellen Anflug
-blue_slime_bestiary:Ihr unschuldiges Pfeifen lenkt von ihrem angeborenem Unheilspotenzial ab
+blue_slime_bestiary:Sein unschuldiges Pfeifen lenkt von seinem angeborenen Potenzial für Ärger ab.
 cactus_abomination_bestiary:Die Dürre treibt diese Amalgamation dazu, nach neuen Wasserquellen zu suchen…
 carnivorous_plant_bestiary:Das wirft die Frage auf, gibt es vergleichbare Pflanzenfresser?
 cold_ruler_bestiary:Nur der Umhang macht ihn wirklich cool
@@ -24,13 +24,13 @@ frost_spirit_bestiary:Zieh immer ein Hemd an, bevor du in die Kälte hinausgehst
 frost_wing_bestiary:Jeder Flügel ist wie eine einzelne Schneeflocke, ein ganzer Schwarm kann ein Land begraben
 frozen_invader_bestiary:Du solltest besser eine Mauer bauen, um diese Dinger draußen zu halten
 general_gogz_bestiary:Drachentöter, Millionär, Modeikone und bestbewerteter Wettkampf-Cape-Ironist des Reiches, wie konkurrierst du dagegen?
-giant_rat_bestiary:Ein bestätigter Schrecken der Kanalisation
-giant_roach_bestiary:Angeblich entstanden durch die Strahlungszauber eines seltsamen Magiers namens Nuclear
+giant_rat_bestiary:Eine anerkannte Bedrohung der Abwasserkanäle.
+giant_roach_bestiary:Angeblich erschaffen durch die Strahlungszauber eines seltsamen Magiers namens Nuclear.
 goblin_captain_bestiary:Lass ihn nicht von seinem achtbeinigen Reittier herunterkommen
 goblin_grunt_bestiary:Sie wollen deine Wertsachen, Ausrüstung, Zehen und dein Leben, in dieser Reihenfolge
 goblin_knight_bestiary:Zwei Schilde sind besser als einer, der Eimer ist nur das Sahnehäubchen
 goblin_mage_bestiary:Sie benutzen nicht nur physische Dolche, um dir in den Rücken zu stechen
-goblin_ranger_bestiary:Fürchte es, laufe davor weg, der Goblin-Stamm wird trotzdem ankommen
+goblin_ranger_bestiary:Fürchtet es, lauft davon, aber der Goblin-Stamm kommt trotzdem.
 goblin_rogue_bestiary:Ungefähr doppelt so hinterhältig wie ein normaler Goblin, ebenfalls etwa doppelt so stechend
 god-king_hubertus_III_bestiary:Wie hat ein Schleim seine formlose Tentakel auf diese Krone bekommen?
 grandmaster_udabras_bestiary:Moment mal, Schleime sollen doch kein Gehirn haben
@@ -38,7 +38,7 @@ greed_incarnation_bestiary:Streift durch längst verlorene Steinhallen, das Symb
 green_dragonfly_bestiary:Fast unsichtbar zwischen der Vegetation
 grumpy_cactus_bestiary:Wenn der Ausdruck dir nicht schon sagt, dass du Abstand halten sollst, werden es die Dornen tun
 headhunter_slime_bestiary:Schleime haben gelernt, die Angriffsfläche zu minimieren, nachdem diese deinen Kopf vom Körper getrennt haben, wirst du es auch gelernt haben
-hell_mantis_bestiary:Diese Insekten sind schnell genug, um über geschmolzenen Stein zu springen und alles in ihrem Weg zu durchschneiden
+hell_mantis_bestiary:Diese Insekten sind schnell genug, um über geschmolzenen Stein zu huschen und alles auf ihrem Weg zu durchschneiden.
 heroic_slime_bestiary:Ein gerechter Bestrafer für diejenigen, die die Schleimlinge abschlachten
 ice_avian_bestiary:Meisterhaft getarnt zwischen Gletscher und Himmel
 ice_golem_bestiary:Viel schneller als ein Gletscher im Nahkampf
@@ -57,7 +57,7 @@ orc_marauder_bestiary:Sogar zwei Äxte reichen nicht aus, um mit dem durchschnit
 orc_warlock_bestiary:Den Stab herumzuschwingen schien nicht genug, um in Form zu bleiben
 orc_warrior_bestiary:Sie haben genug gelernt, um die Äxte hinter sich zu lassen
 oversized_goblin_bestiary:Diese Kerle essen immer ihr Gemüse. Zusammen mit allem anderen, was sie in die Klauen bekommen
-peacock_sharpshooter_bestiary:Ihr federgeschmücktes Kleid wurde früher nur für Paarungsrituale verwendet, aber es ist eine harte Welt da draußen
+peacock_sharpshooter_bestiary:Ihr fedriges Kleid wurde einst nur für Paarungsrituale verwendet, aber es ist eine raue Welt da draußen.
 pirate_bandit_bestiary:Die Streifen werden genutzt, um ihre wahre Anzahl zu verbergen.
 pirate_monkey_bestiary:Wäre da nicht das Holzbein, wären sie doppelt so gut im Klettern wie ein normaler Pirat.
 pirate_parrot_bestiary:Die Physik eines Kanonen führenden Papageis ist nicht vollständig verstanden, man geht von Piratenmagie aus.
@@ -78,7 +78,7 @@ slime_scout_bestiary:Ihre gepanzerte Außenhülle ist fast nicht von Felsen und 
 slime_wizard_bestiary:Zauberlehrlinge fallen ihnen häufig zum Opfer.
 spider_crab_bestiary:Sie weben tatsächlich Netze, um ihre Verstecke zu schützen.
 toxic_carnivorous_plant_bestiary:Ihr Verhalten ist auch als toxisch einzustufen.
-venomous_centipede_bestiary:Ihr Gift schwächt ihre Beute, um sie dann zu Brei zu walzen.
+venomous_centipede_bestiary:Ihr Gift schwächt ihre Beute, damit sie diese zu Brei walzen können.
 green_wyvern_bestiary:Nur ein entfernter Ableger der legendären Drachen, aber dennoch tödlich.
 waterstrider_bestiary:Sie brauchen mehr als einen Tropfen Öl, um sie zum Sinken zu bringen.
 ascended_duelist_bestiary:Jene, die den Himmel herausfordern, werden ihrem Schwert begegnen.
@@ -86,16 +86,16 @@ ascended_enforcer_bestiary:Erhebe deinen Speer zum Ruhm des himmlischen Richters
 ascended_gatekeeper_zephon_bestiary:Er zeichnete sich durch Kampfgeschick und Glauben aus, und selbst über seine sterblichen Tage hinaus wird er das göttliche Reich verteidigen.
 ascended_guardian_bestiary:...denn der Himmel wird nicht leicht fallen.
 ascended_sharpshooter_bestiary:Diese Pfeile durchbohren nicht mit Liebe und Glück.
-blessed_archer_bestiary:Stets wachsam gegen die Feinde der Menschheit, aber manches Mal ist ein niederträchtiger Konflikt unvermeidlich.
+blessed_archer_bestiary:Immer wachsam gegen die Feinde der Menschheit, doch eines Tages ist ein unehrenhafter Konflikt unausweichlich.
 blessed_spearman_bestiary:Ihr Speer zielt meist auf weit monströsere Gegner.
 blessed_warrior_bestiary:Verzweifelte Zeiten erfordern unehrenhafte Maßnahmen.
 chest_mimic_bestiary:Viele erwarteten ihre gerechte Belohnung, nur um in der Speiseröhre eines solch tückischen Schatzes gefangen zu werden.
 companion_of_the_nameless_bestiary:Was würde diesen Kreaturen Gefährte nennen?
 corpse_eater_ragnar_bestiary:Gesättigt von den Toten von Hunderten, sucht diese Kreatur immer noch mehr.
-corrupted_forest_heart_bestiary:An all seinen Beschützern vorbeigeschlichen, reichte ein einziger Dolch aus für ein gärendes Gift.
-deepwater_berserk_bestiary:Ein Fisch, rot vor Wut, dessen heftiger Biss Schuppen und Schild zerreißt.
+corrupted_forest_heart_bestiary:An allen seinen Beschützern vorbeischleichend, genügte ein einziger Dolch für ein fauliges Gift.
+deepwater_berserk_bestiary:Ein Fisch, rot vor Wut gefärbt, dessen wütender Biss Schuppen und Schild zerreißt.
 deepwater_crab_bestiary:Diese Krustentiere bleiben lethargisch, bis sie gestört werden.
-deepwater_crab_warrior_bestiary:Territoriale Krabben, die ihr wässriges Königreich verteidigen.
+deepwater_crab_warrior_bestiary:Territoriale Krabben verteidigen ihr wässeriges Königreich.
 deepwater_dark_star_bestiary:Versuche, sie in ballähnliche Käfige zu fangen, wurden aus Angst vor rechtlichen Konsequenzen auf Eis gelegt.
 deepwater_lurker_bestiary:Ein Hinterhalt-Raubtier, das alles angreift, von Fischen bis zu Menschen.
 deepwater_urchin_bestiary:Diese Seeigel fressen alles, was ihre lähmenden Stacheln nicht vermeiden.
@@ -117,32 +117,32 @@ lady_of_the_passage_bestiary:Einst eine Priesterin des Landes, jetzt eine einsam
 light_slime_bestiary:Leicht im Sinne von Gewicht und Leuchtkraft, nicht unbedingt in Bezug auf Schwierigkeit.
 lost_fairy_bestiary:Hey, hör zu!
 lost_soul_bestiary:Ihr Wert von einer (1) Seele könnte den Aufwand nicht wert sein.
-overseer_crab_bestiary:Die sozialen Hierarchien der Krabben sind kaum erforscht, aber vorläufige Studien bestätigen, dass Aufseherkrabben aufgrund ihrer schieren Größe über ihre kleineren Artgenossen hinwegsehen können, ja.
+overseer_crab_bestiary:Die sozialen Hierarchien der Krabben sind kaum erforscht, aber vorläufige Studien bestätigen, dass Aufseherkrabben allein durch ihre bloße Größe über ihre kleineren Artgenossen hinwegsehen können, ja.
 protector_of_the_forest_heart_bestiary:Du solltest dich wie eine Weide biegen, bevor du vor dieser Eiche zerbrichst
 scavenging_mandrake_bestiary:Der Bodenfresser des Waldes, immer auf der Suche nach nahrhaftem Boden, Sonnenlicht und blutbasierter Düngung
 skeleton_archer_bestiary:Minimale Angriffsfläche für Gegenfeuer.
 skeleton_cutthroat_bestiary:Im Untod wie im Leben das Rückgrat ihrer Armee
 skeleton_dragon_bestiary:Lass diesen Kampf nicht in die Länge ziehen
 skeleton_guard_bestiary:Stöcke und Steine brachen einst ihre Knochen, aber jetzt sind sie ausreichend gegen solche trivialen Angriffe geschützt
-skeleton_hare_bestiary:Hasen produzieren viele entbehrliche Körper… obwohl sie auch nicht wirklich bedrohlich sind
+skeleton_hare_bestiary:Kaninchen produzieren eine große Anzahl entsorgbarer Körper... jedoch sind sie auch nicht wirklich bedrohlich.
 skeleton_knight_bestiary:Sie starben, bevor sie ihre Ehre brachen… also ist jetzt alles erlaubt
 skeleton_marauder_bestiary:Plünderende Krieger, die töten und verstümmeln, um ein Outfit zu erbeuten, das mehr als Fetzen ist
 the_nameless_bestiary:Wir werden ihn alle am Ende treffen, kein Bedarf für große Titel
 thorn_cutter_bestiary:Dornen eignen sich im Allgemeinen besser zum Durchbohren, aber das hindert diese Pflanze nicht am Versuch
-wall_mimic_bestiary:Nächste Generation im abenteurer-sicheren Verliesdesign
+wall_mimic_bestiary:Nächste Generation im abenteurer-sicheren Dungeon-Design.
 rain_wing_bestiary:Es wird angenommen, dass es seine Form je nach Feuchtigkeitsniveau in seiner Umgebung ändert
 tulip_wing_bestiary:Häufig als die grundlegendste Art von Schmetterling betrachtet, ohne elementare Infusion
 inferno_wing_bestiary:Gefürchtet während der trockenen Sommermonate, da ihre Flügel Bauernhöfe, Felder und Wälder entzünden
 fire_snake_bestiary:Ihre feurige Infusion gleicht ihre kaltblütige Reptiliennatur aus
-lunar_wing_bestiary:Diese Schmetterlinge scheinen Himmelskörper Blumen vorzuziehen
+lunar_wing_bestiary:Diese Schmetterlinge scheinen Himmelskörper Blumen vorzuziehen.
 fur_wing_bestiary:Was zum Höllenfeuer soll ich als das klassifizieren?!
-colossal_red_snake_bestiary:Ihre aufgerichtete Haltung verbirgt eine überraschend große Reichweite ihres Bisses
+colossal_red_snake_bestiary:Ihre aufgerichtete Haltung verbirgt eine überraschende lange Reichweite ihres Bisses.
 colossal_purple_snake_bestiary:Wenn es dich beißt und du stirbst, ist es giftig. Wenn du es beißt und du stirbst, ist es giftig. Diese hier ist beides.
 gnoll_archer_bestiary:Ihr Ausdruck verrät ihre Rolle als Distanzkämpfer
 gnoll_vanguard_bestiary:Ihre Bisse bleiben gefährlich, selbst nachdem du an ihren Speeren vorbeigeschlüpft bist
 gnoll_swordsman_bestiary:Ich... möchte es irgendwie streicheln, aber es ist wahrscheinlich weder einen Stich noch Tollwut wert
 goblin_reaper_bestiary:Was kommt als Nächstes, ein Schnitter der Ratten?
-goblin_rider_bestiary:Ihre Rüstung ist aus vergangenen Überfällen geplündert und gibt Hinweise auf ihren Rang und ihre Erfahrung
+goblin_rider_bestiary:Ihre Rüstung ist ein Sammelsurium aus vergangenen Überfällen und gibt Aufschluss über ihren Rang und ihre Erfahrung.
 goblin_sorcerer_bestiary:Ihr Hang, Vögel zu zähmen, macht sie zu gefährlichen Spähern
 flying_leech_bestiary:Ein findiger Arzt wollte diese Sauger nutzen, aber sein Glas zerbrach und setzte sie in einer Nachbarschaftsstadt frei.
 behemoth_bestiary:Dicke Haut, gefährliche Stoßzähne... serpentinenschwanz und eine Mähne aus feurigem Haar?
@@ -150,7 +150,7 @@ ice_snake_bestiary:Diese Schlangen scheinen das Eisstück, das aus ihrem Kopf ra
 gnoll_shaman_bestiary:Ihre mächtigen Gebräue scheinen die Ursache für den manischen Ausdruck ihres Stammes zu sein
 undead_gnoll_bestiary:Ugh, nicht mehr so knuddelig
 skeleton_commander_bestiary:Seine Rüstung und Ausrüstung zeigen, dass viel Mühe in die Erschaffung dieses Untoten gesteckt wurde.
-flaming_wolf_bestiary:Druidische Kreise schaffen diese Manifestationen, um ihre Feinde zu jagen
+flaming_wolf_bestiary:Druidische Zirkel erschaffen diese Manifestationen, um ihre Feinde zu jagen.
 flaming_wolf_spirit_bestiary:Diese Manifestation hat die meiste Form verloren, aber weder ihren Antrieb noch ihr Ziel
 colossal_bat_bestiary:Die Kolossale Fledermaus wohnt in den tiefsten Höhlen und nutzt ihre massiven Flügel, um mächtige Windböen zu erzeugen.
 colossal_dark_crow_bestiary:Ein Vorbote des Untergangs, der Kolossale Dunkelkrähe durchquert stürmische Himmel und wirft Schatten über die darunter liegenden Lande.
@@ -159,9 +159,9 @@ forest_fox_bestiary:Der flüchtige Waldfuchs navigiert geschickt und anmutig dur
 forest_deer_bestiary:Ein elegantes Wesen, das Waldhirsch weidet friedlich im Herzen des Waldes und ist stets aufmerksam gegenüber möglichen Bedrohungen.
 forest_bee_bestiary:Wald-Bienen helfen, das Ökosystem mit ihrer Bestäubung zu erhalten, doch ihre Stacheln sind immer noch eine schmerzhafte Abschreckung.
 forest_blue_flower_bestiary:Blaue Waldblumen sind bekannt für ihre lebendige Farbe und ihren süßen Duft, der eine Vielzahl von Kreaturen anlockt.
-forest_catermoth_bestiary:Wald-Raupenfaltern, eine einzigartige Mischung aus Raupe und Motte, sind faszinierende Kreaturen, die in dichten Wäldern leben.
+forest_catermoth_bestiary:Wald-Raupenmotten, eine einzigartige Mischung aus Raupe und Motte, sind faszinierende Kreaturen, die in dichten Wäldern leben.
 forest_ghost_bestiary:Wald-Geister spuken in den tiefen Wäldern, erscheinen als durchsichtige Gespenster und jagen jedem Reisenden einen Schauer über den Rücken.
-forest_darkluff_bestiary:Wald-Dunkelluffs sind schwer fassbare Kreaturen, die nahtlos in den dunklen Waldboden übergehen und damit einen seltenen und geheimnisvollen Anblick bieten.
+forest_darkluff_bestiary:Wald-Dunkelluffs sind schwer fassbare Kreaturen, die nahtlos in den dunklen Waldboden übergehen und deshalb selten und geheimnisvoll wirken.
 forest_fairy_dragon_bestiary:Wald-Feendrachen sind verspielte Wesen mit schillernden Schuppen, die oft beim Flattern zwischen den Bäumen zu sehen sind.
 forest_grasshopper_bestiary:Wald-Heuschrecken sind bekannt für ihre kräftigen Hinterbeine und ihre unglaubliche Sprungfähigkeit, die sie zu agilen Bewohnern des Waldbodens machen.
 forest_imperial_widow_bestiary:Wald-Kaiserwitwen sind große, auffällige Spinnen mit kunstvollen Mustern auf ihrem Hinterleib und einem Ruf, hochgiftig zu sein.
@@ -309,7 +309,7 @@ sea_tortoad_bestiary:Teil Kröte, Teil Schildkröte und vollständig desinteress
 sea_turtle_bestiary:Diese Schildkröten sind zu Meister-Navigatoren geworden, oft schlagen sie Navigatoren in Genauigkeit – und gelegentlich auch in Geschwindigkeit.
 sea_shelltacke_bestiary:Bekannt für ihre Fähigkeit, einen Treffer einzustecken, arbeitet diese Kreatur oft nebenbei als Leibwächter für Unterwasser-Prominente.
 sea_octi_bestiary:Es kommt nicht auf die Anzahl der Tentakel an, sondern darauf, wie man sie einsetzt.
-sea_octopus_bestiary:Tintenreich begabt in Tarnung und Unterwasser-Kalligrafie.
+sea_octopus_bestiary:Unglaublich talentiert in Tarnung und Unterwasser-Kalligrafie.
 sea_fatoad_bestiary:Bei den Sea Fatoads gibt es mehr zu lieben und mehr zu fürchten.
 sea_crab_bestiary:Lebender Beweis dafür, dass Querdenken dich weiterbringen kann.
 sea_blue_dragon_bestiary:Verschmilzt nahtlos mit dem Ozean, fällt aber wirklich in einem Tanzwettbewerb auf.
@@ -354,7 +354,7 @@ void_gargoyle_bestiary:Der Leere Gargoyle verbringt die meiste Zeit damit, sich 
 white_minotaur_bestiary:Der Weiße Minotaurus genießt lange Spaziergänge am Strand und ist überraschenderweise ein ausgezeichneter veganer Koch.
 avian_elephant_bestiary:Der Avian Elephant ist das Ergebnis des gescheiterten Versuchs eines verrückten Wissenschaftlers, einen fliegenden Elefanten zu erschaffen, was zu einer Kreatur führte, die nur ihre Ohren sehr gut flattern kann.
 black_lance_knight_bestiary:Der Schwarze Lanze Ritter verbringt seine Freizeit damit, seine Fähigkeiten im Lanzenreiten zu perfektionieren und darüber nachzudenken, warum sein Pferd nie schneller zu werden scheint.
-minivolcano_bestiary:Der Minivulkan ist eine kleine, mobile Vulkan-Kreatur, die Asche und kleine Lavaausbrüche speit. Er ist dafür bekannt, kleinere Störungen zu verursachen und überall, wo er hingeht, kleine Feuer zu entfachen.
+minivolcano_bestiary:Der Mini-Vulkan ist eine kleine, mobile vulkanische Kreatur, die Asche und kleine Lavaschübe ausstößt. Er ist bekannt dafür, kleinere Störungen zu verursachen und überall, wo er hingeht, kleine Feuer zu entzünden.
 fire_salamander_bestiary:Der Feuersalamander ist ein kämpferischer Amphibie mit der Fähigkeit, Hitze zu widerstehen und zu erzeugen, was ihn in vulkanischen Umgebungen zu einem furchterregenden Gegner macht.
 fire_dragonspawn_bestiary:Feuer-Drachennachkommen sind die Nachkommen mächtiger Drachen. Obwohl sie nicht so beeindruckend wie ihre Eltern sind, besitzen sie eine angeborene Affinität zur Feuermagie und können kleine Flammenstöße ausstoßen.
 lava_spawn_bestiary:Der Lava Spawn ist eine Kreatur, vollständig aus geschmolzenem Fels. Es kann extremen Hitze widerstehen und nutzt seinen lavaähnlichen Körper, um Feinde zu versengen und die Umgebung in Brand zu setzen.
@@ -510,7 +510,7 @@ rudolph_bestiary:-
 big_sack_goblin_bestiary:-
 angry_snowman_bestiary:-
 nailguns_bestiary:Ein Mimic, der vorgibt, ein Nailguns zu sein.
-colossal_black_snake_bestiary:Verlass dich nicht auf Dunkelsicht, um dieses Reptil zu entdecken.
+colossal_black_snake_bestiary:Verlasse dich nicht auf Dunkelsicht, um dieses Reptil zu erkennen.
 earth_horse_bestiary:An das Leben unter der Erde angepasst, haben diese mächtigen Rösser nie die Sonne gesehen.
 crystal_mimic_bestiary:Sind diese spitzen Dinge Stalagmiten oder Stalaktiten? Weder noch. Es sind Zähne.
 crag_worm_bestiary:Diese Krabbler graben sich mit Mandibeln, die durch festen Stein beißen können, durch die Erde. Das Rumpeln aus der Tiefe könnte kein Erdbeben sein...
@@ -660,3 +660,4 @@ siren_bestiary:Hüte dich vor diesen schönen Fischvolk-Wesen. Ihr süßer Gesan
 sphinx_bestiary:Diese halb-löwenhaften Wächter sichern uralte Gräber und Ruinen und sind berüchtigt dafür, ein tödliches Rätselspiel zu fordern, um Zutritt zu ihren Verstecken zu gewähren.
 basilisk_bestiary:Dieses übel gelaunte Biest entsteht, wenn ein Huhn auf einem Schlangenei brütet. Sein Gift ist tödlich genug, um mit einem einzigen Fanghieb zu töten.
 cockatrice_bestiary:Dieses übel gelaunte Biest entsteht, wenn eine Schlange ein Hühnerei ausbrütet. Sein Blick kann den mächtigsten Helden in Stein verwandeln.
+hag_bestiary:Frag lieber nicht, was in ihrem Kessel kocht. Es ist entweder ein Molchaugen oder der letzte Abenteurer, der sie mit Fragen belästigt hat...

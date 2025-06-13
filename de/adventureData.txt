@@ -429,10 +429,17 @@ discarded:Verworfen
 discarded_tool:Verworfenes Werkzeug
 discarded_tool_description:Das Werkzeug wurde weggeworfen, da jeder stimmberechtigte Spieler bereits eines hatte.
 swapped:Vertauscht
-effect_swapped:Vertauschte Beschreibung
+effect_swapped:Irgendetwas hat sich verändert—Körper, Geist oder Seele. Selbst sie können nicht sagen, wer sie vorher waren. // +25% maximale Gesundheit
 power_of_humankind:Macht der Menschheit
-effect_power_of_humankind:Beschreibung der Macht der Menschheit
+effect_power_of_humankind:Angetrieben von Ausdauer und Willen verkörpert diese Person die Zähigkeit der Menschheit. // +20% Geschicklichkeit, -20% Weisheit
 power_of_elvenkind:Macht der Elfen
-effect_power_of_elvenkind:Beschreibung der Macht der Elfen
+effect_power_of_elvenkind:Anmutig und weise kanalisiert diese Person die verfeinerte Macht des elfischen Erbes. // +20% Weisheit, -20% Stärke
 power_of_demonkind:Macht der Dämonen
-effect_power_of_demonkind:Beschreibung der Macht der Dämonen
+effect_power_of_demonkind:Verkörperter Zorn. Diese Seele trägt das gewaltsame Geschenk der Dämonenart. // +20% Stärke, -20% Geschicklichkeit
+quest_dice_reduction_story:Ich habe einen kuriosen Würfel mit chaotischen Energien hergestellt. Ich suche einen mutigen Abenteurer, um sein Schicksal zu testen!
+quest_dice_reduction_effect:Dieser Würfel wird deine Würfelwürfe um {amount} verringern.
+reachAdventureRoom:Erreiche Raum {amount}, um die Quest abzuschließen.
+quest_damage_reduction_story:Ein eifriger Schmiedelehrling möchte sein Handwerk verbessern—an den Waffen deiner Gruppe. Wirst du es erlauben?
+quest_damage_reduction_effect:Dies wird die Schadensausgabe deiner Lobby um {amount}% reduzieren.
+quest_health_reduction_story:Ein unerfahrener Alchemist bittet um die Gelegenheit zu experimentieren—und die Vitalität deiner Gruppe als Testobjekt zu nutzen.
+quest_health_reduction_effect:Dies wird die Gesundheit deiner Lobby um {amount}% reduzieren.

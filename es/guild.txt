@@ -65,3 +65,4 @@ invitedBy:Invitado por
 youHave:Tienes
 join:Unirse a
 applicationAlreadySent:¡Ya tienes una solicitud pendiente para este gremio!
+upgradeNotFinished:Necesitas proporcionar todos los materiales requeridos para comenzar la mejora.

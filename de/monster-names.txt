@@ -502,7 +502,7 @@ flaming_slime:Brennender Schleim
 lady_of_the_vale:Dame des Tals
 volcanic_maiden:Vulkanische Maid
 gemstone_fire_dragon:Edelstein-Feuerdrache
-ignithor_the_charred_sovereign:Ignithor, der verkohlte Souverän
+ignithor_the_charred_sovereign:Ignithor, der Geschwärzte Souverän
 blightflame_first_of_dragons:Seuchenflamme, Erste der Drachen
 spiky_turtle:Dornige Schildkröte
 rudolph:Rudolph
@@ -663,3 +663,4 @@ siren:Siren
 sphinx:Sphinx
 basilisk:Basilisk
 cockatrice:Kokatrice
+hag:Hag

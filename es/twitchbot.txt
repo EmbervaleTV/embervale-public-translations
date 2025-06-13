@@ -18,13 +18,13 @@ defeated:Derrotado
 cantFindMonster:¡No puedo encontrar a este monstruo!
 cmdJoinDiscord:Visita nuestro Discord para conseguir increíbles recompensas todos los días.
 chatBotNeedsSetup:¡Activa nuestro chatbot en embervale.tv/commands para desbloquear aventuras!
-adventureCooldown:Estás en tiempo de espera:
+adventureCooldown:enfriamiento
 adventureFull:¡La aventura está llena!
 adventureAlreadyJoined:¡Ya te uniste!
 adventureJoined:unido
 adventureCanStart:puede iniciar una Aventura
 adventureInProgress:está organizando una Aventura ahora mismo
-adventureCanJoin:Puedes unirte a una Aventura
+adventureCanJoin:puede unirse a una Aventura
 adventureLeaveForbidden:Solo puedes salir de aventuras que no han comenzado o si el streamer ha estado inactivo durante más de 15 minutos.
 adventureLeft:abandonado
 adventureVotingDisabled:El streamer deshabilitó las votaciones para los jugadores fuera de su aventura.

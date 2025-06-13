@@ -18,13 +18,13 @@ defeated:Vaincu
 cantFindMonster:Impossible de trouver ce monstre!
 cmdJoinDiscord:Rendez-vous sur notre Discord pour obtenir des récompenses intéressantes chaque jour.
 chatBotNeedsSetup:Activez notre chatbot sur embervale.tv/commands pour débloquer des aventures!
-adventureCooldown:Tu es en période de récupération :
+adventureCooldown:temps de recharge
 adventureFull:L'aventure est complète !
 adventureAlreadyJoined:Tu as déjà rejoint !
 adventureJoined:rejoint
 adventureCanStart:peut commencer une aventure
 adventureInProgress:héberge une aventure en ce moment
-adventureCanJoin:Tu peux rejoindre une aventure
+adventureCanJoin:peut rejoindre une aventure
 adventureLeaveForbidden:Vous ne pouvez quitter les aventures que si elles n'ont pas commencé ou si le streamer est inactif depuis plus de 15 minutes.
 adventureLeft:quitté
 adventureVotingDisabled:Le streamer a désactivé les votes pour les joueurs en dehors de leur aventure.

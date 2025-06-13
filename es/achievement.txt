@@ -145,3 +145,11 @@ reset_skill_points:[Actualización de Equilibrio] Restablece tus puntos de habil
 open_dragon_eggs:Rompe {amount} huevos de dragón.
 defeat_ascended_bosses:Derrota a {amount} jefes ascendidos
 consumable_bag_expansion:+5 Espacios en la Bolsa de Consumibles
+complete_9hour_expedition:Completa {amount} expediciones que duren 9 horas o más
+complete_12hour_expedition:Completa {amount} expediciones que duren 12 horas o más
+reach_infernal_affinity_with_armor:Alcanza un {percentage}% de afinidad Infernal a través de la armadura equipada
+reach_necrotic_affinity_with_armor:Alcanza un {percentage}% de afinidad Necrótica a través de la armadura equipada
+reach_frost_affinity_with_armor:Alcanza un {percentage}% de afinidad Gélida a través de la armadura equipada
+reach_arcane_affinity_with_armor:Alcanza un {percentage}% de afinidad Arcana a través de la armadura equipada
+reach_divine_affinity_with_armor:Alcanza un {percentage}% de afinidad Divina a través de la armadura equipada
+complete_all_affinity_achievements:Completa todos los logros de afinidad

@@ -502,7 +502,7 @@ flaming_slime:Gosma Flamejante
 lady_of_the_vale:Dama do Vale
 volcanic_maiden:Donzela Vulcânica
 gemstone_fire_dragon:Dragão de Fogo das Gemas
-ignithor_the_charred_sovereign:Ignithor, o Soberano Chamuscado
+ignithor_the_charred_sovereign:Ignithor, o Soberano Carbonizado
 blightflame_first_of_dragons:Chama da Praga, Primeiro dos Dragões
 spiky_turtle:Tartaruga Espinhosa
 rudolph:Rudolph
@@ -579,7 +579,7 @@ sylvan_bear:Urso Silvano
 sylvan_unicorn:Unicórnio Silvano
 queen_bee:Abelha Rainha
 mischevious_pixie:Pixie Maliciosa
-mythical_stag:Veado Mítico
+mythical_stag:Cervo Mítico
 feral_satyr:Sátiro Feral
 fairy_queen_titania:Rainha Fada Titânia
 fairy_king_oberon:Rei Fada Oberon
@@ -663,3 +663,4 @@ siren:Sereia
 sphinx:Esfinge
 basilisk:Basílio
 cockatrice:Cocatriz
+hag:Hag

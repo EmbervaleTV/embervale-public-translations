@@ -18,13 +18,13 @@ defeated:Побежден
 cantFindMonster:Не могу найти этого монстра!
 cmdJoinDiscord:Посетите наш Discord, чтобы каждый день получать интересные награды.
 chatBotNeedsSetup:Включите нашего чат-бота на embervale.tv/commands, чтобы открывать приключения!
-adventureCooldown:Вы на перезарядке:
+adventureCooldown:перезарядка
 adventureFull:Приключение переполнено!
 adventureAlreadyJoined:Вы уже присоединились!
 adventureJoined:присоединился
 adventureCanStart:может начать Приключение
 adventureInProgress:в настоящее время проводит Приключение
-adventureCanJoin:Вы можете присоединиться к Приключению
+adventureCanJoin:может присоединиться к Приключению
 adventureLeaveForbidden:Вы можете покинуть приключение только если оно не началось или если стример был неактивен более 15 минут.
 adventureLeft:вышел
 adventureVotingDisabled:Стример отключил голосование для игроков вне их приключения.

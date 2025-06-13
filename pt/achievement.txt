@@ -145,3 +145,11 @@ reset_skill_points:[Atualização de Balanceamento] Redefina seus pontos de habi
 open_dragon_eggs:Quebre {amount} ovos de dragão.
 defeat_ascended_bosses:Derrote {amount} chefes ascendidos
 consumable_bag_expansion:+5 Espaços na Bolsa de Consumíveis
+complete_9hour_expedition:Complete {amount} expedições que durem 9 horas ou mais
+complete_12hour_expedition:Complete {amount} expedições que durem 12 horas ou mais
+reach_infernal_affinity_with_armor:Alcance {percentage}% de afinidade Infernal através de armaduras equipadas
+reach_necrotic_affinity_with_armor:Alcance {percentage}% de afinidade Necrótica através de armaduras equipadas
+reach_frost_affinity_with_armor:Alcance {percentage}% de afinidade Gélida através de armaduras equipadas
+reach_arcane_affinity_with_armor:Alcance {percentage}% de afinidade Arcana através de armaduras equipadas
+reach_divine_affinity_with_armor:Alcance {percentage}% de afinidade Divina através de armaduras equipadas
+complete_all_affinity_achievements:Complete todos os feitos de afinidade

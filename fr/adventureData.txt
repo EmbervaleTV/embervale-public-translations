@@ -429,10 +429,17 @@ discarded:Jeté
 discarded_tool:Outil Jeté
 discarded_tool_description:L'outil a été rejeté, car chaque joueur votant en avait déjà un.
 swapped:Échangé
-effect_swapped:Description échangé
-power_of_humankind:Puissance des humains
-effect_power_of_humankind:Description de puissance des humains
-power_of_elvenkind:Puissance des elfes
-effect_power_of_elvenkind:Description de puissance des elfes
-power_of_demonkind:Puissance des démons
-effect_power_of_demonkind:Description de puissance des démons
+effect_swapped:Quelque chose a changé—corps, esprit ou âme. Même eux ne peuvent dire qui ils étaient auparavant. // +25% santé max
+power_of_humankind:Pouvoir de l'humanité
+effect_power_of_humankind:Animé par la résilience et la volonté, cette personne incarne la ténacité de l'humanité. // +20% Dextérité, -20% Sagesse
+power_of_elvenkind:Pouvoir des elfes
+effect_power_of_elvenkind:Gracieux et sage, cette personne canalise la puissance raffinée de l'héritage elfique. // +20% Sagesse, -20% Force
+power_of_demonkind:Pouvoir des démons
+effect_power_of_demonkind:Incarnation de la colère. Cette âme porte le don violent des démoniaques. // +20% Force, -20% Dextérité
+quest_dice_reduction_story:J'ai fabriqué un dé curieux imprégné d'énergies chaotiques. Je cherche un aventurier courageux pour en tester le destin !
+quest_dice_reduction_effect:Ce dé réduira vos jets de dés de {amount}.
+reachAdventureRoom:Atteignez la Salle {amount} pour terminer la quête.
+quest_damage_reduction_story:Un apprenti-forgeron enthousiaste souhaite perfectionner son art—sur les armes de votre groupe. Allez-vous le permettre ?
+quest_damage_reduction_effect:Cela réduira les dégâts de votre groupe par {amount}%.
+quest_health_reduction_story:Un alchimiste novice demande une chance d'expérimenter—en utilisant la vitalité de votre groupe comme sujet de test.
+quest_health_reduction_effect:Cela réduira la santé de votre groupe par {amount}%.

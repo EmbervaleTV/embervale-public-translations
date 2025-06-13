@@ -153,14 +153,14 @@ shadow_remains:Shadow Remains
 effect_petrified:The player is transformed into stone. // Unable to move or take actions
 petrified:Petrified
 
-swapped:[test] Swapped
-effect_swapped:[test] Swapped description
-power_of_humankind:[test] power_of_humankind
-effect_power_of_humankind:[test] power_of_humankind description
-power_of_elvenkind:[test] power_of_elvenkind
-effect_power_of_elvenkind:[test] power_of_elvenkind description
-power_of_demonkind:[test] power_of_demonkind
-effect_power_of_demonkind:[test] power_of_demonkind description
+swapped:Swapped
+effect_swapped:Something changed—body, mind, or soul. Even they can't say who they were before. // +25% max health
+power_of_humankind:Power of Humankind
+effect_power_of_humankind:Fueled by resilience and will, this person embodies the tenacity of humankind. // +20% Dexterity, -20% Wisdom
+power_of_elvenkind:Power of Elvenkind
+effect_power_of_elvenkind:Graceful and wise, this person channels the refined might of elven heritage. // +20% Wisdom, -20% Strength
+power_of_demonkind:Power of Demonkind
+effect_power_of_demonkind:Wrath incarnate. This soul bears the violent gift of demonkind. // +20% Strength, -20% Dexterity
 
 effect_lycanthropic:This player carries a dangerous curse…// Upon falling in combat, they don’t lose a health state. Instead, the curse takes over, turning them into a werewolf.
 lycanthropic:Lycanthropic Curse
@@ -493,3 +493,16 @@ failed:Failed
 toolsUsed:Tools Used
 room:Room
 highscore:Highscore
+
+// quests
+reachAdventureRoom:Reach Room {amount} to complete the quest.
+
+
+quest_dice_reduction_story:I've crafted a curious die infused with chaotic energies. I seek a brave adventurer to test its fate!
+quest_dice_reduction_effect:This die will decrease your dice rolls by {amount}.
+
+quest_damage_reduction_story:An eager apprentice blacksmith wishes to hone their craft—on your party’s weapons. Will you allow it?
+quest_damage_reduction_effect:This will reduce your lobby's damage output by {amount}%.
+
+quest_health_reduction_story:A novice alchemist requests a chance to experiment—using your party's vitality as the test subject.
+quest_health_reduction_effect:This will reduce your lobby's health by {amount}%.

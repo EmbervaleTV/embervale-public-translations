@@ -606,9 +606,9 @@ chooseIcon:Choisir l'icône
 equipPreset:Équiper le préréglage
 free:Gratuit
 purchasePreset:Achat Prédéfini
-limitFPS:Limitez l'animation FPS
+limitFPS:Limiter les FPS d'animation des personnages
 imageResolutionTip:(Passer à faible uniquement si les images se chargent lentement)
-limitFPSTip:(Réduire le FPS peut optimiser les performances en utilisant moins de ressources)
+limitFPSTip:(Réduire les images par seconde diminue l'utilisation des ressources et peut améliorer les performances)
 controlsTip:(Choisissez bureau pour l'entrée de la souris et mobile pour les commandes tactiles)
 dangerZone:Zone Dangereuse
 patreonThanks:Le projet n'aurait jamais été possible sans nos Patreons. Beaucoup d'amour à vous tous ♥ Et un merci spécial à nos :
@@ -689,3 +689,13 @@ purchaseSlot:Emplacement d'achat
 loginInNewWindow:Se Connecter (Nouvelle Fenêtre)
 tooltipArenaBattles:Combats d'arène que tu peux combattre
 tooltipExpeditionStatus:Indique si tu as terminé une expédition
+value:Valeur
+noCharacterAnimation:Pas d'animations de personnages
+counselor_male:Conseiller
+counselor_female:Conseillère
+completionist-badge:Insigne de Complétionniste
+completionist-badge_desc:Décerné pour avoir complété un grand nombre de succès
+completionist_male:Collectionneur
+completionist_female:Collectionneuse
+unequipTitle:Déséquiper Titre
+minLVL:LVL Min

@@ -65,3 +65,4 @@ invitedBy:Invité par
 youHave:Tu as
 join:Rejoindre
 applicationAlreadySent:Vous avez déjà une demande en attente pour cette guilde !
+upgradeNotFinished:Vous devez fournir tous les matériaux requis pour commencer l'amélioration.

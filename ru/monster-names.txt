@@ -502,7 +502,7 @@ flaming_slime:Пылающая слизь
 lady_of_the_vale:Леди из Вэйл
 volcanic_maiden:Вулканическая дева
 gemstone_fire_dragon:Дракон Огненный Самоцвет
-ignithor_the_charred_sovereign:Игнитор, обгоревший Повелитель
+ignithor_the_charred_sovereign:Игнитор, Обугленный Властелин
 blightflame_first_of_dragons:Гнилопламя, первый из Драконов
 spiky_turtle:Колючая черепаха
 rudolph:Рудольф
@@ -663,3 +663,4 @@ siren:Сирена
 sphinx:Сфинкс
 basilisk:Базилиск
 cockatrice:Кокатрис
+hag:Ведьма

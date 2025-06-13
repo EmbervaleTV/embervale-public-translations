@@ -564,7 +564,7 @@ golden_bardiche:Золотая бердыш
 moonlight_axe:Топор лунного света
 dwarven_warhammer:Дворфийский боевой молот
 amethyst_harvester:Аметистовый жнец
-emperors_judgement:Суд Императора
+emperors_judgement:Приговор Императора
 undead_generals_axe:Топор генерала нежити
 wooden_warhammer:Деревянный боевой молот
 deadly_diamond:Смертоносный алмаз
@@ -640,7 +640,7 @@ sharpshooters_bow:Лук Меткого Стрелка
 frostborn_bow:Лук Морозного Рождения
 nightbringers_bow:Лук Ночной Хмари
 composite_bow:Составной Лук
-judgement:Правосудие
+judgement:Приговор
 barbed_crossbow:Шипастый Арбалет
 dreaded_bow:Лук Ужаса
 serpent_eye_bow:Лук Змеиного Глаза
@@ -1000,3 +1000,407 @@ divine_smite:Божественный Удар
 golden_order:Золотой Орден
 blightreaver:Опустошающий Губитель
 bronze_band:Бронзовое кольцо
+barkfang_bow:Лук Коры и Клыка
+molten_branch_bow:Лук Расплавленной Ветви
+hollowmoon_bow:Лук Пустой Луны
+thornhook_bow:Лук Тернового Крючка
+barkshot_crossbow:Арбалет Коры
+duskrend_bow:Лук Сумеречного Разрыва
+grovekeeper_bow:Лук Хранителя Рощ
+thistlebolt_crossbow:Арбалет Чертополоха
+soulbite_bow:Лук Укуса Души
+sunflare_bow:Лук Солнечного Всполоха
+spellcog_crossbow:Арбалет Заклинательного Зубца
+stormwing_bow:Лук Крыльев Шторма
+drakevine_bow:Лук Драконьей Лианы
+emeraldthorn_bow:Лук Изумрудного Шипа
+shockfang_bow:Лук Удара и Клыка
+skyblessing_bow:Лук Небесного Благословения
+duskchaser_bow:Лук Сумеречного Преследования
+frostclaw_crossbow:Арбалет Ледяного Когтя
+witchpiercer_crossbow:Арбалет Ведьминого Прокола
+bloodleaf_bow:Лук Кровавого Листа
+suncoil_crossbow:Арбалет Солнечной Спирали
+stormguard_crossbow:Арбалет Шторма
+phoenixgrip_crossbow:Арбалет Фениксовой Хватки
+junglefang_crossbow:Арбалет Джунглевой Клыки
+skybolt_crossbow:Арбалет Небесной Стрелы
+hornroot_crossbow:Арбалет Рогового Корня
+frostshard_bow:Лук Ледяного Осколка
+emberhook_crossbow:Арбалет Emberhook
+emberstar_bow:Лук Emberstar
+lionbolt_crossbow:Арбалет Львиных Молний
+aquashot_crossbow:Арбалет Водной Стрелы
+blazing_oak_bow:Лук Пылающего Дуба
+bloodcurse_crossbow:Арбалет Кровавого Проклятия
+witchlock_crossbow:Арбалет Ведьминой Запоры
+netherburn_crossbow:Арбалет Преисподней
+royalvenom_crossbow:Арбалет Королевского Яда
+harrowspike_launcher:Запускатор Колючек Ужаса
+tyrantfang_crossbow:Арбалет Тиранического Клыка
+voidspike_bow:Лук Пустотных Шипов
+sunflare_wrath:Гнев Sunflare
+twilightband_bow:Лук Twilightband
+volcanic_curse_bow:Лук Проклятия Вулкана
+abyssbreaker_bow:Лук Разрушителя Бездны
+runecrank_crossbow:Арбалет Рункрэнк
+windhook_staff:Посох Ветроклык
+sunseed_staff:Посох Солнечного Семени
+skyfeather_rod:Жезл Небесного Пера
+spiritbloom_staff:Посох Духоцвета
+cryocrystal_staff:Посох Ледяного Кристалла
+horn_of_the_ancients:Рог Древних
+flameshroud_scepter:Скипетр Пламенной Шали
+emberclaw_rod:Жезл Emberclaw
+emeraldheart_scepter:Скипетр Изумрудного Сердца
+frostbite_trident:Трезубец Ледяного Укуса
+celestial_spiral_rod:Жезл Небесной Спирали
+deathskull_cane:Трость Черепа Смерти
+divine_aegis_staff:Посох Божественной Эгида
+emerald_warden_staff:Посох Изумрудного Стража
+phoenixflare_conduit:Проводник Phoenixflare
+skullhorn_staff:Посох Черепорога
+voidshard_scepter:Скипетр Пустотного Осколка
+plaguebone_staff:Посох Чумной Кости
+inferno_brand_staff:Посох Инфернальной Метки
+soulshard_trident:Трезубец Осколка Души
+bloodspiral_rod:Жезл Кровавой Спирали
+verdant_bonecaller:Зовущий Кости
+ghostfang:Призрачный Клык
+runeshard:Рунический Осколок
+ironlash:Железная Плеть
+bloodkiss:Кровавый Поцелуй
+riftpiercer:Пронзающий Разлом
+moonfang:Лунный Клык
+phantomshiv:Фантомный Кинжал
+chasmfang:Бездна Клыка
+crimsonwhisper:Алый Шепот
+dreamfang:Клык Мечты
+silentthorn:Тихий Шип
+boneknuckle_dagger:Костяной кастет
+thornkiss:Шипастый Поцелуй
+duskrend:Duskrend
+hellpiercer:Hellpiercer
+twilightfang:Twilightfang
+shadowskewer:Shadowskewer
+glimmerfang:Glimmerfang
+grimfang:Grimfang
+gloomslicer:Gloomslicer
+whisperfang:Whisperfang
+nightsplitter:Расколотый Ночью
+soulfang:Клык Души
+starfuryfang:Клык Звездного Ярости
+wraithfang:Призрачный Клык
+gravetalon:Коготь Могилы
+vilethorn:Злобный Шип
+stormfang:Клык Шторма
+tidepiercer:Пронзающий Прилив
+venombreath:Ядовитое Дыхание
+abyssfang:Клык Бездны
+stardagger:Звездный Кинжал
+oblivionfang:Клык Забвения
+voidtip:Острие Пустоты
+embersting:Жало Ember
+ebonfang:Эбеновый Клык
+bonefang:Костяной Клык
+beastrend_hook:Крюк Зверя
+bronze_lionblade:Бронзовый Львиный Клинок
+sandwarden_edge:Клинок Песчаного Стража
+iron_sentinel:Железный Страж
+kings_mercy:Милость Короля
+dawnpiercer:Пронзающий Рассвет
+azure_slicer:Лазурный Резак
+emberfang_shard:Осколок Клыка Ember
+ghostblade:Призрачный Клинок
+crimson_ringblade:Кровавое Кольцо-Клинок
+sunpierce_javelin:Дротик Солнечного Пронзателя
+golden_thrust:Золотой Удар
+prismfang:Клык Призмы
+crusaders_pledge:Клятва Крестоносца
+scorpions_whisper:Шёпот Скорпиона
+frostfire_fang:Клык Ледяного Огня
+twinfang_claw:Коготь Близнецового Клыка
+crescent_stinger:Полумесяц Жала
+magmablade:Магмаклинок
+polar_shard:Полярный Осколок
+azure_fang:Лазурный Клык
+arcaneblade:Арканоклинок
+riversteel_katana:Катана Речной Стали
+wraithpiercer:Пронзающий Духов
+stormpiercer:Пронзающий Бурю
+obsidian_harpoon:Обсидиановый Гарпун
+venomleaf_saber:Ядовитый Лист Сабля
+verdant_shardblade:Зелёный Осколочный Клинок
+icecrown_brand:Клеймо Ледяной Короны
+blightbrand:Клеймо Морока
+dune_serpent:Дюнная Змея
+knights_deliverance:Избавление Рыцаря
+rosepiercer:Пронзающий Розу
+royalfang_dirk:Королевский Клык Кинжал
+bloodflare_mace:Пылающая Кровью Булава
+emberfang:Языки Пламени
+moonlight_edge:Лунный Клинок
+voidsong:Песня Бездны
+bladed_crescent_of_the_wilds:Лезвие Полумесяца Дикарей
+amethyst_warden:Аметистовый Страж
+wings_of_valor:Крылья Доблести
+thornroot_mace:Шипокорневая Булава
+mudsteel_mace:Грязестальная Булава
+gravel_root_maul:Камнекорневой Молот
+doublehammer:Двухмолот
+ironknob_club:Железная Рукоять Дубина
+blockbreaker_maul:Блокрушитель Молот
+spikepillar_maul:Шипастая Колонна Молот
+goldspike_club:Золотошипная Дубина
+stonegrip_maul:Каменистая Рукоять Молот
+oathbound_maul:Клятвосвязывающий Молот
+thornwood_club:Шиподревесная Дубина
+rivetrod_mace:Булава Заклёпочного Стержня
+auraforge_maul:Кузня Ауров Кувалда
+hellspike_mace:Шип Адской Булава
+chainbreaker_flail:Цепной Разрушитель Бич
+skyfang_mace:Небесный Клык Булава
+warden_mace:Булава Хранителя
+plaguefang_maul:Чума Клык Кувалда
+dune_crusher:Дюновый Дробитель
+dragontooth_maul:Зуб Дракона Кувалда
+obsidian_maul:Обсидиановая Кувалда
+golem_twinsmash:Голем Близнечный Удар
+frostgem_mace:Морозный Самоцвет Булава
+volcanic_crusher:Вулканический Дробитель
+rubywrath_mace:Рубиновый Гнев Булава
+sunforge_maul:Солнечная Кузня Кувалда
+tuskbiter_maul:Бивнеед Кувалда
+sunlord_smasher:Солнцелорд Дробитель
+starblight_mace:Звездная Порча Булава
+buzzsaw_maul:Круговая Пила Кувалда
+prismgem_mace:Булавка Призмгем
+bloodfury_maul:Молот Кровавой Ярости
+wrathchain_flail:Цеп Мстительной Цепи
+hellstar_mace:Молот Звезды Ада
+riftmaw_crusher:Дробитель Расщелины
+jadeflame_baton:Жезл Нефритового Пламени
+phoenixwing_mace:Молот Крыльев Феникса
+skyheart_mace:Молот Небесного Сердца
+celestial_gemrod:Жезл Небесных Драгоценностей
+worn_leather_boots:Поношенные кожаные сапоги
+travelers_boots:Сапоги путника
+knights_greaves:Наголенники рыцаря
+steel_toed_boots:Сапоги с металлическим носком
+golden_march_boots:Сапоги Золотого Марша
+flamebound_sabatons:Огненные сабатоны
+tidewalkers_treads:Обувь Прогулщика по волнам
+azure_wind_boots:Сапоги Лазурного Ветра
+royal_squires_shoes:Туфли королевского оруженосца
+verdant_trail_boots:Сапоги Зелёной Тропы
+elven_highboots:Эльфийские высокие сапоги
+nomads_slippers:Тапочки кочевника
+crimson_valkyrie_boots:Багровые сапоги валькирии
+twilight_shinguards:Щитки Сумерек
+moonrunner_boots:Сапоги Лунного бегуна
+leather_workgloves:Кожаные рабочие перчатки
+iron_wristguards:Железные наручи
+forged_gauntlets:Кованые рукавицы
+bandits_bracers:Наручи бандита
+frostbite_vambraces:Наручи морозной хватки
+manaflare_vambrace:Наручи с Манасиянием
+infernal_cuff:Адская Наруч
+thornscale_bracer:Наручи с Шипастой Чешуей
+magus_wrap:Обмотка мага
+verdant_wrap:Зеленая Обмотка
+mystic_handwrap:Мистические Обмотки
+flamebound_handwraps:Огненные Обмотки
+golden_spiral_bracer:Наручи с Золотой Спиралью
+crimson_arcane_bracer:Багровый Арканный Наруч
+leather_hunters_vest:Кожаный Охотничий Жилет
+sylvan_guardplate:Лесная Стальная Броня
+twinplate_harness:Двойные Латы
+heavy_iron_plating:Тяжелые Железные Латы
+golden_warlord_armor:Золотая Броня Полководца
+dragonfire_chestplate:Драконья Огненная Кираса
+enchanted_duelists_vest:Зачарованный Жилет Дуэлянта
+arcane_robe:Арканная Мантия
+flamecasters_robe:Мантия Пламеневеда
+frostforged_scaleplate:Обледеневшие Кольчужные Латы
+emberlord_chestguard:Нагрудник Владыки Ember
+wardens_mantle:Мантия Стража
+phoenix_shroud:Плащ Феникса
+beastplate_vestment:Облачение Звероброни
+silver_scaleshirt:Серебряная Чешуйчатая Рубаха
+stormguard_mail:Доспех Штормовой Стражи
+lionheart_chestpiece:Нагрудник Львиного Сердца
+vinebound_plate:Пластина Оплетённого Лианами
+golden_wing_helm:Шлем Золотого Крыла
+phoenix_horned_helm:Шлем Феникса с Рогами
+azure_sentinel_helm:Шлем Лазурного Стража
+steel_crusader_helm:Шлем Стального Крестоносца
+runic_war_mask:Руническая Военная Маска
+icewarden_helm:Шлем Ледяного Стража
+leather_warcap:Кожаная Боеголовка
+solar_glory_helm:Шлем Солнечной Славы
+crimson_sentinel_helm:Шлем Багрового Стража
+voidbone_crown:Коронка из Костей Пустоты
+emerald_rogue_hood:Изумрудный Капюшон Ренегата
+twilight_mage_hood:Капюшон Сумеречного Мага
+frostmane_helm:Шлем Ледогрива
+inferno_witch_hat:Шляпа Ведьмы Инферно
+verdant_witch_hat:Шляпа Ведьмы Вердант
+shadowfang_dagger:Кинжал Тенеклык
+sunsteel_blade:Клинок Солнечной Стали
+venomfang_saber:Сабля Ядовитого Клыка
+ivory_duelblade:Дуэльный Клинок из Слоновой Кости
+oceans_shard_blade:Океанский Острый Клинок
+bloodchant_claymore:Большой Меч Кровавой Песни
+voidpiercer_sword:Меч Пронзающий Пустоту
+royal_justiceblade:Королевский Клинок Правосудия
+molten_oathblade:Расплавленный Клинок Клятвы
+bronze_shiv:Бронзовый Нож
+thiefs_knife:Нож Вора
+iceshard_fang:Клык Льдинки
+jungle_fang:Клык Джунглей
+crystal_hexblade:Кристальный Гексклинок
+serpentroot_staff:Посох Змеиных Корней
+thornspire_wand:Жезл Шипастой Башни
+glimmering_orbstaff:Посох Сверкающего Сферы
+sunfire_scepter:Скипетр Солнечного Пламени
+bloodgem_rod:Жезл Кровавого Камня
+emerald_grove_staff:Посох Изумрудной Рощи
+vinepiercer_bow:Лук Пронзателя Лиан
+frostwhisper_bow:Лук Шепота Мороза
+phoenix_talon_bow:Лук Когтя Феникса
+blazewood_recurve:Лук Blazewood
+crimson_gem_ring:Кольцо Алого Камня
+ancient_gold_band:Кольцо Древнего Золота
+mystic_spiral_ring:Кольцо Мистической Спирали
+azure_crest_ring:Кольцо Лазурного Герба
+sunfire_signet:Печать Солнечного Пламени
+bronze_circle:Бронзовый Круг
+silver_loop:Серебряная Петля
+vampires_rose_ring:Кольцо Вампирской Розы
+royal_amethyst_ring:Королевское Аметистовое Кольцо
+arcane_crystal_band:Кольцо Тайного Кристалла
+ruby_crest_ring:Кольцо Рубинового Герба
+sapphire_swirl_ring:Кольцо Сапфирового Вихря
+moonpearl_band:Лунный жемчужный браслет
+blossom_ring:Кольцо расцвета
+lovers_promise:Обещание влюбленных
+rubylight_ring:Кольцо рубинового света
+emerald_thorn_pendant:Подвеска изумрудного шипа
+claw_charm:Амулет с когтем
+starlight_shard_necklace:Ожерелье осколка звездного света
+demonspike_medallion:Медальон демонического шипа
+alchemists_flask:Фляга алхимика
+golden_cross_pendant:Подвеска золотого креста
+fireheart_necklace:Ожерелье огненного сердца
+serpent_bead_chain:Цепочка с бусинами змеи
+bloodcrystal_pendant:Подвеска из кровавого кристалла
+sunfire_ring:Кольцо Солнечного Пламени
+archscribe_tabard:Накидка Верховного Писаря
+barksteel_cuirass:Кираса Из Лесостали
+battleweave_robe:Роба Боевого Ткания
+cosmoguard_breastplate:Нагрудник Космостража
+dawnthread_magerobe:Роба Магов Рассветной Нити
+drakescale_layermail:Слойчатый Доспех Из Чешуи Дракона
+emberguard_plate:Латы Стража Ember
+iceforged_valorplate:Латы Доблести Ледяной Ковки
+judgement_aegis:Эгида Правосудия
+lavaheart_regalia:Регалии Сердца Лавы
+phoenixcrest_battlecoat:Боевой Камзол Фениксова Гребня
+redscale_ceremonial_plate:Церемониальные Латы Красной Чешуи
+sunflare_magewrap:Мантия Солнечных Всполохов
+sunmark_plate:Латы Солнечного Знака
+sunwing_vestments:Одежды Солнечного Крыла
+thornbark_cuirass:Кираса Из Колючей Коры
+verdant_mantle:Мантия Изумрудной Зелени
+voidchannel_wrappings:Обмотки Пустотного Канала
+bloodcurse_dagger:Кинжал Кровавого Проклятия
+crimsonflare_spike:Клинок Пламенного Луча
+drakefang_slicer:Резак Клыка Дракона
+eclipsed_viperblade:Клинок Затмения
+emberbrand_scorchblade:Клинок Раскалённого Клейма
+gildfang_venomblade:Ядовитый Клинок Золотого Клыка
+glacierbite_stiletto:Шпилька Ледяного Укуса
+glassfang_ripblade:Резак Стеклянного Клыка
+icefang_shardblade:Клинок Осколка Льда
+puppeteer_silverneedle:Серебряная Игла Марионеточника
+shadepiercer_ritual_dagger:Ритуальный Кинжал Пронзания Теней
+stormrun_krisblade:Крис Буревого Прорыва
+suncoil_serpentblade:Клинок Солнечной Змеи
+suncoil_serpentblade_variant:Вариант Клинка Солнечной Змеи
+thornfang_bloodleaf:Кровавый Лист Тернового Клыка
+veilpiercer_quill:Перо Пронзателя Пелены
+arcanotech_fusion_glove:Arcanotech Перчатка Слияния
+blazeborn_vowgauntlet:Перчатка Обета Огненного Рождения
+brasshex_fingers:Пальцы Латунного Заклятия
+clockward_grasp:Захват Часовой Стрелки
+crimson_lacquer_glove:Перчатка Багрового Лака
+crimson_lacquer_glove_variant:Вариант Перчатки из Алого Лака
+darkforge_crusher:Даркфордж Крушитель
+dunebreaker_mitts:Митенки Дюнобойца
+embergloves_fireshade_pair:Пара Перчаток Углегрёза Огненотени
+frostspark_clusters:Кластеры Морозных Искр
+frostwrought_casterwrap:Кастет Морозного Искусства
+ironcrest_gauntlet:Железогребенный Латный Наруч
+judicium_platinum_gauntlet:Судебный Платиновый Латный Наруч
+lightworn_purityguard:Страж Чистоты Светопокрова
+magmaflare_grip:Рукоять Магмазного Сияния
+nethercoil_fangplate:Клыкопласт Подземной Спирали
+obsidianflare_handguard:Наруч Обсидианового Сияния
+pyroflare_handwrap:Повязка Пиросияния
+reefetched_bonewrap:Повязка Костяной Черты
+reefetched_bonewrap_variant:Вариант Повязки Костяной Черты
+scarspire_wrathgrip:Рукоять Ярости Шрамовой Башни
+seabound_spellweave:Чародейская Ткань Моря
+starseer_palmguard:Ладонный Щит Звездочета
+stormbind_glove:Перчатка Грозовых Уз
+tidebone_clasp:Пряжка Приливной Кости
+voidrune_shardfist:Осколочный Кулак Voidrune
+witherknuckle_breaker:Сокрушитель Увядших
+bonefang_totem_mask:Тотемная Маска Костозуба
+duskguard_warhelm:Военный Шлем Сумеречных Стражей
+emberlord_visor:Забрало Emberlord
+flamecrest_sentinel_helm:Шлем Сентинеля Огненного Герба
+glaciermaw_helm:Шлем Ледника
+jadeplague_mask:Маска Нефритовой Чумы
+leafcrest_warden_mask:Маска Стража Лиственного Герба
+phoenixwing_heirhelm:Шлем Наследника Крылатого Феникса
+silverstar_champion_helm:Шлем Чемпиона Серебряной Звезды
+stormcrown_warcask:Военная Маска Буревого Венца
+sunhalo_regal_headdress:Королевский Головной Убор Солнечного Ореола
+sunvine_tribal_mask:Племенная Маска Солнечной Лозы
+thornhorn_ritual_helm:Ритуальный Шлем Колючего Рога
+tideforged_seahelm:Морской Шлем Кованого Прилива
+veilborn_oracle_mask:Маска Прорицателя Покроворожденных
+abyssstride_greaves:Наголенники Бездужного Шага
+auric_valorboots:Сапоги Доблести Аурик
+bloodshackle_boots:Сапоги Кровавых Оков
+bonebound_marchers:Маршеры Костяного Союза
+fangstalker_stalkers:Сталкеры Клыков
+frostwhisper_boots:Сапоги Ледяного Шепота
+gilded_sovereign_treads:Сверкающие Суверенные Трясины
+moltenflare_sabatons:Сабатоны Раскаленного Пламени
+regalia_of_the_veilstep:Регалия Завуалированного Шага
+spellwoven_galeboots:Сапоги Заклинательных Вихрей
+spinebite_crushers:Крушители Окусывающей Позвоночник
+stonecrush_vaultboots:Сейфовые Ботинки Камнелома
+stormstep_spireboots:Сапоги Штормового Шага
+thunderbrand_stompers:Топотун Громовой Марки
+titanstep_stonewalkers:Камнеходцы Титанического Шага
+tricksters_bellboots:Колодочные Сапоги Обманщика
+verdant_trailwalkers:Следоходцы Изумрудного Пути
+forestguard_blade:Лезвие Лесного Стража
+infernal_greatsword:Адский Большой Меч
+sunborn_edge:Лезвие Солнечного Рождества
+knights_head:Голова Рыцаря
+nobleguard_mace:Булава Благородного Стража
+tideblessed_mace:Булава Благословенного Потока
+triple_crusher:Тройной Колдун
+frostsap_mace:Булава Ледяного Сока
+blightvine_maul:Булава Порчавой Виноградной Лозы
+wraithcoil_crossbow:Арбалет Призрачной Спирали
+stinggear_crossbow:Арбалет Жалящей Шестерни
+forestheart_bow:Лук Сердца Леса
+duskbolt_crossbow:Арбалет Сумрачного Болта
+duskarch_crossbow:Арбалет Сумрачного Лука
+bonegutter_bow:Лук Костодробитель
+bonecarver_bow:Лук Костореза

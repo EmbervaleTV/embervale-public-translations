@@ -65,3 +65,4 @@ invitedBy:Eingeladen von
 youHave:Du hast
 join:Beitreten
 applicationAlreadySent:Du hast bereits einen ausstehenden Antrag für diese Gilde!
+upgradeNotFinished:Du musst alle erforderlichen Materialien bereitstellen, um das Upgrade zu beginnen.

@@ -1,7 +1,7 @@
 abnormous_tick_bestiary:Une tique de cette taille fait penser aux créatures dont elle se nourrit habituellement
 accursed_captain_hawk_bestiary:Au moins une partie de sa malédiction doit concerner son sens du style. Avez-vous vu cette tenue célèbre et vécu pour raconter l'histoire ?
 aiming_dwarf_bestiary:Ce que ces nains ont perdu en pilosité faciale, ils l’ont gagné en adresse de tir
-alpha_orc_bestiary:La chasse aux trophées des orcs ne connaît que deux luttes : l'équilibre entre la taille de leur hache et celle des crânes qu'ils portent
+alpha_orc_bestiary:La chasse aux trophées des orcs ne connaît que deux luttes : L'équilibre entre la taille de leur hache et celle des crânes qu'ils portent
 awakened_sand_bestiary:Méfiez-vous du sable dans des endroits inconfortables
 barbarian_slime_bestiary:Leur épaulette semble être décorative, les véritables barbares ne portent pas d'armure
 berserker_dwarf_bestiary:La différence avec un nain normal réside juste dans la taille de leur hache
@@ -24,13 +24,13 @@ frost_spirit_bestiary:Il vaut mieux mettre une chemise avant de s'aventurer dans
 frost_wing_bestiary:Chaque aile est un seul flocon d'une tempête de neige, tout un essaim peut ensevelir un pays
 frozen_invader_bestiary:Tu ferais mieux de construire un mur pour garder ces choses dehors
 general_gogz_bestiary:Tueur de dragons, millionnaire, icône de mode et le meilleur capeur compétitif du royaume, comment te compares-tu à ça ?
-giant_rat_bestiary:Un fléau vérifié des égouts
+giant_rat_bestiary:Un fléau confirmé des égouts
 giant_roach_bestiary:Prétendument créée par les sorts de radiation d'un étrange mage nommé Nuclear
 goblin_captain_bestiary:Ne le fais pas descendre de sa monture à huit pattes
 goblin_grunt_bestiary:Ils veulent tes objets de valeur, ton équipement, tes orteils et ta vie, dans cet ordre
 goblin_knight_bestiary:Deux boucliers valent mieux qu'un, le seau est juste la cerise sur le gâteau
 goblin_mage_bestiary:Ils n'utilisent pas seulement des dagues physiques pour te poignarder dans le dos
-goblin_ranger_bestiary:Redoute-le, fuis-le, la tribu gobeline arrivera quand même
+goblin_ranger_bestiary:Craignez-le, fuyez-le, la tribu gobeline arrivera toujours
 goblin_rogue_bestiary:Environ deux fois plus sournois qu'un gobelin régulier, environ deux fois plus poignardant aussi
 god-king_hubertus_III_bestiary:Comment une gelée a-t-elle mis ses appendices informes sur cette couronne ?
 grandmaster_udabras_bestiary:Attends, les gelées ne sont pas censées avoir un cerveau
@@ -38,7 +38,7 @@ greed_incarnation_bestiary:Errant dans de longs couloirs de pierre perdus, le sy
 green_dragonfly_bestiary:Presque invisible parmi la végétation
 grumpy_cactus_bestiary:Si l'expression ne te disait pas déjà de garder tes distances, les épines le feront
 headhunter_slime_bestiary:Les gelées ont appris à minimiser la surface qu'elles offrent comme cible, après que celles-ci aient séparé ta tête de ton corps, tu auras appris aussi
-hell_mantis_bestiary:Ces insectes sont assez rapides pour sauter sur la pierre en fusion, taillant à travers tout ce qui se trouve sur leur chemin
+hell_mantis_bestiary:Ces insectes sont assez rapides pour traverser la pierre en fusion, tailladant tout sur leur passage
 heroic_slime_bestiary:Un juste punisseur de ceux qui massacrent l'espèce des slimes
 ice_avian_bestiary:Parfaitement camouflé entre glacier et ciel
 ice_golem_bestiary:Bien plus rapide qu’un glacier en combat rapproché
@@ -57,7 +57,7 @@ orc_marauder_bestiary:Même deux haches ne suffisent pas à suivre un guerrier n
 orc_warlock_bestiary:Agiter ce bâton ne semblait pas suffire à garder la forme
 orc_warrior_bestiary:Ils ont suffisamment appris pour laisser les haches derrière eux
 oversized_goblin_bestiary:Ces gars mangent toujours leurs légumes. Avec tout le reste qu'ils mettent la main dessus
-peacock_sharpshooter_bestiary:Leurs plumes étaient autrefois utilisées uniquement pour les rituels de parade, mais le monde est impitoyable
+peacock_sharpshooter_bestiary:Leurs robes à plumes étaient autrefois utilisées uniquement pour les rituels de parade nuptiale, mais le monde est rude dehors
 pirate_bandit_bestiary:Les rayures sont utilisées pour dissimuler leur véritable nombre.
 pirate_monkey_bestiary:Si ce n'était pas pour la jambe de bois, ils seraient deux fois meilleurs pour grimper qu'un pirate ordinaire.
 pirate_parrot_bestiary:La physique d'un perroquet manipulant un canon n'est pas entièrement comprise, on suppose que c'est de la magie pirate.
@@ -78,7 +78,7 @@ slime_scout_bestiary:Leur extérieur armé est presque indiscernable de la roche
 slime_wizard_bestiary:Les apprentis sorciers tombent souvent victimes d'eux.
 spider_crab_bestiary:Ils tissent en fait des toiles pour protéger leurs tanières.
 toxic_carnivorous_plant_bestiary:Leur comportement qualifie aussi de toxique.
-venomous_centipede_bestiary:Leur poison affaiblit leurs proies pour les écraser en bouillie
+venomous_centipede_bestiary:Leur poison affaiblit leur proie pour qu'ils puissent la réduire en bouillie
 green_wyvern_bestiary:Un lointain rejeton des dragons légendaires, mais tout aussi mortel
 waterstrider_bestiary:Il vous faudra plus qu'une goutte d'huile pour les faire couler
 ascended_duelist_bestiary:Ceux qui défient les cieux affronteront leur épée
@@ -86,16 +86,16 @@ ascended_enforcer_bestiary:Levez votre lance à la gloire du juge céleste et r�
 ascended_gatekeeper_zephon_bestiary:Il s'est distingué par son habileté au combat et sa foi, même au-delà de ses jours mortels, il défendra le royaume divin
 ascended_guardian_bestiary:...car le Ciel ne tombera pas facilement
 ascended_sharpshooter_bestiary:Ces flèches ne transpercent pas avec amour et bonheur
-blessed_archer_bestiary:Toujours vigilant contre les ennemis de l'humanité, mais parfois des conflits ignobles sont inévitables
+blessed_archer_bestiary:Toujours vigilant contre les ennemis de l'humanité, mais un jour un conflit ignoble est inévitable
 blessed_spearman_bestiary:Leur lance est généralement dirigée vers des adversaires bien plus monstrueux
 blessed_warrior_bestiary:Les temps désespérés appellent des mesures déshonorantes
 chest_mimic_bestiary:Beaucoup attendaient leur juste récompense, seulement pour se faire piéger dans le gouffre d'un tel trésor perfide
 companion_of_the_nameless_bestiary:Quel nom donneraient ces créatures à un compagnon ?
 corpse_eater_ragnar_bestiary:Gavé des morts de centaines, cette créature cherche encore plus
-corrupted_forest_heart_bestiary:Après avoir échappé à tous ses protecteurs, un seul poignard a suffi pour un poison purulent
-deepwater_berserk_bestiary:Un poisson coloré de rouge par la rage, sa morsure féroce transperçant écailles et boucliers
+corrupted_forest_heart_bestiary:Se glissant entre tous ses protecteurs, une seule dague a suffi pour un poison purulent
+deepwater_berserk_bestiary:Un poisson coloré rouge de rage, sa morsure féroce rendant écaille et bouclier
 deepwater_crab_bestiary:Ces crustacés demeurent léthargiques jusqu'à ce qu'ils soient dérangés
-deepwater_crab_warrior_bestiary:Crabes territoriaux défendant leur royaume aquatique
+deepwater_crab_warrior_bestiary:Des crabes territoriaux défendant leur royaume aquatique
 deepwater_dark_star_bestiary:Les tentatives de les capturer dans des cages en forme de balle ont été suspendues par crainte de représailles légales
 deepwater_lurker_bestiary:Un prédateur embusqué attaquant tout, des poissons aux humains
 deepwater_urchin_bestiary:Ces oursins mangent tout ce qui ne peut éviter leurs épines paralysantes.
@@ -117,7 +117,7 @@ lady_of_the_passage_bestiary:Autrefois prêtresse de la terre, maintenant sentin
 light_slime_bestiary:Léger par définition de poids et d'illumination, pas nécessairement en termes de difficulté.
 lost_fairy_bestiary:Hé, écoute !
 lost_soul_bestiary:Sa valeur d'une (1) âme pourrait ne pas en valoir la peine.
-overseer_crab_bestiary:Les hiérarchies sociales des crabes sont peu explorées, mais les études préliminaires confirment que les crabes superviseurs peuvent voir par-dessus leurs congénères plus petits par leur seule taille, oui.
+overseer_crab_bestiary:Les hiérarchies sociales des crabes sont à peine explorées, mais les études préliminaires confirment que les crabs surveillants peuvent voir au-dessus de leurs congénères plus petits uniquement par leur taille, oui.
 protector_of_the_forest_heart_bestiary:Tu ferais mieux de te courber comme un saule avant de casser devant ce chêne
 scavenging_mandrake_bestiary:Le charognard de la forêt, toujours à la recherche de sol nutritif, de lumière solaire et d'engrais à base de sang
 skeleton_archer_bestiary:Surface minimale pour un contre-feu.
@@ -129,16 +129,16 @@ skeleton_knight_bestiary:Ils sont morts avant de briser leur honneur... donc mai
 skeleton_marauder_bestiary:Guerriers pilleurs qui tuent et mutilent pour piller une tenue qui vaut plus que des lambeaux
 the_nameless_bestiary:Nous le rencontrerons tous à la fin, pas besoin de titres fantaisie
 thorn_cutter_bestiary:Les épines sont généralement plus utiles pour percer, bien que cela n'empêche pas cette plante d'essayer
-wall_mimic_bestiary:Prochaine génération en conception de donjon résistant aux aventuriers
+wall_mimic_bestiary:Nouvelle génération dans la conception de donjons résistants aux aventuriers
 rain_wing_bestiary:On suppose qu'elle change de forme selon le niveau d'humidité de son environnement
 tulip_wing_bestiary:Considérée comme le type de papillon le plus basique, dépourvu d'infusion élémentaire
 inferno_wing_bestiary:Redoutée pendant les mois d'été arides, car leurs ailes enflamment les fermes, les champs et les forêts
 fire_snake_bestiary:Leur infusion de feu compense leur nature reptilienne à sang froid
 lunar_wing_bestiary:Ces papillons semblent préférer les corps célestes aux fleurs
 fur_wing_bestiary:Qu'est-ce que les enfers suis-je supposé classifier cela comme?!
-colossal_red_snake_bestiary:Leur posture redressée masque une portée de morsure surprenante
+colossal_red_snake_bestiary:Leur posture dressée masque une portée surprenante de leur morsure
 colossal_purple_snake_bestiary:Si elle te mord et tu meurs, c'est venimeux. Si tu la mords et tu meurs, c'est toxique. Celle-là est les deux
-colossal_black_snake_bestiary:Ne comptez pas sur votre vision nocturne pour repérer ce reptile
+colossal_black_snake_bestiary:Ne comptez pas sur la vision nocturne pour repérer ce reptile
 gnoll_archer_bestiary:Leur expression trahit leur rôle de combattant à distance
 gnoll_vanguard_bestiary:Leurs morsures restent dangereuses, même après que vous ayez échappé à leurs lances
 gnoll_swordsman_bestiary:J'ai... un peu envie de le caresser, mais ce n’est probablement pas la peine de se faire poignarder ni d'attraper la rage
@@ -151,7 +151,7 @@ ice_snake_bestiary:Ces serpents semblent utiliser le morceau de glace qui dépas
 gnoll_shaman_bestiary:Leurs breuvages puissants semblent être la cause de l'expression maniaque de leur tribu
 undead_gnoll_bestiary:Beurk, beaucoup moins câlin maintenant
 skeleton_commander_bestiary:Son armure et son équipement indiquent qu'un grand effort a été consacré à la création de ce mort-vivant.
-flaming_wolf_bestiary:Des cercles druidiques créent ces manifestations pour chasser leurs ennemis
+flaming_wolf_bestiary:Les cercles druidiques créent ces manifestations pour traquer leurs ennemis
 flaming_wolf_spirit_bestiary:Cette manifestation a perdu la plupart de sa forme, mais ni sa détermination ni son but
 colossal_bat_bestiary:La chauve-souris colossale habite dans les profondeurs des grottes, utilisant ses ailes massives pour créer des bourrasques puissantes.
 colossal_dark_crow_bestiary:Messager de mauvaise augure, le corbeau sombre colossal traverse les cieux orageux, projetant des ombres sur les terres en dessous.
@@ -160,9 +160,9 @@ forest_fox_bestiary:Le renard des forêts, insaisissable, parcourt les bois avec
 forest_deer_bestiary:Créature élégante, le cerf des forêts broute tranquillement au cœur des bois, toujours à l'affût de menaces potentielles.
 forest_bee_bestiary:Les Abeilles de la Forêt aident à maintenir l'écosystème avec leur pollinisation, mais leurs dards restent un moyen dissuasif douloureux.
 forest_blue_flower_bestiary:Les Fleurs Bleues de la Forêt sont connues pour leur couleur vibrante et leur arôme sucré, attirant une variété de créatures.
-forest_catermoth_bestiary:Les Catermoths de la Forêt, un mélange unique de chenille et de papillon de nuit, sont des créatures fascinantes qui habitent les bois denses.
+forest_catermoth_bestiary:Les papillons Forest Cater, un mélange unique de chenille et de papillon de nuit, sont des créatures fascinantes qui habitent les bois denses.
 forest_ghost_bestiary:Les Fantômes de la Forêt hantent les bois profonds, apparaissant comme des spectres translucides et glaçant l'échine de tout voyageur.
-forest_darkluff_bestiary:Les Darkluffs de la Forêt sont des créatures insaisissables qui se fondent parfaitement dans le sol sombre de la forêt, les rendant rares et mystérieux.
+forest_darkluff_bestiary:Les Forest Dark luffs sont des créatures insaisissables qui se fondent parfaitement dans le sol sombre de la forêt, ce qui en fait une vue rare et mystérieuse.
 forest_fairy_dragon_bestiary:Les Dragons Fées de la Forêt sont des créatures fantaisistes aux écailles irisées et au comportement enjoué, souvent aperçues virevoltant parmi les arbres.
 forest_grasshopper_bestiary:Les Sauterelles de la Forêt sont connues pour leurs pattes arrière puissantes et leur incroyable capacité de saut, en faisant des habitantes agiles du sol forestier.
 forest_imperial_widow_bestiary:Les Veuves Impériales de la Forêt sont de grandes araignées frappantes avec des motifs complexes sur leur abdomen et une réputation d'être hautement venimeuses.
@@ -355,7 +355,7 @@ void_gargoyle_bestiary:Le Gargouille du Vide passe le plus clair de son temps à
 white_minotaur_bestiary:Le Minotaure Blanc aime faire de longues balades sur la plage et, étonnamment, est un excellent chef végétalien.
 avian_elephant_bestiary:L'Éléphant Avicole est le résultat d'une tentative ratée d'un savant fou de créer un éléphant volant, se traduisant par une créature qui est juste très douée pour battre des oreilles.
 black_lance_knight_bestiary:Le Chevalier à la Lance Noire passe son temps libre à perfectionner ses compétences en joute et à se demander pourquoi son cheval ne semble jamais aller plus vite.
-minivolcano_bestiary:Le Mini Volcan est une petite créature volcanique mobile qui crache des cendres et de petites éclats de lave. Il est connu pour causer de légères perturbations et allumer de petits incendies partout où il passe.
+minivolcano_bestiary:Le Mini volcan est une petite créature volcanique mobile qui crache de la cendre et de petites explosions de lave. Il est connu pour causer des perturbations mineures et allumer de petits feux partout où il passe.
 fire_salamander_bestiary:La Salamandre de Feu est un amphibien féroce capable de résister et de générer de la chaleur, ce qui en fait un adversaire redoutable dans les environnements volcaniques.
 fire_dragonspawn_bestiary:Les Progénitures de Dragon de Feu sont les descendants de puissants dragons. Bien qu'ils ne soient pas aussi redoutables que leurs parents, ils possèdent une affinité innée pour la magie du feu et peuvent cracher de petits éclats de flamme.
 lava_spawn_bestiary:Le Lava Spawn est une créature entièrement composée de roche en fusion. Il peut résister à une chaleur extrême et utilise son corps semblable à de la lave pour brûler ses ennemis et enflammer les alentours.
@@ -660,3 +660,4 @@ siren_bestiary:Méfiez-vous de ces beaux poissons-personnes. Leur douce chanson 
 sphinx_bestiary:Ces sentinelles mi-lions gardent les tombes anciennes et les ruines, et sont célèbres pour exiger un jeu mortel de devinettes pour permettre le passage dans leurs repaires.
 basilisk_bestiary:Cette bête de mauvaise humeur résulte lorsqu'une poule couve un œuf de serpent. Son venin est assez mortel pour tuer d'un simple coup de croc.
 cockatrice_bestiary:Cette bête de mauvaise humeur naît lorsqu'un serpent fait éclore un œuf de poule. Son regard peut pétrifier en pierre le plus puissant héros.
+hag_bestiary:Mieux vaut ne pas demander ce qui mijote dans son chaudron. C'est soit un œil de triton, soit le dernier aventurier qui l'a dérangée avec des questions...

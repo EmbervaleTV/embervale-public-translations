@@ -1000,3 +1000,407 @@ divine_smite:Golpe Divino
 golden_order:Orden Dorada
 blightreaver:Segador de Plaga
 bronze_band:Banda de bronce
+barkfang_bow:Arco Colmillo Corteza
+molten_branch_bow:Arco Rama Fundida
+hollowmoon_bow:Arco Luna Hueca
+thornhook_bow:Arco Garfio Espina
+barkshot_crossbow:Ballesta Disparo Corteza
+duskrend_bow:Arco Desgarrador del Crepúsculo
+grovekeeper_bow:Arco Guardián del Bosque
+thistlebolt_crossbow:Ballesta Rayo Cardo
+soulbite_bow:Arco Mordedura del Alma
+sunflare_bow:Arco Destello Solar
+spellcog_crossbow:Ballesta Engranaje de Hechizo
+stormwing_bow:Arco Ala Tormentosa
+drakevine_bow:Arco Vid de Dragón
+emeraldthorn_bow:Arco Espina Esmeralda
+shockfang_bow:Arco Colmillo Impactante
+skyblessing_bow:Arco Bendición del Cielo
+duskchaser_bow:Arco Gran Cazador del Crepúsculo
+frostclaw_crossbow:Ballesta Garra Helada
+witchpiercer_crossbow:Ballesta Perforadora de Brujas
+bloodleaf_bow:Arco Hoja Sangrienta
+suncoil_crossbow:Ballesta Suncoil
+stormguard_crossbow:Ballesta Stormguard
+phoenixgrip_crossbow:Ballesta Phoenixgrip
+junglefang_crossbow:Ballesta Junglefang
+skybolt_crossbow:Ballesta Skybolt
+hornroot_crossbow:Ballesta Hornroot
+frostshard_bow:Arco Frostshard
+emberhook_crossbow:Ballesta Emberhook
+emberstar_bow:Arco Emberstar
+lionbolt_crossbow:Ballesta Lionbolt
+aquashot_crossbow:Ballesta Aquashot
+blazing_oak_bow:Arco Blazing Oak
+bloodcurse_crossbow:Ballesta Bloodcurse
+witchlock_crossbow:Ballesta Witchlock
+netherburn_crossbow:Ballesta Netherburn
+royalvenom_crossbow:Ballesta Royalvenom
+harrowspike_launcher:Lanzador Harrowspike
+tyrantfang_crossbow:Ballesta Tyrantfang
+voidspike_bow:Arco Voidspike
+sunflare_wrath:Ira de Sunflare
+twilightband_bow:Arco de Twilightband
+volcanic_curse_bow:Arco de Maldición Volcánica
+abyssbreaker_bow:Arco Rompeabismo
+runecrank_crossbow:Ballesta de Runesía
+windhook_staff:Báculo de Garra de Viento
+sunseed_staff:Báculo de Semilla Solar
+skyfeather_rod:Vara de Pluma Celestial
+spiritbloom_staff:Báculo de Flor Espiritual
+cryocrystal_staff:Báculo de Cristal de Hielo
+horn_of_the_ancients:Cuerno de los Antiguos
+flameshroud_scepter:Cetro de Manto Ígneo
+emberclaw_rod:Vara de Garra de Ember
+emeraldheart_scepter:Cetro de Corazón Esmeralda
+frostbite_trident:Tridente de Mordisco de Escarcha
+celestial_spiral_rod:Vara de Espiral Celestial
+deathskull_cane:Bastón de Calavera Mortal
+divine_aegis_staff:Báculo de Égida Divina
+emerald_warden_staff:Báculo de Guardián Esmeralda
+phoenixflare_conduit:Conducto de Fulgor Fénix
+skullhorn_staff:Báculo Cornescalofriante
+voidshard_scepter:Cetro Fragmentovacio
+plaguebone_staff:Báculo Huesoplaga
+inferno_brand_staff:Báculo Marca del Infierno
+soulshard_trident:Tridente de Fragmento de Alma
+bloodspiral_rod:Vara Espiral de Sangre
+verdant_bonecaller:Llamahuesos Verdeante
+ghostfang:Colmillo Fantasma
+runeshard:Fragmentoruna
+ironlash:Látigo de Hierro
+bloodkiss:Beso de Sangre
+riftpiercer:Perforador de Fisuras
+moonfang:Colmillo de Luna
+phantomshiv:Daga Fantasma
+chasmfang:Colmillo de Abismo
+crimsonwhisper:Susurro Carmesí
+dreamfang:Colmillo de Ensueño
+silentthorn:Espina Silenciosa
+boneknuckle_dagger:Duster de huesoknuckles
+thornkiss:Beso de Espina
+duskrend:Duskrend
+hellpiercer:Hellpiercer
+twilightfang:Twilightfang
+shadowskewer:Shadowskewer
+glimmerfang:Glimmerfang
+grimfang:Grimfang
+gloomslicer:Gloomslicer
+whisperfang:Whisperfang
+nightsplitter:Dividenoche
+soulfang:Colmillo del Alma
+starfuryfang:Colmillo de Furia Estelar
+wraithfang:Colmillo de Espectro
+gravetalon:Garrafosa
+vilethorn:Espina Vil
+stormfang:Colmillo de Tormenta
+tidepiercer:Penetraolas
+venombreath:Aliento Venenoso
+abyssfang:Colmillo del Abismo
+stardagger:Puñal de Estrellas
+oblivionfang:Colmillo del Olvido
+voidtip:Punta del Vacío
+embersting:Picadura de Ember
+ebonfang:Colmillo de Ébano
+bonefang:Colmillo de Hueso
+beastrend_hook:Garfio de Bestia
+bronze_lionblade:Espada de León de Bronce
+sandwarden_edge:Filo del Guardián de la Arena
+iron_sentinel:Centinela de Hierro
+kings_mercy:Misericordia del Rey
+dawnpiercer:Perforador del Alba
+azure_slicer:Cuchilla Azur
+emberfang_shard:Fragmento de Emberfang
+ghostblade:Hoja Fantasma
+crimson_ringblade:Espada Anular Carmesí
+sunpierce_javelin:Lanza Perforasol
+golden_thrust:Estocada Dorada
+prismfang:Colmillo Prisma
+crusaders_pledge:Jurado del Cruzado
+scorpions_whisper:Susurro del Escorpión
+frostfire_fang:Colmillo de Fuego Helado
+twinfang_claw:Garra de Doble Colmillo
+crescent_stinger:Aguijón Creciente
+magmablade:Hoja de Magma
+polar_shard:Fragmento Polar
+azure_fang:Colmillo Azur
+arcaneblade:Arcaneblade
+riversteel_katana:Katana de Acero de Río
+wraithpiercer:Perforador de Espectros
+stormpiercer:Perforador de Tormentas
+obsidian_harpoon:Arpón de Obsidiana
+venomleaf_saber:Sable de Hoja Venenosa
+verdant_shardblade:Espada de Fragmento Verde
+icecrown_brand:Marca de Corona de Hielo
+blightbrand:Marca de Plaga
+dune_serpent:Serpiente de las Dunas
+knights_deliverance:Liberación del Caballero
+rosepiercer:Rosepiercer
+royalfang_dirk:Daga Royalfang
+bloodflare_mace:Maza Sangreflame
+emberfang:Emberfang
+moonlight_edge:Filo de Luz Lunar
+voidsong:Canto del Vacío
+bladed_crescent_of_the_wilds:Media Luna de Hoja del Bosque
+amethyst_warden:Guardián de Amatista
+wings_of_valor:Alas de Valor
+thornroot_mace:Maza Raíz de Espina
+mudsteel_mace:Maza de Acero Lodo
+gravel_root_maul:Mazo de Raíz de Grava
+doublehammer:Doblemartillo
+ironknob_club:Garrote de Pomo de Hierro
+blockbreaker_maul:Mazo Rompebloques
+spikepillar_maul:Mazo de Pilar de Picos
+goldspike_club:Garrote de Picas de Oro
+stonegrip_maul:Mazo de Agarre de Piedra
+oathbound_maul:Mazo de Juramento
+thornwood_club:Garrote de Madera Espinosa
+rivetrod_mace:Maza de Rivetrod
+auraforge_maul:Mazo de Auraforge
+hellspike_mace:Maza de Hellspike
+chainbreaker_flail:Mandoble Rompecadenas
+skyfang_mace:Maza de Skyfang
+warden_mace:Maza de Guardián
+plaguefang_maul:Mazo de Colmillo de Plaga
+dune_crusher:Demoledor de Dunas
+dragontooth_maul:Mazo de Diente de Dragón
+obsidian_maul:Mazo de Obsidiana
+golem_twinsmash:Golpeador Gemelo Golem
+frostgem_mace:Maza de Gema Helada
+volcanic_crusher:Demoledor Volcánico
+rubywrath_mace:Maza de Ira Rubí
+sunforge_maul:Mazo de Forja Solar
+tuskbiter_maul:Mazo de Mordisco de Colmillo
+sunlord_smasher:Destructor de Señor Solar
+starblight_mace:Maza de Marchitamiento Estelar
+buzzsaw_maul:Mazo de Sierra Circular
+prismgem_mace:Maza de Prismágica
+bloodfury_maul:Mazo de Furia Sangrienta
+wrathchain_flail:Mayal de Iraencadenada
+hellstar_mace:Maza de Estrella Infernal
+riftmaw_crusher:Trituradora de Fauce de Fisura
+jadeflame_baton:Bastón de Llama de Jade
+phoenixwing_mace:Maza de Ala de Fénix
+skyheart_mace:Maza de Corazón Celestial
+celestial_gemrod:Varita de Gema Celestial
+worn_leather_boots:Botas de Cuero Gastadas
+travelers_boots:Botas del Viajero
+knights_greaves:Grebas del Caballero
+steel_toed_boots:Botas con Puntera de Acero
+golden_march_boots:Botas de la Marcha Dorada
+flamebound_sabatons:Sabatones Ígneos
+tidewalkers_treads:Zancadas del Caminante de Mareas
+azure_wind_boots:Botas de Viento Azur
+royal_squires_shoes:Zapatos del Escudero Real
+verdant_trail_boots:Botas del Sendero Verdeante
+elven_highboots:Botas Altas Élficas
+nomads_slippers:Zapatillas del Nómada
+crimson_valkyrie_boots:Botas de la Valquiria Carmesí
+twilight_shinguards:Espinilleras Crepusculares
+moonrunner_boots:Botas del Corredor de Luna
+leather_workgloves:Guantes de Trabajo de Cuero
+iron_wristguards:Guardamuñecas de Hierro
+forged_gauntlets:Guanteletes Forjados
+bandits_bracers:Brazaletes del Bandido
+frostbite_vambraces:Brazales de Morderisco Helado
+manaflare_vambrace:Vambrace Manaflare
+infernal_cuff:Esposas Infernales
+thornscale_bracer:Bracera de Espinos
+magus_wrap:Envoltorio de Mago
+verdant_wrap:Envoltorio Verdeante
+mystic_handwrap:Envoltorio Místico
+flamebound_handwraps:Envoltorios Vinculados al Fuego
+golden_spiral_bracer:Bracera Espiral Dorada
+crimson_arcane_bracer:Bracera Arcana Carmesí
+leather_hunters_vest:Chaleco de Cazador de Cuero
+sylvan_guardplate:Guardaplateado Silvano
+twinplate_harness:Arnés de Doble Placa
+heavy_iron_plating:Placa de Hierro Pesada
+golden_warlord_armor:Armadura de Señor Dorado
+dragonfire_chestplate:Coraza Dragofuego
+enchanted_duelists_vest:Chaleco de Duelista Encantado
+arcane_robe:Túnica Arcana
+flamecasters_robe:Túnica del Invocador de Llamas
+frostforged_scaleplate:Placa de Escamas Forjada en Hielo
+emberlord_chestguard:Guardapectoral del Señor de Ember
+wardens_mantle:Manto del Guardián
+phoenix_shroud:Manto del Fénix
+beastplate_vestment:Vestidura de Placa Bestial
+silver_scaleshirt:Camisa de Escamas de Plata
+stormguard_mail:Cota del Guardia de la Tormenta
+lionheart_chestpiece:Peto Corazón de León
+vinebound_plate:Placa Vinculada a la Vid
+golden_wing_helm:Yelmo de Ala Dorada
+phoenix_horned_helm:Yelmo Cornudo del Fénix
+azure_sentinel_helm:Yelmo del Centinela Azur
+steel_crusader_helm:Yelmo del Cruzado de Acero
+runic_war_mask:Máscara de Guerra Rúnica
+icewarden_helm:Yelmo del Guardián de Hielo
+leather_warcap:Gorro de Guerra de Cuero
+solar_glory_helm:Yelmo de Gloria Solar
+crimson_sentinel_helm:Yelmo del Centinela Carmesí
+voidbone_crown:Corona de Hueso Vacío
+emerald_rogue_hood:Capucha Pícara Esmeralda
+twilight_mage_hood:Capucha del Mago del Crepúsculo
+frostmane_helm:Yelmo Crin del Frío
+inferno_witch_hat:Sombrero de Bruja Inferno
+verdant_witch_hat:Sombrero de Bruja Verdant
+shadowfang_dagger:Daga Shadowfang
+sunsteel_blade:Hoja Sunsteel
+venomfang_saber:Sable Venomfang
+ivory_duelblade:Doble Hoja de Marfil
+oceans_shard_blade:Hoja de Fragmento del Océano
+bloodchant_claymore:Mandoble Bloodchant
+voidpiercer_sword:Espada Voidpiercer
+royal_justiceblade:Hoja de Justicia Real
+molten_oathblade:Hoja de Juramento de Fuego
+bronze_shiv:Chuchilla de Bronce
+thiefs_knife:Cuchillo del Ladrón
+iceshard_fang:Colmillo de Fragmento de Hielo
+jungle_fang:Colmillo de la Jungla
+crystal_hexblade:Hoja Encantada de Cristal
+serpentroot_staff:Báculo de Raíz de Serpiente
+thornspire_wand:Varita de Espina
+glimmering_orbstaff:Báculo Orbe Resplandeciente
+sunfire_scepter:Sunfire Scepter
+bloodgem_rod:Varita de Gema de Sangre
+emerald_grove_staff:Bastón del Bosque Esmeralda
+vinepiercer_bow:Arco Perforador de Vides
+frostwhisper_bow:Arco Susurro de Escarcha
+phoenix_talon_bow:Arco Garra de Fénix
+blazewood_recurve:Arco Recurvado de Madera Ardiente
+crimson_gem_ring:Anillo de Gema Carmesí
+ancient_gold_band:Aro de Oro Antiguo
+mystic_spiral_ring:Anillo Espiral Místico
+azure_crest_ring:Anillo del Escudo Azur
+sunfire_signet:Signet de Sunfire
+bronze_circle:Círculo de Bronce
+silver_loop:Bucle de Plata
+vampires_rose_ring:Anillo de Rosa del Vampiro
+royal_amethyst_ring:Anillo de Amatista Real
+arcane_crystal_band:Aro de Cristal Arcano
+ruby_crest_ring:Anillo del Escudo de Rubí
+sapphire_swirl_ring:Anillo de Remolino de Zafiro
+moonpearl_band:Banda de Moonpearl
+blossom_ring:Anillo de Floración
+lovers_promise:Promesa de Amor
+rubylight_ring:Anillo de Luz Rubí
+emerald_thorn_pendant:Colgante de Espina Esmeralda
+claw_charm:Amuleto de Garra
+starlight_shard_necklace:Collar de Fragmento de Luz Estelar
+demonspike_medallion:Medallón de Púa Demoníaca
+alchemists_flask:Frasco del Alquimista
+golden_cross_pendant:Colgante de Cruz Dorada
+fireheart_necklace:Collar Corazón de Fuego
+serpent_bead_chain:Cadena de Cuentas de Serpiente
+bloodcrystal_pendant:Colgante de Cristal de Sangre
+sunfire_ring:Anillo de Sol de Fuego
+archscribe_tabard:Tabardo de Archscribe
+barksteel_cuirass:Coraza de Aceramestra
+battleweave_robe:Toga de Batallatejido
+cosmoguard_breastplate:Peto de Cosmosguardia
+dawnthread_magerobe:Toga de Mago de Alba
+drakescale_layermail:Cota de Capas de Escamas de Draco
+emberguard_plate:Placa de Emberguard
+iceforged_valorplate:Placa de Valor Forjada en Hielo
+judgement_aegis:Égida del Juicio
+lavaheart_regalia:Regalia de Corazón de Lava
+phoenixcrest_battlecoat:Abrigo de Batalla Cresta del Fénix
+redscale_ceremonial_plate:Placa Ceremonial de Escamas Rojas
+sunflare_magewrap:Envoltura de Mago de Sol Ardiente
+sunmark_plate:Placa Marca de Sol
+sunwing_vestments:Vestiduras de Alas de Sol
+thornbark_cuirass:Coraza de Corteza Espinosa
+verdant_mantle:Manto Verdeante
+voidchannel_wrappings:Vendajes de Canalizar el Vacío
+bloodcurse_dagger:Daga de Maldición de Sangre
+crimsonflare_spike:Púa de Llama Carmesí
+drakefang_slicer:Cortadora Colmillo de Dragón
+eclipsed_viperblade:Hoja Viperina de Eclipse
+emberbrand_scorchblade:Hoja Abrasadora Marca Ember
+gildfang_venomblade:Hoja Venenosa Colmillo Dorado
+glacierbite_stiletto:Estilete Mordisco de Glaciar
+glassfang_ripblade:Hoja Rompe Cristal
+icefang_shardblade:Hoja Fragmentada Colmillo de Hielo
+puppeteer_silverneedle:Aguja de Plata Titiritero
+shadepiercer_ritual_dagger:Daga Ritual Punzón de Sombra
+stormrun_krisblade:Hoja Kris Fugitiva Tormentosa
+suncoil_serpentblade:Hoja Serpiente Espiral Solar
+suncoil_serpentblade_variant:Variante de Hoja Serpiente Espiral Solar
+thornfang_bloodleaf:Hoja de Sangre Espina Colmillo
+veilpiercer_quill:Pluma Punzón de Velo
+arcanotech_fusion_glove:Guante de Fusión Arcanotech
+blazeborn_vowgauntlet:Guantelete de Voto Nacido del Fuego
+brasshex_fingers:Dedos de Hexágono de Latón
+clockward_grasp:Agarre de Reloj
+crimson_lacquer_glove:Guante de Laca Carmesí
+crimson_lacquer_glove_variant:Variante de Guante Laca Carmesí
+darkforge_crusher:Triturador de Forjaoscura
+dunebreaker_mitts:Mitones Rompedunas
+embergloves_fireshade_pair:Pareja de Guantes de Ember Sombrallama
+frostspark_clusters:Racimos de Chispafrost
+frostwrought_casterwrap:Envoltura de Lanzador Frío
+ironcrest_gauntlet:Guantelete de Cimerahierro
+judicium_platinum_gauntlet:Guantelete de Platino Judicium
+lightworn_purityguard:Guardia de Pureza Luzgastada
+magmaflare_grip:Agarre de Magma Flare
+nethercoil_fangplate:Placa de Colmillo de Espiraóscura
+obsidianflare_handguard:Protectormano de Obsidian Flare
+pyroflare_handwrap:Envoltura de Mano de Piroflare
+reefetched_bonewrap:Envoltura de Hueso Sacarreta
+reefetched_bonewrap_variant:Variante de Envoltura de Hueso Sacarreta
+scarspire_wrathgrip:Agarre de Ira de Piquedo Cicatriz
+seabound_spellweave:Tejido de Hechizo Atado al Mar
+starseer_palmguard:Guardapalma de Vidente de Estrellas
+stormbind_glove:Guante de Tormentavínculo
+tidebone_clasp:Broche de Hueso de Marea
+voidrune_shardfist:Voidrune Puño de Fragmento
+witherknuckle_breaker:Rompedor Nudillo Marchito
+bonefang_totem_mask:Tótem de Colmillo de Hueso
+duskguard_warhelm:Yelmo de Guerra de Guardia del Crepúsculo
+emberlord_visor:Emberlord Visor
+flamecrest_sentinel_helm:Casco de Centinela Cresta de Llama
+glaciermaw_helm:Yelmo de Fauce de Glaciar
+jadeplague_mask:Máscara Plaga de Jade
+leafcrest_warden_mask:Máscara de Guardián Cresta de Hoja
+phoenixwing_heirhelm:Yelmo Hereditario de Ala de Fénix
+silverstar_champion_helm:Yelmo de Campeón Estrella de Plata
+stormcrown_warcask:Casco de Guerra de Corona de Tormenta
+sunhalo_regal_headdress:Tocado Real de Halo de Sol
+sunvine_tribal_mask:Máscara Tribal Vid de Sol
+thornhorn_ritual_helm:Yelmo Ritual de Cuerno de Espina
+tideforged_seahelm:Yelmo Marino Forjado por la Marea
+veilborn_oracle_mask:Máscara de Oráculo Nacida del Velo
+abyssstride_greaves:Grebas de Zancada del Abismo
+auric_valorboots:Botas de Valor Áurico
+bloodshackle_boots:Botas Grillete de Sangre
+bonebound_marchers:Marchadores Ligabueso
+fangstalker_stalkers:Acechadores Cazacolmillos
+frostwhisper_boots:Botas Susurrohelado
+gilded_sovereign_treads:Huellas del Soberano Dorado
+moltenflare_sabatons:Escarpes Fulgor Fundido
+regalia_of_the_veilstep:Regalia del Paso Veloz
+spellwoven_galeboots:Botas de Torbellino Tejido
+spinebite_crushers:Trituradores Mordespina
+stonecrush_vaultboots:Botas Fortaleza Picapiedra
+stormstep_spireboots:Botas Espiral Pasotormenta
+thunderbrand_stompers:Trotadores Marca del Trueno
+titanstep_stonewalkers:Andadores Pétreos Paso Titán
+tricksters_bellboots:Botas Campana del Embaucador
+verdant_trailwalkers:Andadores de Senda Verdeante
+forestguard_blade:Espada Forestguard
+infernal_greatsword:Espadón Infernal
+sunborn_edge:Filo Solnacido
+knights_head:Cabeza del Caballero
+nobleguard_mace:Maza Nobleguard
+tideblessed_mace:Maza Bendecida por la Marea
+triple_crusher:Tritura Triple
+frostsap_mace:Maza Savia Helada
+blightvine_maul:Mazo Vidapeste
+wraithcoil_crossbow:Ballesta Espiral de Espectro
+stinggear_crossbow:Ballesta Engranaje Punzante
+forestheart_bow:Arco Corazón del Bosque
+duskbolt_crossbow:Ballesta Saeta del Ocaso
+duskarch_crossbow:Ballesta Arco del Crepúsculo
+bonegutter_bow:Arco Destripahuesos
+bonecarver_bow:Arco Tallahuesos
