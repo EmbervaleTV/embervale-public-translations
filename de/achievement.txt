@@ -122,7 +122,6 @@ activate_tools:Aktiviere {amount} Werkzeuge in Abenteuern
 join_raid:Hilf Lord Sander Klause bei {amount} Raids
 cantDonateThis:Es tut mir leid, aber ich kann diese Spende nicht annehmen.
 referFirstStreamer:Die erste Empfehlung gewährt dir den Abenteurer-Rüstungs-Skin für all deine Charaktere!
-goodItemInShop:Ein mythischer Gegenstand ist derzeit im Laden. Bist du sicher, dass du aktualisieren möchtest?
 reachMaxReputation:Erreiche das maximale Ansehen beim Ladenbesitzer.
 defeat_rogue_class_in_bounties:Besiege {amount} Schurken in Kopfgeldern
 defeat_mage_class_in_bounties:Besiege {amount} Magier in Kopfgeldern
@@ -153,3 +152,8 @@ reach_frost_affinity_with_armor:Erreiche {percentage}% Frost-Affinität durch au
 reach_arcane_affinity_with_armor:Erreiche {percentage}% Arkane Affinität durch ausgerüstete Rüstung
 reach_divine_affinity_with_armor:Erreiche {percentage}% Göttliche Affinität durch ausgerüstete Rüstung
 complete_all_affinity_achievements:Schließe alle Affinitäts-Erfolge ab
+reachDedicationExplanation:Reputation sinkt täglich um 12-24.
+mythicalItemInShop:Ein mythischer Gegenstand ist momentan im Laden. Bist du sicher, dass du aktualisieren möchtest?
+legendaryItemInShop:Ein legendärer Gegenstand ist momentan im Laden. Bist du sicher, dass du aktualisieren möchtest?
+veryRareSellWarning:Dies ist ein Mythischer Gegenstand — extrem selten und schwer zu erhalten.
+confirmSellCheckbox:Ja, ich verstehe und möchte diesen Gegenstand trotzdem verkaufen.

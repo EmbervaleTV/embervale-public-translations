@@ -661,3 +661,7 @@ sphinx_bestiary:Estos centinelas mitad león guardan antiguas tumbas y ruinas, y
 basilisk_bestiary:Esta bestia de mal genio resulta cuando una gallina incuba un huevo de serpiente. Su veneno es lo suficientemente mortal como para matar con el simple roce de un colmillo.
 cockatrice_bestiary:Esta bestia de mal genio nace cuando una serpiente incuba un huevo de gallina. Su mirada puede petrificar al héroe más poderoso en piedra.
 hag_bestiary:Mejor no preguntar qué está cocinando en su caldero. Puede ser ojo de tritón o el último aventurero que la molestó con preguntas...
+lamia_bestiary:Aunque bellas y encantadoras, estas codiciosas doncellas serpentinas pueden devorar a un hombre entero.
+pegasus_bestiary:Estos míticos caballos alados son venerados por su valentía y lealtad. Hay pocos amigos más nobles, ¡y menos enemigos más temibles, si provocas su ira!
+werewolf_bestiary:Ciudadanos comunes de Embervale durante el día, la luz de la luna revela los verdaderos colores de estos peligrosos lupinos. ¡Cuidado!
+mysterious_puppy_bestiary:Hay algo extraño en este cachorro... pero le encantan los cariños en la barriga como a cualquier otro perrito que hayas conocido. ¿Quién es un buen chico? ¡Tú lo eres! ¡Sí, tú lo eres!

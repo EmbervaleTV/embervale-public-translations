@@ -1066,48 +1066,48 @@ inferno_brand_staff:Báculo Marca del Infierno
 soulshard_trident:Tridente de Fragmento de Alma
 bloodspiral_rod:Vara Espiral de Sangre
 verdant_bonecaller:Llamahuesos Verdeante
-ghostfang:Colmillo Fantasma
+ghostfang:Daga de Bolsillo
 runeshard:Fragmentoruna
 ironlash:Látigo de Hierro
-bloodkiss:Beso de Sangre
+bloodkiss:Cuchilla Enganchada
 riftpiercer:Perforador de Fisuras
 moonfang:Colmillo de Luna
 phantomshiv:Daga Fantasma
-chasmfang:Colmillo de Abismo
+chasmfang:Cortacartas Repujado
 crimsonwhisper:Susurro Carmesí
-dreamfang:Colmillo de Ensueño
-silentthorn:Espina Silenciosa
-boneknuckle_dagger:Duster de huesoknuckles
-thornkiss:Beso de Espina
-duskrend:Duskrend
-hellpiercer:Hellpiercer
+dreamfang:Garra de Dragón
+silentthorn:Kunai
+boneknuckle_dagger:Nudillo de Hueso
+thornkiss:Kunai de Hueso Ancho
+duskrend:Guante Garras
+hellpiercer:Daga Serrada
 twilightfang:Twilightfang
-shadowskewer:Shadowskewer
+shadowskewer:Sable Dorado
 glimmerfang:Glimmerfang
 grimfang:Grimfang
-gloomslicer:Gloomslicer
-whisperfang:Whisperfang
+gloomslicer:Espina Ornamental
+whisperfang:Daga Retorcida
 nightsplitter:Dividenoche
-soulfang:Colmillo del Alma
-starfuryfang:Colmillo de Furia Estelar
+soulfang:Cosecha del Segador
+starfuryfang:Starfury
 wraithfang:Colmillo de Espectro
 gravetalon:Garrafosa
 vilethorn:Espina Vil
 stormfang:Colmillo de Tormenta
 tidepiercer:Penetraolas
-venombreath:Aliento Venenoso
-abyssfang:Colmillo del Abismo
-stardagger:Puñal de Estrellas
+venombreath:Daga Primitiva
+abyssfang:Guadaña Retorcida
+stardagger:Puntas de Plata
 oblivionfang:Colmillo del Olvido
 voidtip:Punta del Vacío
-embersting:Picadura de Ember
+embersting:Hoja Corta Deformada
 ebonfang:Colmillo de Ébano
 bonefang:Colmillo de Hueso
 beastrend_hook:Garfio de Bestia
 bronze_lionblade:Espada de León de Bronce
 sandwarden_edge:Filo del Guardián de la Arena
 iron_sentinel:Centinela de Hierro
-kings_mercy:Misericordia del Rey
+kings_mercy:Seguro de Asesino
 dawnpiercer:Perforador del Alba
 azure_slicer:Cuchilla Azur
 emberfang_shard:Fragmento de Emberfang

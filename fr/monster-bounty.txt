@@ -361,3 +361,4 @@ shadow_creature_bounty:Une créature ombrageuse provenant de profondeurs inconnu
 spiky_turtle_bounty:Une muraille ambulante de piques—fais attention, car même sa carapace est une arme.
 nailguns_bounty:Un mimique qui prétend être Nailguns.
 demon_kitsune_bounty:Un esprit de renard rusé déformé par une énergie démoniaque. Trompeur, dangereux, et jamais vraiment seul.
+lamia_bounty:Traquez et secourez les villageois enlevés des griffes de la lamia.

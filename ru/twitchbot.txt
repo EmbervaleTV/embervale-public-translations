@@ -55,3 +55,4 @@ raidNoActiveRaid:В данный момент нет активного рейд
 adventureSurrenderConfirmation:Вы можете завершить приключение в любое время, сдавшись, без потери добычи.
 monsterDiscovered:Монстры обнаружены
 ascendedBossesDiscovered:Возвышенные боссы обнаружены
+streamerNeedsToSetupBot:Приключения требуют активного чат-бота, но стример его ещё не настроил.

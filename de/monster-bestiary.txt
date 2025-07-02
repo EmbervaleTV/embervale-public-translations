@@ -661,3 +661,7 @@ sphinx_bestiary:Diese halb-löwenhaften Wächter sichern uralte Gräber und Ruin
 basilisk_bestiary:Dieses übel gelaunte Biest entsteht, wenn ein Huhn auf einem Schlangenei brütet. Sein Gift ist tödlich genug, um mit einem einzigen Fanghieb zu töten.
 cockatrice_bestiary:Dieses übel gelaunte Biest entsteht, wenn eine Schlange ein Hühnerei ausbrütet. Sein Blick kann den mächtigsten Helden in Stein verwandeln.
 hag_bestiary:Frag lieber nicht, was in ihrem Kessel kocht. Es ist entweder ein Molchaugen oder der letzte Abenteurer, der sie mit Fragen belästigt hat...
+lamia_bestiary:Obwohl schön und bezaubernd, können diese neidischen, schlangenartigen Jungfrauen einen Mann im Ganzen verschlingen.
+pegasus_bestiary:Diese mythischen geflügelten Pferde werden für ihren Mut und ihre Loyalität verehrt. Es gibt wenige edlere Freunde - und noch weniger furchterregendere Feinde, sollte man ihren Zorn hervorrufen!
+werewolf_bestiary:Gewöhnliche Bürger von Embervale bei Tag, enthüllt das Mondlicht die wahren Farben dieser gefährlichen Lupinen. Pass auf!
+mysterious_puppy_bestiary:Irgendetwas ist seltsam an diesem Welpen... aber er liebt Bauchstreicheln wie jeder andere Welpe, den du je gekannt hast. Wer ist ein braver Junge? Du bist es! Ja, du bist es!

@@ -55,3 +55,4 @@ raidNoActiveRaid:Es findet gerade kein aktiver Überfall statt.
 adventureSurrenderConfirmation:Du kannst das Abenteuer jederzeit beenden, indem du kapitulieren, ohne Beute zu verlieren.
 monsterDiscovered:Entdeckte Monster
 ascendedBossesDiscovered:Entdeckte Aufgestiegene Bosse
+streamerNeedsToSetupBot:Abenteuer erfordern, dass der Chatbot aktiv ist, aber der Streamer hat ihn noch nicht konfiguriert.

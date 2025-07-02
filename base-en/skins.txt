@@ -67,3 +67,9 @@ skin_tempest_ranger:Tempest Ranger
 skin_druid_mage:Druid Mage
 skin_skytear_warrior:Skytear Warrior
 
+// Summer 2025
+berserker_warrior:Berserker Warrior
+green_reaper:Green Reaper
+taloncloak_ranger:Taloncloak Ranger
+nightfeather_mage:Nightfeather Mage
+turtleshell_knight:Turtleshell Knight

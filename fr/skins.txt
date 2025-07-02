@@ -55,3 +55,8 @@ skin_twilight_rogue:Voleur du crépuscule
 skin_tempest_ranger:Garde-tempête
 skin_druid_mage:Mage druide
 skin_skytear_warrior:Guerrier cieloclar
+berserker_warrior:Guerrier Berserker
+green_reaper:Faucheur Vert
+taloncloak_ranger:Éclaireur Taloncloak
+nightfeather_mage:Mage Plumenoir
+turtleshell_knight:Chevalier Carapace

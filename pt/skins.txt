@@ -55,3 +55,8 @@ skin_twilight_rogue:Ladino do Crepúsculo
 skin_tempest_ranger:Patrulheiro da Tempestade
 skin_druid_mage:Mago Druida
 skin_skytear_warrior:Guerreiro do Dilacero Celeste
+berserker_warrior:Guerreiro Berserker
+green_reaper:Ceifador Verde
+taloncloak_ranger:Patrulheiro Manto de Garra
+nightfeather_mage:Mago Pluma Noturna
+turtleshell_knight:Cavaleiro Casco de Tartaruga

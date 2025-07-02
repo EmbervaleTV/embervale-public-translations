@@ -661,3 +661,7 @@ sphinx_bestiary:Ces sentinelles mi-lions gardent les tombes anciennes et les rui
 basilisk_bestiary:Cette bête de mauvaise humeur résulte lorsqu'une poule couve un œuf de serpent. Son venin est assez mortel pour tuer d'un simple coup de croc.
 cockatrice_bestiary:Cette bête de mauvaise humeur naît lorsqu'un serpent fait éclore un œuf de poule. Son regard peut pétrifier en pierre le plus puissant héros.
 hag_bestiary:Mieux vaut ne pas demander ce qui mijote dans son chaudron. C'est soit un œil de triton, soit le dernier aventurier qui l'a dérangée avec des questions...
+lamia_bestiary:Bien que belles et charmantes, ces avides demoiselles serpentines peuvent dévorer un homme tout entier.
+pegasus_bestiary:Ces chevaux ailés mythiques sont vénérés pour leur courage et leur loyauté. Il y a peu d'amis plus nobles - et encore moins d'ennemis plus redoutables, si vous provoquez leur courroux !
+werewolf_bestiary:Citoyens ordinaires d'Embervale le jour, la lumière de la lune révèle la vraie nature dangereuse de ces lupins. Attention !
+mysterious_puppy_bestiary:Il y a quelque chose d'étrange avec ce chiot... mais il adore les gratouilles sur le ventre comme n'importe quel autre chiot que tu connais. Qui est un bon garçon ? C'est toi ! Oui, c'est bien toi !

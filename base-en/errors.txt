@@ -106,4 +106,4 @@ reconnectingFailed:Reconnecting failed. Please reload your browser.
 // Steam
 connectTwitchBrowser:A new window in your browser has opened. Please log in with your Twitch account and then connect your Steam account.
 connectTwitchConfirm:When done, please press the confirm button below.
-isSteamRunning:An error occurred. Is Steam running?
+isSteamRunning:An error occurred. Please ensure Steam is running, then restart the game.

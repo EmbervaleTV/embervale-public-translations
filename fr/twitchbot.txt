@@ -55,3 +55,4 @@ raidNoActiveRaid:Il n'y a pas de raid en cours pour le moment.
 adventureSurrenderConfirmation:Vous pouvez mettre fin à l'aventure à tout moment en vous rendant, sans perdre de butin.
 monsterDiscovered:Monstres Découverts
 ascendedBossesDiscovered:Boss Élevés Découverts
+streamerNeedsToSetupBot:Les aventures nécessitent que le chatbot soit actif, mais le streamer ne l'a pas encore configuré.

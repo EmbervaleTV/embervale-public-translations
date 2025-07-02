@@ -55,3 +55,8 @@ skin_twilight_rogue:Pícaro Crepúsculo
 skin_tempest_ranger:Guardabosques Tempestad
 skin_druid_mage:Mago Druida
 skin_skytear_warrior:Guerrero Desgarro del Cielo
+berserker_warrior:Guerrero Berserker
+green_reaper:Segador Verde
+taloncloak_ranger:Guardabosques de Manto Garra
+nightfeather_mage:Mago Pluma Nocturna
+turtleshell_knight:Caballero Caparazón

@@ -361,3 +361,4 @@ shadow_creature_bounty:Uma criatura sombria de profundezas desconhecidas.
 spiky_turtle_bounty:Uma parede ambulante de espinhos—cuidado, pois até sua carapaça é uma arma.
 nailguns_bounty:Um mímico que finge ser Pregadores.
 demon_kitsune_bounty:Um espírito de raposa astuto distorcido por energia demoníaca. Enganador, perigoso e nunca está realmente sozinho.
+lamia_bounty:Localize e resgate aldeões roubados das garras da lamia.

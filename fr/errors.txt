@@ -61,7 +61,7 @@ reconnectingFailed:La reconnexion a échoué. Veuillez recharger votre navigateu
 error:Erreur
 connectTwitchBrowser:Une nouvelle fenêtre s'est ouverte dans ton navigateur. Veuillez te connecter avec ton compte Twitch, puis connecte ton compte Steam.
 connectTwitchConfirm:Lorsque vous avez terminé, veuillez appuyer sur le bouton de confirmation ci-dessous.
-isSteamRunning:Une erreur est survenue. Est-ce que Steam est en cours d'exécution ?
+isSteamRunning:Une erreur s'est produite. Veuillez vous assurer que Steam est en cours d'exécution, puis redémarrez le jeu.
 errNoPermission:Tu n'as pas la permission de faire cela!
 errUnknownErrorChatbot:Une erreur inconnue s'est produite! Si le problème persiste, signale-le nous sur notre Discord : https://discord.com/invite/Gum9bS2dyw
 twitchBotRemoved:Le bot va partir maintenant. Merci d'avoir joué à Embervale.

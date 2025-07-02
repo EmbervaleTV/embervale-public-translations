@@ -665,3 +665,7 @@ sphinx_bestiary:These half-lion sentries guard ancient tombs and ruins, and are 
 basilisk_bestiary:This fowl-tempered beast results when a chicken broods on a snake egg. Its venom is deadly enough to kill with the single graze of a fang.
 cockatrice_bestiary:This fowl-tempered beast is born when a snake hatches a chicken egg. Its glare can petrify the mightiest hero into stone.
 hag_bestiary:Better not ask what's brewing in her cauldron. It's either eye of newt, or the last adventurer who bothered her with questions...
+lamia_bestiary:Though beautiful and charming, these covetous serpentine maidens can devour a man whole.
+pegasus_bestiary:These mythical winged horses are revered for their courage and loyalty. There are few nobler friends - and fewer more fearsome enemies, should you invoke their wrath!
+werewolf_bestiary:Ordinary citizens of Embervale by day, the moonlight reveals these dangerous lupines' true colors. Watch out!
+mysterious_puppy_bestiary:There's something strange about this puppy... but he loves belly rubs like any other pup you've known. Who's a good boy? You are! Yes you are!

@@ -1066,48 +1066,48 @@ inferno_brand_staff:Infernomarkenstab
 soulshard_trident:Seelensplitter-Dreizack
 bloodspiral_rod:Blutspiralstab
 verdant_bonecaller:Üppiger Knochenrufer
-ghostfang:Geisterzahn
+ghostfang:Taschenklinge
 runeshard:Runensplitter
 ironlash:Eisenpeitsche
-bloodkiss:Blutkuss
+bloodkiss:Gehakte Klinge
 riftpiercer:Riftschlitzer
 moonfang:Mondzahn
 phantomshiv:Phantomklinge
-chasmfang:Schluchzahn
+chasmfang:Geprägtes Briefmesser
 crimsonwhisper:Purpurflüstern
-dreamfang:Traumzahn
-silentthorn:Stille Dorn
-boneknuckle_dagger:Knochenknochenduster
-thornkiss:Dornkuss
-duskrend:Duskrend
-hellpiercer:Hellpiercer
+dreamfang:Drachenklaue
+silentthorn:Kunai
+boneknuckle_dagger:Knochenknöchel-Schlagring
+thornkiss:Breitknochen-Kunai
+duskrend:Krallenhandschuh
+hellpiercer:Gezackter Dolch
 twilightfang:Zwielichtfang
-shadowskewer:Schattenstich
+shadowskewer:Goldener Krummsäbel
 glimmerfang:Glimmerzahn
 grimfang:Grimmzahn
-gloomslicer:Trübschneider
-whisperfang:Flüsterzahn
+gloomslicer:Verzierter Dorn
+whisperfang:Gedrehter Dolch
 nightsplitter:Nachtspalter
-soulfang:Seelenzahn
-starfuryfang:Sternenwut
+soulfang:Schnitterernte
+starfuryfang:Starfury
 wraithfang:Geisterzahn
 gravetalon:Grabkralle
 vilethorn:Bösedorn
 stormfang:Sturmzahn
 tidepiercer:Flutenstecher
-venombreath:Giftatem
-abyssfang:Abgrundzahn
-stardagger:Sterndolch
-oblivionfang:Vergessenheitszahn
+venombreath:Urzeitlicher Dolch
+abyssfang:Gedrehte Sense
+stardagger:Silberzinken
+oblivionfang:Zahn des Vergessens
 voidtip:Leere Spitze
-embersting:Emberstachel
+embersting:Verzerrte Kurzschwert
 ebonfang:Ebenhauer
 bonefang:Knochenzahn
 beastrend_hook:Bestienhaken
 bronze_lionblade:Bronze Löwenklinge
 sandwarden_edge:Sandwächterklinge
 iron_sentinel:Eisenschildwache
-kings_mercy:Königsgnade
+kings_mercy:Gnadenversicherung des Scharfrichters
 dawnpiercer:Morgendurchbohrer
 azure_slicer:Azuroschneider
 emberfang_shard:Emberzahn-Splitter

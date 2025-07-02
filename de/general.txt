@@ -296,12 +296,12 @@ loadingTip27:Teile deinen Fortschritt, indem du !evflex in irgendeinen Kanal ein
 loadingTip28:Wir hören auf dein Feedback. Tritt unserem Discord-Server bei, um deine Vorschläge einzureichen!
 skipTutorial:Tutorial überspringen
 hideTip:Tipp verbergen
-starterTutorial0:Willkommen in Embervale! Um durch die Menüs zu navigieren, klicke auf die Kompasstaste!
-starterTutorial1:Dies ist das Hauptnavigationsmenü! Beginne, indem du die Kopfgeld-Registerkarte auswählst.
-starterTutorial2:Wähle das Kopfgeld deiner Wahl. Die Sterne hinter dem Namen des Monsters zeigen die Schwierigkeit an!
-starterTutorial3:Warte jetzt oder überspringe die Reisezeit und dein Kampf wird beginnen!
+starterTutorial0:Willkommen in Embervale! Klicke auf das Kompass-Symbol, um das Navigationsmenü zu öffnen.
+starterTutorial1:Dies ist dein Navigationsmenü. Beginne, indem du den Bounty-Tab auswählst.
+starterTutorial2:Wähle ein Kopfgeld aus, das du jagen möchtest! Die Sterne hinter jedem Monster zeigen seine Schwierigkeit.
+starterTutorial3:Warte, bis die Reisezeit vergeht – oder überspringe sie – und dein Kampf beginnt!
 starterTutorial4:-
-starterTutorial5:Du hast gerade dein erstes Kopfgeld abgeschlossen und das Basistutorial beendet! Beginne durch die Menüs zu navigieren, um mehr über das Spiel zu erfahren!
+starterTutorial5:Großartige Arbeit! Du hast dein erstes Kopfgeld und das grundlegende Tutorial abgeschlossen. Erkunde die Menüs, um mehr über das Spiel zu lernen, stärker zu werden und noch mehr Abenteuer zu unterstützen!
 expeditionTutorial0:Expeditionen dauern 1–12 Stunden und sind entscheidend für das Sammeln von Handwerksmaterialien. Während dieser Zeit sind Verliese und Kopfgelder nicht verfügbar.
 selectBackground:Hintergrund auswählen
 skill:Fähigkeit
@@ -699,3 +699,13 @@ completionist_male:Vollender
 completionist_female:Vollenderin
 unequipTitle:Ausgerüstetes entfernen
 minLVL:Minimale Stufe
+reloadGame:Spiel neu laden
+heavyGlossary:Schwere Rüstung
+mediumGlossary:Mittel Rüstung
+lightGlossary:Leichte Rüstung
+clothGlossary:Stoff
+weapon_magicGlossary:Magische Waffe
+weapon_daggerGlossary:Gewandtheitswaffen
+weapon_one_handedGlossary:Einhändige Waffe
+weapon_two_handedGlossary:Zweihändige Waffe
+weapon_rangedGlossary:Fernkampfwaffe

@@ -61,7 +61,7 @@ ranks:Ränge
 error:Fehler
 connectTwitchBrowser:Ein neues Fenster in Ihrem Browser hat sich geöffnet. Bitte melde dich mit deinem Twitch-Konto an und verbinde dann dein Steam-Konto.
 connectTwitchConfirm:Wenn du fertig bist, drücke bitte den Bestätigungs-Knopf unten.
-isSteamRunning:Ein Fehler ist aufgetreten. Läuft Steam?
+isSteamRunning:Ein Fehler ist aufgetreten. Bitte sicherstellen, dass Steam läuft, und dann das Spiel neu starten.
 errNoPermission:Du hast keine Berechtigung, das zu tun!
 errUnknownErrorChatbot:Ein unbekannter Fehler ist aufgetreten! Wenn das Problem weiterhin besteht, melde es uns auf unserem Discord: https://discord.com/invite/Gum9bS2dyw
 twitchBotRemoved:Der Bot wird jetzt gehen. Danke, dass du Embervale gespielt hast.

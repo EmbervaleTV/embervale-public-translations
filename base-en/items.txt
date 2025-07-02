@@ -1218,48 +1218,48 @@ inferno_brand_staff:Inferno Brand Staff
 soulshard_trident:Soulshard Trident
 bloodspiral_rod:Bloodspiral Rod
 verdant_bonecaller:Verdant Bonecaller
-ghostfang:Ghostfang
+ghostfang:Pocket Dagger
 runeshard:Runeshard
 ironlash:Ironlash
-bloodkiss:Bloodkiss
+bloodkiss:Hooked Blade
 riftpiercer:Riftpiercer
 moonfang:Moonfang
 phantomshiv:Phantomshiv
-chasmfang:Chasmfang
+chasmfang:Embossed Letterknife
 crimsonwhisper:Crimsonwhisper
-dreamfang:Dreamfang
-silentthorn:Silentthorn
-boneknuckle_dagger:Boneknuckle duster
-thornkiss:Thornkiss
-duskrend:Duskrend
-hellpiercer:Hellpiercer
+dreamfang:Dragon's Claw
+silentthorn:Kunai
+boneknuckle_dagger:Boneknuckle Duster
+thornkiss:Broadbone Kunai
+duskrend:Clawed Glove
+hellpiercer:Serrated Dagger
 twilightfang:Twilightfang
-shadowskewer:Shadowskewer
+shadowskewer:Golden Cutlass
 glimmerfang:Glimmerfang
 grimfang:Grimfang
-gloomslicer:Gloomslicer
-whisperfang:Whisperfang
+gloomslicer:Ornate Thorn
+whisperfang:Twisted Dagger
 nightsplitter:Nightsplitter
-soulfang:Soulfang
-starfuryfang:Starfuryfang
+soulfang:Reaper's Harvest
+starfuryfang:Starfury
 wraithfang:Wraithfang
 gravetalon:Gravetalon
 vilethorn:Vilethorn
 stormfang:Stormfang
 tidepiercer:Tidepiercer
-venombreath:Venombreath
-abyssfang:Abyssfang
-stardagger:Stardagger
-oblivionfang:Oblivionfang
+venombreath:Primitive Dagger
+abyssfang:Twisted Scythe
+stardagger:Silver Prongs
+oblivionfang:Oblivion's Fang
 voidtip:Voidtip
-embersting:Embersting
+embersting:Warped Shortblade
 ebonfang:Ebonfang
 bonefang:Bonefang
 beastrend_hook:Beastrend Hook
 bronze_lionblade:Bronze Lionblade
 sandwarden_edge:Sandwarden Edge
 iron_sentinel:Iron Sentinel
-kings_mercy:King's Mercy
+kings_mercy:Cutthroat's Insurance
 dawnpiercer:Dawnpiercer
 azure_slicer:Azure Slicer
 emberfang_shard:Emberfang Shard

@@ -1066,48 +1066,48 @@ inferno_brand_staff:Cajado Marca do Inferno
 soulshard_trident:Tridente Fragmento de Alma
 bloodspiral_rod:Vara Espiral de Sangue
 verdant_bonecaller:Invocador de Ossos Verdejante
-ghostfang:Presa Fantasma
+ghostfang:Adaga de Bolso
 runeshard:Fragmento Rúnico
 ironlash:Lash de Ferro
-bloodkiss:Beijo de Sangue
+bloodkiss:Lâmina Curvada
 riftpiercer:Perfurador de Fenda
 moonfang:Presa da Lua
 phantomshiv:Faca Fantasma
-chasmfang:Presa de Abismo
+chasmfang:Canivete Embutido
 crimsonwhisper:Sussurro Carmesim
-dreamfang:Presa dos Sonhos
-silentthorn:Espinho Silencioso
-boneknuckle_dagger:Espada de Punho de Osso
-thornkiss:Beijo de Espinho
-duskrend:Duskrend
-hellpiercer:Hellpiercer
+dreamfang:Garra do Dragão
+silentthorn:Kunai
+boneknuckle_dagger:Armadura de Ossos
+thornkiss:Kunai Larga de Osso
+duskrend:Luva com Garras
+hellpiercer:Adaga Serrilhada
 twilightfang:Twilightfang
-shadowskewer:Shadowskewer
+shadowskewer:Cimitarra Dourada
 glimmerfang:Glimmerfang
 grimfang:Grimfang
-gloomslicer:Cortagloom
-whisperfang:Cortalúdico
+gloomslicer:Espinho Ornamentado
+whisperfang:Adaga Retorcida
 nightsplitter:Separanoite
-soulfang:Cortalma
-starfuryfang:Fúriarcelestial
+soulfang:Colheita do Ceifador
+starfuryfang:Starfury
 wraithfang:Cortassombra
 gravetalon:Garratúmulo
 vilethorn:Espinhovil
 stormfang:Corta-tempestade
 tidepiercer:Separamaré
-venombreath:Soproveneno
-abyssfang:Cortavazio
-stardagger:Adaga Estelar
-oblivionfang:Presa do Oblívio
+venombreath:Adaga Primitiva
+abyssfang:Foice Retorcida
+stardagger:Pontas de Prata
+oblivionfang:Presa do Oblivion
 voidtip:Ponta do Vácuo
-embersting:Ferroada Ember
+embersting:Lâmina Curta Deformada
 ebonfang:Presa Ebano
 bonefang:Presa de Osso
 beastrend_hook:Gancho de Rasgar Besta
 bronze_lionblade:Lâmina de Leão de Bronze
 sandwarden_edge:Fio do Guardião das Areias
 iron_sentinel:Sentinela de Ferro
-kings_mercy:Misericórdia do Rei
+kings_mercy:Seguro do Assassino
 dawnpiercer:Perfurador do Alvorecer
 azure_slicer:Fatiante Lazúli
 emberfang_shard:Fragmento de Presa Ember

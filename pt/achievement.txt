@@ -122,7 +122,6 @@ activate_tools:Ative {amount} ferramentas em aventuras
 join_raid:Ajude Lorde Sander Klause em {amount} Investidas
 cantDonateThis:Sinto muito, mas não posso aceitar esta doação.
 referFirstStreamer:A primeira indicação concede a você o visual da armadura de aventureiro para todos os seus personagens!
-goodItemInShop:Um item mítico está atualmente na loja. Tem certeza de que deseja atualizar?
 reachMaxReputation:Alcançar a reputação máxima com o lojista.  
 defeat_rogue_class_in_bounties:Derrote {amount} ladrões em recompensas
 defeat_mage_class_in_bounties:Derrote {amount} magos em recompensas
@@ -153,3 +152,8 @@ reach_frost_affinity_with_armor:Alcance {percentage}% de afinidade Gélida atrav
 reach_arcane_affinity_with_armor:Alcance {percentage}% de afinidade Arcana através de armaduras equipadas
 reach_divine_affinity_with_armor:Alcance {percentage}% de afinidade Divina através de armaduras equipadas
 complete_all_affinity_achievements:Complete todos os feitos de afinidade
+reachDedicationExplanation:A reputação cai de 12 a 24 diariamente.
+mythicalItemInShop:Um item Mítico está atualmente na loja. Tem certeza de que deseja atualizar?
+legendaryItemInShop:Um item Lendário está atualmente na loja. Tem certeza de que deseja atualizar?
+veryRareSellWarning:Este é um item Mítico — extremamente raro e difícil de obter.
+confirmSellCheckbox:Sim, eu entendo e ainda quero vender este item.

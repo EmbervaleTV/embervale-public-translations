@@ -43,6 +43,8 @@ effect_blacksmith:The player has proven to be a capable blacksmith. // Priority 
 blacksmith:Blacksmith
 effect_chef:The player has demonstrated exceptional culinary skills. // Gains priority in cooking checks and a 10x boost to cooking skill during adventures.
 chef:Chef
+master_alchemist:Master Alchemist
+effect_master_alchemist:The player has mastered the mystical art of alchemy. // Gains priority in alchemy checks and a 10× boost to alchemy skill during adventures.
 effect_ancient_knowledge:The player is inspired by long-lost knowledge. // +30% wisdom
 ancient_knowledge:Ancient Knowledge
 effect_cursed:The player is affected by a mysterious curse. // -100% luck
@@ -144,6 +146,9 @@ effect_profane_might:This person embraced a horrible power that corrupted them c
 profane_might:Profane Might
 one_eyed:One Eyed
 effect_one_eyed:The player has lost an eye, but strikes ruthless. // +100% damage -50% crit
+young_pup:Young Pup
+effect_young_pup:Though a young pup for now, who knows what this little guy will grow up to be? // ???
+
 
 // Effects that mess with the character design
 transformed:Transformed
@@ -348,11 +353,15 @@ inactive:Inactive
 unlock:Unlock
 noToolsExplanation:You don't have any tool currently. You can receive tools randomly during adventures if you have voted at least once!
 noToolsError:You don't have any tool currently.
-beforeAdventureStartsText1:Adventures is a game mode specifically designed for streamers.
+adventureNoChatbotSetup:You need to set up the Twitch chatbot before proceeding.
+setupChatbot:Setup Chatbot
+findStreamer:Find Streamer
+findAdventure:Find Adventure
+beforeAdventureStartsText1:Adventures are a game mode made for Twitch streamers — and they're at the heart of the Embervale experience.
 beforeAdventureStartsText2:Your community can join your adventure using the command "!ev join".
-beforeAdventureStartsText3:The adventure ends when the group's Morale reaches zero or if you choose to surrender.
-beforeAdventureStartsText4:You have the option to select viewers to participate in battles!
-beforeAdventureStartsText5:Your community can actively engage in the adventure by voting on key decisions and collaborating with you on strategy!
+beforeAdventureStartsText3:The adventure ends when the group's Morale reaches zero, if you run out of players able to battle, or if you choose to surrender.
+beforeAdventureStartsText4:You'll encounter different monsters as you progress, and select your viewers to battle them!
+beforeAdventureStartsText5:You'll also encounter events that offer challenges and rewards. Your community can engage in the adventure by voting on key decisions, using tools, and collaborating with you on strategy!
 beforeAdventureStartsText6:The current maximum participant limit is 50.
 toolLimitReached:You can activate up to 5 tools for a single fight.
 toolAlreadyEnabled:This tool has already been enabled.
@@ -361,6 +370,20 @@ yourTools:You have: { toolname }
 toolActivatedForNextFight:The tool has been activated for the upcoming fight!
 requiredUnlocksTool:Required victories as host for next unlock
 requiredUnlocksToolTooltip:Only battles with a loot indicator of "Low" or higher are counted.
+
+// running adventuresy
+embervaleAdventure:Embervale is all about adventuring together on Twitch. Below, you can find streamers who are currently live—join their adventure and be part of the journey!
+publicAdventures:Public Adventures
+noLobbiesAvailable:No open lobby found. Please try again in a few minutes.
+status:Status
+players:Players
+adventureRunning:Running
+adventureNotStarted:Not Started
+adventureConcluded:Concluded
+refresh:Refresh
+promoteMyStream:Promote your adventures to other players.
+live:Live
+offline:Offline
 
 // merchant
 merchantNotEnoughPlayerToFaint:Your party doesn’t have enough conscious members to do that.

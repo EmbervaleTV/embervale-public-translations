@@ -55,3 +55,4 @@ raidNoActiveRaid:No hay ninguna incursión activa en este momento.
 adventureSurrenderConfirmation:Puedes terminar la aventura en cualquier momento rindiéndote, sin perder ningún botín.
 monsterDiscovered:Monstruos Descubiertos
 ascendedBossesDiscovered:Jefes Ascendidos Descubiertos
+streamerNeedsToSetupBot:Las aventuras requieren que el chatbot esté activo, pero el streamer aún no lo ha configurado.

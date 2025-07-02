@@ -664,3 +664,7 @@ sphinx:Сфинкс
 basilisk:Базилиск
 cockatrice:Кокатрис
 hag:Ведьма
+lamia:Ламия
+pegasus:Пегас
+werewolf:Вервольф
+mysterious_puppy:Загадочный щенок

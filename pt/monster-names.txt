@@ -664,3 +664,7 @@ sphinx:Esfinge
 basilisk:Basílio
 cockatrice:Cocatriz
 hag:Hag
+lamia:Lâmia
+pegasus:Pégaso
+werewolf:Lobisomem
+mysterious_puppy:Misterioso Cachorrinho

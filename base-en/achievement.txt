@@ -137,8 +137,12 @@ purchase_items_in_shop:Purchase {amount} items from the shop
 donate_materials:Donate {amount} materials to the merchant
 cantDonateBundles:I'm sorry, but I cannot accept bundles as donations.
 cantDonateThis:I'm sorry, but I cannot accept this donation.
-goodItemInShop:A Mythical item is currently in the shop. Are you sure you want to refresh?
+mythicalItemInShop:A Mythical item is currently in the shop. Are you sure you want to refresh?
+legendaryItemInShop:A Legendary item is currently in the shop. Are you sure you want to refresh?
 reachMaxReputation:Reach maximum reputation with the shopkeeper.
+reachDedicationExplanation:Reputation drops by 12–24 daily.
+veryRareSellWarning:This is a Mythical item — extremely rare and hard to obtain.
+confirmSellCheckbox:Yes, I understand and still want to sell this item.
 
 // Extra
 claim_daily_bonus:Claim {amount} daily bonuses on our Discord

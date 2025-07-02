@@ -55,3 +55,8 @@ skin_twilight_rogue:Schattenwesen
 skin_tempest_ranger:Sturmwächter
 skin_druid_mage:Druidenmagier
 skin_skytear_warrior:Skytear-Krieger
+berserker_warrior:Berserker-Krieger
+green_reaper:Grüner Schnitter
+taloncloak_ranger:Talonumhang-Waldläufer
+nightfeather_mage:Nachtfeder-Magier
+turtleshell_knight:Schildkrötenpanzer-Ritter

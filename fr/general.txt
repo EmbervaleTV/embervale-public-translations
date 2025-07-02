@@ -320,12 +320,12 @@ levelUpDungeon:Vous pouvez maintenant entrer dans les donjons !
 levelUpGuild:Vous pouvez maintenant entrer ou créer une guilde !
 skipTutorial:Passer le didacticiel
 hideTip:Masquer l'astuce
-starterTutorial0:Bienvenue à Embervale ! Pour naviguer dans les menus, cliquez sur le bouton de la boussole !
-starterTutorial1:Ceci est le menu de navigation principal ! Commencez en sélectionnant l'onglet des primes.
-starterTutorial2:Sélectionnez la prime de votre choix. Les étoiles derrière le nom du monstre indiquent la difficulté !
-starterTutorial3:Attendez ou passez le temps de voyage, et votre bataille commencera !
+starterTutorial0:Bienvenue à Embervale ! Cliquez sur l'icône de la boussole pour ouvrir le menu de navigation.
+starterTutorial1:Ceci est votre menu de navigation. Commencez par sélectionner l'onglet "Prime".
+starterTutorial2:Choisissez une prime à chasser ! Les étoiles derrière chaque monstre indiquent sa difficulté.
+starterTutorial3:Attendez que le temps de voyage passe — ou passez-le — et votre bataille commencera !
 starterTutorial4:-
-starterTutorial5:Vous venez de terminer votre première prime et complété le didacticiel de base ! Commencez à naviguer dans les menus pour en savoir plus sur le jeu !
+starterTutorial5:Bien joué ! Vous avez complété votre première prime et le tutoriel de base. Explorez les menus pour en apprendre davantage sur le jeu, devenir plus fort et soutenir encore plus d'aventures !
 expeditionTutorial0:Les expéditions prennent de 1 à 12 heures et sont essentielles pour rassembler des matériaux d'artisanat. Pendant ce temps, les donjons et primes sont indisponibles.
 character:Personnage
 selectBackground:Sélectionner l'arrière-plan
@@ -699,3 +699,13 @@ completionist_male:Collectionneur
 completionist_female:Collectionneuse
 unequipTitle:Déséquiper Titre
 minLVL:LVL Min
+reloadGame:Recharger le jeu
+heavyGlossary:Armure lourde
+mediumGlossary:Armure moyenne
+lightGlossary:Armure légère
+clothGlossary:Tissu
+weapon_magicGlossary:Arme magique
+weapon_daggerGlossary:Armes de finesse
+weapon_one_handedGlossary:Arme à une main
+weapon_two_handedGlossary:Arme à deux mains
+weapon_rangedGlossary:Arme à distance

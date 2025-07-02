@@ -320,12 +320,12 @@ levelUpDungeon:Agora você pode entrar em Masmorras!
 levelUpGuild:Agora você pode entrar ou criar uma Guilda!
 skipTutorial:Pular tutorial
 hideTip:Esconder dica
-starterTutorial0:Bem-vindo a Embervale! Para navegar pelos menus, clique no botão de bússola!
-starterTutorial1:Este é o menu principal de navegação! Comece selecionando a aba de recompensas.
-starterTutorial2:Selecione a recompensa de sua escolha. As estrelas atrás do nome do monstro indicam a dificuldade!
-starterTutorial3:Agora espere ou pule o tempo de viagem, e sua batalha começará!
+starterTutorial0:Bem-vindo a Embervale! Clique no ícone da bússola para abrir o menu de navegação.
+starterTutorial1:Este é o seu menu de navegação. Comece selecionando a aba Recompensa.
+starterTutorial2:Escolha uma recompensa para caçar! As estrelas atrás de cada monstro mostram sua dificuldade.
+starterTutorial3:Espere o tempo de viagem passar—ou pule-o—e sua batalha começará!
 starterTutorial4:-
-starterTutorial5:Você acabou de completar sua primeira recompensa e terminou o tutorial básico! Comece a navegar pelos menus para aprender mais sobre o jogo!
+starterTutorial5:Ótimo trabalho! Você completou sua primeira recompensa e o tutorial básico. Explore os menus para aprender mais sobre o jogo, ficar mais forte e apoiar ainda mais aventuras!
 expeditionTutorial0:As expedições levam de 1 a 12 horas e são cruciais para coletar materiais de artesanato. Durante esse tempo, masmorras e recompensas estão indisponíveis.
 character:Personagem
 selectBackground:Selecionar Fundo
@@ -699,3 +699,13 @@ completionist_male:Completionista
 completionist_female:Completionista
 unequipTitle:Desnudar Título
 minLVL:Nível mínimo
+reloadGame:Recarregar Jogo
+heavyGlossary:Armadura Pesada
+mediumGlossary:Armadura Média
+lightGlossary:Armadura Leve
+clothGlossary:Tecido
+weapon_magicGlossary:Arma Mágica
+weapon_daggerGlossary:Armas de Finesse
+weapon_one_handedGlossary:Arma de Uma Mão
+weapon_two_handedGlossary:Arma de Duas Mãos
+weapon_rangedGlossary:Arma de Alcance

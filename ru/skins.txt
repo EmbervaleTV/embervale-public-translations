@@ -55,3 +55,8 @@ skin_twilight_rogue:Сумеречный Разбойник
 skin_tempest_ranger:Следопыт Бури
 skin_druid_mage:Маг-Друид
 skin_skytear_warrior:Воин Небесного Разрыва
+berserker_warrior:Берсеркер-воин
+green_reaper:Зелёный жнец
+taloncloak_ranger:Талонклок рейнджер
+nightfeather_mage:Найтфезер маг
+turtleshell_knight:Тартлшелл рыцарь

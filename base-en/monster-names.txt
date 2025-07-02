@@ -674,3 +674,7 @@ sphinx:Sphinx
 basilisk:Basilisk
 cockatrice:Cockatrice
 hag:Hag
+lamia:Lamia
+pegasus:Pegasus
+werewolf:Werewolf
+mysterious_puppy:Mysterious Puppy

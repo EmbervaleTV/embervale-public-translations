@@ -122,7 +122,6 @@ activate_tools:Activer {amount} outils dans les aventures
 join_raid:Aidez le Seigneur Sander Klause dans {amount} raids
 cantDonateThis:Je suis désolé, mais je ne peux pas accepter ce don.
 referFirstStreamer:La première recommandation vous offre la peau d'armure d'aventurier pour tous vos personnages !
-goodItemInShop:Un objet Mythique est actuellement dans la boutique. Es-tu sûr de vouloir actualiser ?
 reachMaxReputation:Atteins la réputation maximale avec le commerçant.
 defeat_rogue_class_in_bounties:Vaincre {amount} voleurs dans les primes
 defeat_mage_class_in_bounties:Vaincre {amount} mages dans les primes
@@ -153,3 +152,8 @@ reach_frost_affinity_with_armor:Atteindre {percentage}% d'affinité glaciale via
 reach_arcane_affinity_with_armor:Atteindre {percentage}% d'affinité arcanique via l'armure équipée
 reach_divine_affinity_with_armor:Atteindre {percentage}% d'affinité divine via l'armure équipée
 complete_all_affinity_achievements:Terminer tous les succès d'affinité
+reachDedicationExplanation:La réputation diminue de 12 à 24 chaque jour.
+mythicalItemInShop:Un objet mythique est actuellement dans la boutique. Es-tu sûr de vouloir rafraîchir ?
+legendaryItemInShop:Un objet légendaire est actuellement dans la boutique. Es-tu sûr de vouloir rafraîchir ?
+veryRareSellWarning:C'est un objet mythique — extrêmement rare et difficile à obtenir.
+confirmSellCheckbox:Oui, je comprends et je souhaite toujours vendre cet objet.

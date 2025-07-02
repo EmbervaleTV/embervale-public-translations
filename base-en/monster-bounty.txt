@@ -360,6 +360,7 @@ headless_horseman_bounty:A sinister rider roaming through the night. Seeing him 
 shadow_creature_bounty:A shadowy creature from unknown depths.
 spiky_turtle_bounty:A walking wall of spikes—take caution, for even its shell is a weapon.
 demon_kitsune_bounty:A cunning fox spirit twisted by demonic energy. Deceptive, dangerous, and never truly alone.
+lamia_bounty:Track down and rescue stolen villagers from the lamia's coils.
 
 // special
 nailguns_bounty:A mimic that pretends to be Nailguns.

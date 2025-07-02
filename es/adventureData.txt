@@ -242,11 +242,11 @@ oil_pot:Tarro de Aceite
 oil_pot_description:El oponente recibe 500% más de daño Infernal durante la próxima batalla.
 adventures:Aventuras
 tools:Herramientas
-beforeAdventureStartsText1:Adventures es un modo de juego específicamente diseñado para streamers.
+beforeAdventureStartsText1:Las aventuras son un modo de juego creado para streamers de Twitch, y están en el corazón de la experiencia de Embervale.
 beforeAdventureStartsText2:Tu comunidad puede unirse a tu aventura usando el comando "!ev join".
-beforeAdventureStartsText3:La aventura termina cuando la Moral del grupo llega a cero o si eliges rendirte.
-beforeAdventureStartsText4:Tienes la opción de seleccionar espectadores para participar en batallas.
-beforeAdventureStartsText5:Tu comunidad puede participar activamente en la aventura votando en decisiones clave y colaborando contigo en la estrategia.
+beforeAdventureStartsText3:La aventura termina cuando la Moral del grupo llega a cero, si te quedas sin jugadores capaces de luchar, o si eliges rendirte.
+beforeAdventureStartsText4:Te encontrarás con diferentes monstruos a medida que progresas, ¡y seleccionarás a tus espectadores para que luchen contra ellos!
+beforeAdventureStartsText5:También encontrarás eventos que ofrecen desafíos y recompensas. Tu comunidad puede participar en la aventura votando en decisiones clave, usando herramientas y colaborando contigo en la estrategia.
 beforeAdventureStartsText6:El límite actual de participantes es de 50.
 unlock:Desbloquear
 effect_transparent:Este jugador es difícil de detectar. // +10% de evasión
@@ -443,3 +443,23 @@ quest_damage_reduction_story:Un aprendiz de herrero entusiasta desea mejorar su 
 quest_damage_reduction_effect:Esto reducirá el daño infligido por tu grupo en un {amount}%.
 quest_health_reduction_story:Un alquimista novato solicita una oportunidad para experimentar—usando la vitalidad de tu grupo como sujeto de prueba.
 quest_health_reduction_effect:Esto reducirá la salud de tu grupo en un {amount}%.
+adventureNoChatbotSetup:Debes configurar el chatbot de Twitch antes de continuar.
+findStreamer:Encontrar Streamer
+setupChatbot:Configurar Chatbot
+status:Estado
+players:Jugadores
+embervaleAdventure:Embervale trata sobre aventurar juntos en Twitch. A continuación, puedes encontrar los streamers que están transmitiendo en vivo—¡únete a su aventura y sé parte del viaje!
+adventureRunning:Corriendo
+adventureNotStarted:No Comenzado
+refresh:Actualizar
+noLobbiesAvailable:No se encontró ningún lobby abierto. Por favor, inténtalo de nuevo en unos minutos.
+publicAdventures:Aventuras Públicas
+promoteMyStream:Promociona tus aventuras a otros jugadores.
+live:En vivo
+offline:Desconectado
+adventureConcluded:Concluido
+findAdventure:Encontrar Aventura
+master_alchemist:Maestro Alquimista
+effect_master_alchemist:El jugador ha dominado el arte místico de la alquimia. // Gana prioridad en las pruebas de alquimia y un aumento de 10× a la habilidad de alquimia durante las aventuras.
+young_pup:Cachorro Joven
+effect_young_pup:Aunque por ahora sea un cachorro joven, ¿quién sabe en qué se convertirá este pequeño?

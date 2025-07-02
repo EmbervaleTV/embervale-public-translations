@@ -1066,48 +1066,48 @@ inferno_brand_staff:Посох Инфернальной Метки
 soulshard_trident:Трезубец Осколка Души
 bloodspiral_rod:Жезл Кровавой Спирали
 verdant_bonecaller:Зовущий Кости
-ghostfang:Призрачный Клык
+ghostfang:Карманный кинжал
 runeshard:Рунический Осколок
 ironlash:Железная Плеть
-bloodkiss:Кровавый Поцелуй
+bloodkiss:Крюковатый клинок
 riftpiercer:Пронзающий Разлом
 moonfang:Лунный Клык
 phantomshiv:Фантомный Кинжал
-chasmfang:Бездна Клыка
+chasmfang:Резной нож
 crimsonwhisper:Алый Шепот
-dreamfang:Клык Мечты
-silentthorn:Тихий Шип
+dreamfang:Коготь дракона
+silentthorn:Кунай
 boneknuckle_dagger:Костяной кастет
-thornkiss:Шипастый Поцелуй
-duskrend:Duskrend
-hellpiercer:Hellpiercer
+thornkiss:Широкий кунай
+duskrend:Когтевая перчатка
+hellpiercer:Зазубренный кинжал
 twilightfang:Twilightfang
-shadowskewer:Shadowskewer
+shadowskewer:Золотая сабля
 glimmerfang:Glimmerfang
 grimfang:Grimfang
-gloomslicer:Gloomslicer
-whisperfang:Whisperfang
+gloomslicer:Изысканный шип
+whisperfang:Извилистый кинжал
 nightsplitter:Расколотый Ночью
-soulfang:Клык Души
-starfuryfang:Клык Звездного Ярости
+soulfang:Жатва жнеца
+starfuryfang:Звёздная ярость
 wraithfang:Призрачный Клык
 gravetalon:Коготь Могилы
 vilethorn:Злобный Шип
 stormfang:Клык Шторма
 tidepiercer:Пронзающий Прилив
-venombreath:Ядовитое Дыхание
-abyssfang:Клык Бездны
-stardagger:Звездный Кинжал
-oblivionfang:Клык Забвения
+venombreath:Примитивный кинжал
+abyssfang:Извилистая коса
+stardagger:Серебряные зубцы
+oblivionfang:Клык забвения
 voidtip:Острие Пустоты
-embersting:Жало Ember
+embersting:Искажённый короткий клинок
 ebonfang:Эбеновый Клык
 bonefang:Костяной Клык
 beastrend_hook:Крюк Зверя
 bronze_lionblade:Бронзовый Львиный Клинок
 sandwarden_edge:Клинок Песчаного Стража
 iron_sentinel:Железный Страж
-kings_mercy:Милость Короля
+kings_mercy:Страховка головореза
 dawnpiercer:Пронзающий Рассвет
 azure_slicer:Лазурный Резак
 emberfang_shard:Осколок Клыка Ember

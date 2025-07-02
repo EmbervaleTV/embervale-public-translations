@@ -49,6 +49,7 @@ effectsVolume:Effects Volume
 desktopOptimized:Desktop Optimized
 mobileOptimized:Mobile Optimized
 reloadExtension:Reload Extension
+reloadGame:Reload Game
 version:Version
 langauge:Language
 language:Language
@@ -233,6 +234,16 @@ newGlossaryEntries:New glossary entries:
 newOutfitDiscovered:Outfit added to Glossary:
 youCompletedThisCategory:You have fully completed this category.
 hideObtainedEntries:Hide Completed Entries
+
+heavyGlossary:Heavy Armor
+mediumGlossary:Medium Armor
+lightGlossary:Light Armor
+clothGlossary:Cloth
+weapon_magicGlossary:Magic Weapon
+weapon_daggerGlossary:Finesse Weapons
+weapon_one_handedGlossary:One Handed Weapon
+weapon_two_handedGlossary:Two Handed Weapon
+weapon_rangedGlossary:Ranged Weapon
 
 // pvp
 challengeOpponent:Do you want to challenge {opponent}?
@@ -526,12 +537,13 @@ levelUpGuild:You can now enter or create a Guild!
 // tutorial
 skipTutorial:Skip tutorial
 hideTip:Hide tip
-starterTutorial0:Welcome to Embervale! To navigate through the menus, click the compass button!
-starterTutorial1:This is the main navigation menu! Start off by selecting the bounty tab.
-starterTutorial2:Select the bounty of your choice. The stars behind the monster's name indicate the difficulty!
-starterTutorial3:Now wait or skip the travel time, and your battle will start!
+starterTutorial0:Welcome to Embervale! Click the compass icon to open the navigation menu.
+starterTutorial1:This is your navigation menu. Begin by selecting the Bounty tab.
+starterTutorial2:Choose a bounty to hunt! The stars behind each monster show its difficulty.
+starterTutorial3:Wait for the travel time to pass—or skip it—and your battle will begin!
 starterTutorial4:-
-starterTutorial5:You just completed your first bounty and finished the basic tutorial! Start navigating through the menus to learn more about the game!
+starterTutorial5:Great job! You've completed your first bounty and the basic tutorial. Explore the menus to learn more about the game, grow stronger, and support even more adventures!
+
 expeditionTutorial0:Expeditions take 1–12 hours and are crucial for gathering crafting materials. During this time, dungeons and bounties are unavailable.
 
 // character menu

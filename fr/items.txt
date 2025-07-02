@@ -1066,48 +1066,48 @@ inferno_brand_staff:Bâton de Marque d'Inferno
 soulshard_trident:Trident de Soulshard
 bloodspiral_rod:Bâton Spirale Sanglante
 verdant_bonecaller:Invocateur d'Os Verdoyant
-ghostfang:Croc de Spectre
+ghostfang:Dague de Poche
 runeshard:Éclat de Rune
 ironlash:Fouet de Fer
-bloodkiss:Baiser de Sang
+bloodkiss:Lame Crochue
 riftpiercer:Déchireur de Faille
 moonfang:Croc Lunaire
 phantomshiv:Stylet Fantôme
-chasmfang:Croc de Faille
+chasmfang:Couteau à Lettre Embossé
 crimsonwhisper:Murmure Cramoisi
-dreamfang:Croc de Rêve
-silentthorn:Épine Silencieuse
-boneknuckle_dagger:Poing américain osseux
-thornkiss:Baiser d'Épine
-duskrend:Duskrend
-hellpiercer:Hellpiercer
+dreamfang:Griffe de Dragon
+silentthorn:Kunai
+boneknuckle_dagger:Poing d'Os
+thornkiss:Kunai Large
+duskrend:Gant Griffu
+hellpiercer:Dague Dentelée
 twilightfang:Twilightfang
-shadowskewer:Shadowskewer
+shadowskewer:Sabre Doré
 glimmerfang:Glimmerfang
 grimfang:Grimfang
-gloomslicer:Gloomslicer
-whisperfang:Whisperfang
+gloomslicer:Épine Ornée
+whisperfang:Dague Torsadée
 nightsplitter:Nuitscindeur
-soulfang:Âme-croc
-starfuryfang:Fureur d'étoile-croc
+soulfang:Récolte du Faucheur
+starfuryfang:Starfury
 wraithfang:Spectre-croc
 gravetalon:Sépulture-griffe
 vilethorn:Épine-vilaine
 stormfang:Tempête-croc
 tidepiercer:Perce-marée
-venombreath:Haleine-venin
-abyssfang:Abyssal-croc
-stardagger:Stardagger
-oblivionfang:Oblivionfang
+venombreath:Dague Primitive
+abyssfang:Faucille Torsadée
+stardagger:Dents d'Argent
+oblivionfang:Croc de l'Oubli
 voidtip:Voidtip
-embersting:Embersting
+embersting:Lame Courte Déformée
 ebonfang:Ebonfang
 bonefang:Bonefang
 beastrend_hook:Crochet de Briseur-de-Bête
 bronze_lionblade:Lame de Lion de Bronze
 sandwarden_edge:Tranchant de Gardesable
 iron_sentinel:Sentinelle de Fer
-kings_mercy:Miséricorde du Roi
+kings_mercy:Assurance du Tueur
 dawnpiercer:Perce-Aube
 azure_slicer:Trancheur Azur
 emberfang_shard:Fragment de Croc d'Ember

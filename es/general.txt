@@ -320,12 +320,12 @@ levelUpDungeon:¡Ahora puedes entrar en Calabozos!
 levelUpGuild:¡Ahora puedes entrar o crear una Guilda!
 skipTutorial:Saltar tutorial
 hideTip:Ocultar consejo
-starterTutorial0:¡Bienvenido a Embervale! Para navegar por los menús, haz clic en el botón de la brújula.
-starterTutorial1:¡Este es el menú principal de navegación! Empieza seleccionando la pestaña de recompensas.
-starterTutorial2:Selecciona la recompensa de tu elección. ¡Las estrellas detrás del nombre del monstruo indican la dificultad!
-starterTutorial3:¡Ahora espera o salta el tiempo de viaje, y tu batalla comenzará!
+starterTutorial0:¡Bienvenido a Embervale! Haz clic en el icono de la brújula para abrir el menú de navegación.
+starterTutorial1:Este es tu menú de navegación. Comienza seleccionando la pestaña de Recompensas.
+starterTutorial2:¡Elige una recompensa para cazar! Las estrellas detrás de cada monstruo muestran su dificultad.
+starterTutorial3:Espera a que pase el tiempo de viaje —o sáltatelo— y ¡tu batalla comenzará!
 starterTutorial4:-
-starterTutorial5:¡Acabas de completar tu primera recompensa y has terminado el tutorial básico! ¡Empieza a navegar por los menús para aprender más sobre el juego!
+starterTutorial5:¡Buen trabajo! Has completado tu primera recompensa y el tutorial básico. ¡Explora los menús para aprender más sobre el juego, fortalecerte y apoyar aún más aventuras!
 expeditionTutorial0:Las expediciones duran de 1 a 12 horas y son cruciales para reunir materiales de artesanía. Durante este tiempo, las mazmorras y recompensas no están disponibles.
 character:Personaje
 selectBackground:Seleccionar Fondo
@@ -699,3 +699,13 @@ completionist_male:Completista
 completionist_female:Completista
 unequipTitle:Des-Equipar Título
 minLVL:Nivel mín.
+reloadGame:Recargar Juego
+heavyGlossary:Armadura Pesada
+mediumGlossary:Armadura Media
+lightGlossary:Armadura Ligera
+clothGlossary:Tela
+weapon_magicGlossary:Arma Mágica
+weapon_daggerGlossary:Armas de fineza
+weapon_one_handedGlossary:Arma de Una Mano
+weapon_two_handedGlossary:Arma de Dos Manos
+weapon_rangedGlossary:Arma a Distancia

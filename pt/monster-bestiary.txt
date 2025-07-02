@@ -661,3 +661,7 @@ sphinx_bestiary:Esses sentinelas meio-leão guardam tumbas e ruínas antigas, e 
 basilisk_bestiary:Esta besta de temperamento raivoso resulta quando uma galinha choca um ovo de cobra. Seu veneno é perigoso o suficiente para matar com um único arranhão de presa.
 cockatrice_bestiary:Esta criatura temperamental nasce quando uma cobra choca um ovo de galinha. Seu olhar pode petrificar o herói mais poderoso em pedra.
 hag_bestiary:É melhor não perguntar o que está fervendo no caldeirão dela. Pode ser olho de tritão, ou o último aventureiro que a incomodou com perguntas...
+lamia_bestiary:Embora belas e encantadoras, essas invejosas donzelas serpentes podem devorar um homem inteiro.
+pegasus_bestiary:Esses míticos cavalos alados são reverenciados por sua coragem e lealdade. Há poucos amigos mais nobres - e poucos inimigos mais temíveis, caso você provoque sua ira!
+werewolf_bestiary:Cidadãos comuns de Embervale durante o dia, a luz da lua revela as verdadeiras cores destes lupinos perigosos. Cuidado!
+mysterious_puppy_bestiary:Há algo estranho nesse filhote... mas ele adora carinho na barriga como qualquer outro cachorrinho que você já conheceu. Quem é um bom menino? Você é! Sim, você é!
